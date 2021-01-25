@@ -1,0 +1,154 @@
+﻿<Header>
+	<title>
+		<tit> Informations destinées aux requérant-e-s d'asile auprès d'un aéroport suisse </tit>
+		<fileName> IDRAAS_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Swiss) </language>
+		<source> https://www.osar.ch/aide.html </source> 
+		<publisher> Organisation Suisse D'aide Aux Réfugiés </publisher>
+		<pubDate> Oct, 2017 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Organisation Suisse D'aide Aux Réfugiés </institution>
+	</author>
+</Header>
+Informations destinées aux requérant-e-s d'asile auprès d'un aéroport suisse
+Vous avez trouvé refuge en Suisse et vous voulez déposer une demande d'asile. L'Organisation suisse d'aide aux réfugiés (OSAR) a rédigé ces informations à votre intention. Les étapes les plus importantes de la procédure d'asile vous sont expliquées ci-dessous.
+L'OSAR est une organisation non gouvernementale qui intervient pour les droits des requérant-e-s d'asile et des réfugié-e-s. Vous nous trouverez sous www.osar.ch; des informations sont également publiées dans de nombreuses langues à l'adresse www.osar.ch/aide.
+Le dépôt de la demande d'asile
+La demande d'asile à l'aéroport
+Vous avez déposé une demande d'asile dans un aéroport suisse.
+Pendant la durée de la procédure (60 jours au maximum), vous devez rester dans la zone de transit de l'aéroport.
+Attention : vous pouvez recourir contre cette décision !
+Vous êtes dessaisi-e de vos documents de voyage et d'identité. Vous êtes également auditionné-e.
+L'enregistrement
+Après le dépôt de votre demande d'asile, vous êtes enregistré-e et photographié-e. Vos empreintes digitales sont prélevées. Les autorités suisses contrôlent alors si vos empreintes n'ont pas déjà été enregistrées dans la base de données centrale européenne (Eurodac) par les autorités d'un pays de l'Union européenne, par la Norvège, le Liechtenstein ou par l'Islande. A moins que votre conjoint-e ou vos enfants se trouvent déjà en Suisse, ce pays est alors responsable du traitement de votre demande. Dans ce cas, la Suisse tentera de vous renvoyer dans ce pays. En vertu de la « réglementation Dublin », vous ne pouvez déposer qu'une seule demande dans un de ces pays européens. Seul le premier de ces pays a l'obligation d'examiner votre demande d'asile. Si vous avez déjà déposé une demande d'asile dans un autre pays européen et que vous estimez que votre demande n'y a pas été traitée correctement, cherchez tout de suite à prendre contact avec le bureau d'aide juridique à l'aéroport. Demandez à pouvoir rester en Suisse si, par exemple, vous redoutez que l'Etat européen dans lequel la Suisse veut vous renvoyer vous expulse directement dans votre pays d'origine sans examiner votre demande d'asile, bien que vous remplissiez les conditions de reconnaissance du statut de réfugié-e. Demandez également à pouvoir rester en Suisse si, par exemple, vous craignez que l'Etat européen dans lequel la Suisse veut vous renvoyer vous expulse dans votre pays d'origine alors que vous êtes menacé-e de torture ou d'autres traitements inhumains ou dégradants.
+L'audition sur les données personnelles (premier entretien)
+Le premier entretien a pour but d'examiner si la demande d'asile est conforme à la loi suisse et suffisamment justifiée. Si tel n'est pas le cas et que vous retirez votre demande, celle-ci est classée sans décision formelle et la procédure de renvoi est engagée.
+A l'aéroport de Zurich, la première audition est menée par la police aéroportuaire. A l'aéroport de Genève, c'est le Secrétariat d'Etat aux migrations (SEM) qui s'en occupe.
+Les autorités vous poseront des questions sur votre identité et sur celle de votre famille, sur votre itinéraire et vos motifs d'asile. A cette audition seront présent-e-s un-e fonctionnaire de la police aéroportuaire et, le cas échéant, un-e traducteur ou traductrice.
+Donnez toutes les raisons pour lesquelles vous avez quitté votre pays.
+Si vous avez vécu quelque chose dont vous préférez ne pas parler devant un homme ou une femme, dites-le, afin que la composition des personnes présentes à l'entretien puisse être adaptée.
+Expliquez les raisons pour lesquelles vous ne pouvez pas déposer de documents d'identité.
+Intervenez si vous n'avez pas compris quelque chose au cours de l'audition. Mentionnez vos éventuels problèmes de santé.
+Vous devrez signer un procès-verbal après chaque audition. Vérifiez attentivement que vos réponses soient notées correctement et que tout ce que vous avez dit ait été noté.
+Documents / Moyens de preuve
+Fournissez des preuves des persécutions subies pour votre dossier.
+Conservez des photocopies de tous les documents que vous remettez.
+Autres auditions
+Il pourrait éventuellement y avoir des auditions complémentaires :
+S'il existe des doutes sur votre origine, vous serez interrogé-e par une personne spécialisée dans votre langue et on examinera vos connaissances concernant votre pays d'origine.
+S'il existe des doutes sur votre âge, on peut vous soumettre à une expertise y relative.
+Et ensuite?
+Un livret N vous sera délivré (attestation pour requérant-e-s d'asile).
+Vous serez entendu-e à l'aéroport par des fonctionnaires de l'autorité compétente en matière d'asile, le SEM. Vous recevrez l'une des décisions suivantes :
+une décision de non entrée en matière ; vous avez le droit de recourir contre cette décision.
+une décision négative concernant votre demande ; vous avez le droit de recourir contre cette décision.
+une autorisation d'entrée sur le territoire suisse en vue de continuer la procédure d'asile dans le pays.
+L'audition (deuxième entretien)
+Les auditions pendant la procédure d'asile sont particulièrement importantes. En effet, vous pouvez être interrogé-e une ou plusieurs fois. Les autorités jugeront votre demande d'asile à partir des auditions et des procès-verbaux correspondants ainsi que des preuves que vous aurez fournies.
+Qui y participe ?
+Un-e fonctionnaire qui dirige l'audition.
+Un-e traducteur ou traductrice, qui doit faire une traduction complète et ne pas juger ni résumer vos déclarations. Cette personne a le droit de garder l'anonymat. Vous pouvez vous faire accompagner par un-e traducteur ou traductrice de votre choix, qui ne peut pas être lui-même un-e requérant-e d'asile.
+Un-e représentant-e d'une œuvre d'entraide (personne appartenant à une organisation non gouvernementale) qui observe l'audition. Cette personne peut demander que soient posées des questions complémentaires et écrira un rapport sur l'audition pour l'organisation qu'elle représente.
+Vous pouvez vous faire accompagner d'une personne majeure de votre choix (elle ne peut pas être requérante d'asile). Si vous avez demandé l'aide d'un-e mandataire, celui-ci pourra aussi participer aux auditions.
+Les questions
+En règle générale, une audition se déroule de la manière suivante : Après les présentations de toutes les personnes présentes, le ou la fonctionnaire vous explique le déroulement de l'audition ainsi que vos droits et obligations. On vous pose des questions sur votre situation personnelle :
+identité et documents prouvant votre identité ;
+famille et parenté ;
+service militaire ;
+itinéraire de votre lieu d'origine jusqu'à votre arrivée en Suisse ;
+activité professionnelle dans votre pays d'origine et en Suisse ;
+précédents séjours à l'étranger ;
+représentant-e-s légaux dans votre pays d'origine et en Suisse.
+Vous aurez ensuite l'occasion d'expliquer les raisons de votre quête de protection en Suisse.
+Selon la loi suisse (extrait de l'art. 3 de la loi sur l'asile), les réfugié-e-s ont droit à l'asile.
+Sont des réfugiés les personnes qui, dans leur Etat d’origine ou dans le pays de leur dernière résidence, sont exposées à de sérieux préjudices ou craignent à juste titre de l’être en raison de leur race, de leur religion, de leur nationalité, de leur appartenance à un groupe social déterminé ou de leurs opinions politiques.
+Sont notamment considérées comme de sérieux préjudices la mise en danger de la vie, de l'intégrité corporelle ou de la liberté, de même que les mesures qui entraînent une pression psychique insupportable.
+Il y a lieu de tenir compte des motifs de fuite spécifiques aux femmes.
+Présentation des motifs de fuite
+Pendant l'audition, vous devez présenter tous les motifs de votre fuite et de votre demande d'asile. Vous pouvez parler librement et n'avez rien à craindre. Toutes les personnes présentes ont l'obligation de garder un secret absolu et ne sont autorisées à raconter à personne ce que vous leur dites.
+Cette partie de l'audition est essentielle. On vous demande de raconter qui ou ce qui vous a poussé-e à quitter votre pays d'origine.
+Votre réponse doit être conforme à la vérité. Les détails de votre récit sont importants.
+Parlez aussi de vos sentiments. Si vous avez vécu quelque chose dont vous préférez ne pas parler devant un homme ou une femme, dites-le, afin que la composition des personnes présentes à l'entretien puisse être adaptée.
+Apportez tous les documents concernant votre persécution (convocations de police, jugements, documents de prison, lettres de menace, certificats médicaux, journaux, photos, etc. - gardez-en toujours une copie !).
+Si vous avez déjà séjourné dans un autre pays européen et craignez que ce pays vous expulse dans votre Etat d'origine où vous êtes menacé-e de persécutions, de torture ou de traitements inhumains ou dégradants, exprimez-le clairement. Décrivez vos craintes de manière précise.
+On vous questionnera peut-être sur des points ayant besoin d'être éclaircis, des malentendus ou des contradictions. Vos déclarations à ce sujet doivent être notées par écrit et vous être traduites.
+L'audition de familles
+Chaque membre d'une famille sera entendu séparément. Pendant qu'un membre majeur de la famille est interrogé, les autres devront attendre dans une pièce séparée. Si rien ne s'y oppose, les enfants seront interrogés en présence des parents.
+Le procès-verbal
+Chaque audition fait l'objet d'un procès-verbal. Après chaque audition, le procès-verbal vous sera traduit. On vous demandera de signer chaque page.
+Intervenez si quelque chose n'est pas clair pour vous. Vérifiez que le procès-verbal corresponde exactement à ce que vous avez voulu dire. Faites corriger les erreurs ou les imprécisions.
+A la fin, on vous demandera si vous avez d'autres motifs - pas encore mentionnés - de séjour en Suisse. Vous devrez confirmer par votre signature que vous avez tout dit et que le contenu du procès-verbal est conforme à la vérité.
+Les décisions relatives à l'asile
+En Suisse, les procédures d'asile à l'aéroport ne durent que quelques jours ou semaines. Si le SEM ne rend pas de décision sur votre demande dans les 20 jours, vous pouvez vous rendre dans un canton. Votre séjour à l'aéroport ne peut pas durer plus de 60 jours. Prenez rapidement contact avec le bureau de consultation juridique (BCJ) à l'aéroport ! Il vous conseille gratuitement en matière de procédure et d'évaluation des chances de succès de la procédure d'asile. D'autres aides peuvent être apportées si le BCJ l'estime utile.
+Adresses des bureaux de consultation juridique dans les aéroports:
+Zürich-Kloten
+SRK, Sozial-, Rechtsberatung,
+Transit ZH-Ai rpo rt
+Tel. 043 816 57 82, Fax 043 816 57 83
+Genève-Cointrin
+ELISA-asile
+Case postale 542, 1214 Vernier
+Tel. 022-733 37 57, Fax 022-733 930 00 49
+E-Mail : info@elisa.ch
+Adresses dans les cantons, voir : https://www.osar.ch/aide
+Vous recevrez normalement une décision du SEM rédigée en allemand, en français ou en italien.
+En ce qui concerne les procédures d'asile lancées depuis un aéroport, vous pouvez recevoir les décisions suivantes :
+Les décisions positives
+Autorisation d'entrée dans le territoire suisse
+Le SEM a décidé que votre procédure d'asile doit être poursuivie. Cela n'implique pas une décision définitive sur votre demande d'asile, mais une autorisation d'entrée sur le territoire suisse.
+3.2 Les décisions négatives
+Décision d'asile négative et décision de renvoi avec exposé des motifs
+La demande d'asile est rejetée et vous devez quitter la Suisse à l'expiration du délai de départ. Cette situation est possible si - de l'avis des autorités - vous n'avez pas donné de raisons suffisantes plaidant en faveur de l'asile ou si vous ne parvenez pas à raconter votre histoire ou à la démontrer de façon suffisamment crédible.
+Les décisions Dublin
+Si vous étiez dans un Etat de l'Union européenne, en Islande, au Lichtenstein ou en Norvège avant votre entrée en Suisse, votre demande d'asile n'est plus traitée en Suisse. Ceci est déterminé suite à une brève audition sur votre itinéraire (sans le ou la représentant-e des œuvres d'entraide). Vous êtes donc tenu-e de retourner dans l'Etat en question, lequel est responsable de traiter votre demande d'asile.
+Les décisions Etats tiers
+Si vous avez séjourné pendant longtemps dans un autre pays ou si vous déteniez un visa pour un autre pays avant votre entrée en Suisse, votre demande d'asile n'est plus traitée par les autorités helvétiques. Ceci est déterminé suite à une brève audition. Vous devez donc quitter immédiatement la Suisse.
+Les autres décisions négatives
+Votre demande n'est pas non plus traitée et vous devez quitter la Suisse si
+vous n'êtes pas en quête de protection mais faites valoir exclusivement d'autres raisons (problèmes médicaux ou économiques);
+si vous avez manqué à l'obligation de collaborer, en ayant dissimulé votre véritable identité (faux nom, fausse date de naissance, etc.) ou déposé des moyens de preuve falsifiés ;
+si vous avez manqué à l'obligation de collaborer avec les autorités suisses, par exemple en ne vous présentant pas à l'audition, ou en ne vous mettant pas à disposition des autorités pendant plus de 20 jours ;
+vous avez déposé une demande de réexamen ou une demande multiple infondée ou présentant de manière répétée les mêmes motivations.
+Le recours
+Si vous n'acceptez pas la décision rendue par le SEM, vous pouvez faire recours par écrit auprès du :
+Tribunal administratif fédéral
+Case postale, CH-9023 St-Gall Téléphone +41 (0)58 705 26 26 Fax +41 (0)58 705 29 80
+Dans la procédure à l'aéroport, vous ne disposez que de cinq jours ouvrables pour recourir contre une décision négative !
+Les bureaux de consultation juridique (BCJ) ou des avocat-e-s peuvent vous aider. Vous trouverez une liste d'adresses des BCJ sous le lien : https://www.osar.ch/aide
+L'organisation suisse d'aide aux réfugiés (OSAR) met à votre disposition des brochures informatives ainsi qu'un guide sur le recours en 20 langues différentes sous le lien: www.osar.ch/aide/fiches-dinformation
+Les recours doivent être rédigés dans une des langues officielles (allemand, français ou italien). Ils doivent être signés et déposés en double exemplaire avec la copie de la décision ainsi que les moyens de preuve à votre disposition. Faites également une copie du recours et conservez-la.
+Attention: lorsque vous décidez de ne pas faire recours, vous êtes en situation de séjour illégal en Suisse. Ceci est également le cas lorsque votre recours est rejeté.
+En fonction de la raison du rejet, vous pouvez être mis en détention dès la réception de la décision.
+Si vous déposez un recours, vous pouvez en règle générale rester en Suisse jusqu'à la décision finale. Il existe toutefois une exception: lorsque vous recevez une décision Dublin négative. Dans ce cas, vous pouvez néanmoins demander à être autorisé à attendre l'issue de la procédure de recours en Suisse. Votre demande doit être détaillée et appliquée à votre cas particulier. Demandez à pouvoir rester en Suisse si, par exemple, vous redoutez que l'Etat européen dans lequel la Suisse veut vous renvoyer vous expulse directement dans votre pays d'origine sans examiner votre demande d'asile bien que vous remplissiez les conditions de reconnaissance du statut de réfugié. Demandez également à pouvoir rester en Suisse si, par exemple, vous craignez que l'Etat européen dans lequel la Suisse veut vous renvoyer vous expulse dans votre pays d'origine alors que vous êtes menacé de tort ure ou d'autres traitements inhumains ou dégradants.
+Même si vous êtes expulsé vers l'Etat européen compétent, c'est bien la Suisse qui statuera sur votre recours. Restez en contact avec votre mandataire, si vous en avez un-e, même si vous êtes à l'étranger. Ce n'est que par ce biais, qu'une éventuelle décision vous autorisant le retour en Suisse vous sera notifiée.
+Informations générales
+Mandataire, avocat-e
+Vous devez vous procurer vous-même une aide juridique. Les bureaux de consultation juridique des œuvres d'entraide figurent sous https://www.osar.ch/aide
+Regroupement familial
+Les requérant-e-s d'asile n'ont pas le droit de faire venir leur famille de leur pays d'origine.
+Aide sociale, aide d'urgence
+Les requérant-e-s d'asile, qui en ont besoin, perçoivent l'aide sociale pendant la procédure d'asile.
+La Constitution suisse garantit à toutes les personnes vivant en Suisse de l'aide et de l'assistance dans des situations de détresse (art. 12). En cas de décision d'asile négative, vous avez droit à l'aide d'urgence jusqu'à votre départ, même si vous avez un statut illégal en Suisse. Cette aide comprend la nourriture, un toit, des vêtements et des soins médicaux. Or, étant donné qu'il faut s'annoncer aux autorités pour obtenir l'aide d'urgence et qu'elles sont également responsables des expulsions, vous courez un risque d'arrestation. Des compléments d'information figurent sous www.osar.ch/droit-dasile/procedure- dasile/aide-durgence.
+Travail
+Les autorités suisses interdisent aux requérant-e-s d'asile de travailler pendant les trois à six premiers mois de leur séjour en Suisse. Passé ce délai, il peut vous être accordé une autorisation de travail; néanmoins, seules quelques activités professionnelles bien définies vous sont ouvertes et la main-d'œuvre indigène a la priorité.
+Déménagement
+Vous devez signaler immédiatement aux autorités tout changement d'adresse. En général, un changement de canton de domicile n'est pas possible.
+Détention, emprisonnement
+Vous pouvez être mis-e en détention si:
+votre demande d'asile est rejetée avec une décision de non-entrée en matière ;
+vous refusez de collaborer avec les autorités ;
+Votre demande d'asile est jugée « abusive » ;
+vous avez commis un délit sanctionné par la loi suisse ;
+des indices concrets montrent que vous ne vous soumettrez pas à l'obligation de retour alors que votre renvoi a été décidé.
+Voyages à l'étranger
+Vous n'avez le droit ni de quitter la Suisse pendant la procédure d'asile, ni de prendre contact avec le consulat ou les autorités de votre pays d'origine.

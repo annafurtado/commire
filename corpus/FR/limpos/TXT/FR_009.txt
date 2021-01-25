@@ -1,0 +1,72 @@
+﻿<Header>
+	<title>
+		<tit> Les résidents permanents et l’inadmissibilité en raison de criminalité </tit>
+		<fileName> RPIRC_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Informational Text in PDF </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Canada) </language>
+		<source https://ccrweb.ca/sites/ccrweb.ca/files/criminality-practical-resource-fr.pdf </source> 
+		<publisher> Conseil canadien pour les réfugiés </publisher>
+		<pubDate> Oct, 2018 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Conseil canadien pour les réfugiés </institution>
+	</author>
+</Header>
+
+Conseil canadien pour les réfugiés Canadian Council for Refugees
+Les résidents permanents et l'inadmissibilité en raison de criminalité
+Les résidents permanents qui ont commis un crime risquent de perdre leur statut et faire face à l'expulsion du Canada sans aucun droit d'appel. Ce document fournit des informations de base sur la loi et ses conséquences.
+Comprendre la criminalité et la perte du statut de résident permanent
+Un résident permanent du Canada perd son statut de résident permanent et fait face à l'expulsion du Canada si la personne est interdite de territoire pour grande criminalité. Selon les circonstances, même une personne qui est venue au Canada comme réfugié peut être expulsée.
+Que signifie “grande criminalité”?
+Une personne est interdite de territoire pour grande criminalité si l'une des conditions suivantes s'applique:
+La personne a été reconnue coupable au Canada d'une infraction qui est punissable d'une peine d'emprisonnement d'au moins 10 ans (peu important la peine que la personne a réellement reçue). Exemples de ces crimes : agressions avec une arme / causant des dommages corporels; trafic de cocaïne, héroïne; agression sexuelle; l'emploi d'un document contrefait / fraudes par carte de crédit; introduction par effraction, fraude ou vol de plus de 5000$.
+La personne a été reconnue coupable au Canada et condamnée à un emprisonnement de plus de six mois (incluant tout crédit accordé pour la période passée sous garde avant le procès).
+La personne a été reconnue coupable ou a commis à l'extérieur du Canada un crime qui est punissable d'une peine d'emprisonnement d'au moins 10 ans, si le crime est commis au Canada (voir a) ci-haut).
+Notes:
+G Les résidents permanents peuvent également perdre leur statut pour d'autres motifs, incluant pour des raisons de sécurité, de criminalité organisée, des crimes internationaux ou de fausses déclarations.
+G « Interdiction de territoire » est le terme utilisé dans la loi. « Inadmissibilité » est un terme moins formel qui signifie la même chose.
+Que pouvez-vous faire?
+Encouragez les résidents permanents à présenter une demande de citoyenneté pour eux-mêmes et pour leurs enfants aussitôt qu'ils sont admissibles. Les changements récents des règles facilitent l'octroi de la citoyenneté aux enfants sans que leurs parents deviennent citoyens. Les citoyens ne peuvent pas être expulsés.
+Droit d'appel ou non?
+En règle générale, les résidents permanents peuvent en appeler d'une décision leur ôtant le statut. Toutefois, s'ils sont interdits de territoire pour grande criminalité, ils n'ont aucun droit d'appel si :
+G Ils sont condamnés au Canada à un emprisonnement de 6 mois ou plus, ou
+G Le crime a été commis à l'extérieur du Canada.
+Pourquoi faire appel?
+L'appel est essentiel parce que les résidents permanents peuvent invoquer des facteurs humanitaires pour lesquels ils ne devraient pas être expulsés, tels que :
+G ils sont arrivés enfants au Canada et y ont vécu la plupart de leur vie;
+G ils ont de jeunes enfants qui seraient touchés par l'expulsion d'un parent;
+G ils ont des problèmes de santé mentale qui s'aggraveraient sérieusement s'ils étaient expulsés.
+Si un résident permanent est accusé d'un crime...
+Veillez à ce que son avocat tienne compte des conséquences liées à l'immigration. Certains avocats criminalistes donneront des conseils qui seront très pertinents pour un citoyen, mais ces mêmes conseils auraient des conséquences désastreuses sur le plan de l'immigration pour un non-citoyen.
+Il est également important d'avoir un avocat spécialisé en droit de l'immigration qui comprend les enjeux touchant la criminalité. Le processus d'immigration commence par une lettre indiquant qu'un rapport sera rédigé - il est crucial de recourir immédiatement aux services d'un bon avocat afin de bien répondre à cette lettre.
+Ce que les travailleurs de première ligne peuvent faire quand une personne fait face à l'inadmissibilité en raison de criminalité .
+O Aider les personnes sur le plan du logement, du travail, du bénévolat et du lien communautaire - afin d'augmenter les chances de succès de soumissions pour des motifs humanitaires
+O Aider les personnes avec des mesures de réadaptation - traitement de la toxicomanie, suivis en santé mentale, aiguillage / diagnostic médical, ordonnances, programmes de prévention de la violence, etc.
+Exemples de personnes qui ne peuvent interjeter appel de décision
+Un résident permanent est déclaré coupable d'une infraction liée à la drogue et est condamné à une peine d'emprisonnement d'un an. Puisque la peine est d'une durée excédant six mois, il risque la déportation sans possibilité d'interjeter appel de la décision.
+Une résidente permanente de 19 ans utilise une fausse pièce d'identité pour être admise dans un bar aux États-Unis. Elle avoue ses méfaits à un agent d'immigration canadien. L'utilisation d'un faux document étant un crime punissable de 10 ans d'emprisonnement au Canada, il se peut qu'elle est interdite de territoire pour motifs de grande criminalité. Même si elle n'est pas accusée ou reconnue coupable aux États-Unis, elle est à risque d'être expulsée du Canada sans possibilité d'interjeter appel de la décision.
+L'inadmissibilité en raison de criminalité pour les résidents permanents : Le processus Note : il s'agit d'un processus juridique complexe. L'aide d'un avocat est essentielle pour chaque étape.
+L'Agence des services frontaliers du Canada écrit une lettre (on l'appelle la « lettre d'équité procédurale ») à la personne disant qu'elle correspond à la définition de grande criminalité. La personne peut présenter ses observations, incluant des raisons d'ordre humanitaire, maintenant que l'ASFC ne devrait pas procéder.
+L’agent prend la décision de ne pas procéder (fondée sur les observations présentées).
+L’agent rédige un rapport en vertu de l’article 42, qui démarre le processus d’inadmissibilité.
+La Section de l’immigration de la Commission de l’immigration et du statut de réfugié détermine si la personne correspond à la définition de grande criminalité. La Section de l’immigration ne prend pas en considération les facteurs humanitaires.
+La Section de l’immigration décide que la personne n’est pas inadmissible. (Le ministre peut en faire appel.)
+La Section de l’immigration décide que la personne est inadmissible : une mesure de renvoi est émise.
+Peut faire appel (peine d’emprisonnement de moins de 6 mois)
+Ne peut faire appel (peine d’emprisonnement de 6 mois ou plus)
+La Section d’appel de l’immigration de la Commission de l’immigration et du statut de réfugié tient une audience. Elle peut considérer des facteurs humanitaires.
+La mesure de renvoi entre en vigueur.
+La Section d’appel de l’immigration décide de :
+Annuler la mesure de renvoi
+Imposer un sursis à la mesure de renvoi (avec conditions, telles que ne pas récidiver, traitement des toxicomanies etc.)
+Confirmer la mesure de renvoi
+

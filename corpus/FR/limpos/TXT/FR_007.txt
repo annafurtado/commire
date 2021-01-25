@@ -1,0 +1,84 @@
+﻿<Header>
+	<title>
+		<tit>  L’âge des enfants à charge : informations pratiques </tit>
+		<fileName> AECP_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document  </textType>
+		<subcorpus> Original French  </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Canada) </language>
+		<source> https://ccrweb.ca/fr/age-enfants-a-charge </source> 
+		<publisher> Conseil canadien pour les réfugiés </publisher>
+		<pubDate> Oct, 2017 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution>  Conseil canadien pour les réfugiés </institution>
+	</author>
+</Header>
+Conseil canadien pour les réfugiés Canadian Council for Refugees
+L’âge des enfants à charge : informations pratiques
+Le 24 octobre 2017, le Règlement sur V immigration et la protection des réfugiés a changé pour rétablir l’âge maximal des enfants à charge à moins de 22 ans. (Entre le 1er août 2014 et le 23 octobre 2017, l’âge maximal était établi à moins de 19 ans.)
+Ce document fournit des informations pratiques sur le changement, ainsi que par rapport à la politique d’intérêt public sur l’âge des personnes à charge, annoncée en octobre 2017.
+Principaux aspects
+Le changement d’âge touche toutes les catégories d’immigration (réfugiés parrainés, réfugiés pris en charge par le gouvernement, personnes à charge des réfugiés acceptés au Canada, personnes parrainées par un membre de la famille, personnes à charge des aides familiales, etc.)
+Le changement d’âge s’applique uniquement aux demandes de résidence permanente effectuées à partir du 24 octobre 2017. Il ne s’applique pas aux demandes en cours au moment de la modification. Cependant, les personnes dont la demande était en cours pendant au moins un jour entre le 3 mai 2017 et le 23 octobre 2017 pourraient être en mesure d’ajouter un enfant jeune adulte en vertu dune politique d’intérêt public sur l’âge des personnes à charge : elles doivent en aviser le gouvernement avant le 31 janvier 2018 (Voir plus d’informations sous « Demandes en cours », p. 2.)
+Les règles relatives aux « dates déterminantes » pour l’âge des personnes à charge continuent de s’appliquer en vertu du règlement révisé. Dans certains processus d’immigration à étapes multiples, l’âge de l’enfant à charge peut être fixé à une date antérieure à celle de la demande de résidence permanente. Cela signifie que, dans certains cas, les enfants âgés, au moment de la demande de résidence permanente, de plus de l’âge maximal (22 ans après le 24 octobre 2017) sont considérés comme des personnes à charge en vertu de la réglementation, parce que leur âge est « fixé » à une date antérieure dans leur processus. (Voir plus d’informations sous « Dates déterminantes » à la page 5.)
+Les personnes qui ont terminé la première étape d’un processus à étapes multiples (par exemple, une demande du statut de réfugié ou une demande initiale de permis de travail pour les aides familiaux résidants) avant le 1er août 2014 sont assujetties aux règles antérieures à août 2014 concernant les enfants à charge. Les changements du 24 octobre 2017 et les informations ci-dessous concernant le processus ne s’appliquent pas à ces personnes.
+Résumé des changements principaux dans la définition de l’enfant à charge
+Avant le 1er août 20141er août 2014 - 23 oct. 2017À partir du 24 octobre 2017Moins de 22 ans + étudiant à temps pleinMoins de 19 ansMoins de 22 ans
+Demandes en cours
+La modification du Règlement ne s’applique pas aux demandes de résidence permanente qui étaient déjà en cours le 24 octobre 2017. Toutefois, le gouvernement a introduit une politique d’intérêt public temporaire qui permettra à beaucoup de personnes d’ajouter un enfant jeune adulte à une demande en cours le 24 octobre 2017, ou une demande finalisée entre le 3 mai 2017 et le 23 octobre 2017
+Politique d’intérêt public sur l’âge de l’enfant à charge
+Cette politique s’applique aux personnes qui :
+C Ont ou avaient une demande de résidence permanente en cours entre le 3 mai 2017 et le 23 octobre 2017; et
+- Ont un enfant célibataire /sans conjoint ou conjointe de fait et qui avait :
+- 19, 20 ou 21 ans le 3 mai 2017 (si la demande a été soumise avant cette date), ou
+- 19, 20 ou 21 ans lors de la réception de la demande de résidence permanente (si la demande a été déposée entre le 3 mai 2017 et le 23 octobre 2017).
+Pour ajouter un enfant, les gens doivent en aviser Immigration, Réfugiés et Citoyenneté Canada (IRCC) au plus tard le 31 janvier 2018, en utilisant le formulaire en ligne https://secure.cic.gc.ca/enquiries- renseignements/canada-case-cas-fra.aspx.
+L’enfant ajouté peut être :
+Traité dans le cadre de la demande du parent, si elle n’est pas encore finalisée; ou
+Parrainé dans la catégorie du regroupement familial si la demande de parrainage est déposée dans l’année suivant l’octroi de la résidence permanente du parent.
+Les personnes dont la demande est en cours le 23 octobre 2017 peuvent choisir l’une ou l’autre option. Si leur propre demande est presque finalisée, ils pourraient choisir de procéder à leur propre résidence permanente et parrainer l’enfant par la suite. Cependant, dans ce cas, le parent devra satisfaire aux exigences de parrainage dans le cadre de la catégorie du regroupement familial, y compris le fait qu’il ne doit pas recevoir d’aide sociale pour une raison autre qu’une invalidité.
+Voir le document d’information: https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/201 7/ 1 0/determiner_qui_sequalifieentantquenfantachargeenvertudelapolitiq.html
+Les enfants qui ne sont pas couverts par la politique d’intérêt public
+La politique d’intérêt public n’utilise pas les dates déterminantes pour statuer l’âge de l’enfant. Cela signifie que certaines familles n’en bénéficieront pas, car leur enfant a eu 22 ans avant le 3 mai 2017.
+Exemple: Un couple a récemment été accepté comme réfugié par la Commission de l’immigration et du statut de réfugié. Ils ont un enfant qui avait 21 ans lorsqu’ils ont présenté leur demande de statut de réfugié l’année dernière (« date déterminante »), mais qui avait 22 ans le 3 mai 2017. Cet enfant ne peut être ajouté à une demande en vertu de la politique d’intérêt public. Cependant, s’ils présentent une demande de résidence permanente le 24 octobre 2017 ou après cette date, l’enfant peut être considéré comme une personne à charge en vertu du Règlement révisé.
+Les personnes dont la demande est en cours et qui ne peuvent pas utiliser la politique d’intérêt public peuvent envisager les options suivantes :
+- Retirer la demande et la présenter à nouveau;
+- Demander l’ajout de la personne à charge à la demande, en invoquant des considérations d’ordre humanitaire;
+Retirer une demande et la présenter à nouveau
+Dans les cas où la politique d’intérêt public ne s’applique pas, les personnes ayant une demande en cours pourraient envisager de retirer leur demande et d’en présenter une nouvelle à compter du 24 octobre, en particulier si le traitement de la demande n’a pas encore commencé. Toutefois, il est possible que les frais de traitement ne soient pas remboursés.
+Comment retirer une demande
+Pour les demandes papier, envoyez une lettre au bureau d’IRCC compétent, avec l’identificateur unique de client (IUC) et la date de naissance du demandeur principal, en demandant de retirer la demande afin d’inclure des personnes à charge admissibles après les modifications du 24 octobre à l’âge des personnes à charge et en demandant le remboursement des frais, le cas échéant.
+Remboursement des frais?
+Si le traitement de la demande a débuté, les frais de traitement ne seront pas remboursés: http://www.cic.gc.ca/francais/centre-aide/reponse.asp?qnum=613&top=4
+Demander l’ajout de la personne à charge à la demande, en invoquant des considérations d’ordre humanitaire
+Les personnes ayant une demande de résidence permanente en cours peuvent demander d’ajouter une personne à charge en invoquant des considérations d’ordre humanitaire. Les agents évaluent chaque cas individuellement et doivent utiliser leur pouvoir discrétionnaire. Cela signifie qu’il est impossible de savoir à l’avance si l’agent acceptera l’ajout de la personne à charge.
+Exemple: Une famille de réfugiés est parrainée et l’un de ses enfants a eu 20 ans au moment où l’engagement de parrainage a été soumis. Cette fille avait déjà 22 ans le 3 mai 2017 et donc ne peut être ajoutée en vertu de la politique d’intérêt public. Les parrains peuvent envisager de soumettre un nouvel engagement pour cette fille, avec une demande de l’ajouter comme personne à charge, fondée sur des considérations d’ordre humanitaire. (Si elle répond à la définition d’une personne réfugiée, elle aurait pu être parrainée en même temps que ses parents, en tant que demandeuse principale séparée, mais elle peut encore être dans le pays d’origine ou pour une autre raison ne pas satisfaire aux conditions d’admissibilité pour être parrainée en tant que réfugiée.)
+Comment postuler: une demande écrite doit être présentée au bureau où le fichier est en cours de traitement pour ajouter l’enfant à la demande en question. Notez que ce n’est PAS une demande pour considérations d’ordre humanitaire autonome, du type rempli par les personnes qui demandent la résidence permanente au Canada pour des considérations d’ordre humanitaire et que les formulaires pour ce type d’application ne doivent pas être utilisés.
+Dans ce cas, la demande pour considérations d’ordre humanitaire consiste uniquement à surmonter le fait qu’il n’est pas possible d’ajouter légalement l’enfant à une demande existante. IRCC n’a pas de formulaire spécifique pour cela, de sorte que la demande doit être présentée dans une lettre détaillée ou dans des soumissions préparées par un avocat.
+Que dire dans une demande d’ajout d’enfant
+La demande devrait:
+- Inclure l’identificateur unique de client (IUC)et les numéros de la demande.
+- Indiquez le nom, la date de naissance et l’adresse de l’enfant à ajouter et indiquez que l’enfant répond à la définition de membre de la famille en vigueur depuis le 24 octobre.
+- Demandez à l’agent d’utiliser son pouvoir discrétionnaire en vertu de l’article 25 de la Loi sur l’immigration et la protection des réfugiés pour permettre la demande même si la modification des règlements ne s’applique pas aux demandes en cours.
+- Présentez une soumission détaillée de considérations d’ordre humanitaire propres à cette famille, expliquant pourquoi la personne devrait être acceptée. Cela pourrait inclure des facteurs de difficultés (par exemple, l’enfant jeune adulte sera laissé seul dans une situation de guerre, en tant que réfugié sans statut ou sans autre soutien familial) et l’intérêt supérieur de l’enfant (par exemple, impact sur les frères et sœurs plus jeunes). Pour plus d’informations, consultez les directives d’IRCC pour leurs agents. Il faudrait inclure autant de documentation à l’appui que possible. Étant donné que les considérations d’ordre humanitaire sont discrétionnaires, il est important de présenter des soumissions solides, préparées si possible par un avocat.
+Formulaires à remplir? Il n’y a pas d’information claire quant aux types de formulaires qui doivent être soumis, mais une approche logique serait de soumettre tous les formulaires appropriés pour un membre de la famille dans la catégorie d’immigration pertinente, y compris les engagements de parrainage, lorsqu’applicable. En plus d’envoyer les formulaires et la demande pour considérations d’ordre humanitaire au centre d’IRCC approprié au Canada, il peut être utile d’envoyer une copie au bureau des visas traitant la demande de la famille, s’il est connu.
+Frais à payer? Lorsque les frais sont payables (c’est-à-dire autre que les cas concernant les réfugiés réinstallés), 150 $ par enfant, puisque les jeunes adultes en question seront considérés comme « personnes à charge » à compter du 24 octobre.
+Aucun appel à la Section d’appel de l’immigration (SAI) : Il est important de préciser qu’il n’y a pas de droit d’appel à la Section d’appel de l’immigration en cas d’un refus d’autoriser une demande pour des considérations d’ordre humanitaire. Malheureusement, les gens tentent parfois erronément cette voie, seulement pour apprendre des mois ou des années plus tard que la SAI n’a pas compétence.
+Processus à étapes multiples et dates déterminantes
+À partir du 1er août 2014, il existe des dates déterminantes pour certains processus à étapes multiples, y compris les demandes d’asile, les réfugiés réinstallés et les aides familiaux. L’âge de l’enfant à charge est « fixé » à la première étape du processus. Les règles relatives aux dates déterminantes continuent de s’appliquer après les changements du 24 octobre 2017.
+Catégorie d’immigrationDate déterminanteDemande d’asile présentée et acceptéeDate de la demande d’asileRéfugié parrainé (secteur privé ou parrainage collectif)Date d’engagement reçue avec la demande de résidence permanente remplieRéfugiés pris en charge par le gouvernement et les réfugiés désignés par un bureau des visas (RDBV)Date à laquelle le HCR a fait la recommandationAides familiaux résidants (Ce programme a été fermé, mais certaines demandes demeurent en cours)Date de la demande initiale du permis de travailCandidats des provincesDate à laquelle la Province ou le Territoire reçoit la demande de candidat de la provinceImmigrants économiques du QuébecDate à laquelle le Québec reçoit la demande de Certificat de sélection du Québec
+Exemple: Un couple a fait une demande d’asile en septembre 2014. En septembre 2017, leur demande d’asile a enfin été acceptée. Ils ont un enfant qui a maintenant 24 ans, mais qui avait 21 ans en septembre 2014. S’ils présentent leur demande de résidence permanente le ou après le 24 octobre, ils peuvent inclure l’enfant de 24 ans.
+Notez que l’âge de l’enfant est fixé uniquement si la première étape est survenue à partir du 1er août 2014. Lorsque la première étape a eu lieu avant le 1er août 2014, la date à laquelle l’âge de l’enfant est compté (ou « fixé ») est la date à laquelle la demande de résidence permanente est présentée. C’est un sérieux inconvénient pour certaines personnes qui attendent le traitement de leur demande depuis longtemps. Cependant, le changement du 1er août 2014 (c’est-à-dire la réduction à 19 ans) ne s’applique pas à eux. Ils bénéficient aussi d’une exception pré-août 2014 pour les étudiants à temps plein.
+Exemple: un couple a fait une demande d’asile en juillet 2012. En septembre 2017, leur demande d’asile a enfin été acceptée. Étant donné que la demande a été faite avant le 1er août 2014, le couple ne peut inclure que les enfants qui ont moins de 22 ans au moment de la demande de résidence permanente (qu’ils présentent la demande avant ou après le 24 octobre).
+IRCC dispose d’un outil pour calculer la date déterminante et la définition qui s’applique: www.cic.gc.ca/francais/immigrer/parrainer/aec-outil.asp
+Autres points
+- Les enfants à charge doivent être célibataires. Si le jeune adulte se marie ou entre en union de fait, la personne n’est plus une personne à charge.
+- Il n’y a pas de réintégration de l’exception pour les étudiants à plein temps. Avant août 2014, le règlement permettait aux enfants plus âgés de compter en tant que personne à charge s’ils étaient étudiants à plein temps. Cette exception n’a PAS été rétablie. Cependant, les personnes qui ont terminé la première étape d’un processus à étapes multiples avant le 1er août 2014 continuent de bénéficier des règles antérieures à août 2014, y compris l’exception pour les étudiants à plein temps.
+- L’exception pour les enfants avec handicap continue: un enfant plus âgé peut être inclus si l’enfant « dépend largement du soutien financier de ses parents depuis avant l'âge de 22 ans en raison de son état physique ou mental ».

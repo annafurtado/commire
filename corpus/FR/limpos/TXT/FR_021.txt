@@ -1,0 +1,345 @@
+﻿<Header>
+	<title>
+		<tit> Guide Des Services Offerts Pour Les Demandeurs D'asile Par Le Gouvernement Du Québec </tit>
+		<fileName> GSODA_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Quebec) </language>
+		<source> https://www.immigration-quebec.gouv.qc.ca/publications/fr/divers/Guide_demandeur_asile.pdf </source> 
+		<publisher> Ministère de l’Immigration </publisher>
+		<pubDate> 2017 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Direction des Communications du Ministère de l’Immigration </institution>
+	</author>
+</Header>
+Guide des services offerts pour les DEMANDEURS D'ASILE PAR LE GOUVERNEMENT DU QUÉBEC
+SOMMAIRE
+Une séance d'information pour vous ! 3
+Les valeurs communes de la société québécoise 3
+L'hébergement temporaire et d'urgence 4
+L'aide à la recherche de logement 5
+L'aide financière 6
+Les services d'un avocat et l'aide juridique 6
+Les services d'un consultant 7
+L'école pour les enfants 7
+L'école pour les adultes 7
+Les cours de français aux adultes 8
+Les soins de santé et les services sociaux 8
+L'installation à l'extérieur de Montréal 9
+La protection des renseignements personnels 10
+Aide-mémoire 11
+Plan du métro de Montréal 16
+Cette brochure a été réalisée par la Direction de l'immigration familiale et humanitaire du ministère de l'Immigration, de la Diversité et de l'Inclusion et produite par la Direction des communications.
+La reproduction des textes de cette publication est autorisée à la condition que la source soit mentionnée.
+ISBN : 978-2-550-66408-6
+Dépôt légal - Bibliothèque et Archives nationales du Québec, 2017
+UNE SÉANCE D'INFORMATION POUR VOUS !
+Vous vivrez au Québec durant l'examen de votre demande d'asile. Le gouvernement du Québec vous offre différents services, que ce soit pour vous loger, recevoir de l'aide financière, bénéficier de soins de santé ou permettre à vos enfants de poursuivre leurs études.
+Pour connaître ces services, recevoir des conseils pratiques et mieux comprendre la vie au Québec, inscrivez-vous à une séance d'information donnée par La Maisonnée, un organisme partenaire du ministère de l'Immigration, de la Diversité et de l'Inclusion. Les séances sont données en français, en anglais et en espagnol. Renseignez-vous au 514 271-3533.
+Vous informer, c'est important ! Ce guide vous servira d'aide-mémoire.
+LES VALEURS COMMUNES DE LA SOCIÉTÉ QUÉBÉCOISE
+La société québécoise, comme bien d'autres sociétés, s'est donné des valeurs qui établissent des manières de vivre ensemble, de se comporter en société et de prendre des décisions collectives. Connaître et respecter ces valeurs facilitera votre vie.
+Au Québec :
+Parler français est une nécessité ;
+Les femmes et les hommes ont les mêmes droits ;
+Les pouvoirs politiques et religieux sont séparés ;
+L'exercice des droits et libertés de la personne se fait dans le respect de ceux d'autrui et du bien-être général.
+Le Québec est :
+Une société libre et démocratique ;
+Une société qui repose sur la primauté du droit ;
+Une société riche de sa diversité.
+Pour en savoir plus, consultez le site www.valeurscommunesduquebec.gouv.qc.ca
+L'HÉBERGEMENT TEMPORAIRE ET D'URGENCE
+À votre arrivée au Québec, vous pouvez bénéficier d'un hébergement temporaire. Ce service est offert à la suite d'une évaluation psychosociale qui tient compte de votre situation financière et de votre réseau social (membres de votre famille, amis et connaissances).
+Pour faire votre demande d'hébergement, présentez-vous ou téléphonez au :
+CIUSSS du Centre-Ouest-de-l'Île-de-Montréal
+Programme régional d'accueil et d'intégration des demandeurs d'asile 3725, rue Saint-Denis
+Montréal (Québec) H2X 3L9
+Téléphone : 514 484-7878 option 5
+Du lundi au vendredi, de 9 h à 17 h, avec ou sans rendez-vous
+Métro Sherbrooke
+Si vous arrivez au Québec en dehors des heures d'ouverture du CIUSSS du Centre-Ouest-de-l'Île-de-Montréal, le YMCA pourra vous aider à vous loger.
+Rendez-vous directement à l'adresse suivante :
+Résidence YMCA
+4039, rue Tupper
+Montréal (Québec) H3Z 1P2
+Téléphone : 514 932-5353
+Du lundi au vendredi (après 17 h), samedi et dimanche (24 heures sur 24)
+Métro Atwater 
+L'AIDE À LA RECHERCHE DE LOGEMENT
+Plusieurs organismes peuvent vous accompagner pour trouver un logement qui convient à votre situation et à votre budget. Vous pouvez les contacter en toute confiance.
+Voici les coordonnées des 14 organismes :
+Accueil aux immigrants de l’Est de Montréal
+5960, rue Jean-Talon Est, bureau 209
+Montréal (Québec) H1S 1M2
+Tél. : 514 723-4939
+Accueil liaison pour arrivants (ALPA)
+2030, boulevard Pie-IX
+Montréal (Québec) H1V 2C8
+Tél. : 514 255-3900
+Bureau de la communauté haïtienne de Montréal (BCHM)
+6970, rue Marquette
+Montréal (Québec) H2E 2C7
+Tél. : 514 725-9508
+Carrefour d’aide aux nouveaux arrivants (CANA)
+10780, rue Laverdure
+Montréal (Québec) H3L 2L9
+Tél. : 514 382-0735
+Carrefour de liaison et d’aide multiethnique (CLAM)
+7290, rue Hutchison, 2e étage
+Montréal (Québec) H3N 1Z1
+Tél. : 514 271-8207
+Carrefour d’intercultures de Laval
+1536, boulevard Curé-Labelle
+Laval (Québec) H7V 2W2
+Tél. : 450 686-0554
+Centre social d’aide aux immigrants (CSAI)
+6201, rue Laurendeau,
+Montréal (Québec) H4E 2X8
+Tél. : 514 932-2953
+Centre des femmes de Montréal
+3585, rue Saint-Urbain
+Montréal (Québec) H2X 2N6
+Tél. : 514 842-5613
+Carrefour Le Moutier
+99, place Charles-Le Moyne
+Longueuil (Québec) J4K 4Y9
+Tél. : 450 679-7111
+Centre communautaire multiethnique
+De Montréal-Nord
+11121, avenue Salk, bureau 15
+Montréal (Québec) H1G 4Y3
+Tél. : 514 329-5044
+L'Entre Parents de Montréal-Nord
+4828, boulevard Gouin Est
+Montréal (Québec) H1H 1G4
+Tél. : 514 329-1233
+La Maisonnée
+6865, avenue Christophe-Colomb
+Montréal (Québec) H2S 2H3
+Tél. : 514 271-3533
+La Maison d'Haïti
+3245, avenue Emile-Journault
+Montréal (Québec) H1Z 0B1
+Tél. : 514 326-3022
+Regroupement des organismes du Montréal ethnique pour le logement (ROMEL) 6555, chemin de la Côte-des-Neiges
+Montréal (Québec) H3S 2A6
+Tél. : 514 341-1057, poste 200 
+L'AIDE FINANCIÈRE
+Il se peut que vous soyez sans ressources financières. Dans ce cas, vous êtes admissible à une aide financière de dernier recours du ministère du Travail, de l'Emploi et de la Solidarité sociale. Pour en faire la demande, présentez-vous ou téléphonez au :
+Centre spécialisé des demandeurs d'asile, des garants défaillants et des services aux parrainés
+Pour faire une première demande :
+1 004, rue St-Antoine Ouest
+Montréal (Québec) H3C 3R7
+Téléphone : 514 872-8838
+Métro Bonaventure
+Par la suite :
+287, rue Notre-Dame Ouest
+Montréal (Québec) H2Y 1T8
+Téléphone : 514 872-8838
+Métro Square-Victoria–OACI
+Si vous habitez à l'extérieur de la région métropolitaine de Montréal, vous pouvez vous adresser au centre local d'emploi de votre région. Pour trouver le centre local d'emploi de votre région, renseignez-vous auprès de Services Québec au 1 877 644-4545 (sans frais).
+Vous pouvez également communiquer avec le Centre de communication avec la clientèle au 514 873-4000 ou au 1 877 767-8773 (sans frais).
+IMPORTANT Dans le cadre de votre demande, vous devez présenter votre Document du demandeur d'asile d'Immigration, Réfugiés et Citoyenneté Canada et le document Certificat d'admissibilité au Programme fédéral de santé intérimaire.
+LES SERVICES D'UN AVOCAT ET L'AIDE JURIDIQUE
+Pour obtenir les services d'un avocat, vous pouvez communiquer avec l'un des organismes suivants :
+Centre communautaire juridique de Montréal
+Bureau d'aide juridique (droit de l'immigration)
+440, boulevard René-Lévesque Ouest, bureau 1001
+Montréal (Québec) H2Z 1Z6
+Téléphone : 514 849-3671
+Télécopieur : 514 849-5004
+Service de référence du Barreau de Montréal
+Téléphone : 514 866-2490
+Du lundi au vendredi, de 9 h à 16 h
+(Cet organisme vous suggérera un avocat que vous pourrez contacter.)
+RENSEIGNEMENT UTILE
+Selon votre situation financière, les services d'un avocat pourraient vous être offerts gratuitement. Renseignez-vous auprès du Centre communautaire juridique de Montréal ou auprès de votre avocat. 
+LES SERVICES D'UN CONSULTANT
+Si vous avez recours aux services d'un consultant, assurez-vous que ce consultant est une personne autorisée*. Au Québec, une personne autorisée à vous représenter peut être un avocat membre du Barreau du Québec ou un notaire membre de la Chambre des notaires du Québec. Demandez qu'il vous présente sa carte de membre.
+Vous pouvez également retenir les services d'un membre en règle du Conseil de réglementation des consultants en immigration du Canada. Pour connaître la liste des membres, consultez le site www.iccrc-crcic.ca.
+Si vous recourez aux services d'un consultant qui n'est pas un avocat membre du Barreau du Québec, ses honoraires ne vous seront pas remboursés.
+L'ÉCOLE POUR LES ENFANTS
+Vous pouvez inscrire vos enfants à l'école. L'accès est gratuit pour les enfants du préscolaire (5 ans), du primaire (6 à 12 ans) et du secondaire (12 à 18 ans). Certaines écoles offrent l'éducation préscolaire aux enfants de 4 ans.
+Pour inscrire votre enfant à l'école, renseignez-vous auprès du ministère de l'Éducation et de l'Enseignement supérieur au 418 643-7095 ou au 1 866 747-6626 (sans frais) ou consultez le site www.education.gouv.qc.ca.
+Vous devez présenter votre Document du demandeur d'asile délivré par Immigration, Réfugiés et Citoyenneté Canada.
+L'ÉCOLE POUR LES ADULTES
+Il vous est possible de poursuivre des études en tant qu'adulte. Si vous avez plus de 18 ans, vous devrez :
+Payer les droits de scolarité exigés pour les étudiants étrangers ;
+Obtenir un Certificat d'acceptation du Québec délivré par le ministère de l'immigration, de la Diversité et de l'Inclusion. Renseignez-vous au 514 864-9191 ou au
+1 877 864 9191 (sans frais) ;
+Obtenir un permis d'études délivré par Immigration, Réfugiés et Citoyenneté Canada. Renseignez-vous au 1 888 242-2100 (sans frais).
+Selon les dispositions de la Loi sur l'immigration et la protection des réfugiés, quiconque représente ou conseille une personne ou offre de le faire contre rémunération, relativement à une demande ou à une instance prévue à la loi, doit être un représentant autorisé.
+LES COURS DE FRANÇAIS AUX ADULTES
+Vous n'avez pas besoin d'un permis d'études ou d'un Certificat d'acceptation du Québec pour suivre des cours de français. Les cours sont gratuits, mais des frais d'inscription peuvent être exigés.
+Pour obtenir les coordonnées des organismes partenaires du ministère de l'Immigration, de la Diversité et de l'Inclusion qui offrent des cours de français à temps partiel, téléphonez au 514 864-9191 ou au 1 877 864-9191 (sans frais).
+Pour trouver un organisme partenaire qui offre un cours de français, allez à l'adresse suivante : www.lesuccesparlefrancais.gouv.qc.ca et cliquez sur le calendrier des inscriptions.
+Pour obtenir les coordonnées des centres d'éducation des adultes qui offrent de la francisation à temps plein et à temps partiel, renseignez-vous auprès du ministère de l'Éducation et de l'Enseignement supérieur au 418 643-7095 ou au 1 866 747-6626 (sans frais).
+LES SOINS DE SANTÉ ET LES SERVICES SOCIAUX
+Certains soins de santé et certains médicaments sont couverts par le Programme fédéral de santé intérimaire (PFSI) ou par la Régie de l'assurance maladie du Québec. Pour avoir accès à ces soins et à ces médicaments, vous devez présenter certains documents.
+Si vous recevez une aide financière de dernier recours, vous devrez toujours présenter au médecin ou au pharmacien :
+Votre Carnet de réclamation
+Délivré par le ministère du Travail, de l'Emploi et de la Solidarité sociale ;
+Votre Document du demandeur d'asile
+Ou
+Votre Certificat d'admissibilité au PFSI
+Délivrés par Immigration, Réfugiés et Citoyenneté Canada ou par l'Agence des services frontaliers du Canada.
+Si vous ne recevez pas d'aide financière de dernier recours (par exemple parce que vous travaillez), vous devez obtenir le document temporaire Confirmation de votre couverture pour les médicaments d'ordonnance fournis au Québec.
+Pour connaître la procédure à suivre pour obtenir cette confirmation, téléphonez à la Régie de l'assurance maladie du Québec au 1 800 561-9749 (sans frais).
+Ensuite, vous devrez toujours présenter au médecin et au pharmacien :
+Votre Confirmation de couverture pour les médicaments d’ordonnance fournis au Québec ;
+Votre Document du demandeur d’asile
+Ou
+Votre Certificat d’admissibilité au PFSI.
+OÙ RECEVOIR DES SOINS AU QUÉBEC
+Si vous avez des problèmes de santé liés à votre situation de demandeur d'asile, vous pouvez avoir accès au Programme régional d'accueil et d'intégration des demandeurs d'asile du CIUSSS du Centre-Ouest-de-l'Île-de-Montréal. Vous pouvez vous présenter au CIUSSS avec ou sans rendez-vous.
+Le service Info-Santé permet de joindre par téléphone un professionnel de la santé en cas de problème non urgent. Ce service est accessible 24 heures sur 24, 7 jours sur 7. Il permet de répondre à certaines questions courantes relatives à la santé ou de vous diriger vers la ressource adéquate. Partout au Québec, téléphonez au 811.
+Quand survient un problème de santé urgent, vous devez vous rendre à l'urgence (clinique médicale, hôpital) le plus rapidement possible ou composer le 911 pour obtenir de l'aide (policiers, ambulanciers, pompiers).
+L'INSTALLATION À L'EXTÉRIEUR DE MONTRÉAL
+Si vous vous établissez à l'extérieur de la région métropolitaine de Montréal, vous pourrez avoir accès aux services suivants offerts aussi à Montréal :
+Aide financière
+Centre local d'emploi le plus près de chez vous
+Services gratuits d'un avocat
+Bureau d'aide juridique de votre ville
+Inscription d'un enfant à l'école ou inscription à un cours de français dans les centres d'éducation des adultes
+Ministère de l'Éducation et de l'Enseignement supérieur
+Pour connaître les points de services de votre région, renseignez-vous auprès de Services Québec au 1 877 644-4545 (sans frais) ou visitez le site www.gouv.qc.ca/portail/quebec/servicesquebec.
+Inscription aux cours de français à temps partiel
+Organismes partenaires du ministère de l'Immigration, de la Diversité et de l'Inclusion
+Aide à la recherche de logement à Laval et à Longueuil
+Adressez-vous à l'un de ces deux organismes :
+LAVAL 
+Carrefour d’intercultures de Laval 
+450 686-0554 
+LONGUEUIL 
+Carrefour le Moutier 
+450 679-7111 
+LA PROTECTION DES RENSEIGNEMENTS PERSONNELS
+Les renseignements personnels vous concernant sont confidentiels et ne peuvent être divulgués sans votre autorisation. Toutefois, le ministère de l'Immigration, de la Diversité et de l'Inclusion peut sans votre consentement :
+Communiquer un renseignement personnel aux autorités canadiennes de l'immigration et aux organismes publics québécois si cette communication est nécessaire à l'application d'une loi au Québec ;
+être autorisé à communiquer un renseignement personnel aux autorités canadiennes de l'immigration ou aux organismes publics québécois si cette communication est nécessaire à l'exercice de leurs attributions, à la mise en œuvre d'un programme dont ils ont la gestion ou dans le cadre de la prestation d'un service qui vous est offert par le Ministère, notamment à des fins d'identification ou lorsque la communication est manifestement effectuée pour votre bénéfice ou en situation d'urgence pour votre sécurité.
+Ainsi, le Ministère peut, conformément aux dispositions de la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1), transmettre à des ministères et organismes certains renseignements personnels qui vous concernent. Il peut s'agir, notamment, de votre adresse ou de renseignements sur l'état de votre situation statutaire de demandeur d'asile au Québec qui leur permettront de déterminer si vous êtes toujours admissible à certains services gouvernementaux.
+L'accès à ces renseignements est strictement réservé aux seules personnes autorisées à en prendre connaissance en vertu de la Loi.
+Pour savoir quels renseignements vous concernant sont détenus par le Ministère, vous devez faire parvenir une demande écrite au responsable ministériel de la protection des renseignements personnels à l'adresse suivante :
+Secrétariat général
+Ministère de l'Immigration, de la Diversité et de l'Inclusion
+500, Boulevard René-Lévesque Ouest Montréal (Québec) H2Z 1W7
+AIDE-MÉMOIRE
+Cet aide-mémoire s'adresse principalement aux demandeurs d'asile établis à Montréal. Pour connaître les coordonnées des bureaux situés à l'extérieur de Montréal, renseignez- vous auprès de Services Québec au 514 644-4545 ou au 1 877 644-4545 (sans frais).
+HÉBERGEMENT D'URGENCE
+CIUSSS	514 484-7878 option 5
+Du Centre-Ouest-de-l'Île-de-Montréal
+Programme régional d'accueil et d'intégration
+Des demandeurs d'asile (PRAIDA)
+3725, rue Saint-Denis, Montréal (Québec)
+Du lundi au vendredi, de 9 h à 17 h
+(avec ou sans rendez-vous)
+Métro Sherbrooke
+- YMCA
+4039, rue Tupper, Montréal (Québec)
+Du lundi au vendredi, après 17 h
+Samedi et dimanche, 24 heures sur 24
+Métro Atwater 514 932-5353
+AIDE JURIDIQUE ET AVOCATS
+- Centre communautaire juridique de Montréal
+Aide juridique, avocats en immigration
+440, boulevard René-Lévesque Ouest, bureau 1001
+Montréal (Québec) 24
+Métro Square-Victoria—OACI 514 849-3671
+- Service de référence du Barreau de Montréal
+Du lundi au vendredi, de 9 h à 16 h
+Cet organisme vous suggérera un avocat que vous pourrez contacter. 514 866-2490 
+AIDE FINANCIÈRE
+Centre spécialisé des demandeurs d'asile, des garants défaillants et des services aux parrainés
+Soutien du revenu, île de Montréal
+Pour faire une première demande :
+1 004, rue Saint-Antoine Ouest, Montréal Montréal (Québec) H3C 3R7
+Les lundi, mardi, jeudi et vendredi, de 8 h 30 à 16 h 30 et le mercredi, de 10 h à 16 h 30
+Métro Bonaventure
+Par la suite :
+287, rue Notre-Dame Ouest, Montréal
+Montréal (Québec) H2Y 1T8
+Les lundi, mardi, jeudi et vendredi,
+de 8 h 30 à 16 h 30
+et le mercredi, de 10 h à 16 h 30
+Métro Square-Victoria–OACI 
+COURS DE FRANÇAIS
+Ministère de l'Immigration, de la Diversité et de l'Inclusion
+Référence pour les cours à temps partiel
+www.lesuccesparlefrancais.gouv.qc.ca 514 864-9191
+1 877 864-9191 (sans frais)
+Ministère de l'Éducation et de l'Enseignement supérieur
+Centres d'éducation des adultes 418 643-7095
+1 866 747-6626 (sans frais)
+ÉCOLE
+Ministère de l'Éducation et de l'Enseignement supérieur
+Inscription à l'école - Enfants	418 643-7095
+1 866 747-6626 (sans frais)
+NUMÉRO D'ASSURANCE SOCIALE
+Numéro d'assurance sociale (NAS)
+- Renseignements en français 1 800 808-6352 (sans frais)
+(option 3)
+- Renseignements en anglais	1 800 206-7218 (sans frais)
+(option 3)
+IMMIGRATION
+Ministère de l'immigration, 514 864-9191
+De la Diversité et de l'Inclusion 1 877 864-9191 (sans frais)
+- Inscription à une séance d'information
+Pour les demandeurs d'asile
+- Renseignements en anglais disponibles
+www.immigration-quebec.gouv.qc.ca
+Immigration, Réfugiés et Citoyenneté Canada
+Permis de travail, permis d'études, Programme fédéral de santé intérimaire, changement d'adresse, renseignements www.cic.gc.ca/francais/refugies/aucanada
+1 888 242-2100 (sans frais)
+Commission de l'immigration et du statut de réfugié
+Changement d'adresse, état du dossier Complexe Guy-Favreau 200, boulevard René-Lévesque Ouest Montréal (Québec)
+Métro Place-d'Arme 514 283-7733
+514 283-0164 (télécopieur)
+JUSTICE ET DROITS
+Commission des normes, de l'équité et de la santé du travail 1 844 838-0808 (sans frais)
+Conditions de travail, accident de travail et maladies professionnelles, etc.
+Régie du logement 514 873-2245
+Bail 1 844 683-2245 (sans frais) 
+SANTÉ ET SERVICES SOCIAUX
+Urgence (polices, pompiers, ambulance) 911
+CIUSSS
+Du Centre-Ouest-de-l'Île-de-Montréal 514 484-7878 option 5
+Programme régional d'accueil et d'intégration des demandeurs d'asile (PRAIDA)
+Services de santé, hébergement, services sociaux, aide aux familles, mineurs non accompagnés, etc. 3725, rue Saint-Denis, Montréal (Québec) Du lundi au vendredi, de 9 h à 17 h Avec ou sans rendez-vous
+Métro Sherbrooke
+Centre de référence du Grand Montréal Vêtements, nourriture, aide, etc. 211
+Info-Santé
+Consultation téléphonique en matière de santé et de services sociaux 811
+SERVICES RÉSIDENTIELS
+Hydro-Québec 514 385-7252
+Gaz Métro 514 598-3222
+SERVICES GOUVERNEMENTAUX
+Services Québec 514 644-4545 - 1 877 644-4545 (sans frais)
+Service Canada 1 800 622-6232 (sans frais) 
+TRANSPORTS
+Société de transport de Montréal
+Autobus, métro 514 786-4636
+Réseau de transport métropolitain
+Train 514 287-8726
+Réseau de transport de Longueuil 450 463-0131
+Société de transport de Laval 450 688-6520
+Société de l'assurance automobile du Québec
+Permis de conduire, code de la route, etc. 514 873-7620
+1 800 361-7620 (sans frais)
+AUTRES SERVICES
+Revenu Québec
+Renseignements généraux 514 864-6299
+1 800 267-6299 (sans frais)
+Agence du revenu du Canada 1 800 959-7383 (sans frais)
+Conseil de réglementation des consultants en immigration du Canada 1 877 836-7543 (sans frais)
+Aide à la recherche de logement (voir la page 5)
+Plan du métro de Montréal
+Métro

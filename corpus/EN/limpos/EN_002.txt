@@ -1,0 +1,229 @@
+﻿<Header>
+	<title>
+		<tit> Pro Se Asylum Manual </tit>
+		<fileName> EN_002 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Manual </textType>
+		<subcorpus> Original American English </subcorpus>
+	</title>
+	<sourceText>
+		<language> English (American) </language>
+		<source> https://www.unhcr.org/5a8207514.pdf </source> 
+		<publisher> United Nations High Commissioner for Refugees </publisher>
+		<pubDate> 2016 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 15.06.2020 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+		<comments> pdf available in the website </comments>
+	</sourceText>
+	<author>
+		<institution> Political Asylum/Immigration Representation Project with Massachusetts Law Reform Institute and Greater Boston Legal Services </institution>
+	</author>
+</Header>
+
+PRO SE ASYLUM MANUAL
+Prepared by the Political Asylum/Immigration Representation Project, with help from the Massachusetts Law Reform Institute and Greater Boston Legal Services.
+
+May 2016
+
+INTRODUCTION
+This booklet explains how to prepare an application for asylum and withholding of removal. This is a complicated process, but this booklet is for people who do not have a lawyer to help them. In general, you may be eligible for asylum if you fear harm or have suffered harm in the past because:
+       You belong to a particular race; or
+       You practice a particular religion or refuse to practice a particular religion;
+       You are of a particular nationality;
+You have a particular political opinion or belong to a group (e.g., opposition party) and are being harmed for your activities, or the person or group who wants to harm you believes that you have a particular political opinion;
+You have a characteristic which you cannot change, or should not be required to change. This characteristic is socially distinct; recognizable. For example, your ethnicity, your gender, sexual orientation, your tribal or clan group, or your family.
+The harm you have suffered or fear you will suffer in the future can be threats, physical harm or other problems that put you at risk in your country. The person or group seeking to harm you may be the government or someone the government is unable or unwilling to control.
+Tip: If you want to apply for asylum, there is a one-year filing deadline. You must file for asylum within one year of arrival in the United States. See below to calculate the one year deadline. There are very limited exceptions to this rule.
+If you fear harm in your country, but the harm is not for one of the five reasons listed above, you should not file an application for asylum. If you do file for asylum, you must answer the questions on the asylum application form completely and honestly. Anyone who makes false statements on his or her asylum application may be permanently barred from all benefits under the immigration law of the United States.
+To apply for asylum, you must fill out Form I-589, which is called Application for Asylum and for Withholding of Removal. See the attached sample form I-589. You can obtain an I-589 from your local Citizenship and Immigration Services (CIS) office or from the website: http://www.uscis.gov.
+Immigration must receive your asylum application WITHIN ONE YEAR of your arrival in the
+United States. To calculate the one year deadline, start with your date of LAST arrival, add one year, and subtract one day. This is the date your application must be received by USCIS or the Immigration Court. For example, if you arrived in the United States on March 27, 2014, Immigration must receive your asylum application by March 26, 2015. If you fail to file within one year, you will not be allowed to do so later, unless you meet one of the very limited exceptions.
+Tip: To determine the deadline when you must file, begin with your date of arrival, add one year, and subtract one day. That is the day when Immigration must receive the application. If you are before the Immigration Court, be sure to give your application to the judge before your one year deadline expires, even if the judge gives you a hearing date outside the one year. Inform the judge of your 1 year deadline.
+STEP-BY-STEP GUIDE FOR FILING AN ASYLUM APPLICATION
+PREPARING THE DECLARATION
+STEP 1. How to tell your story. A declaration is your written statement which explains in detail why you left your country and why you are afraid to return. In filing for asylum, you are not required to write a declaration. It is a good idea to do so, however, since it will help you explain your case to the Asylum Officer or Immigration Judge deciding your case. To write a declaration, consider the suggestions below. Also, see Sample Declaration in Support of the Application for Asylum.
+Declaration of [Your Name] in Support of Application for Asylum and Withholding of Removal
+      I, [your name], declare as follows:
+1. My name is [your name]. I was born in [your country of birth ], and am a citizen there. I make this declaration in support of my application for asylum and withholding of removal in the United States.
+2. I was born on [date of birth] in [city of birth]. My parents' names are [parents' names]. They live in [parents' address]. I have [number] brothers and sisters. They live in [brothers' and sisters' location].
+3. I am married to [name of spouse]. We married in [date of marriage]. I have [number] children. They live in [children's addresses].
+4. [Provide information on your background and schooling. Also, if you are politically active, discuss your beliefs and activities.]
+5. [After that, explain everything about your life in your country that now makes you afraid to return there. Include any times you, your family members, co-workers or friends were harmed or threatened, as well as why, and what you think will happen if you go back.]
+• Be sure to explain what happened to you. You should thoroughly explain any events which make you afraid. Include any times when the government or other person or group harmed or threatened you and why. Also explain any time when someone in a situation similar to you was harmed. For example, if you are afraid that the government will harm you because you belong to a particular family, you should explain every time that the government harmed anyone in your family. Provide as much detail about the harm against you. How were you harmed? By whom? What did the person(s) say? When did the harm occur? Why did it happen?
+• If you cannot remember the exact date that something happened, do not guess. Instead, give the month or the year, or time of year, and state that you do not know the exact date. If you guess about a date and it later turns out to be wrong, the government may not believe that you are telling the truth.
+• If the situation in your country has changed or there's a new ruler in power, explain why it is still not safe for you to go back.
+• If you are afraid of a group or a person who is not part of the government, you should explain why your country cannot protect you. If you tried to get your government to protect you but could not, you should explain what efforts you made and what happened.
+Tip: If you have been in the United States for more than one year, you should consult an immigration attorney before filing an application for asylum.
+• You should also explain why you cannot move to another area of your country to live.
+At the end of the declaration, write, “I declare under penalty of perjury under the laws of The
+United States that the foregoing is true and correct.” Then sign the declaration and write the date.
+HOW TO FILL OUT THE ASYLUM APPLICATION, FORM I-589
+STEP 2. Filling out the Asylum Application Form. Before you fill out the Application for
+Asylum and for Withholding of Removal (Form I-589), you should carefully read the instructions attached to the form. The following will help you understand many of the questions on the form and how to answer them.
+The asylum application is supposed to remain confidential.
+It is important to fill out the I-589 completely; fill in all of the boxes on the form and answer all of the questions. If you live in New England, and are not in Immigration Court proceedings, file your application with the Vermont Service Center in St. Albans, Vermont, as explained below. (Those in removal proceedings must file directly with the Immigration Court, as explained below).
+Tip: Fill in all the blanks. If you fail to answer even one question on the asylum application, Immigration will send the entire application back to you. To avoid this situation, make certain that you answer each question; if there is no answer or the question does not apply to you, then type “N/A” in the answer space. DO NOT leave any space blank.
+Part A: Provide Background Information
+I-589, Part A.I. Information About You:
+      Questions 1-12: Provide the requested background information.
+Questions 13 & 14: If you were born in one country and have citizenship in another country, you will need to explain in your declaration why you are afraid or unable to return to both countries.
+Questions 15-16: Provide information relating to your ethnicity and religion. If your asylum claim is based on race, nationality, ethnicity, or tribal membership, you can explain that in your declaration.
+Question 17: Check the box that describes your situation. If the government started an immigration case against you in Immigration Court, you file your application for asylum with the Immigration Court. If the government has not started an immigration case against you, you file your application with the USCIS. If you are in the New England area, you send the application to the Vermont Service Center at the address listed in the “Mailing Your Asylum Application” section of this manual.
+Question 18-21: List the exact dates of your arrivals in the United States. Remember, you have only one year from the date you arrived in the United States to apply for asylum. If you are filing for asylum more than one year after you arrived, you can still file for asylum if: (a) circumstances have changed in a way which affects your asylum case; or
+      (b) extraordinary circumstances prevented you from filing within one year.
+Questions 22-24: Provide details about the languages you speak, including whether you speak English.
+Part A. II. Information About Your Spouse and Children. List your spouse and all your children in your application, whether they are in the United States or not.
+If your spouse and unmarried children are in the United States, they will also receive asylum if you are granted asylum. If they are not in the United States and you are granted asylum, you can file a Refugee/Asylee Relative Petition (Form I-730) for them, and they will be allowed to enter the United States as asylees.
+Tip: Be careful to list all of your children, even if they are married or 21 years of age or older. Married children or children 21 or older do not receive asylum automatically when their parent's application is approved, but a parent who later becomes a permanent resident or citizen may file for legal status. At that point, it could create problems if all the children were not listed on the asylum application.
+Part A. III. Information about Your Background. This section requests information about previous addresses, education, employment, and information about your parents and siblings. Try to be as complete and accurate as possible. You do not need to write the exact day, if you only remember a month or year. If you estimate a date, write “estimate.”
+Part B. Information About Your Application. This is where you explain why you are seeking asylum. Include information about what happened to you and your family in the past which makes you afraid to return, why you or your family were harmed, and what you think will happen to you if you return.
+Read each question carefully and answer it completely. Try to explain the facts of what happened to you, and try not to write general statements about the situation in your country. Explain what harm you suffered, by whom, where, why (try to recount what the person who hurt you said). Remember, your harm must be connected to one of the five (5) protected grounds explained above. If you cannot remember the exact date something happened, write what you do remember, like the month or year. If you do not remember the year, give an estimate.
+If you write a declaration, you can explain all the details in your declaration. For the asylum application form, you can write a brief answer and then write: “See declaration for additional information.”
+Question 1: Why are you applying for asylum or withholding of removal or withholding under the Convention Against Torture?
+     Check all the boxes that apply to you, your family, friends or coworkers.
+Question 1A: If your family, close friends, or colleagues have experienced harm, explain in detailed and include the reasons for the harm. Include information about the person or group responsible for causing the harm. Try to explain how what happened to you is related to one of the protected grounds (race, religion, nationality, political opinion, or membership in a particular social group). Explain what you think will happen to you if you return to your country. Write specific facts and not general statements, but don't write things that you are not sure about. It is difficult to change facts once you turn in your asylum application to Immigration. You can attach additional pages in your answer to each question, or you can attach a detailed declaration that has your complete story of why you left your country and why you are afraid to return.
+Question 1B: Do you fear harm or mistreatment if you return to your home country? If you fear that you will be arrested, tortured, or killed, state that. Explain the person or group you fear and why you think they will harm you. You don't have to state the exact names of the people if you don't know their names. However, you do need to name the group or groups you fear. But be sure to explain why you are afraid to be returned back home.
+In explaining what will happen to you, try to explain how the harm is tied to your race, nationality, ethnicity, religion, political opinion, gender, or membership in a social group.
+Question 2: Have you or your family members ever been accused, charged, arrested, detained, interrogated, convicted and sentenced, or imprisoned in any country other than the United States? Check “yes” or “no” and then explain. Answer what is asked, with as much detail as possible. If you cannot remember when something happened, estimate the date, and state that it is an estimate. You can attach additional pages or a declaration. This question has two purposes:
+(1) To see if any arrests or charges in your home country (by the police, military, security forces, or other people tied to the government) amount to past persecution or are evidence that the government is likely to harm you if you return to your country; and
+(2) To see if you have committed a crime in your country or any other country that might bar you from asylum. The following terms may help you answer this question:
+What does “arrested” mean? Generally, you are considered to be arrested if you are taken into custody and detained for a period of time. While you would usually be taken to a police station, military barracks, jail or detention center, this is not necessary.
+In some cases you may be arrested and detained at your home or some other place. What does “detained” mean? Generally, you are considered to be detained if your movement is restricted. For example, if you are stopped for a brief period and questioned, such as at a
+      road block, this could mean you were detained.
+What does “interrogated” mean? Generally, “interrogated” means “questioned.” The interrogation does not need to include force or mistreatment.
+What does “convicted and sentenced” mean? This usually means you were found guilty and sentenced to prison for a crime. In some cases, being convicted and sentenced is persecution. For example, if a criminal conviction is used to punish someone for her political opinion or because she has violated an unfair rule, such as requiring her to act against her religious beliefs, this could be persecution. In other cases, a criminal conviction may prevent you from receiving asylum.
+What does “imprisoned” mean? This is generally means long-term detention. A person may be imprisoned whether or not she is charged or convicted of a crime, or sentenced.
+Question 3A: Have you or your family members ever belonged to or been associated with any organizations or groups in your home country, such as, but not limited to, a political party, student group, labor union, religious organization, military or paramilitary group, civil patrol, guerilla organization, ethnic group, human rights group, or the press or media? Check “yes” or “no.” If you claim that you will be harmed because of your activities with a particular organization or movement, it is important to explain those activities.
+For example, if you are afraid that you will be harmed because of your political opinion and activities in opposition to your government, you must list any political organizations to which you belonged and what your role was in those organizations. Include news articles or reports that show other people who belonged to that organization were arrested or killed by the government. If you are not certain about the exact dates of your membership in an organization, give an estimated date and state that you are estimating.
+Tip: If you belonged to a para-military or guerilla organization, or any armed group, you should consult an attorney before completing this application. Cases that involve giving material support to a terrorist organization are complicated and may result in denial of asylum. Also, anyone who has persecuted others is barred from receiving asylum.
+Question 3B: Do you or your family members continue to participate in any way in these organizations or groups? Check “yes” or “no.” If you checked “yes,” give a detailed description of you or your family members' participation. List leadership positions held, types of activities and other participation with each group.
+Question 4: Are you afraid of being subjected to torture in your own country or any other country to which you may be returned? This question relates to protection under the United Nations Convention Against Torture. This is a special law which prohibits the
+United States government from returning anyone to a country where he or she would be in danger of being tortured by the government or with the government's acquiescence.
+If you fear torture, explain in detail what you believe will happen to you, by whom, and why. If you were tortured in the past, explain what happened. The torture must be by the government or with the government's acquiescence. The torture does not have to be on account of race, nationality, political opinion, membership in a particular social group, or religion. There is no one-year filing deadline for Convention Against Torture claims.
+Part C. Additional Information About Your Application. The questions in this section relate to situations where you may not be eligible for asylum. For example, even though you may have a well-founded fear of harm if you return to your country, you may not be eligible if you:
+      (a) previously applied for asylum;
+      (b) were firmly resettled in another country;
+      (c) applied for or received lawful status in another country;
+(d) participated in causing harm or suffering to any person because of his or her race, religion, nationality, membership in a particular social group or political opinion;
+      (e) returned to your home country;
+      (f) waited more than a year after you arrived in the United States to apply for asylum; or
+      (g) committed certain types of crimes either in the United States or elsewhere.
+Tip: If you answered “yes” to any of the questions in this section, consult an immigration attorney before filing your asylum application.
+Part D. Your Signature. Before signing your application, you should review it carefully to make sure that all the information is as accurate as possible and that the entire form is complete. Do not leave any sections blank. In signing the form, you are swearing that what you have said is true. You can be punished for perjury if you knowingly include false information.
+Part E. Declaration of Person Preparing Form If Other Than Applicant, Spouse, Parent or Child. Anyone who helps you complete the form should sign this section.
+Part F & G. To Be Completed At Asylum Interview or Removal Hearing. Do not sign this section until you appear before an Asylum Officer or before an Immigration Judge.
+STEP 3. Provide Country Condition Research. Background information about the human rights situation in your country as well as information about events in your case is extremely important to assist the Asylum Officer or Immigration Judge in deciding your case.
+You may send in articles from magazines, newspapers, books, human rights reports, or any other documents which help explain the situation in your country and why a person in your situation would fear returning. The internet is extremely helpful for gathering this documentation. Here is a short list of helpful websites where you can find information about your country, but there are many other places to search on the web:
+   > Department of State: http://www.state.gov
+   > U.S. Citizenship and Immigration Service: http://uscis.gov
+   > EOIR (Immigration Court and BIA): http://www.usdoj.gov/eoir
+> United Nations High Commission for Refugees: http://www.unhcr.org/cgi- bin/texis/vtx/rsd
+   > Human Rights Watch: http://www.hrw.org
+   > Amnesty International: http://www.amnesty.org
+   > Asylum Law: http://www.asylumlaw.org
+STEP 4. Provide passport style photograph. You need to send one passport-size photograph with your asylum application. It must be a passport-style photograph. The photos must be free of shadows and contain no marks, splotches, or discolorations. Photos must have a white or off- white background. Photos should not be retouched. With a pencil, lightly write your complete name and A # (Alien number), if known, on the back of the photograph. The photograph needs to be taken within the past 30 days.
+STEP 5. Make copies of your documents. You should copy and submit any documents which help explain your case. What you file should include:
+The original copy of the I-589 Application for Asylum and for Withholding of Removal and two copies.
+The original and a copy of any documents which support the facts that you have described in your application or which help to explain conditions within your country. These documents can include:
+a. Your declaration;
+b. Declarations from other people who know your situation. For example, statements from family members or co-workers who were present when you were threatened or harmed will help to prove your case.
+c. Expert Declarations from a doctor or medical worker or person who knows about the situation in your country and why you would be harmed if you return. It is not necessary for the expert to have personal knowledge about what happened to you.
+d. Background information about human rights conditions in your country and other country condition information, as explained above.
+e. Translations of any documents you included which are not in English.
+Two copies of your passport and three copies of any United States Immigration documents, such as an I-94 Departure Record.
+If filing for family members, include an extra copy of the application for each family member present in the U.S. Include a passport style photograph for each family member.
+Two copies of the passport and a copy of any United States Immigration documents, such as I-94 Departure Records for each family member included in your application.
+   Two copies of your birth certificate.
+Tip: Do not mail original identity cards, passports, birth certificates, I-94, etc., to USCIS or the Immigration Court. When you file your application, please include photocopies. Originals sent to Immigration will likely not be returned
+Foreign Documents: If documents are in a foreign language, you must submit an English translation with a certificate of translation. The certificate of translation should look like this:
+Certificate of Translation
+     I, 	, hereby state that I am fluent in the English and
+	 languages, and am competent to translate from English to 	 and from 	 to English, and that I have translated the foregoing document fully and accurately to the best of my abilities.
+Signed	
+Dated: 	
+MAILING YOUR ASYLUM APPLICATION
+STEP 6. Mail your application and documents. Once you have put your application together, you should mail it to the Immigration Service Center that handles cases from your area. If you live in New England, and you do not have a case against you in Immigration Court, send the package to the following address:
+Department of Homeland Security Vermont Service Center ATTN: ASYLUM
+75 Lower Welden Street St. Albans, VT 05479-0001
+If the government has started a case against you in Immigration Court, file your asylum application in Immigration Court at a hearing set by the Court. You CANNOT mail a copy of your application to the Immigration Court. The application must be filed at a hearing, in open court, before an immigration judge. The address and phone number for the Boston Immigration Court is:
+Boston Immigration Court
+Executive Office for Immigration Review John F. Kennedy Federal Building, Room 320 Government Center
+15 New Sudbury Street Boston, MA 02203 Phone: 617-565-3080
+THE ASYLUM INTERVIEW - Asylum Office
+If you live in the New England area, have not been arrested by Immigration, and do not have a case in Immigration Court, mail your asylum application to the Vermont Service Center. It will be review for completeness. If it is not complete, the Vermont Service Center will return it to you. You must correct it and mail it back to Vermont as soon as possible (at most, within one month). If it is complete, you will receive a receipt notice. The Vermont Service Center will send it to the Newark Asylum Office.
+Once you have filed a complete asylum application and the Vermont Service Center has accepted it, you will receive three notices:
+1. Receipt notice - this notice states that the asylum application has been received and accepted.
+2. Appointment notice - this notice sets the date, time and place for the asylum interview with an asylum officer in Boston.
+3. Fingerprint notice - this notice sets an appointment to have your fingerprints taken.
+Interview Date. When the Newark Asylum Office receives your application, the office will schedule an asylum interview in Boston. Usually, the Asylum Office will schedule the interview within several months after you file the asylum application. However, it might be sooner or later than that. At this time, there are severe delays at the Asylum Office and it is taking 2-3 years for an interview. You will receive a notice with the date, time and place of your interview.
+Reschedule Hearing Date: If you need more time to prepare your case, make your request in writing (by fax or mail). Then call the Boston Asylum Sub-Office to confirm receipt and that the case has been rescheduled:
+Boston Asylum Sub-Office
+15 New Sudbury St., Room 600
+Boston, MA 02203
+(617) 565-9500
+Fax:(617) 565-9507
+Email : znkbostonsub-office@uscis.dhs.gov
+In Boston, an Asylum Officer will conduct your interview at the John F. Kennedy Federal Building, 6th Floor, near the Government Center T-stop. The interview can last from 1-3 hours. The Asylum Officer will question you about the information and documents you have submitted. The Asylum Officer will give you the chance to add any information or any additional documents you have.
+Tip: If you made any mistakes when filling out the asylum application, it is important to let the Asylum Officer know at the beginning of the interview and to correct the information.
+-Originals of Documents. When you appear for your asylum interview, make sure that you bring the originals of any documents with you so that the Asylum Officer can review the originals and compare them to the photocopies you submitted with your application
+Interpreter. If you do not speak English fluently, you MUST bring an interpreter with you to the Asylum Officer interview. Make sure the interpreter speaks your language and English fluently. He or she must understand that his or her role is to interpret exactly what is said, without adding anything to what you say or trying to speak for you. If the interpreter makes mistakes or does not interpret what you say correctly, the Asylum Officer may think you are not telling the truth.
+Asylum Office Decision. After the interview, the Asylum Officer will notify you of the decision. This will usually happen by letter. Sometimes, the Asylum Officer may tell you to come to the office at a certain date and time for the decision. If the Asylum Officer decides to grant asylum, you may receive a “recommended approval” or an “approval”.
+> If you receive an approval letter, you have been granted asylum. One year from the date of your approval, you can file for lawful permanent resident status for a “green card.”
+> If you receive a recommended approval, it means that the Asylum Officer is waiting for your fingerprints to clear, showing that you do not have a criminal record. Once that clearance comes through, you will receive an approval letter.
+> If the Asylum Officer decides not to grant your case, you will receive a referral letter, and a Notice to Appear before an Immigration Judge in Immigration Court. The Immigration Judge will hear your case and conduct a formal hearing where you can present your testimony and other witnesses and evidence on your case. If your case is referred to an immigration judge, you should immediately consult with an attorney.
+THE ASYLUM HEARING - Immigration Court
+If you are in removal proceedings in Immigration Court, an Immigration Judge will decide your case. The Immigration Judges are part of the Executive Office for Immigration Review ("EOIR"), an agency of the Department of Justice.
+The first hearing in Immigration Court is the Master Calendar hearing. At this hearing, you will answer the government's charges against you that you are removable from the United States. Applying for asylum is a defense to removal. You will tell the judge about applications for relief from removal that you might be applying for, such as asylum, withholding of removal, relief under the Torture Convention, cancellation of removal, adjustment of status, and voluntary departure. The government's trial attorney will be arguing that you should be deported based on the grounds of removal that are listed in the Notice to Appear (Form I-862).
+The judge will have several cases set at the same time for Master Calendar hearings since each hearing is short. The hearing itself will likely last several minutes but you might have to wait a long time before your case is called. When the clerk calls your case, you will take a seat at the table in front of the judge (unless you are in detention and appearing by tele-video). The court will provide an interpreter if you do not speak English.
+At the Master Calendar hearing, the Immigration Judge will make sure that you were served with the Notice to Appear (I-862) and the list of free legal services.
+The Immigration Judge will ask you to respond to the charges of removability in the Notice to Appear.
+   The Immigration Judge will ask if you would like to time to find an attorney.
+If the Immigration Judge finds that you do not have the right to remain in the U.S., he or she will allow you to apply for relief from removal, such as asylum, withholding of removal, Torture Convention relief, and voluntary departure.
+Filing for Asylum in Court
+If you are requesting asylum for the first time in Immigration Court, the judge will schedule another Master Calendar hearing where you will fill an asylum application in court. Ask for time to complete the asylum application, usually at least 2 or 3 weeks.
+When you submit your case, give one copy of the I-589 to the judge and one copy to the government attorney. Be sure to make a copy for your own record.
+After you submit your asylum application in court, the judge will set a date for an Individual Calendar hearing, which is your full hearing about your asylum claim. The judge will also schedule a date for filing any additional materials. This submissions deadline is called the call-up date. At your Individual Calendar hearing you will testify, present witnesses and be cross-examined about your claim.
+Individual Hearing
+The merits hearing, known as the Individual Hearing, in asylum cases are formal and adversarial. This hearing is the evidentiary hearing before a judge. There is a trial attorney, who acts as a “prosecutor,” attempting to disprove your eligibility for asylum. Witnesses, including you, are sworn. You and the trial attorney have the opportunity for direct and cross-examination. Immigration judges are usually also very involved in questioning you and other witnesses.
+Before your trial, remember to:
+• Review your affidavit; be prepared to clearly explain your story and explain why you continue to fear returning home; prepare for rigorous questions by the trial attorney; and to prepare any witnesses who can help corroborate your case.
+• Update your biometrics. If you aren't sure how to, make an InfoPass appointment, https://infopass.uscis.gov/, with USCIS (JFK Building, E-160) and they will tell you what to do. If you have had biometrics in the past, you may be able to call the Office of Chief Counsel and ask them to refresh your biometrics. If you have never had biometrics, you will need to ask USCIS to issue you an appointment with the Application Support Center. If you are detained, ICE will make arrangements for your biometrics. You can ask your deportation officer to confirm that your biometrics are up-to-date for the hearing.
+• Make timely submissions on or before the call-up date (preferably before in case your submission is rejected). Try to make one (1) submission on or before the call-up date.
+• Submit necessary motions in a timely manner
+• Review the Immigration Court Practice Manual: http://www.justice.gov/eoir/
+Direct Examination by Judge: You are the most important witness in your asylum case and your credible testimony is the key to winning. It is extremely important to prepare for your case. Be prepared to tell your story clearly and truthfully. The Immigration Judge will usually interrupt and ask questions. At times, the Immigration Judge may sound angry or limit your testimony. Try to have someone with you in court who can take notes about unprofessional behavior from the judge so you can challenge it later.
+Cross Examination by the Government's Trial Attorney: The trial attorney will cross examine you and any other witness you call. Trial attorneys often look for problems with the case, such as inconsistencies in the your story, documents that you submitted that contradict parts of your case, any trips in the your passport, why the persecutor cares about harming you, proof of your identity or at times proof of your nationality, firm resettlement in another country where you lived after first fleeing your home country, your criminal history, and other matters.
+Court Interpreters: The Immigration Court will provide an interpreter for the Individual Calendar hearing. If you think that the court interpreter is not competent or is failing to interpret parts of your testimony, you can object to the interpreter. State your objection to the judge, not to the interpreter.
+Witnesses: You may call witnesses to support your case. You should be sure that you know what your witnesses will say. Do not call witnesses who are not familiar with your case or the country from which you fear return, or who may say hostile or confusing things about you.
+CHANGE OF ADDRESS
+If you move, it is extremely important to notify the government of your change of address. Send one copy of the Change of Address Form AR-11 to each of these offices:
+Newark Asylum Office 1200 Wall Street West 4th Floor
+Lyndhurst, NJ 07071
+USCIS
+Change of Address
+P.O. Box 7134
+London, KY 40742
+If you have already filed for asylum, you may report the change of address to the National Service Center toll-free at 1 (800) 375-5283. You may also do this online at: https://egov.uscis.gov/coa/displayCOAForm.do.
+If your case is before the asylum office, be sure to send a separate letter to the Boston Asylum Office and Newark Asylum Office, with the confirmation that you have submitted the AR-11. If your case is in Court, you need to fill out the EOIR-33IC.
+EMPLOYMENT AUTHORIZATION
+You can apply for employment authorization if you receive a recommended approval or an approval of your asylum case. If you have not received a decision on your asylum case, you can also apply for employment authorization after waiting 150 days after you filed for asylum with the USCIS or the Immigration Judge, provided that the Immigration Judge has not denied your asylum case. The first work card as an asylum applicant is free. All subsequent renewals require a fee, unless you submit a fee waiver (Form I-912, http://www.uscis.gov/forms).
+The “work clock” counts the number of days your case has been pending with immigration. Unfortunately, the clock stops counting the days if you ask for a continuance to have more time to prepare. Sometimes it is necessary to ask for a continuance if you need more time even though that stops the time you have to wait before you can get work authorization.
+To file for employment authorization, fill out Form I-765, available on the USCIS web page at http://www.uscis.gov/forms. Requests for work authorization must include the following:
+Form I-765
+■f G-28, Notice of Entry of Appearance of Attorney
+Copy of I-94 Departure Record (front and back), if available
+A copy of the last work authorization card if renewing your request for work authorization (front and back)
+Copy of Hearing Notice or Receipt Notice of asylum application
+Two photographs taken within 30 days of submission to DHS with name and A# written lightly (in pencil) on the back of each
+If an Immigration Judge denies your asylum application within 180 days from the date you filed your asylum application, you cannot obtain employment authorization based on your asylum application.
+AFTER WINNING ASYLUM
+Once you receive a final grant of asylum either from an Immigration Judge or an Asylum Officer, you may receive some services to help you adjust to life in the United States. You are eligible for a new I-94 and employment authorization card, travel document, and assistance in helping to become financially stable. Upon your grant of asylum, contact the Refugee Resettlement Agency in your area to obtain these services. For further information, contact the:
+Office for Refugees and Immigrants
+600 Washington Street, 4th floor.
+Boston, MA 02111
+Tel: (617) 727-7888
+http://www.mass.gov/ori
+Once you win asylum, you may be able to bring certain family members to the United States. Asylees may file a derivative asylum application for a spouse and unmarried children under 21.
+Once you are granted asylum and have been in the U.S. for more than one year, you can file for adjustment of status (to a legal permanent resident) to get your green card. Before applying for your green card, you should consult with an attorney or with one of the non-profit agencies to make sure that you are eligible.

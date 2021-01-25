@@ -1,0 +1,427 @@
+﻿<Header>
+	<title>
+		<tit> Droit d'asile et statut de réfugié </tit>
+		<fileName> DASR_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Guide </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (France) </language>
+		<source> https://www.guidesocial.ch/recherche/fiche/droit-d-asile-et-statut-de-refugie-90 </source> 
+		<publisher> Guide Social Romand </publisher>
+		<pubDate> 2018 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> ARTIAS Association romande et tessinoise des institutions d'action sociale </institution>
+	</author>
+</Header>
+Droit d'asile et statut de réfugié
+Généralités
+Le droit d'asile est du ressort de la Confédération; il est défini par la loi fédérale sur l'asile (LAsi), ses ordonnances et les directives y relatives. La législation ordinaire sur le séjour des étrangers s'applique également (LEI et OASA). La loi sur l'asile fait régulièrement l'objet de modifications ; les dernières sont entrées en vigueur au 1er mars 2019.
+C'est le Secrétariat d'Etat aux migrations (SEM) à Berne qui est l'autorité compétente pour prendre les décisions en matière d'asile. L'autorité de recours est généralement le Tribunal administratif fédéral.
+La loi fédérale sur l'asile (voir l'article 1 LAsi) règle l'octroi de l'asile et le statut de réfugié en Suisse ainsi que la protection provisoire accordée en Suisse à ceux qui en ont besoin (il s'agit d'une protection collective de « personnes à protéger » (permis S), statut qui n'a jamais été utilisé depuis son introduction). La loi règle également le retour dans leur pays d'origine ou de provenance ou dans un Etat tiers.
+La qualité de réfugié
+Les réfugiés, selon l'article 3 LAsi, inspiré de la Convention de Genève sur les réfugiés, sont: « les personnes qui, dans leur Etat d'origine ou dans le pays de leur dernière résidence, sont exposés à de sérieux préjudices ou craignent à juste titre de l'être en raison de leur race, de leur religion, de leur nationalité, de leur appartenance à un groupe social déterminé ou de leurs opinions politiques. Sont considérés notamment comme de sérieux préjudices la mise en danger de la vie, de l'intégrité corporelle ou de la liberté, de même que les mesures qui entraînent une pression psychique insupportable. Il y a lieu de tenir compte des motifs de fuite spécifiques aux femmes. »
+Les alinéas suivants de cet article décrivent les situations où la qualité de réfugié n'est pas reconnue :
+« Ne sont pas des réfugiés les personnes qui, au motif qu'elles ont refusé de servir ou déserté, sont exposées à de sérieux préjudices ou craignent à juste titre de l'être. Les dispositions de la Convention du 28 juillet 1951 relative au statut des réfugiés sont réservées.»
+« Ne sont pas des réfugiés les personnes qui font valoir des motifs résultant du comportement qu'elles ont eu après avoir quitté leur pays d'origine ou de provenance s'ils ne constituent pas l'expression de convictions ou d'orientations déjà affichées avant leur départ ni ne s'inscrivent dans leur prolongement. Les dispositions de la Convention du 28 juillet 1951 relative au statut des réfugiés sont réservées. »
+L'octroi de l'asile ou de l'admission provisoire
+L'asile est accordé aux personnes qui ont la qualité de réfugié, s'il n'y a pas de motifs d'exclusion (art. 49 LAsi). L'asile est le statut que la Suisse accorde normalement à une personne dont la qualité de réfugié est reconnue, dès lors que, pour les raisons énumérées par l'art. 3 LAsi ci-dessus, elle a été, ou selon toute évidence, serait persécutée à l'avenir de manière grave et individuelle par l'Etat ou par des entités privées contre lesquelles l'Etat n'est pas en mesure d'agir pour garantir la sécurité des victimes.
+Dans certains cas, un réfugié reconnu peut se voir refuser l'asile et se trouver admis provisoirement tout en bénéficiant du statut de réfugié défini par la Convention de Genève sur les réfugiés de 1951. Plus généralement, l'admission provisoire est accordée lorsqu'une personne n'a pas le droit à l'asile mais que son renvoi est illicite, inexigible ou matériellement impossible. C'est le statut qui est accordé aux personnes exposées à un "danger concret" notamment en raison d'une situation de violence généralisée dans leur pays d'origine ou en raison de facteurs personnels comme de grave problèmes médicaux qui ne pourraient être traités sur place (art. 83 LEI).
+Les étapes de la procédure d'asile
+Il est important de distinguer les différentes étapes de la procédure d'asile en Suisse. Ainsi, l'étranger qui se réfugie en Suisse est d'abord, s'il n'est pas directement refoulé, un requérant d'asile (avec permis «N»); s'il obtient l'asile, il devient réfugié statutaire (avec permis «B», puis après 5 ans, permis «C»). Si la demande d'asile est rejetée mais que le renvoi n'est pas exécutable (met en danger la vie de la personne concernée, contrevient au droit international, n'est pas possible en pratique en raison d'obstacles matériels au voyage), il reçoit une admission provisoire (permis «F»).
+A l'inverse, il est possible que le SEM n'entre pas en matière sur une demande d'asile ou la rejette. Dans ces cas, le renvoi sera prononcé.
+Depuis le 1er mars 2019, la procédure d'asile a été modifiée dans l'objectif d'en accélérer le rythme. Dès la demande d'asile, les requérants sont répartis dans l'un des six centres de la Confédération prévus à cet effet, où ils peuvent rester au maximum 140 jours. Le SEM estime que 60% de toutes les demandes d'asile peuvent obtenir une décision définitive dans ce délai. Les personnes dont la demande d'asile nécessite des clarifications supplémentaires sont réparties dans les cantons et soumises à la procédure étendue. La décision doit tomber dans un délai d'une année. Les différentes étapes de la procédure d'asile sont détaillées dans les paragraphes suivants. Le diagramme ci-dessous donne une représentation schématique de la nouvelle procédure (de première instance):
+Demande d'asile et phase préparatoire (centre fédéral)
+
+Triage / phase cadencée
+
+Procédure Dublin. Requérants qui ont transité dans un autre Etat européen ou y ont obtenu visa ou titre de séjour. Les requérants sont transférés dans un autre centre fédéral.
+
+Procédure accélérée (transfert dans un autre centre fédéral)
+
+Procédure étendue, attribution à un canton
+Dès le dépôt de la demande d'asile, les requérants seront placés dans l'un des six centre fédéraux « avec tâches procédurales ». Ils sont situés à Zürich, Altstatten, Lyss, Bâle, Balerna et Novazzano et à Boudry. L'infrastructure des centres est destinée à permettre l'accélération des procédures : y sont intégrés des représentants des autorités (SEM), des médecins, des interprètes et des bureaux de consultation juridique. Ce sont dans ces centres uniquement que la représentation juridique est garantie aux requérants. Ensuite, les requérants d'asile en attente de décision ou déboutés sont transférés dans des centres fédéraux « sans tâches procédurales ». Enfin, un centre « spécifique » pour requérants « récalcitrants » a été ouvert aux Verrières. La vie quotidienne des centres est régie par une ordonnance du DFJP relative à l'exploitation des logements de la Confédération dans le domaine de l'asile (référence sous rubrique « Lois et règlements »), qui fait état de nombreuses restrictions à l'égard des requérants (fouilles, heures d'ouverture du centre, admission de visites...).
+Lorsque le SEM estime que la requête doit faire l'objet d'une procédure étendue ou si le délai de 140 jours est échu, les requérants d'asile sont répartis dans les cantons. La procédure spécifique aux demandes d'asile dans les aéroports subsiste, elle se déroule toujours en zone de transit internationale dans des centres fermés.
+Descriptif
+La demande d'asile
+Est considérée comme une demande d'asile toute manifestation de volonté par laquelle une personne demande à la Suisse de la protéger contre les persécutions. La demande d'asile doit être déposée au poste de contrôle d'un aéroport suisse ou, lors de l'entrée en Suisse, à un poste-frontière ouvert ou dans un centre de la Confédération (à part les centres spécifiques réservés aux requérants « récalcitrants »). Quiconque dépose une demande d'asile doit être présent à la frontière suisse ou sur le territoire suisse.
+En pratique, c'est en s'annonçant directement à l'un de ces centres, une fois entrés irrégulièrement en Suisse, que la très grande majorité des candidats à l'asile présentent leur demande de protection.
+La procédure de première instance La phase préparatoire
+La phase préparatoire commence dès du dépôt de la demande d'asile. Elle dure au plus dix jours s'il s'agit d'une procédure Dublin (voir le paragraphe correspondant), au plus 21 jours pour les autres procédures. Durant cette phase, le SEM recueille les données personnelles du requérant, vérifie les moyens de preuves, les documents de voyage ainsi que les papiers d'identité qu'il présente. Le SEM informe le requérant de ses droits et de ses devoirs pendant la procédure d'asile et le convoque à une audition sommaire sur son identité, sur l'itinéraire emprunté et sur ses motifs de fuite. Au moment de l'audition, les requérants sont également tenus de faire valoir toute atteinte à leur santé qui peut jouer un rôle pour la procédure d'asile et de renvoi. Le droit d'être entendu est en outre octroyé pendant cette phase au requérant qui doit être renvoyé dans un Etat compétent pour l'examen de sa demande d'asile selon les accords de Dublin.
+La non-entrée en matière et le renvoi vers un autre pays
+En règle générale, le SEM n'entre pas en matière sur une demande d'asile si le requérant :
+peut retourner dans un Etat tiers sûr dans lequel il a séjourné auparavant ;
+peut se rendre dans un Etat tiers compétent, en vertu d'un accord international, pour mener la procédure d'asile et de renvoi ;
+peut retourner dans un Etat tiers dans lequel il a séjourné auparavant et qui offre une protection effective au regard du principe de non-refoulement ;
+peut poursuivre son voyage vers un Etat tiers pour lequel il possède un visa et dans lequel il peut demander protection, qui doit être effective au regard du principe de non-refoulement ;
+peut poursuivre son voyage vers un Etat tiers dans lequel vivent des proches parents ou des personnes avec lesquelles il entretient des liens étroits et qui offre une protection effective au regard du principe de non-refoulement;
+peut être renvoyé dans son pays d'origine ou de provenance conformément à la procédure dite de « Dublin »
+Le SEM n'entre pas non plus en matière sur les demandes d'asile qui ne sont pas déposées pour protéger de persécutions, notamment lorsqu'elles le sont exclusivement pour des raisons économiques ou médicales. Dans toutes ces situations, le requérant d'asile reçoit une décision de non-entrée en matière (NEM).
+La procédure "Dublin"
+La procédure en vue d'une décision de non-entrée en matière parce qu'un autre pays est compétent pour traiter la demande d'asile conformément à l'accord international de Dublin, commence avec le dépôt de la demande de prise ou reprise en charge du requérant adressée à un Etat partie à l'accord. La décision doit être notifiée dans les trois jours ouvrables qui suivent l'approbation, par l'Etat Dublin requis, de la demande de transfert. Ce délai peut être dépassé de quelques jours si des raisons valables le justifient. Cette procédure dure jusqu'au transfert dans l'Etat compétent ou jusqu'à son interruption faisant suite à la décision de traiter la demande dans une procédure accélérée ou une procédure étendue.
+La phase cadencée / la procédure accélérée
+Cette phase se déroule dans un laps de temps réduit ; elle commence avec l'audition sur les motifs d'asile ou l'octroi du droit d'être entendu en cas de décision de non-entrée en matière ou de fausses déclarations et états de fait assimilés (voir l'art. 36 LAsi). L'audition est suivie d'un triage qui permet au SEM de décider si l'examen de la demande d'asile se poursuivra en procédure accélérée ou passera en procédure étendue. Le passage à la procédure étendue a lieu lorsqu'une décision de première instance ne peut être rendue en l'espace de huit jours ouvrables. Ici aussi, le délai peut être dépassé de quelques jours si des raisons valables le justifient.
+Ensuite, le projet de décision sera rédigé et envoyé au représentant juridique si elle est négative. Enfin, la décision finale est notifiée.
+Lorsque la demande d'asile n'a encore donné lieu à aucune décision entrée en force dans les 140 jours, le traitement de la demande passe alors en procédure étendue et le requérant est attribué à un canton. Notons que le délai de 140 jours peut faire l'objet d'une prolongation appropriée, selon les termes de l'article 14 de l'Ordonnance 1 sur l'asile relative à la procédure (OA 1).
+La procédure étendue
+S'il ressort de l'audition sur les motifs d'asile qu'une décision d'asile de première instance ne peut être rendu dans le délai prévu par la procédure accélérée, le traitement de la demande se poursuite dans une procédure étendue et la personne concernée est attribuée à un canton pour la durée de la procédure. Dans ce cas de figure, il ne bénéficie plus du conseil juridique gratuit du Centre fédéral « avec tâches procédurales » et devra, le cas échéant, rechercher un mandataire externe. Dans cette procédure, la décision doit être prise dans les deux mois qui suivent la fin de la phase préparatoire.
+Le statut des requérants d'asile
+Le requérant d'asile reçoit un permis « N » valable six mois et pouvant être prolongé. Ce document atteste qu'il a déposé une demande d'asile et lui permet de se légitimer devant les autorités. Il ne permet pas de traverser la frontière. Il est en outre assuré auprès d'une caisse-maladie dès son arrivée en Suisse.
+Le détenteur d'un permis « N » n'a pas le droit de travailler pendant toute la durée de son séjour dans un centre de la Confédération. Pour le droit de travailler des requérants d'asile après ce délai, voir la fiche travailleurs, travailleuses étrangères en Suisse.
+Les requérants mineurs non accompagnés
+Chaque année, de nombreux enfants et adolescent-e-s non accompagnés déposent une demande d'asile en Suisse (ils étaient 733 en 2017, les chiffres sont disponibles dans les statistiques de l'asile du SEM). Leur situation particulière doit être prise en compte dans la procédure d'asile, qui prévoit d'ailleurs des dispositions spéciales à leur égard. Par ailleurs, bien que requérants, il s'agit en premier lieu d'enfants dont le développement et le bien-être doivent être favorisés, comme le demande la Convention relative aux droits de l'enfant et l'article 11 de la Constitution fédérale.
+La Loi fédérale sur l'asile prévoit par conséquent qu'il doit être tenu compte dans la procédure de la situation particulière des femmes et des mineurs. Les demandes d'asile des requérants mineurs non accompagnés sont traitées en priorité. Par ailleurs, la défense des intérêts des requérants mineurs non accompagnés est assurée aussi longtemps que dure la procédure, soit par le représentant juridique désigné dans un Centre de la Confédération, soit, après l'attribution des mineurs à un canton, par une personne de confiance, respectivement une curatelle, immédiatement désignée par les autorités cantonales. Voir les fiches cantonales pour plus de détails.
+L'ordonnance 1 sur l'asile précise que la personne de confiance doit posséder des connaissance du droit de l'asile, du droit relatif à la procédure Dublin et des droits de l'enfant et avoir de l'expérience du travail avec des mineurs. Elle guide et soutient le mineur non accompagné tout au long de la procédure d'asile ou de la procédure Dublin et s'acquitte notamment des tâches suivantes :
+conseil avant et pendant les auditions ;
+soutien en vue de l'indication et de l'obtention de moyens de preuve ;
+assistance notamment dans la communication avec les autorités et avec les établissements de santé.
+Même si le statut de la personne de confiance est semblable à celui d'une curatelle, la désignation d'une personne de confiance ne libère pas l'autorité de protection de l'enfant de son obligation d'ordonner, le cas échéant, des mesures de protection de l'enfant. La désignation d'une personne de confiance ne doit pas être perçue comme une alternative à une curatelle, mais comme une solution transitoire. Cette obligation est également contenue dans le Code civil, qui prévoit que l'autorité de protection de l'enfant nomme un tuteur lorsque l'enfant n'est pas soumis à l'autorité parentale (art. 327a CC).
+Bien que l'accueil et la prise en charge des réfugiés mineurs non accompagnés soit de la compétence des cantons, signalons enfin que le service social international suisse (adresse dans les sites utiles) a publié un manuel de prise en charge des mineur-e-s non accompagné-e-s en Suisse à l'usage des professionnel-le-s ainsi qu'un catalogue de bonnes pratiques cantonales dans la prise en charge.
+L'octroi de l'asile et le statut de réfugié L'octroi du permis B "réfugié"
+Lorsqu'un requérant reçoit une décision positive d'octroi de l'asile, il acquiert le statut de réfugié, qui est défini par la Convention de Genève de 1951 sur les réfugiés et concrétisé par la législation suisse, qui ajoute aux clauses de la Convention de Genève visant à assurer l'intégration du réfugié reconnu, des facilités au titre du regroupement familial et un droit au permis d'établissement (permis C) selon les conditions habituelles de la loi sur les étrangers (art. 60 al.2 LAsi et art. 34 LEI).
+L'octroi de l'admission provisoire "réfugié"
+Lorsqu'un requérant a la qualité de réfugié mais qu'il existe un motif d'exclusion qui empêche l'octroi de l'asile (art. 49, 53 et 54 LAsi), il reçoit une admission provisoire (réglée par la Loi fédérale sur les étrangers et l'intégration LEI aux articles 83 et suivants). Ce titre de séjour est établi pour une année et peut être prolongé. L'admission provisoire peut aussi être accordée à des personnes qui n'ont pas la qualité de réfugié mais pour lesquelles l'exécution du renvoi ou de l'expulsion n'est pas possible, est illicite ou ne peut être raisonnablement exigée. Ces derniers obtiennent une admission provisoire ordinaire (voir aussi le paragraphe « refus de l'asile sans exécution du renvoi »).
+Les réfugiés admis provisoirement ne bénéficient que des clauses de la Convention de Genève, ce qui leur donne néanmoins des droits sociaux et économiques qui vont parfois plus loin que ceux accordés aux titulaires de permis B. Ils sont aussi assimilés aux Suisses concernant les assurances sociales.
+Tant les réfugié-e-s que les personnes admises provisoirement sont autorisées à exercer une activité lucrative dans toute la Suisse à condition que les conditions de rémunération et de travail usuelles du lieu, de la profession et de la branche sont respectées (art. 61 LAsi, art. 22 LEI). Pour les personnes titulaires d'un permis B ou F, il existe une obligation d'annonce à l'autorité cantonale compétente, qui remplace l'ancienne autorisation.
+La fin de l'asile
+L'asile est accordé pour une durée indéterminée, mais il peut être révoqué dans certaines circonstances (l'asile a été obtenu en faisant de fausses déclarations; le réfugié a repris sa nationalité ou a pris une nouvelle nationalité; il est retourné dans le pays qu'il avait quitté; en cas de changements importants dans la situation du pays ou pour des questions de sécurité, art. 63 LAsi). La révocation est prononcée par le SEM; il est possible de faire recours contre cette décision auprès du Tribunal administratif fédéral (TAF). La révocation de l'asile ou le retrait de la qualité de réfugié ne s'étendent pas au conjoint ni aux enfants du réfugié.
+L'asile prend fin lorsque le réfugié y renonce, a séjourné pendant plus d'un an à l'étranger (dans des cas particuliers, la prolongation du délai est possible) ou qu'il a obtenu dans un autre pays l'asile ou l'autorisation d'y résider à demeure.
+L'asile peut aussi prendre fin par l'expulsion ou l'interdiction de séjour à la suite de crimes ou de délits.
+Le refus d'asile avec exécution du renvoi
+Si la décision de l'Office fédéral des migrations concernant la demande d'asile est négative ou s'il refuse d'entrer en matière, le SEM prononce en général le renvoi de Suisse et en ordonne l'exécution (art. 64 et suivants LEI). La décision de renvoi indique un délai de départ allant de sept à trente jours. Pour les décisions rendues lors d'une procédure accélérée, le délai de départ est de sept jours ; pour les décisions prises lors d'une procédure étendue, il est de 7 à 30 jours. Un délai de départ plus long est imparti ou le délai de départ est prolongé lorsque des circonstances particulières telles que la situation familiale, des problèmes de santé ou la durée du séjour le justifient. Le renvoi peut être immédiatement exécutoire ou un délai de départ de moins de sept jours peut être fixé si le requérant est renvoyé sur la base des accords de Dublin. Une décision de refus d'asile peut aussi être accompagnée d'une admission provisoire en Suisse si l'exécution du renvoi ou de l'expulsion n'est pas possible, pas licite au regard du droit international ou ne peut être raisonnablement exigé (voir le paragraphe suivant).
+Sur la représentation juridique dans les centres de la Confédération (avec tâches procédurales) et la procédure à suivre en cas de décision de renvoi, voir le chapitre « Procédure ».
+Dès qu'un étranger est frappé d'une décision de renvoi (donc avant le recours), d'expulsion ou d'expulsion pénale, le SEM peut commencer les démarches pour obtenir des documents de voyage. Il informe l'autorité cantonale du lancement des démarches (art. 2 de l'ordonnance sur l'exécution du renvoi et de l'expulsion d'étrangers, OERE).
+Si la décision de renvoi est définitive et exécutoire, l'autorité cantonale retire le permis «N» et remet à l'intéressé une attestation de délai de départ. Cette attestation peut être prolongée en fonction des possibilités de renvoi. Une demande de prolongation de délai de départ peut être faite, notamment pour des raisons médicales. À noter que dès que la décision de renvoi est exécutoire et qu'un délai de départ a été imparti, les personnes concernées sont exclues du régime de l'aide sociale et reçoivent une aide d'urgence minimale.
+Si des faits nouveaux ou des moyens de preuve importants apparaissent après l'entrée en force d'une décision, le titulaire de l'attestation de départ peut encore faire une demande de réexamen et de révision qui n'ont pas d'effet suspensif direct.
+Lorsque le délai pour quitter la Suisse est dépassé, le requérant peut être refoulé de force dans son pays d'origine. Si l'étranger cherche à se soustraire au refoulement, il peut être mis en détention administrative, notamment s'il ne participe pas à la préparation de son renvoi (voir la fiche Mesures de contrainte en matière de droit des étrangers).
+Avant de renvoyer ou d'expulser un étranger mineur non accompagné, l'autorité cantonale compétente doit s'assurer qu'il sera remis à un membre de sa famille, à un tuteur ou à une structure d'accueil pouvant garantir sa protection dans l'Etat vers lequel il sera renvoyé ou expulsé.
+Les requérants qui doivent quitter la Suisse alors qu'ils exerçaient une activité lucrative doivent s'informer sur le remboursement des cotisations à l'AVS et à la caisse de pension.
+La Confédération prend à sa charge les frais de retour et peut accorder une aide à court terme pour la réintégration.
+Le refus d'asile sans exécution du renvoi: l'admission provisoire
+Si des raisons s'opposent au renvoi d'un requérant à qui l'asile a été refusé, il existe la solution de l'admission provisoire individuelle (permis «F» art. 83 et suivants LEI et 44 LAsi). Selon l'art. 83 LEI, l'admission provisoire individuelle est octroyée lorsqu'un renvoi ou une expulsion n'est ni possible, ni licite car contraire à des accords internationaux, ni raisonnablement exigible. C'est le cas si l'étranger renvoyé serait exposé à un danger imminent, soit en raison de la situation générale dans le pays d'origine, soit en raison de facteurs personnels (p.ex. problèmes de santé grave et défaut d'accès aux soins). Les étrangers admis à titre provisoire reçoivent un livret « F » d'une durée de validité d'une année, renouvelable.
+L'admission provisoire est prononcée par le SEM. Elle n'est pas accordée aux personnes ayant commis un crime ou un délit particulièrement grave ou qui pourraient compromettre la sécurité de la Suisse. Elle n'est pas non plus accordée dans le cas où l'impossibilité d'exécuter le renvoi ou l'expulsion est due à un comportement de l'étranger. Le SEM vérifie périodiquement si l'étranger remplit les conditions de l'admission provisoire. Si tel n'est plus le cas, il lève l'admission provisoire et ordonne l'exécution du renvoi ou de l'expulsion.
+La levée de l'admission provisoire est une décision susceptible de recours auprès du Tribunal administratif fédéral. Si l'étranger n'a pas de ressources, la Confédération prend en charge les frais de retour.
+Par ailleurs, au plus tôt après trois ans, les cantons peuvent autoriser un regroupement familial pour les conjoints et les enfants mineurs. La demande peut être déposée par le titulaire d'une admission provisoire après 3 ans de permis F, au plus tard dans les 5 ans à compter de l'échéance du délai de 3 ans. Mais si le regroupement familial concerne un enfant de plus de 12 ans, la demande doit être faite dans le délai de 12 mois après l'échéance du délai de 3 ans depuis l'octroi de l'admission provisoire. Si le lien familial est créé après le délai de 3 ans, le délai de 5 ans ou de 12 mois pour demander le regroupement familial part de la date de la création du lien familial. Il ne peut être dérogés à ces délais que pour des raisons familiales majeures.
+Les conditions du droit au regroupement familial sont les suivantes; il doit également être tenu compte de la situation particulière des réfugiés admis à titre provisoire:
+les intéressés vivent en ménage commun;
+ils disposent d'un logement approprié ;
+la famille ne dépend pas de l'aide sociale ;
+ils sont aptes à communiquer dans la langue nationale parlée au lieu de domicile (ils peuvent s'inscrire à un cours de langue) ;
+La personne à l'origine de la demande de regroupement familial ne perçoit pas de prestations complémentaires ni ne pourrait en percevoir grâce au regroupement familial
+L'octroi du permis B pour cas de rigueur
+Un permis de séjour (permis B) peut être proposé par le canton de domicile en cas d'intégration particulièrement réussie. La demande doit être adressée à l'autorité cantonale en charge de la migration et nécessite une approbation du SEM, avec possibilité de recours au TAF. Les demandes sont examinées de manière approfondie en fonction du niveau d'intégration, de sa situation familiale et de l'exigibilité d'un retour dans son pays de provenance. En pratique, il est rare que ce permis soit octroyé à une personne qui n'a pas au moins acquis son indépendance financière. La personne qui adresse cette demande doit aussi respecter l'ordre juridique et n'avoir commis aucun délit grave ou répété.
+Cette possibilité s'applique, d'une part aux personnes admises provisoirement, d'autre part aux requérants d'asile en procédure ou à ceux qui ont fait l'objet d'une décision négative, aux conditions suivantes:
+le séjour en Suisse remonte au moins à 5 ans depuis le dépôt de la demande d'asile, que la procédure soit pendante ou terminée;
+l'intégration de l'intéressé est "poussée": scolarisation des enfants, indépendance financière;
+le lieu de séjour a toujours été connu (art. 14 LAsi);
+il n'existe aucun motif de révocation (art. 62 LEI)
+La protection provisoire, l'admission provisoire collective (permis S)
+Cette mesure, prévue aux art. 66 et suivants LAsi, concerne les groupes de personnes que le Conseil fédéral détermine comme étant des personnes à protéger. Introduite en 1999, cette mesure n'a encore jamais été mise en pratique.
+Procédure
+La représentation juridique dans les centres de la Confédération
+L'une des nouveautés de la révision de la LAsi entrée en vigueur au 1er mars 2019 consiste à permettre à chaque requérant dont la demande est traitée dans un centre de la Confédération (avec tâches procédurales) d'obtenir un conseil et une représentation juridique gratuits (art. 102f LAsi). La représentation est assurée jusqu'à l'entrée en force de la décision en cas de procédure accélérée ou de procédure Dublin, ou jusqu'à ce qu'il soit décidé de mener une procédure étendue. En cas de procédure étendue, le requérant peut s'adresser gratuitement au représentant juridique désigné ou à un bureau de conseil juridique pour les étapes de la procédure de première instance déterminantes pour la décision. Si le représentant juridique désigné estime qu'un recours est voué à l'échec, la représentation juridique prend fin (art. 102h al. 4 LAsi).
+Les délais de recours
+Si la demande d'asile a été rejeté au motif que la qualité de réfugié n'est ni prouvée ni vraisemblable ou s'il existe un motif d'exclusion (commission d'actes répréhensibles, atteintes à la sécurité intérieure ou extérieure de la Suisse, prononcé d'une expulsion pénale ou motifs d'asiles subjectifs survenus après la fuite), le délai de recours est de 7 jours (art. 108 al.1 LAsi). Dans la procédure étendue, le délai de recours est de 30 jours (art. 108 al.2 LAsi).
+Le délai de recours est de 5 jours contre les décisions de non-entrée en matière, contre les décisions à l'aéroport et lorsque l'audition fait manifestement apparaître que le requérant n'est parvenu ni à prouver ni à rendre sa qualité de réfugié vraisemblable et qu'il peut être renvoyé dans un Etat sûr (au sens de l'art. 6a, al.1, let.a LAsi).
+Dans tous les autres cas, le délai de recours est de 30 jours à compter de la notification de la décision. Soulignons que les dispositions de la Loi fédérale sur la procédure administrative concernant les féries ne s'appliquent pas à la procédure d'asile.
+La procédure en cas de demande à l'aéroport
+Lorsque la demande d'asile a été déposée dans un aéroport (art. 22 LAsi), la procédure est engagée sur place (enregistrement, première audition). Le requérant peut être retenu à l'aéroport au maximum pendant 60 jours. Pendant ce délai, le SEM peut rendre une décision sur la demande d'asile avec droit de recours en 5 jours ouvrables, le TAF disposant lui-même de 5 jours ouvrables pour statuer. Comme pour la procédure dans les centres fédéraux, la Confédération garantit un conseil et une représentation juridique gratuits au requérant qui dépose une demande d'asile dans un aéroport suisse.
+Recours
+Les décisions du SEM peuvent faire l'objet d'un recours auprès du Tribunal administratif fédéral (TAF). Le recours est généralement dirigé à la fois contre le refus d'octroi de l'asile et contre le prononcé du renvoi. Il doit être déposé dans les délais mentionnés plus haut et n'est pas gratuit (la dispense des frais est cependant accordée en cas d'indigence, pour autant que le recours n'apparaisse pas voué à l'échec). Le dépôt d'un recours suspend le délai de départ fixé par la décision du SEM et la personne peut en général attendre en Suisse l'issue de la procédure de recours. Des exceptions à ce principe sont les recours contre les décisions de non- entrée en matière ou lorsqu'une décision de renvoi est immédiatement exécutoire.
+Notons que les personnes requérantes d'asile, qui ont droit à une représentation juridique gratuite dès le premier mars 2019, peuvent également en tout temps s'adresser à un autre bureau de consultation ou à un avocat de leur choix pour préparer ou déposer un recours.
+Sources
+Responsable rédaction: ARTIAS
+9 Adresses
+Secrétariat d'Etat aux migrations SEM (Berne-Wabern) Organisation suisse d'aide aux réfugiés OSAR (Berne) Tribunal administratif fédéral (St. Gallen)
+Lois et Règlements
+Loi sur l'asile du 26 juin 1998 (LAsi) (RS 142.31)
+Ordonnance 1 sur l'asile du 11 août 1999 relative à la procédure (OA 1) (RS 142.311) Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion d'étrangers (OERE) (RS 142.281)
+Loi fédérale du 16 décembre 2005 sur les étrangers (LEI) (RS 142.20)
+Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à l'exercice d'une activité lucrative (OASA) (RS 142 201)
+Sites utiles
+Fondation suisse du Service Social International
+Généralités
+La législation en matière de droit d'asile est exclusivement réglée par le droit fédéral. Il convient de se référer à la fiche fédérale correspondante.
+Descriptif
+Les requérants autorisés à rester en Suisse pendant la procédure d'asile sont attribués par le Secrétariat d'État aux Migrations (SEM) à un canton de résidence sur la base d'une clé de répartition intercantonale.
+En Valais, l'autorité traitant des cas relevant de l'asile est la section asile du Service de la population et des migrations. Cette section est notamment compétente pour régler les conditions de séjours, établir et prolonger les livrets N, F et S, délivrer des autorisations de travail, examiner des cas de rigueur (permis humanitaire) conjointement avec la commission consultative, organiser des départs et établir la demande des documents de voyage.
+Procédure
+Les autorités fédérales (Office fédéral des migrations et Tribunal administratif fédéral) ont la compétence exclusive de trancher sur les demandes d'asile déposées dans notre pays. Il convient donc de se référer à la fiche fédérale correspondante, rubrique "procédure".
+Les questions relatives à l'hébergement, l'encadrement social, la prise en charge médicale, les prestations financières, la scolarisation, les mesures d'intégration sociale et professionnelle, la prise d'emploi, l'assistance aux mineurs non accompagnés, aux adolescents et jeunes adultes dans le cadre de la procédure d'asile, sont encadrées par l'Office de l'asile qui fait partie du Service de l'Action Sociale (SAS) de l'État du Valais.
+Les mineurs non accompagnés
+L'accueil et la prise en charge des mineurs non accompagnés (MNA) est de la compétence des cantons. En Valais, les mineurs sont hébergés au Foyer du Rados. Cette structure d'accueil offre un encadrement éducatif aux mineurs non accompagnés 24h/24, 7 jours/7. Pour plus d'informations, vous pouvez consulter le site internet de l'Office de l'Asile du canton du Valais.
+Centre d'enregistrement et de procédure de Vallorbe CEP (Vallorbe) Service cantonal de la population et des migrations (SPM) (Sion)
+Office de coordination des prestations sociales. Section asile (Sion) Centre Suisses-Immigrés. Valais central (CSI) (Sion)
+Lois et Règlements
+Arrêté concernant la prise en charge des personnes relevant du domaine de l'asile dans le canton du Valais du 5 mars 2008
+Loi sur l'asile (Lasi)
+Sites utiles
+Service de l'Action Sociale (SAS) de l'État du Valais Office de l'Asile de l'État du Valais
+Service de la population et des migrations (SPM - VS)
+Généralités
+Le droit d'asile et le statut de réfugié sont exclusivement réglés par des dispositions fédérales. Il y a donc lieu de se référer à la fiche fédérale y relative.
+L'organisation de l'accueil et des tâches d'assistance des requérants d'asile et des réfugiés est toutefois partiellement définie à l'échelon cantonal, quand bien même ces prestations sont essentiellement assumées financièrement par la Confédération.
+Descriptif
+Accueil et assistance des requérant-e-s d'asile
+Lorsqu'un requérant d'asile est autorisé à rester en Suisse pendant la procédure d'asile, le Secrétariat d'Etat aux migrations (SEM) lui assigne un canton de résidence sur la base d'une clé de répartition intercantonale. Cette décision n'est pas susceptible de recours.
+Lorsqu'il quitte le Centre d'enregistrement et de procédure (CEP), le requérant d'asile assigné à résidence dans le canton du Jura est adressé à l'Association jurassienne d'accueil des migrants (AJAM). Voir ci-contre l'adresse de son administration centrale, les normes d'assistance ainsi que ses foyers d'accueil.
+Assistance des réfugié-e-s statutaires
+Les personnes qui ont obtenu le statut de réfugié, mais qui n'ont pas encore 5 ans de résidence en Suisse (à compter de la date de leur arrivée en Suisse) sont assistées par l'AJAM et les frais sont couverts par la Confédération.
+L'assistance des réfugiés dont le séjour dépasse 5 ans est assumée et financée par le canton et les communes. En cas de besoin d'assistance, les personnes concernées s'adressent au Services sociaux régionaux (voir la fiche cantonale "Aide sociale" pour plus de détails).
+Les prestations d'assistance pour les requérants d'asile sont inférieures de 1/3 aux prestations d'aide sociale des citoyens suisses, alors que les réfugiés reconnus (permis B) et les réfugiés admis à titre provisoire (permis F) reçoivent des prestations identiques aux bénéficiaires de l'aide sociale domiciliés dans le canton du Jura.
+Programme d'integration cantonal (PIC)
+Dès 2014, chaque canton a mis en place un Programme d'intégration cantonal (PIC), dans lequel il a développé sa stratégie globale en matière d'intégration des étrangers et de prévention contre les discriminations.
+Afin d'accompagner au mieux les personnes étrangères dans les principales étapes de leur processus d'intégration, plus d'une soixantaine de mesures sont développées dans 8 domaines d'encouragement.
+Voir le site du Service cantonal de la population pour davantage de détails (section Asile).
+Bureau de conseils en vue du retour (CVR)
+Le CVR jurassien fournit les prestations pour favoriser le retour des requérant-e-s dans leurs pays.
+Voir le site du Service cantonal de la population pour davantage de détails (section Asile).
+Intégration des femmes migrantes - les prestations du CAFF
+Le Centre d'animation et de formation pour femmes migrantes (CAFF), installé à Porrentruy et Delémont, offre toute une série de cours et d'activités susceptibles de favoriser l'intégration des femmes migrantes. Voir cette offre sur le site du CAFF.
+Consultation juridique pour migrants
+Caritas Suisse assume la défense juridique pour les personnes relevant du domaine de l'asile dans le canton du Jura. Cette permanence juridique et conseils se tient dans les locaux de Caritas Jura à Delémont.
+Procédure
+Démarches et formalités cantonales liées au statut de requérant d'asile Papiers - Livrets pour étrangers
+Durant leur séjour, les requérants d'asile sont mis au bénéfice de livrets pour étrangers. Voir la fiche fédérale pour les détails.
+Le renouvellement des permis N, F et S est effectué par le Service de la population. Ces livrets ne sont en aucun cas des documents valables pour voyager à l'étranger.
+Travailler - Autorisation d'exercer une activité lucrative
+Pendant les trois premiers mois qui suivent le dépôt de sa demande d'asile, le requérant n'a pas le droit d'exercer d'activité lucrative.
+Procédure pour la délivrance d'une autorisation de travail:
+La première demande de permis de travail doit être présentée à l'Office régional de placement (ORP) ;
+Après examen, l'ORP soumet la requête au Service de l'économie et de l'emploi (SEE) ;
+Si le requérant d'asile remplit les conditions, la demande est transmise au Service de la population pour la délivrance de l'autorisation de travail;
+Avant tout changement de place, le requérant d'asile doit requérir l'autorisation du SEE et du Service de la population.
+Traitement des demandes de changement de canton en cours de procédure d'asile
+Le SEM répartit les requérants d'asile entre les cantons. Il ne décide de changer un requérant d'asile de canton que si les deux cantons concernés y consentent.
+Sources
+Service de l'action sociale
+9 Adresses
+AJAM - Centre de Belfond (Goumois)
+Caritas Jura, Département consultation et soutien, secteur social et dettes (Delémont) Service de la population (Delémont)
+AJAM - Administration centrale (Delémont)
+AJAM - Centre de Courrendlin (Courrendlin)
+AJAM - Centre de Soyhières (Courroux)
+CAFF - Centre d'animation et de formation pour femmes migrantes (Porrentruy)
+Centre d'enregistrement et de procédure de Vallorbe CEP (Vallorbe)
+CAFF - Centre d'animation et de formation pour femmes migrantes Delémont (Delémont)
+Lois et Règlements
+Ordonnance cantonale du 3 décembre 2002 concernant l'intégration des étrangers et la lutte contre le racisme (RSJU 144.1)
+Sites utiles
+CAFF - Centre d'animation et de formation pour femmes migrantes
+Site de l'AJAM
+Organisation internationale pour les migrations (OIM)
+Secrétariat d'Etat aux migrations (SEM)
+Plateforme d'information sur l'asile
+Site du service de la population - Asile 
+
+Généralités
+Le droit d'asile et le statut de réfugié sont exclusivement réglés par des dispositions fédérales. Il y a donc lieu de se référer à la fiche fédérale y relative.
+L'organisation de l'accueil et des tâches d'assistance des requérants d'asile et des réfugiés est toutefois partiellement définie à l'échelon cantonal, quand bien même ces prestations sont assumées financièrement essentiellement par la Confédération.
+Lorsqu'un requérant d'asile est autorisé à rester en Suisse pendant la procédure d'asile, l'Office des migrations (ODM) lui assigne un canton de résidence sur la base d'une clé de répartition intercantonale. Cette décision n'est pas susceptible de recours.
+Dans le domaine de l'asile, les cantons n'ont ni la possibilité d'accorder la qualité de réfugié, ni celle d'octroyer une autorisation de séjour. C'est la Confédération qui est seule compétente en la matière. Les cantons peuvent cependant proposer à la Confédération d'accorder des autorisations de séjour pour des cas humanitaires.
+Descriptif
+Service des migrations
+Le Service des migrations (SMIG) met en œuvre la politique cantonale de l'asile en matière d'accueil, d'hébergement, de l'aide personnelle, matérielle et sanitaire, ainsi que de la mise en place de programmes d'occupation pour les requérants d'asile et de programmes de formation pour les personnes admises à titre provisoire et les personnes à protéger.
+Personnes relevant du domaine de l'asile
+Les requérants d'asile sont des ressortissants d'Etats tiers qui ont déposé une demande d'asile en Suisse et qui font l'objet d'une procédure d'asile. Au terme de cette procédure, une décision est prise et communiquée au requérant. Si elle est positive, l'asile est accordé et un permis B est remis. Si elle est négative, la personne doit quitter la Suisse.
+Les personnes à protéger, requérants d'asile (livret N) ainsi que les personnes admises à titre provisoire (livret F), font l'objet d'une décision de renvoi de Suisse, mais l'exécution du renvoi se révèlerait illicite (violation du droit international public), inexigible (mise en danger concrète de l'étranger) ou matériellement impossible (pour des motifs techniques d'exécution). Ils sont donc admis provisoirement en Suisse.
+C'est l'Office fédéral des migrations (ODM) qui est compétent pour les décisions d'autorisation de séjours dans les deux cas.
+Procédure
+Accueil et prise en charge des requérants d'asile
+Les requérants d'asile sont attribués au canton de Neuchâtel par l'Office fédéral des migrations (ODM) selon une clé de répartition qui correspond à 2,4% du total des requérants d'asile déposant une demande d'asile en Suisse.
+A leur arrivée dans le canton, les requérants d'asile sont logés par le SMIG dans un centre de 1er accueil à Couvet ou à Fontainemelon, en hébergement collectif.
+Après plusieurs semaines passées dans un tel centre, nécessaires pour y acquérir quelques connaissances de la langue française ainsi que les us et coutumes suisses, ces personnes sont hébergées en appartements, sous la responsabilité de bureaux de second accueil (situés à Neuchâtel et à la Chaux-de-Fonds) qui les encadrent et les aident dans leur vie quotidienne. Le but est que ces personnes s'intègrent le plus rapidement possible à la vie locale et helvétique.
+Pour les personnes sans droit de résider en Suisse à la suite d'une procédure d'asile (requérants d'asile déboutés ou personnes frappées d'une décision de non-entrée en matière), la tâche du SMIG consiste à leur fournir l'aide d'urgence au sens de l'article 12 de la Constitution fédérale, à savoir une aide minimale qui comprend de la nourriture, un logement, des vêtements et, si nécessaire, des soins médicaux.
+Assistance et prise en charge des réfugiés statutaires
+Les réfugiés statutaires au bénéfice d'une autorisation annuelle de séjour (permis B) et les réfugiés admis à titre provisoire (permis F) reçoivent des prestations identiques à celles attribuées aux bénéficiaires de l'aide sociale domiciliés dans le canton. Le Service des migrations de l'Etat de Neuchâtel (SMIG) et les œuvres d'entraide neuchâteloises (Caritas et CSP) ont signé un mandat de prestations relatif à la gestion des dossiers de l'aide sociale de ces personnes. Par cette convention, l'œuvre d'entraide
+s'engage à assumer un mandat social à l'égard des personnes qui répondent aux conditions et critères fixés pour l'obtention d'une aide sociale;
+met en place, selon les directives de l'Office fédéral des Migrations (ODM) et, le cas échéant, selon les directives complémentaires du SMIG, les instruments nécessaires à l'exécution des prestations et au contrôle de la qualité des prestations;
+vérifie que les moyens financiers mis à sa disposition soient utilisés avec efficacité et dans un souci de bonne gestion.
+Mesures d'intégration sociale et accès au marché du travail
+Comme tout citoyen helvétique, une personne de l'asile devrait avoir pour objectif de devenir indépendante financièrement de l'aide sociale en accédant à une activité professionnelle lui permettant d'être autonome.
+Le SMIG veille à ce que chaque personne de l'asile mette tout en œuvre pour développer et compléter ses compétences professionnelles afin d'atteindre cet objectif. Le SMIG aide les personnes en difficultés à se positionner sur le marché du travail et à y accéder par le biais de cours de langues et d'une formation adaptée.
+Ce travail s'effectue dans le cadre d'une collaboration interinstitutionnelle au sein de l'Etat et en partenariat avec le Service de la cohésion multiculturelle (COSM).
+Programme intercantonal de formation
+Selon les statuts qui sont entrés en vigueur le 1.1.2002, l'Association PROFORA BEJUNE a les buts suivants :
+La mise sur pied et la gestion de programmes de formation en faveur des requérants d'asile séjournant dans les cantons de Berne (partie francophone), Neuchâtel et JURA.
+L'association peut également mettre sur pied d'autres programmes en cas d'intérêt commun.
+Au besoin, elle peut collaborer avec d'autres organisations dont le domaine d'activités est similaire ou complémentaire.
+Sources
+Service des migrations
+9 Adresses
+Centre d'enregistrement et de procédure de Vallorbe CEP (Vallorbe)
+Service des migrations (Neuchâtel)
+Lois et Règlements
+Arrêté cantonal concernant l'application de la législation fédérale sur l'asile du 9 mai 2001
+Sites utiles
+Centre social protestant
+Caritas
+Association Profora BEJUNE
+Organisation Internationale pour les Migrations (OIM) Service des migrations
+
+Généralités
+Le droit d'asile est réglé par le droit fédéral: se référer à la fiche fédérale.
+L'organisation de l'accueil et l'exécution des tâches d'assistance relèvent de la compétence des cantons.
+Descriptif
+Le séjour dans le canton
+Lorsqu'un requérant d'asile est autorisé à rester en Suisse pendant la procédure d'asile, le Secrétariat d'État aux migrations (SEM) lui assigne un canton de résidence sur la base d'une clé de répartition intercantonale. Cette décision n'est pas susceptible de recours.
+Le droit au regroupement familial est limité au conjoint et aux enfants mineurs ainsi qu'aux personnes liées par un partenariat enregistré (LPart).
+Lorsqu'il quitte le Centre d'enregistrement et de procédure (CEP) de Vallorbe, le requérant d'asile est adressé à l'Hospice général qui est chargé de l'hébergement (voir fiche Aide sociale). Les montants versés au titre de l'aide sociale par le canton sont remboursés par la Confédération sur la base d'un forfait global.
+Les requérants d'asile sont assurés auprès d'une caisse maladie dès leur entrée en Suisse pour l'assurance obligatoire des soins selon la LAMal. S'ils sont économiquement indépendants, ils sont tenus de s'assurer.
+La loi sur l'asile prévoit l'interdiction de travailler pendant les trois premiers mois.
+Après ce délai, les requérants d'asile peuvent demander une autorisation de travailler auprès de l'Office cantonal de la population et des migrations. Ils sont assujettis à la taxe spéciale au sens de l'art. 86 de la loi fédérale sur l'asile, s'ils possèdent des valeurs patrimoniales. Cette taxe est destinée à la couverture des frais de procédure, d'aide sociale et de retour. A noter que depuis le 1er janvier 2018, le salaire ne fait plus l'objet d'une retenue au titre de la taxe spéciale.
+Pour les requérants d'asile non actifs, les cotisations à l'AVS sont suspendues (depuis le 1er janvier 2007).
+L'aide d'urgence
+Pendant son séjour dans le canton, la personne frappée d'une décision de non entrée en matière, tout comme la personne déboutée de sa demande d'asile, a droit à des prestations d'aide d'urgence, si elle se trouve dans une situation de détresse et n'est pas à même de subvenir à ses besoins vitaux par ses propres moyens.
+Les prestations d'aide d'urgence (cf. articles 24 à 29F RIASI) comprennent un lieu d'hébergement collectif, la nourriture, la mise à disposition de quoi se vêtir et se laver, les soins de santé indispensables et les prestations de première nécessité en cas de besoin établi. Les personnes déboutées reçoivent un montant forfaitaire de Fr. 10.- par jour (modulé en fonction de la composition du groupe familial) pour couvrir leurs frais de nourriture. Elles bénéficient d'une couverture d'assurance-maladie obligatoire auprès d'un assureur faisant partie du réseau de soins asile.
+Ces prestations sont subsidiaires à toute autre aide.
+A Genève, l'Hospice général est chargé du traitement des demandes d'aide d'urgence. Le demandeur d'aide doit être en situation de détresse et ne pas être en mesure de subvenir à ses besoins. Il doit par ailleurs s'annoncer à l'Office cantonal de la population et des migrations pour identification.
+Procédure
+Procédure à l'aéroport
+Lorsque le requérant d'asile dépose sa demande à l'aéroport, il a droit de faire appel à un tiers autorisé qui a accès à la zone de transit et pourra apporter l'aide nécessaire. A Genève, il s'agit des aumôniers de l'AGORA.
+La personne concernée est informée qu'elle a le droit de faire appel à un mandataire. Dans ce but, la police met à sa disposition une liste de mandataires ou avocats, un appareil téléphonique et, en cas de besoin, organise un traducteur. Le mandataire doit pouvoir s'entretenir librement avec la personne concernée, assisté au besoin par un traducteur (F 1 05 art. 52 et F 1 05.01 art. 14).
+Migrants victimes de torture et de violence
+L'orientation et la prise en charge des victimes de torture sont effectuées par la Consultation pour victimes de torture et de guerre (CTG) du Département de médecine communautaire, de premier recours et des urgences des HUG.
+Recours
+La décision refusant l'asile peut faire l'objet d'un recours dans un délai de 30 jours auprès du Tribunal administratif fédéral (TAF). En cas de décision de non-entrée en matière, le délai de recours est de 5 jours ouvrables (art. 108 de la loi fédérale sur l'asile).
+Les services d'aide aux réfugiés peuvent apporter des conseils et une aide juridique. Le recours a en principe un effet suspensif; le requérant peut donc rester en Suisse pendant sa durée, ou en tout cas demander la restitution du délai suspensif. La procédure n'est pas gratuite.
+Si la décision de renvoi est définitive et exécutoire, l'Office cantonal de la population retire le permis «N» et remet à l'intéressé une attestation d'aide d'urgence, si la personne en fait la demande. Cette attestation peut être prolongée en fonction des possibilités de renvoi. Une demande de prolongation de délai de départ peut être faite, notamment pour des raisons médicales.
+Après la fin de la procédure, si le renvoi doit être exécuté, le Bureau d'aide au départ de la Croix-Rouge peut être consulté pour résoudre les problèmes financiers, juridiques et personnels liés au retour.
+9 Adresses
+Croix-Rouge Genevoise - Bureau d'aide au départ (Genève)
+Secrétariat d'Etat aux migrations SEM (Berne-Wabern)
+Hospice général (Genève 3)
+Centre Social Protestant (CSP) (Genève 8)
+Consultation pour victimes de torture et de guerre (CTG), Département de médecine communautaire, de premier recours et des urgences (Genève)
+Aumôniers de l'AGORA (Vernier)
+Office cantonal de la population et des migrations (Genève 2)
+Centre d'enregistrement et de procédure (CEP) (VALLORBE)
+Lois et Règlements
+Loi sur l'insertion et l'aide sociale individuelle (LIASI)
+Règlement d'exécution de la loi sur l'insertion et l'aide sociale individuelle (RIASI)
+Sites utiles
+La clé - répertoire d'adresses
+Généralités
+Le droit d'asile et le statut de réfugié sont exclusivement réglés par des dispositions fédérales. Il y a donc lieu de se référer à la fiche fédérale y relative.
+L'organisation de l'accueil et des tâches d'assistance des requérants d'asile et des réfugiés est toutefois partiellement définie à l'échelon cantonal, quand bien même ces prestations sont assumées financièrement en partie par la Confédération.
+Descriptif
+Les requérants d'asile sont des personnes qui ont fui leur pays et demandé la protection de la Suisse. Les requérants d'asile n'ont pas encore obtenu le statut de réfugié. Ils sont donc dans l'attente du résultat de leur procédure d'asile.
+En application de la loi fédérale sur l'asile, le canton de Fribourg a l'obligation d'accueillir, d'encadrer et d'héberger environ 3,3% des personnes ayant déposé une demande d'asile en Suisse. Par convention, le Conseil d'Etat a confié cette tâche à l'organisation ORS service AG. Par une autre convention, le Conseil d'Etat a confié l'assistance des réfugiés et des réfugiées domiciliées dans le canton et au bénéfice d'une autorisation d'établissement à Caritas-Fribourg.
+Les autorités cantonales en matière d'asile sont nombreuses :
+Le Conseil d'Etat exerce la haute surveillance en la matière. Il décide notamment des prestations à fournir par les communes ainsi que de la création de centres d'accueil.
+La Direction de la sécurité et de la justice (DSJ) arrête toutes les mesures nécessaires en matière de police. Le Service de la population et des migrants (SPoMi) reçoit les personnes sollicitant l'asile qui ont été attribuées au canton. Il est chargé des auditions et de l'octroi de l'autorisation d'exercer une activité lucrative.
+La Direction de l'économie et de l'emploi (DEE) arrête toutes les mesures nécessaires en matière d'activité lucrative. Le Service public de l'emploi (SPE) rend la décision préalable à l'octroi d'une autorisation d'exercer une activité lucrative, émet un préavis en cas de prolongation de l'autorisation.
+La Direction de la santé et des affaires sociales (DSAS) arrête toutes les mesures qui ont trait à l'aide sociale et à la santé, notamment l'accueil, l'encadrement et l'affiliation à la caisse-maladie des requérantes d'asile et des personnes au bénéfice d'un statut de réfugié. Le Service de l'action sociale (SASoc) fournit l'assistance aux personnes qui séjournent dans le canton (OAs art.8 al.1).
+Le Service du médecin cantonal organise le contrôle sanitaire des requérants et des personnes à protéger qui n'y ont pas été soumis lors de leur entrée en Suisse. (OAs art.9 al.1)
+La Police cantonale procède à la fouille des requérants dans les cas prévus par la loi fédérale sur l'asile et prend les mesures d'identification nécessaires lorsque celles-ci n'ont pas été exécutées dans un centre d'enregistrement ou dans un autre canton. (OAs art.10 al.1)
+Procédure
+Audition des personnes sollicitant l'asile
+La personne qui sollicite l'asile est convoquée au moyen d'une lettre recommandée indiquant la date, l'heure et le lieu de l'audition ainsi que ses droits. Si la personne ne se présente pas à l'audition, une deuxième convocation lui est notifiée.
+Affiliation à l'assurance maladie obligatoire
+Les personnes sollicitant l'asile et les personnes admises à titre provisoire sont soumises à l'assurance maladie et accident obligatoire.
+Activité lucrative et prise en charge des frais d'assistance
+Les personnes sollicitant l'asile et les personnes admises à titre provisoire sont tenues, dès lors qu'elles exercent une activité professionnelle et qu'elles touchent un salaire qui le permet, de prendre à leur charge les frais d'assistance (frais d'entretien, d'hébergement, de primes d'assurance maladie, etc.).
+Requérants d'asile mineurs non accompagnés (RMNA)
+Lorsqu'un requérant d'asile mineur non accompagné (RMNA) est attribué à un canton, le Service de l'enfance et de la jeunesse (SEJ) a la responsabilité de nommer immédiatement une personne de confiance, chargée de représenter les intérêts du mineur pendant la durée de la procédure. Le rôle de la personne de confiance s'éteint dès la nomination du tuteur ou du curateur ou lorsque le jeune atteint la majorité.
+Assistance fournie aux personnes réfugiées et domiciliées dans le canton
+L'assistance englobe le domaine de l'aide personnelle et matérielle ainsi que les prestations spéciales contribuant à favoriser l'intégration sociale et professionnelle. Une fois l'examen de la situation et des conditions de vie de la personne réfugiée évaluée, Caritas établit un devis d'assistance.
+Sources
+Banque de données de la législation fribourgeoise
+9 Adresses
+Service de la population et des migrants SPoMi (Granges-Paccot)
+Service de l'action sociale (SASoc) (Fribourg)
+Caritas Fribourg (Fribourg)
+ORS Service AG (Villars-sur-Glâne)
+Lois et Règlements
+Ordonnance du 26 novembre 2002 sur l'asile (OAS)
+Ordonnance du 11 novembre 2003 sur la désignation de l'organe chargé de représenter les requérants d'asile mineurs non accompagnés (personne de confiance)
+Ordonnance du 23 avril 2002 sur la répartition dans le canton des requérants d'asile, des personnes admises à titre provisoire et des personnes à protéger sans autorisation de séjour
+Sites utiles
+Service de l'action sociale (SASoc) - Asile
+Service de la population et des migrants (SPoMi) - Asile ORS service ag, Fribourg
+Caritas Fribourg
+Généralités
+Se référer à la fiche fédérale correspondante, et aux fiches :
+fédérale et cantonale sur les travailleurs étrangers en Suisse,
+fédérale et cantonale sur les mesures de contraintes.
+Descriptif
+La politique d'asile est une tâche de la Confédération. Les cantons ont pour mission l'exécution de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers concernant l'assistance, l'aide d'urgence, l'intégration, l'aide au retour et les renvois ordonnés par la Confédération. Au niveau cantonal, la mise en oeuvre de la politique fédérale en matière d'asile relève à la fois du Département de l'économie, de l'innovation et du sport (DEIS) - notamment en ce qui concerne la prise en charge des requérants d'asile, des personnes au bénéfice d'une admission provisoire ainsi que des personnes à l'aide d'urgence - et du Département de la santé et de l'action sociale (DSAS) en particulier pour ce qui est de la prise en charge des réfugiés.
+Aide sociale, assistance et aide d'urgence
+Les personnes démunies de moyens bénéficient des prestations d'assistance reconnues par la loi (hébergement, aide financière, encadrement, etc). Les requérants d'asile et les admis provisoires intègrent le dispositif mis en place par l'Etablissement vaudois d'accueil des migrants (EVAM), les réfugiés celui du Centre social d'intégration des réfugiés (CSIR).
+L'aide sociale, notamment les prestations financières du Revenu d'insertion de la LASV, est réservée aux réfugiés. L'assistance, notamment les prestations financières prévues par les normes de la LARA, est réservée aux demandeurs d'asile. Sous cette dénomination on regroupe les requérants d'asile en procédure, c'est-à-dire en attente d'une décision sur leur demande d'asile et les personnes au bénéfice d'une admission provisoire. Les personnes qui font l'objet d'une décision de renvoi exécutoire ne peuvent prétendre qu'à l'aide d'urgence.
+Règlement des conditions de séjour et documents de voyage
+Le Service de la population (SPOP) est responsable de la délivrance des titres de légitimation et des autorisations de séjour ou d'établissement. Ces documents ne sont valables que dans le canton qui les a délivrés et le changement de canton est toujours soumis à autorisation.
+Les requérants d'asile sont titulaires d'un titre de légitimation valable en principe 6 mois (livret N). Les personnes au bénéfice d'une admission provisoire sont titulaires d'un titre de légitimation valable en principe une année (livret F).
+Les réfugiés sont généralement titulaires d'une autorisation de séjour annuelle (livret B) et peuvent obtenir une autorisation d'établissement après 10 ans de séjour en Suisse (livret C), voire plus tôt, si les conditions de l'art. 34, alinéa 4 LEtr sont remplies. Certains réfugiés bénéficiant uniquement d'une admission provisoire reçoivent le livret F au lieu du livret B. Leur qualité de réfugié est expressément mentionnée à l'intérieur du livret. Les apatrides disposent d'une autorisation de séjour dès la reconnaissance de leur statut par la Suisse et ont droit à une autorisation d'établissement après cinq ans de séjour en Suisse (art. 31 LEtr).
+Les personnes faisant l'objet d'une décision de renvoi exécutoire ne reçoivent pas de pièce de légitimation. Lorsqu'elles font valoir leur droit aux prestations minimales de l'aide d'urgence garanties par l'art. 12 de la Constitution fédérale, elles reçoivent uniquement une décision d'octroi ou de refus de l'aide d'urgence.
+Les documents susmentionnés ne peuvent pas être utilisés comme titre de voyage. Par voie de conséquence, les personnes concernées qui souhaitent se rendre à l'étranger doivent requérir auprès du SPOP l'autorisation et le document de voyage suisse de remplacement. Pour un aperçu des différents types de livrets, se référer à l'adresse internet suivante : www.bfm.admin.ch/bfm/fr/home/themen/aufenthalt/nicht_eu_efta.html
+Activité lucrative
+Le SPOP est responsable de la délivrance des autorisations d'emploi eu égard à la décision rendue par l'unité de contrôle du marché du travail et de protection des travailleurs (CMTPT) du Service de l'emploi (SDE).
+Conformément aux dispositions du droit fédéral, les requérants d'asile ne sont pas autorisés à travailler pendant les trois premiers mois qui suivent le dépôt de leur demande (art. 43 LAsi), alors que les personnes qui déposent une demande d'asile multiple au sens de l'art. 111c LAsi n'ont pas accès au marché du travail jusqu'à ce que la Confédération se soit prononcée sur leur demande. Au terme de la procédure d'asile, les requérants déboutés faisant l'objet d'une décision de renvoi exécutoire ne sont plus autorisés à exercer une activité lucrative.
+L'octroi d'une autorisation d'exercer une activité lucrative, comme son renouvellement, n'est assorti d'aucun émolument pour l'employeur lorsque l'employé est au bénéfice d'une admission provisoire. De plus, à partir du 1er janvier 2018 les requérants d'asile et les admis provisoires ne sont plus assujettis à la taxe spéciale de 10% sur le revenu de leur activités lucrative, ainsi que cela était déjà le cas pour les réfugiés. Pour ces derniers, la prise d'emploi ou le changement d'employeur demeure sujette à un contrôle de la part de l'autorité qui est appelée à vérifier les conditions de rémunération et de travail (cf. art. 65 OASA : www.admin.ch/ch/f/rs/142_201/a65.html)
+Assurance maladie et accidents et accès aux soins
+Les personnes relevant du domaine de l'asile et des réfugiés sont affiliées à l'assurance obligatoire des soins dès le dépôt de leur demande d'asile (art. 7 al. 5 OAMal). Ils sont soumis à une limitation quant au choix de l'assureur mais gardent, par contre, le libre choix du fournisseur de soins. En ce qui concerne les primo-arrivants leur prise en charge sanitaire est organisée sous la forme d'un réseau de santé et de migration - (RESAMI) géré par la Policlinique médicale universitaire de Lausanne (PMU) et composé de l'Unité de Soins aux Migrants (USMI) de la PMU ainsi que de quelques 130 médecins en libre pratique (généralistes, internistes et pédiatres) collectivement désignés en tant que médecins de premier recours (MPR) et d'organismes de premier recours (OPR) tels que les hôpitaux de zones et le CHUV.
+Assurances sociales (AVS/AI/PC)
+Les personnes relevant du domaine de l'asile et des réfugiés sont assujettis à l'AVS et à l'AI et ont droit aux prestations reconnues aux mêmes conditions que les ressortissants suisses, en fonction donc de l'exercice d'une activité lucrative ou de la domiciliation.
+Scolarisation et bourses d'études
+Les enfants en âge de scolarité obligatoire (6-16 ans) suivent l'école dans les établissements de la commune de domicile. Conformément à la loi sur l'aide aux études et à la formation professionnelle (LAEF), les réfugiés peuvent obtenir une allocation aux études, ainsi que les personnes admises à titre provisoire dont les parents ne dépendent pas des prestations d'assistance prévues par la LARA. Les requérants d'asile sont par contre exclut du champ d'application de la LAEF. Dans tous les cas, l'examen des conditions financières entre en ligne de compte pour établir le droit à la prestation.
+Mesures d'intégration
+Le canton a mis en place un dispositif varié de mesures visant à promouvoir l'intégration des étrangers et la prévention du racisme. A l'intention des réfugiés et des admis provisoires, en particulier l'offre comporte des programmes de formation, d'orientation et d'occupation visant essentiellement l'insertion sur le marché du travail et l'apprentissage de la langue. La coordination de l'ensemble du dispositif est assurée par le Bureau cantonal pour l'intégration des étrangers et de la prévention du racisme (BCI) rattaché au SPOP.
+Aides et conseils en vue du retour
+Le bureau cantonal d'aide au retour rattaché à la "Division asile et retour" du SPOP propose, dans le cadre d'entretiens confidentiels et sans engagement de la part des personnes intéressées, une écoute et des conseils pour la préparation d'un projet de retour, dans le contexte duquel une aide financière et/ou matérielle peut être octroyée.
+Exécution des renvois et mesures de contrainte
+Les décisions de renvoi prononcées à l'encontre d'un étranger sont exécutées par le SPOP. Dans le cadre des démarches visant à l'organisation du départ, le SPOP peut décider d'une mesure de contrainte en vue du renvoi. A cet effet, les cantons de Vaud, Neuchâtel et Genève ont signé un concordat réglant les conditions de la détention administrative de personnes de nationalité étrangère.
+Le bien-fondé d'une détention doit être examiné par le Tribunal des mesures de contraintese (TMC) dans un délai de 72 heures.
+Procédure
+Une fois que l'autorité fédérale a enregistré la demande d'asile d'un requérant, elle l'attribue à un canton.
+Le requérant attribué au canton de Vaud intègre un dispositif de séjour articulé en deux phases, géré par l'EVAM. Au commencement, les personnes sont hébergées dans un centre d'hébergement collectif dédié à la phase d'Accueil et Socialisation d'une durée de six mois environ. Au cours de cette période, les primo-arrivants fréquentent des cours de langue et des modules de sensibilisation au mode de vie en Suisse ainsi que des programmes d'occupation. Avec la deuxième phase de Séjour, les personnes sont en principe réparties dans des foyers ou des logements individuels distribués sur le territoire vaudois et sont incitées à entreprendre une activité lucrative en vue de laquelle des prestations de bilan, conseil et orientation sont mises à leur disposition. Les personnes qui, au terme de la procédure d'asile, se trouvent à l'aide d'urgence, reçoivent en principe une aide minimale en nature dans des structures d'hébergement collectif et restent assurées selon la LAMal conformément à l'art. 9 RLARA. Des exceptions en matière de logement sont prévues pour les personnes se trouvant en situation de vulnérabilité (malades chroniques, familles avec enfants, mineurs non accompagnés, etc.).
+Les personnes auxquelles la Confédération reconnaît la qualité de réfugié quittent le dispositif de l'EVAM pour rejoindre celui du SPAS caractérisé par des normes d'aide sociale plus élevées.
+Aide sociale, assistance et aide d'urgence - proc
+La délivrance des aides en espèces et en nature prévue par la LARA en faveur des requérants d'asile et des personnes au bénéfice d'une admission provisoire ou de l'aide d'urgence est assurée par l'EVAM, établissement de droit public subventionné par l'Etat de Vaud. Au niveau du DSAS, le CSIR, rattaché au Service de prévoyance et d'aide sociales (SPAS), s'occupe de la prise en charge des réfugié-e-s titulaires d'un livret B/C/F et ce pendant 5 ans (ou 7 pour les permis F) à compter de la date d'entrée en Suisse. Conformément à la LASV, les réfugiés perçoivent les prestations sociales et financières du Revenu d'insertion destinées à développer et assurer l'intégration socio-professionnelle des bénéficiaires.
+Les prestations relevant de la LARA et de la LASV sont allouées sur demande de la part du bénéficiaire et leur octroi est soumis à l'examen des conditions de ressources et du principe de la subsidiarité.
+Règlement des conditions de séjour et documents de voyage- proc
+Le premier document (permis N, F ou B réfugié) est établi au moment de l'arrivée de la personne dans le canton. Pour le renouvellement des documents, les personnes s'adressent au Contrôle des habitants de la commune de domicile. Font exception à cette règle les personnes à l'aide d'urgence qui continuent de s'adresser au Service de la population.
+En ce qui concerne l'obtention d'un document de voyage pour étranger, les personnes intéressées doivent en faire la demande au Service de la population qui soumet ensuite le dossier au Secrétariat d'Etat aux migrations.
+Un passeport pour étrangers peut être établi en faveur d'un requérant d'asile, d'une personne à protéger, d'une personne admise à titre provisoire ou d'un étranger mais titulaire d'une autorisation de séjour ou d'une carte de légitimation qui sont dépourvus de document de voyage. Un certificat pour étrangers peut être établis en faveur d'un requérant d'asile s'il vise à préparer un départ définitif de Suisse. Un visa de retour peut être établi aux personnes à protéger et les personnes admises à titre provisoire qui disposent d'un document de voyage émis par leur Etat d'origine, ou de provenance et reconnu par la Suisse.
+Pour de plus amples renseignements concernant les documents de voyage et la procédure pour les obtenir, se référer à la page web du Service de la population.
+Activité lucrative - proc
+Avant tout engagement d'un titulaire de permis N, F ou B réfugié, les employeurs sont tenus de déposer une demande d'autorisation d'emploi directement au SDE sans passer par les bureaux communaux de contrôle des habitants. Après instruction de la demande par rapport au droit à l'exercice d'une activité lucrative (compétence SPOP) et au respect des garanties contractuelles pour la protection des travailleurs (compétence du SDE), l'employeur est informé-e de l'octroi ou du refus d'autorisation. Dans l'intervalle entre le dépôt de la demande d'autorisation et l'octroi ou le refus de celle-ci, les personnes au bénéfice d'une admission provisoire sont autorisées à exercer leur activité.
+Assurance maladie et accidents et accès aux soins - proc
+Le canton assure les requérants d'asile, les personnes admises à titre provisoire ainsi que les personnes à l'aide d'urgence auprès des caisses-maladie par l'intermédiaire d'un courtier en assurance.
+Lors de l'attribution au Canton de Vaud, les bénéficiaires des prestations de l'EVAM sont orientés vers le réseau RESAMI. Durant une période pouvant aller jusqu'à 12 mois (couvrant ainsi la phase d'Accueil et Socialisation), l'accès aux soins se fait à la suite d'une consultation effectuée au près de l'Unité de Soins aux Migrants (USMi) de la PMU. Cette période permet d'effectuer le contrôle de l'état des vaccinations, de réaliser un bilan de santé globale et, de dispenser une formation sur le système de prise en charge médico-sanitaire mis en place dans le canton. Par la suite, l'ensemble des bénéficiaires de l'EVAM ont la possibilité de continuer à utiliser les prestations du RESAMI, ou de s'adresser de manière autonome aux prestataires de soins de leur choix.
+Les réfugiés reprennent en gestion la couverture assurantielle souscrite en leur nom pendant la procédure d'asile et s'assurent par leurs propres soins à partir du 1er janvier de l'année qui suit l'octroi de la qualité de réfugié. A ce dernier effet ils sont orientés vers les caisses-maladie pratiquant les primes se situant dans la limite fixée par la prime de référence cantonale pour les personnes au bénéfice du revenu d'insertion.
+Assurances sociales (AVS/AI/PC) - proc
+L'affiliation à l'AVS/AI est adressée à la Caisse cantonale vaudoise de compensation qui vérifie les conditions requises et fixe cas échéant le niveau des cotisations à verser. Les demandes de prestations AVS sont présentées au même organe, par contre les demandes de prestations AI relèvent de la compétence de l'Office AI pour le canton de Vaud (OAI).
+Scolarisation et bourses d'études - proc
+L'enclassement dans l'école obligatoire intervient au moment de l'arrivée dans le canton, moyennant l'inscription auprès de l'établissement scolaire de la commune de domicile. Les demandes d'allocation pour l'école post-obligatoire ou la formation professionnelle sont à adresser à l'Office cantonal des bourses d'études et d'apprentissage (OCBE).
+Mesures d'intégration - proc
+Les personnes intéressées à connaître l'offre disponible en matière de mesures d'intégration peuvent s'adresser au Bureau cantonal pour l'intégration des étrangers et de prévention du racisme (BCI). Les projets sont répertoriés dans un catalogue en ligne. La Déléguée à l'intégration agit comme répondante aussi bien pour les communes, l'administration cantonale et la Confédération que pour les particuliers et les associations. Les personnes au bénéfice d'une admission provisoire peuvent aussi s'adresser à l'EVAM, et les personnes ayant la qualité de réfugié peuvent s'adresser également au CSIR.
+Aides et conseils en vue du retour - proc
+Les personnes dont le séjour dans le canton relève de la loi fédérale sur l'asile (titulaire de permis N, F, B réfugié), les personnes étrangères sans autorisation de séjour qui ont séjourné de manière continue sur le territoire du canton de Vaud depuis au moins six mois ainsi que les étrangers au bénéfice du revenu d'insertion peuvent s'adresser au Bureau cantonal d'aide au retour pour s'informer sur les aides disponibles en cas de départ définitif de Suisse.
+Exécution des renvois et mesures de contrainte - proc
+Les personnes frappées d'une décision de renvoi passée en force sont tenues de quitter la Suisse d'elles-mêmes avant l'expiration du délai de départ qui leur est imparti par la Confédération. A cet effet, l'autorité cantonale, en l'occurrence la "Division asile et retour" du SPOP, informe les personnes concernées de leurs obligations et des aides auxquelles elles peuvent accéder auprès du Bureau cantonal d'aide au retour ainsi que des conséquences d'un manquement à leurs devoirs pouvant entraîner l'application de mesures coercitives. L'organisation du départ, allant de l'obtention de documents de voyage à la réservation d'un vol, est effectuée par le SPOP. Lorsque la personne astreinte à l'obligation de quitter la Suisse refuse de partir, le canton peut ordonner l'application des mesures de contraintes, en particulier la détention en vue de l'exécution du renvoi.
+Sources
+Recueil systématique de la législation vaudoise
+9 Adresses
+Bureau cantonal pour l'intégration des étrangers et la prévention du racisme (BCI) (Lausanne)
+Bureau cantonal d'aide au retour - Service de la population (Lausanne)
+Service de la population - Division asile et retour (Lausanne)
+Centre social d'intégration des réfugiés - CSIR (Lausanne)
+Lois et Règlements
+Loi du 11 septembre 1973 sur l'aide aux études et à la formation professionnelle (LAEF)
+Loi du 2 décembre 2003 sur l'action sociale vaudoise (LASV)
+Loi du 7 mars 2006 sur l'aide aux requérants d'asile et à certaines catégories d'étrangers (LARA)
+Loi du 23 janvier 2007 sur l'intégration des étrangers et sur la prévention du racisme (LIEPR)
+Règlement d'application du 19 décembre 2007 de la loi du 23 janvier 2007 sur l'intégration des étrangers et la prévention du racisme (RLIEPR)
+Règlement du 3 décembre 2008 sur l'assistance et l'aide d'urgence octroyées en application de la loi sur l'aide aux requérants d'asile et à certaines catégories d'étranger (RLARA)
+Sites utiles
+Policlinique médicale universitaire - Centres de santé infirmiers Etablissement Vaudois d'Accueil des Migrants
+Service de l'emploi
+Service de la population du canton de Vaud
+Service de la prévoyance et de l'aide sociales

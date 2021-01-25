@@ -1,0 +1,81 @@
+﻿<Header>
+	<title>
+		<tit> Questions-réponses à l'usage des détenteurs de permis F (Admission provisoire) </tit>
+		<fileName> QRUDP_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Swiss) </language>
+		<source> https://www.osar.ch/aide.html </source> 
+		<publisher> Organisation Suisse D'aide Aux Réfugiés </publisher>
+		<pubDate> Apr, 2013 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Organisation Suisse D'aide Aux Réfugiés </institution>
+	</author>
+</Header>
+Questions-réponses à l'usage des détenteurs de permis F (Admission provisoire)
+Remarque préalable:
+Terminologie :
+Permis F = «admission provisoire»
+Permis B = «autorisation de séjour»
+Permis C = «autorisation d'établissement»
+En général, les personnes titulaires d'un passeport pour réfugié (réfugiés reconnus) bénéficient d'un permis B ou C. Mais certaines d'entre elles ne reçoivent qu'un permis F.
+Puis-je faire venir mon conjoint et mes enfants en Suisse?
+Permis F pour les étrangers admis à titre provisoire (demande d’asile rejetée, mais obstacles au renvoi)
+La personne admise provisoirement peut faire venir les autres membres de sa famille en principe qu'après trois ans après l'admission, à condition qu'elle dispose d'un logement assez grand et qu'elle ne soit pas dépendante de l'aide sociale. La demande doit être déposée auprès de l’autorité cantonale compétente. (www.admin.ch/ch/f/rs/142_20/a85.html) (Article 85 al. 7 LEtr)
+Par contre, si les membres de famille se trouvent déjà dans notre pays, ils obtiendront eux aussi une admission provisoire.
+Permis F pour les réfugiés admis à titre provisoire (selon la Convention de Genève relative au statut des réfugiés)
+Si les membres de la famille de la personne admise à titre provisoire sont en danger, ils peuvent déposer une demande de visa pour des raisons humanitaires auprès d'une ambassade suisse. (http://www.admin.ch/ch/f/rs/142_204/a2.html)
+Sinon, la personne admise provisoirement peut faire venir les membres de sa famille que trois ans après son admission provisoire, à condition qu'elle dispose d'un logement assez grand et qu'elle ne soit pas dépendante de l'aide sociale. La demande doit être déposée auprès de l’autorité cantonale compétente.
+(www.admin.ch/ch/f/rs/142_20/a85.html) (Article 85 al. 7 LEtr)
+Puis-je travailler en Suisse ?
+Etrangers admis à titre provisoire (www.admin.ch/ch/f/rs/142_20/a85.html) (Article 85 al. 6 LEtr) http://www.admin.ch/ch/f/rs/142_201/a53.html (Art. 53 OASA)
+Les autorités cantonales peuvent autoriser une activité lucrative des personnes admises provisoirement, indépendamment de la situation sur le marché du travail.
+En plus des autres impôts, la personne admise à titre provisoire qui exerce une activité lucrative doit s’acquitter d’une taxe spéciale qui s’élève à 10 % de son revenu. La perception prend fin après dix ans ou dès qu’un montant de 15’000 francs est atteint, ou si la personne admise à titre provisoire reçoit une autorisation de séjour ou est reconnu comme réfugié, ou encore s’il bénéficie d’une admission provisoire depuis trois ans, mais au plus tard sept ans après son entrée en Suisse.
+Réfugiés admis à titre provisoire (www.admin.ch/ch/f/rs/142_31/a61.html)
+Une autorisation d'avoir une activité indépendante ou dépendante est délivrée sans égard à la situation du marché du travail.
+Le réfugié n’a pas à s’acquitter d’une taxe spéciale en plus des impôts ordinaires.
+Puis-je déménager ou m’installer dans un autre canton ?
+Etrangers admis à titre provisoire
+(www.admin.ch/ch/f/rs/142_20/a85.html)
+(Article 85 al. 3-4 LEtr)
+Un déménagement hors du canton de domicile peut être accordé pour que toute la famille (parents, enfants mineurs) puisse vivre ensemble. Un changement pour d'autres raisons n'est accordé qu'exceptionnellement. En tout cas, il faut déposer une demande auprès de l’Office fédéral des migrations.
+L’admission provisoire est valable dans le canton dans lequel a séjourné la personne.
+Le lieu de séjour peut être choisi librement sur le territoire de ce canton.
+Réfugiés admis à titre provisoire
+(www.admin.ch/ch/f/rs/0_142_30/a26.html)
+(Article 26 Convention sur le statut des réfugiés)
+(www.admin.ch/ch/f/rs/142_20/a37.html)
+(Article 37 al. 3 LEtr)
+(www.admin.ch/ch/f/rs/142_20/a63.html)
+(Article 63 LEtr)
+Un changement de canton est possible, excepté si la personne a été condamnée à une peine privative de liberté de longue durée ou a fait l’objet d’une mesure pénale, menace la sécurité et l’ordre publics, dépend durablement et dans une large mesure de l’aide sociale ou si de fausses déclarations ou des faits essentiels ont été dissimulés durant la procédure d’autorisation.
+La demande doit être déposée auprès de l’Office fédéral des migrations. Celui-ci entend les autorités migratoires des deux cantons.
+L’admission provisoire est valable dans le canton dans lequel a séjourné la personne.
+Le lieu de séjour peut être choisi librement sur le territoire de ce canton.
+Puis-je quitter la Suisse ?
+Etrangers admis à titre provisoire
+Les personnes admises à titre provisoire risquent une levée de l’admission provisoire en cas de retour dans leur pays d’origine. Pour effectuer un voyage dans un pays tiers, ils n’obtiennent une autorisation permettant le retour en Suisse que dans des cas exceptionnels.
+(http://www.admin.ch/ch/f/rs/143_5/a9.html)
+Note: il s’agit uniquement d’un visa de retour. Si un visa est nécessaire pour entrer dans le pays vers lequel la personne souhaite voyager, alors l’obtention de ce visa est réglée par le droit interne de l’Etat en question et sera du ressort de son ambassade.
+Si les requérant-e-s arrivent à démontrer qu’ils sont dans l’impossibilité d’obtenir un document de voyage de leur pays d’origine, alors ils peuvent obtenir un passeport pour étrangers. Informations supplémentaires sur le site Internet de l’Office fédéral des migrations: (http://www.bfm.admin.ch/content/bfm/fr/home/themen/aufenthalt/reisedokumente.html).
+En principe le permis F est révoqué si son titulaire se rend sur le territoire de son Etat d’origine.
+Réfugiés admis à titre provisoire
+(www.admin.ch/ch/f/rs/143_5/a3.html)
+Les réfugiés reconnus obtiennent un titre de voyage (passeport pour les réfugiés), leur permettant de voyager à l'étranger. Pour beaucoup de pays, ils nécessitent un visa.
+Voyages à l’étranger: Si, lors d’un séjour à l’étranger, la personne admise à titre provisoire fait l’objet d’une procédure pénale au niveau international, ou si elle est menacée d’extradition vers son pays d’origine ou de provenance, les possibilités d’intervention de la Suisse à l’étranger sont très limitées, même si la Suisse l’a reconnue comme réfugié/e politique.
+En principe, le statut de réfugié et le permis F sont révoqués si son titulaire se rend sur le territoire de son Etat d’origine.
+Puis-je demander une autorisation de séjour (permis B) ?
+(www.admin.ch/ch/f/rs/142_20/a84.html) (Article 84 al. 5 LEtr)
+Etrangers admis à titre provisoire
+Les étrangers admis provisoirement reçoivent un permis F. Après au moins cinq ans après leur entrée en Suisse, ils peuvent déposer une demande pour la transformation en permis B (autorisation de séjour) auprès de l'autorité cantonale pour les étrangers du canton de domicile. Celle-ci examinera la demande: Si elle approuve la demande, elle la transmettra à l'Office fédéral des migrations.
+Réfugiés admis à titre provisoire
+Les réfugiés admis provisoirement reçoivent un permis F.
+Après au moins cinq ans après leur entrée en Suisse, ils peuvent déposer une demande pour la transformation en permis B (autorisation de séjour) auprès de l'autorité cantonale pour les étrangers du canton de domicile. Celle-ci examinera la demande: Si elle approuve la demande, elle la transmettra à l'Office fédéral des migrations.

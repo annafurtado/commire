@@ -1,0 +1,774 @@
+﻿<Header>
+  <title>
+    <tit> A Housing Practitioners' Guide to Integrating Asylum Seekers & Refugees </tit>
+    <fileName> EN_026 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Manual </textType>
+    <subcorpus> English </subcorpus>
+  </title>
+  <sourceText>
+    <language> UK English </language>
+    <source> https://www.housing-rights.info/docs/Housing_Practitioners_Guide_to_Integrating_Asylum_Seekers_Refugees.pdf </source>
+    <publisher> Scottish Refugee Council </publisher>
+    <pubDate> 2018 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 06.09.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher>
+    <comments> </comments>
+  </sourceText>
+  <author>
+    <institution> Scottish Refugee Council </institution>
+  </author>
+</Header>
+
+The Scottish Government Riaghaltas na h-Alba
+Scotland
+Scottish refugee council
+
+A Housing Practitioners' Guide to Integrating Asylum Seekers & Refugees
+
+SECOND EDITION
+
+JAMIE STEWART, SCOTTISH REFUGEE COUNCIL
+
+Ministerial Foreword
+
+Scotland has a long history of welcoming refugees and asylum seekers from all over the world. The contribution of our refugee communities has helped make Scotland a proud, successful and diverse country.
+The Scottish Refugee Council is the lead voluntary organisation working on refugee and asylum issues in Scotland. The Scottish Refugee Council delivers support to refugees and asylum seekers, increasing public understanding of refugees and building bonds, bridges and links between local communities and refugees to aid integration and community cohesion. The Scottish Refugee Council has shown dedication and commitment towards helping asylum seekers and refugees in Scotland.
+This Guide aims to assist housing professionals working within local authorities, housing associations and the third sector to ensure they are fully aware of not only the rights of refugees, but the important contribution refugees can make to strengthen communities.
+Scotland has always been proud to welcome refugees and, with the Syrian Vulnerable Person Resettlement Programme, this guide will be a useful tool for housing practitioners across Scotland.
+Kevin Stewart MSP
+Minister for Local Government and Housing
+
+Acknowledgements
+We would like to thank Steve Mason and Nichola Hodge for their extensive and detailed work on the development of this production. We thank the following individuals and organisations who provided input into the guide: Marion Gibbs (Scottish Government), David Bookbinder (Glasgow and West of Scotland Forum of Housing Associations), Ashley Campbell, John Perry and Susanne Webster (Chartered Institute of Housing), Jean Murray (Glen Oaks Housing Association) Fi Grimmond (Salvation Army), John Davidson (Blue Triangle Housing Association) Isobel Anderson (Stirling University), Ashley Johnson (Wheatley Group), Zhan McIntyre (Scottish Federation of Housing Associations) and the Refugee Women's Strategy Group.
+We would like to thank all staff at Scottish Refugee Council who have been fundamental in the development of our knowledge and learning about the housing experience of asylum seekers and refugees in Scotland. In particular, the following colleagues provided their own expertise for the development, production and promotion of this guide: Tommy Taylor, Joe Brady, Wafa Shaheen, Elodie Mignard and Gary Christie.
+
+Contents
+
+Introduction to the Housing Practitioners' Guide
+Typical housing journeys for asylum seekers and refugees
+Accommodation and support for asylum seekers
+The move-on period
+Homelessness and housing options
+Welfare benefits and grants
+Tenancy systainment
+Supporting refugees
+
+Appendices
+
+Appendix 1: Organisations that can help
+Appendix 2: Glossary
+Appendix 3: Sample determination of asylum
+Appendix 4: English levels and abilities
+
+1. Introduction to the Housing Practitioners' Guide
+
+This Guide is for housing practitioners working in Scottish local authorities, housing associations and the third sector who are assisting the integration of asylum seekers and /or refugees. It has been written by Scottish Refugee Council with the support of Scottish Government and published with the assistance of the Chartered Institute of Housing Scotland.
+Scottish Refugee Council works to ensure that all refugees in Scotland are treated fairly, with dignity and that their human rights are respected. They provide essential information and advice through their advice services, work to empower refugee communities and campaign for policy change, raising awareness about issues that affect refugees and asylum seekers.
+The Housing Practitioners Guide was originally published in 2011. This second edition of the guide reflects the many changes that have taken place over recent years including:
+the removal of the priority need test in homelessness;
+the introduction of the duty on local authorities to provide a housing support assessment and provision of housing support for people who need it;
+the transfer of the responsibility for accommodating asylum seekers away from local authorities to private contractors (in Scotland, this is Serco); and
+the extension in 2015 of the Syrian Vulnerable Person's Resettlement Programme.
+It provides:
+essential information about the rights and entitlements of refugees in relation to housing, homelessness and welfare benefits;
+guidance and examples of good practice aimed at reducing homelessness amongst refugees and improving tenancy sustainment; and
+a practical tool with internal and external links to help you find the information you need.
+The guide will be updated regularly to reflect the ever changing environment facing asylum seekers and refugees.
+
+Key point: The focus of this guide is asylum seekers and refugees. Its contents are not relevant to other migrant groups. If you are working with other migrant groups, you can find further information on the CIH Housing Rights website.
+
+Who are asylum seekers and refugees?
+
+An asylum seeker is a person who has made a claim to be considered for refugee status and whose claim is still being considered.
+A refugee is a person who:
+“Owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his nationality and is unable or owing to such fear, is unwilling to avail himself of the protection of that country.” (1951 UN Convention relating to refugees)
+
+Types of Leave to Remain
+
+Refugees in the UK are granted protection on one of the legal grounds which entitle them to different types of status and leave to remain. The three main categories of legal status that you are likely to come across (each is described in the Glossary) are:-
+Refugee status;
+Humanitarian protection; and
+Discretionary leave to remain.
+Each status differs slightly in its legal basis and specific rights associated with it1. However, most of the individuals with these statuses hold the same legal rights to housing so are treated together for the purposes of this Guide.
+
+Routes to the UK
+
+Refugees and asylum seekers travel to the UK to escape war and persecution in their own country. However, there are a number of routes that people can take to do so. The primary way that people enter the UK is by making their own way to the UK and claiming asylum.
+Refugees can arrive directly to any area in the UK. People are expected by the Home Office to claim asylum as soon as possible. This can be done on arrival at the airport or seaport or at the Asylum Screening Unit in Croydon2 from where they will be dispersed across the UK if they do not have resources to supoprt themselves. Glasgow is currently the only dispersal area in Scotland.3
+In addition, the UK Government currently operates formalised programmes whereby people are selected by the United Nations High Commissioner for Refugees (UNHCR), mainly from refugee camps, arrangements are made for them to come to the UK and accommodation is secured through participating local authorities. The three main resettlement programmes currently resettling refugees in the UK are:
+Gateway Protection Programme: This programme started in 2004 and now seeks to resettle 750 refugees each year in the UK. To date, the largest numbers of refugees have come from the Congo, Iraq, Ethiopia and Somalia. The one participating authority in Scotland is North Lanarkshire Council where 22 Congolese families were resettled in 2007;
+The Syrian Vulnerable Person's Resettlement Programme: This programme began in 2014 but was expanded in 2015 in order to resettle 20,000 refugees between 2015 and 2020 in the UK. The Scottish Government agreed to accept 2,000 of these refugees (10%). Most Scottish local authorities are participating in the scheme 4.
+Mandate Refugee Scheme: The MRS allows refugees from around the world with close family ties with the UK to be resettled.
+Although the exact experiences of all individuals will be unique, typical housing journeys of these groups are outlined in chapter 2.
+
+Glossary
+
+A glossary of terms is provided at Appendix 2.
+In other parts of the UK
+The Guide deals with housing legislation relating to Scotland only. Information relating to England and Northern Ireland can be found here and for Wales here, and for England and Wales on the CIH Housing Rights website.
+Organisations that can help
+Appendix 1 provides details of organisations that can help asylum seekers and refugees.
+
+Key summary
+This guide will assist housing practitioners working with refugees across Scotland. Practitioners should start by familiarising themselves with the terms in this chapter and in the glossary. This provides the basis for the rest of this guide, providing the basic terminology you are likely to come across when working with refugees and asylum seekers.
+
+How to read this guide
+Practitioners can use this guidance as a tool to better educate their practice with refugees or as a reference material, using the navigable chapter headings set out in the contents page.
+
+2. Typical housing journeys for asylum seekers and refugees
+
+Housing during and after the asylum process
+
+Although no two experiences of finding housing are the same, the flowchart below sets out the basic steps that most asylum seekers will follow in their housing journey towards refugee status and settled accommodation in Scotland.
+
+Key point: This example shows the path that most refugees in Scotland will follow, mainly through Glasgow City Council. However, local authorities can adopt alternative systems in order to prevent homelessness. In any case, refugees should be offered the same housing options as any other housing applicant.
+
+Housing through resettlement
+
+The housing system for people who come through the Gateway Protection Scheme, or the Syrian Vulnerable Person's Resettlement Scheme differs from asylum housing as the individuals arrive with leave to remain. Accommodation should be arranged by the local authority prior to their arrival as per their agreement with the Home Office.
+
+There are a range of local authorities currently participating in the Syrian VPR across Scotland. Home Office contracts with local authorities do not prescribe the exact way that they should house and support people who are going through this process. Therefore, people in different areas are being housed in different ways with some Local Authorities making use of temporary accommodation, some allocating social housing and some making use of private rented housing.
+
+Key summary
+
+Practitioners should note the key differences in housing experiences of refugees who have gone through the asylum process and those going through resettlement. People's experiences of temporary Home Office accommodation and likely subsequent homelessness adds to the complexity of working with this group, potentially exacerbating existing issues related to fleeing persecution and war. Local authorities should consider ways of preventing homelessness, intervening early to reduce the impact of these processes. In any case, issues relating to refugee benefits and sustaining tenancies will affect all groups and this guide can be used as a reference material for practitioners to use depending on the stage they are interested in.
+
+4.1 Refugees arriving through Syrian VPR are granted Humanitarian Protection while those arriving through Gateway are granted Refugee Status.
+
+3. Accommodation and support for asylum seekers
+
+Dispersal
+
+The 1999 Asylum and Immigration Act and the Nationality, Immigration and Asylum Act of 2002 set out the arrangements for dispersal of asylum seekers and oblige the Home Office to provide accommodation and financial support for asylum seekers who have no other form of support.
+After they have made a claim for asylum, people are dispersed in buses to different areas within the UK - Glasgow is the only dispersal area in Scotland. People are not given any options regarding the location they will be dispersed to.
+
+Accommodation while in the asylum process
+
+Asylum seekers are not eligible for homelessness accommodation provided by a local authority5. Although they can submit a housing application to a housing association, they may not be allocated accommodation until they have leave to remain 6.
+In Scotland, the Home Office currently contracts with Serco to arrange accommodation for asylum seekers. Serco, in turn, sub-contracts this to a private letting agent, Orchard and Shipman. The accommodation arrangements and standards for asylum seekers are set out in the Home Office's Statement of Requirements for Accommodation and Transport 7. Usually, individuals will be housed for one to two weeks in specified “initial accommodation” while their claim for asylum support is processed8. They will then be moved to longer-term dispersal accommodation while their claim for asylum is being decided 9.
+The Statement of Requirements sets out that providers must:
+1. provide safe, habitable, fit for purpose and correctly equipped accommodation (including cooker, washing machine and basic utilities) to asylum seekers, ensuring that properties adhere to the standards established in the Decent Homes Standard (guidance for social housing in England);
+2. provide adequate transport to and from initial and dispersal accommodation and medical appointments; and
+3. abide by contractual management regulations at all levels, ensuring that there is a complaints procedure for those living in dispersed accommodation and that organisations report on their performance against the specified standards.
+However, the accommodation standards are less rigorous than permissible standards for temporary and permanent accommodation and it is allowed for the asylum accommodation to be sourced through shared accommodation, hostels and hotels.
+There have been many reported problems with the quality and standards of asylum accommodation and asylum seekers are often unaware of their rights to repairs and reasonable treatment10. Housing and other support providers should advise asylum seekers to report any problems with their accommodation to Orchard and Shipman in the first instance on 0141 4283260 or compassrepairs@orchard-shipman.com and signpost to one of the support agencies in appendix 1 for further help and support to pursue a complaint.
+
+Financial support and employment
+
+Asylum seekers are not entitled to mainstream non-contributory benefits such as income-based Jobseeker's Allowance, Employment and Support Allowance, Income Support and Housing Benefit11. While likely to be a rare occurrence, asylum seekers are entitled to claim contribution-based benefits (such as contribution-based Jobseeker's Allowance). This could happen, for example, where an individual had been working on a visa prior to claiming asylum.
+If they have no means of supporting themselves, asylum seekers can claim financial support from the Home Office. The support can be used for accommodation, subsistence costs or both.
+Asylum seekers are not usually allowed to be in employment but can be unpaid volunteers or in education 12.
+
+Help and support from ‘Asylum Help'
+
+The Home Office funds assistance for people seeking asylum so that they can obtain basic orientation and practical information on their arrival to their dispersed location (induction) and assistance to apply for accommodation and subsistence support. This help is provided by Asylum Help (phone 0808 8000 630).
+
+Key Point - Recognising the Rights of an Asylum Seeker
+After making an application for asylum, an individual is given an Application Registration Card which looks like this;
+
+This document does not imply that an individual has immigration status in the UK but it does confirm that a person has made an application for asylum and that they are entitled to remain in the UK while their application is assessed.
+
+What happens if an asylum seeker's claim is refused?
+
+If an asylum seeker is refused ‘leave to remain', they are likely to have a right of appeal. There are strict time limits for making an appeal and legal advice should be sought immediately in these circumstances. If an application for asylum has been refused and all rights of appeal have been exhausted, a refused asylum seeker is expected to make arrangements to leave the UK. Families with children still receive support up to the point they leave the UK and, in very limited circumstances people can apply for accommodation and cashless subsistence support can be provided if the person is unable to travel, has submitted further representation or lodged a Judicial Review, or while arrangements are being made to leave.13.
+
+Other housing options for asylum seekers and those refused asylum
+
+Currently, asylum seekers in Scotland are entitled to:
+rent properties from private landlords;
+own their own home;
+stay with friends or family who have status and, if applicable, claim “subsistence only” from the Home Office; and
+access accommodation through charities or other sources which are not allocated through the Housing (Scotland) Act 1987.
+Unlike local authorities, Registered Social Landlords in Scotland do not currently have to take account of nationality, immigration, economic or other status when allocating homes14. According to Scottish Government Guidance, asylum seekers cannot be allocated a full or short Scottish Secure Tenancy but should be entered onto a social landlord's list if they apply15.
+
+Destitution
+
+Many people who have their application for asylum refused will be unable to secure section 4 support. Many of these people will be trying to get new claims assessed or their efforts to have their claims looked at again will have been delayed. This leaves people with little recourse to formal support. Such individuals should be referred firstly to a solicitor to see if their case can be looked at again and, secondly, to local charities such as the ones listed in appendix 1 for basic support16. In particular, Scottish Refugee Council/ Refugee Survival Trust operate a specialist service for destitute asylum seekers.
+
+Health and social care
+
+In Scotland 17, anyone who has made a formal application for asylum, whether pending or unsuccessful, is entitled to health care on the same basis as a UK national resident.
+Social Work services are not public funds so there is no general exclusion from these services for new arrivals, asylum seekers or people whose application has been unsuccessful. In particular, there is no restriction on when social workers can intervene under the Children's (Scotland) Acts. However, asylum seekers are not entitled to general social work services or residential care under Social Work (Scotland) Act 1968 or services under Mental Health (Scotland) Act 1984 if those needs arise because the person is destitute or because of the physical effects or anticipated physical effects of the person's destitution18. Any other needs should be assessed and met in the same way as any other applicant.
+
+Organisations that can help asylum seekers
+Appendix 1 provides details of a number of organisations that can provide help.
+
+Key summary
+
+There are a number of ways that housing practitioners may come into contact with people in the asylum process. Although there are restrictions to the housing options for asylum seekers, there are often options open to them to secure accommodation of some sort. It is important that practitioners are aware of the options open to asylum seekers and that they work with others such as local authority social work departments and third sector advice and support agencies to ensure that they get the best outcomes for the asylum seekers they come into contact with.
+
+4. The move-on period
+
+When an individual receives a positive decision on their asylum application, the Home Office will also notify them that their Asylum Support (accommodation and/or financial support) will terminate. The decision to award refugee status is communicated in a 'determination of asylum claim' letter' letter from the Home Office. There will also be a letter giving 28 days' notice on the client's Home Office accommodation and financial support. The decision letter should be accompanied, or followed shortly, by a Biometric Residence card. If this is not received the client should contact their Home Office case owner (there should be telephone number on the decision letter) or the general enquiry line: 0300 123 2235. The 28 days' notice period should start when the person receives their Biometric Resident Permit.
+This transition period is commonly referred to as the move-on period and is a very limited period of time when refugees have to manage a substantial change in their circumstances. Refugees will need to secure alternative housing and apply for mainstream benefits. This process involves a range of systems and entitlements that are most likely unknown to them. This is a crucial time when refugees need support, advice and sometimes advocacy to access services and exercise their rights. Scottish Refugee Council Integration Services can help people in these circumstances.
+
+Preparing clients for the move-on period
+
+Asylum seekers are often unaware of what their rights will be after being granted asylum and the asylum process does little to empower asylum seekers to know these rights. As a result, there are common misunderstandings about what will happen after a grant of asylum, what people can expect from housing providers and what kind of housing can be offered. Even before refugees have received their status, local authorities, housing and support agencies should, therefore, consider providing information to asylum seekers on:
+housing options;
+rents and housing benefit rules;
+homelessness rights;
+claiming benefits; and
+support that will be available.
+This information should be provided in easy-read English and made available in translated form where possible.
+
+Housing needs and entitlements during the move-on period
+
+It is important that refugees seek advice about their housing rights as soon as they are granted leave to remain. When being granted status, refugees should be notified of the date of the end of their asylum support by the Home Office and by the accommodation provider. This notification enables them to seek advice from Scottish local authorities and, if necessary, submit a homelessness application as they are threatened with homelessness within 2 months.
+Local authorities may have systems which allow for homelessness to be prevented (for example, by having a policy to make an early offer of accommodation before the end of the 28-day move-on period). However, refugees are entitled to the same housing options as Scottish residents and their circumstances of having been on very low income and being given only 28 days to secure alternative accommodation often leaves them in a situation where they have to seek homelessness assistance19.
+Local authorities must take a homeless application in the same way as any other person who is threatened with homelessness. Refugees should be advised of their housing options and if homelessness cannot be prevented, they should be given a homeless decision to confirm their assessment as homeless or threatened with homelessness. The full homelessness duty and housing support duty is applicable to refugees.
+On the last day of the move on period, refugees will be evicted from their Home Office accommodation and will need to be provided with temporary accommodation by the local authority if no alternative accommodation has been secured.
+Further information on the process that refugees will go through when applying as homeless can be found in the "Homelessness and Housing Options" section.
+
+Welfare support during the move-on period
+
+Refugees are entitled to apply for welfare benefits from the day they are granted leave to remain. This means they can apply before their support from the Home Office stops. They can do that because the financial support paid by the Home Office is lower than the level of benefits they are now entitled to. New benefit claims take time to be processed and are often delayed due to administrative challenges20. It is therefore important to advise new refugees to claim benefits as soon as possible after being granted leave to remain.
+New refugees do not always have a National Insurance Number (NINo) when they need to claim benefits21. This is not a barrier to start a claim as the Department for Work and Pensions can accept an application for benefits regardless of whether the individual has a NINo.
+Like all benefits claimants, refugees will need to pass the Habitual Residency Test22. However, this process is fast tracked as refugees have been recognised to have been forced to leave their country and require protection from the UK Government. Refugees should always pass this test, no matter how long they have been in the UK.
+Any instances where claims for benefits are not taken because someone does not have a NINo, is still in receipt of Home Office support, or is suspected not to meet the criteria of the Habitual Residency Test should be challenged via DWP escalation routes23 and referred for further advice at Scottish Refugee Council or other local advice agency.
+In many cases, new refugees will not be in receipt of their benefit payments when their support from the Home Office stops. They will face destitution as a result. In these cases, refugees are entitled to access all forms of statutory short term welfare support to bridge the gap including Crisis Grants from the Scottish Welfare Fund, Short Term Benefit Advances, and help from local authority Social Work Services. Again, not having a NINo is not a barrier to apply for grants from the Scottish Welfare Fund. It is clearly stated in the Scottish Government guidance24.
+A refugee's legal entitlements can cause confusion amongst practitioners that provide housing and welfare support. This can result in refugees incorrectly being refused accommodation and/or welfare support. Any refusal of support for a refugee should be challenged (with specialist help, if required). Further information about the welfare benefits that individuals can apply for can be found in the "Welfare and Grants" section.
+
+Organisations that can help refugees
+
+Appendix 1 provides details of a number of organisations that can provide help.
+
+Key summary
+
+Early intervention is the key to successful outcomes from the 28-day move-on period. Local authorities and other agencies should have the aim of preventing homelessnesss and consider providing services to asylum seekers to ensure they are aware of their rights upon getting status and are able to access them quickly. Many refugees will still need assistance applying for benefits and making arrangements for housing directly after status so good mechanisms for referral between asylum providers and homelessness and welfare rights assistance is key to long-term positive outcomes.
+
+Key point - recognising the rights of refugees
+
+From the date that a refugee receives status, they have the same housing and social security entitlements as a UK citizen. Once they have received confirmation of their status, refugees are issued with a Biometric Residence Permit which looks like this: This sample provided by Home Office is for an international student. Refugees receive the same documents with:
+under “type of permit” (Immigration category holder): Refugee Leave to Remain, or Humanitarian Protection, Discretionary Leave to Remain or Indefinite leave to remain;
+under “remarks” on the front of the permit (entitlement or restrictions on their visa): Work Permitted; and
+under “remarks” on the back of the permit (further remarks on benefit entitlement or work restrictions): left blank meaning the person has access to public funds.
+People with Refugee Status or Humanitarian Protection Status should have no endorsement restricting their rights. Occasionally, people granted Discretionary Leave to Remain have restrictions on public funds. Such individuals should seek legal advice on whether this can be altered.
+
+5. Homelessness & housing options 25
+
+As a result of the refugee housing journey, most refugees in Scotland find themselves in need of homelessness assistance after receiving their status and even more will have a housing problem leading them to need to access settled housing. This section looks at the responsibilities of local authorities to assist refugees who are granted ‘leave to remain' to secure settled accommodation. This section builds upon the Scottish Government's Code of Guidance on Homelessness25.1, Scottish Government/COSLA Prevention of Homelessness Guidance and Scottish Government Social Housing Allocations: A Practical Guide 27.
+While most refugees are likely to seek accommodation in the social rented sector, a small proportion will find their own accommodation with family & friends or in the private sector.
+
+Refugee homelessness on receiving status
+
+Once granted 'leave to remain', a refugee leaving asylum accommodation in Scotland:
+is entitled to homelessness assistance28;
+is deemed to be 'threatened with homelessness' during the 28 day move-on period;
+is deemed to be unintentionally homeless; and
+can present to any local authority in Scotland.
+
+The 28 day ‘move-on period'
+
+Upon receiving status, refugees receive a decision letter from the Home Office granting 'leave to remain' advising that after 28 days:
+the financial support they have received as an asylum seeker will end; and
+they will have to move out of Home Office accommodation provided in Glasgow by Orchard & Shipman by Orchard & Shipman. Further information on this can be found in the chapter on the move-on period
+
+Refugees ‘presenting' as homeless
+
+Once granted 'leave to remain', refugees are entitled to present as homeless to a local authority and, like any other homeless applicant should be provided with 'temporary' accommodation in the short term and 'settled' accommodation as soon as possible, either by the local authority or a housing association or in the private sector.
+
+Threat of homelessness
+
+A refugee is deemed to be 'threatened with homelessness' during the 28 day move-on period. The Home Office decision letter constitutes the evidence required by a local authority of 'the threat of homelessness' (see an example letter at Appendix 4). When presented with this evidence, local authorities should address their duties towards people threatened with homelessness and plan a response to avoid crisis.
+
+Intentionality
+
+Because someone granted 'leave to remain' is required to leave their Home Office accommodation, they can only be considered to be 'unintentionally homeless'.
+
+Local connection
+
+A refugee who was recently granted leave to remain and has had to leave asylum accommodation can present as homeless to any local authority in Scotland; they are not considered to have a specific area of local connection29. For example - a refugee who was 'dispersed' by the Home Office to live in Glasgow did not choose to live in Glasgow and cannot be deemed to have developed a local connection with that City however long they have lived there as an asylum seeker. It should be noted that the same rule does not apply in England where individuals can be referred back to the local authority they were dispersed to.
+If a refugee has lived in an area for 6 months after having been granted 'leave to remain', they can be deemed to have formed a local connection with that area and can be asked to present as homeless to that local authority (NB this is a power not a requirement).
+English and Welsh local authorities have the power to refuse a duty to house if they can show there is a lack of local connection. Although it is possible for individuals to form a local connection with an English or Welsh local authority in other ways (for example through family links or employment) it is important that individuals obtain legal advice before moving 30.
+
+Homeless in the future
+
+If a refugee becomes homeless or at risk of homelessness at a later point in their life, their homelessness application would be treated like any other homelessness application in relation to intentionality and local connection.
+
+Discharging homelessness duty
+
+In discharging homeless duty, refugees are entitled to an offer of permanent accommodation in the same way as any other group. This could be:
+an allocation of accommodation directly from the local authority (where the local authority has its own stock);
+a section 5 referral or other formal nomination to local housing associations; or
+an offer of privately rented accommodation in certain circumstances 31.
+Because of the multiple barriers that refugees face, housing organisations should spend additional time and resources ensuring that the refugees understand this process and are involved in the decisions on whether a suitable offer of accommodation has been made.
+The process for making an offer of accommodation can be extremely complicated and difficult for refugees to understand. For example, in Glasgow, because the local authority no longer has its own housing stock and due to the large number of housing associations in the City, Section 5 referrals are administratively complex and can take some time. Section 5 referrals can be made simultaneously to a number of housing associations making it very difficult for refugees to feel part of the process. Glasgow City Council is currently working on ways to make this process quicker and easier.
+Local authority housing and homelessness staff should follow the guidance on "Supporting Refugees" outlined later in this guide to ensure that any support needs are clearly passed on to housing providers in referral forms. Organisations should also ensure that all housing options are fully explored.
+
+Housing options
+
+A well-developed approach to Housing Options is particularly important to refugees. They may have little understanding of the options available locally in relation to:-
+the social rented sector (local authority or housing association) or the private sector (renting, owner occupation or shared equity);
+the popularity of different neighbourhoods and house types; and
+local facilities such as schools, GPs, hospitals and social networks.
+
+Key elements of housing options advice and support to refugees
+
+Information: Clear information should be provided to refugees - is there a need for documents in plain English, for translation or interpretation?
+Advice: Each refugee should have an allocated worker to explore their options and should have access to independent advice and advocacy services.
+Orientation: There is a need to explore a refugee's orientation with the local area - some may not have been in the area for very long and may have little idea of which areas would provide a sustainable housing option for them.
+Integration: It is important that social landlords adopt an integration-based approach32 to assisting refugees, considering all the factors of a person's life that could lead to a sustainable housing solution, such as social connections, employment, education and health.
+Support: All homeless people should be assessed for housing support provision and will be particularly valuable to refugees who are unfamiliar in dealing with, for example, energy suppliers, council tax and heating systems.
+More information on supporting refugees can be found in the Supporting Refugees section of this guide.
+
+Choice of areas and property types
+
+Whether they are to be provided with secure accommodation through the homeless route or through making their own efforts to find accommodation through housing associations or in the private sector, refugees need to be able to make informed decisions in relation to:
+the area they will be living in - particularly if being referred to an area-based housing association; and
+the types of home available and differences in costs.
+Just like any other applicant, refugees will need to be made aware of the likely waiting times for different areas and property types.
+
+Key point: increasing housing choice through the Scottish Refugee Council
+Scottish Refugee Council works with several housing associations throughout Scotland to facilitate direct nominations to suitable clients. This approach has been backed by the Scottish Government and COSLA through the New Scots: Integrating Refugees in Scotland's Communities strategy. These nominations can be accessed by suitable individuals being supported by Scottish Refugee Council with priority given to those most in need of permanent accommodation. Housing associations wishing to take part in this scheme should contact housing@scottishrefugeecouncil.org.uk.
+
+Choice-based lettings
+
+Where landlords operate choice based lettings, advisers should ensure that an applicant who is a refugee fully understands how the system works and how they can optimise outcomes:
+How accessible is the choice based lettings process for someone who may have little English and may not have access to, or be familiar with using, a computer?
+Is the process described in plain English - ensure accessibility?
+Do refugees need more help - a buddy/ a peer mentor?
+
+Number of offers
+
+It is important to make clear to a refugee the policy in relation to the number of offers that can be made to a homeless applicant, acceptable reasons for refusing an offer and the implications of refusing acceptable offers.
+
+Family reunion
+
+An existing applicant may be a single person or a couple who in the future may seek legally to bring other family members to the UK. It is useful for housing providers to be aware that family reunion, and the inevitable need for a larger house, may become an issue in the future and policies and procedures should recognise this as a possible outcome. 33
+
+Private rented sector
+
+Private rented accommodation can be an option for some refugees. The lack of a previous rental history, high rental costs in relation to likely welfare benefits and the need for a substantial deposit, however, can make the sector an unrealistic or unreasonable option. We have also found that the cost of privately rented property can hinder individuals' educational aspirations.34
+
+Immigration restrictions and renting housing
+
+Anyone who has refugee, humanitarian protection, discretionary or indefinite leave to remain with no restrictions on access to public funds has the right to access local authority homelessness and housing allocation services. Although there are some restrictions on asylum seekers gaining an allocation of a secure tenancy (see Accommodation and Support for Asylum Seekers) private landlords and housing associations should not restrict access to properties due to immigration status. However, in recent years, the UK Government passed the Immigration Acts of 2014 and 2016 which requires all private landlords and housing associations who are allocating their properties directly to applicants to carry out immigration checks on their tenants. These requirements are not yet in place in Scotland but are likely, when in place, to create additional barriers to all migrants accessing accommodation.
+
+Organisations that can help refugees:
+See Appendix 1.
+
+Key summary
+Unfortunately, homelessness is often built in to the asylum/refugee experience because of the processes for accommodation that have been put in place. Refugees' legal rights to homelessness are the same as any other homeless group. However, as it is possible to anticipate refugee homelessness, local authorities and practitioners should ensure a planned approach to the homeless assessment and accommodation process so that the level of disruption to refugees' lives is minimised and crisis is avoided.
+
+6. Welfare benefits and grants
+
+Key point: This section addresses welfare and benefit matters relating to individuals who have been granted refugee, humanitarian protection or discretionary leave to remain statuses either through the asylum process or through a government-organised resettlement scheme. Financial support for Asylum Seekers is addressed in the "Accommodation and Support for Asylum Seekers" section.
+
+Welfare entitlement
+
+Individuals with Refugee status and Humanitarian Protection status will be entitled to work and access ‘Public Funds' which include a range of benefits that are given to people on a low income, as well as housing support. ‘Public Funds' does not include benefits that are based on National Insurance contributions or social work assistance. Although it is very rare, Discretionary Leave to Remain can be granted without recourse to public funds. If this is the case, the individual may not be entitled to claim mainstream benefits. Further information on recognising this can be found in the "Move on Period" section of this document and more detailed information on public funds can be found in the Public funds guidance document and on the CIH Housing Rights website.
+
+Obtaining benefit payments after status
+
+Refugees are entitled to start receiving benefit payments before the end of the move-on period. The amount they will receive from Department for Work and Pensions (DWP) during that period tops up the amount they receive from the Home Office so they will receive the full amount of the mainstream benefit that they are entitled to.
+There is a protocol between the Home Office and the DWP according to which the Home Office notifies DWP and requests a National Insurance Number (NINo) for the main asylum applicant35. However, a NINo is not always requested by the Home Office at this stage. If people do not have a NINo, they will be able to start a claim for benefit but they will experience delays. For example, they will not be able to claim Jobseeker's Allowance online and therefore will experience delays in process and payment of entitled benefit.
+Some benefits such as Child Benefit and Tax Credits can take longer to process for people from abroad, with delays for these benefits often running to several weeks or months. Individuals and families can face destitution and severe financial hardship as a result of these delays.
+As in other cases of benefit delay, individuals are entitled to make a claim to the Scottish Welfare Fund for a Crisis Grant to support them during this period. The absence of a NINo should not prevent individuals in this position from accessing a payment from the Scottish Welfare fund, although the Scottish Welfare Fund is entitled to apply the same discretions to claims from refugees as any other claim36. In cases of longer- term benefit delay, individuals may be able to seek help from Social Work Departments, particularly where the family has children or if there are other factors to render the applicant vulnerable.
+
+Practical difficulties getting benefits paid
+
+While there is no legal reason why a refugee with a valid biometric residence permit should not be able to open a bank account, many refugees struggle to open an account as they have difficulty providing acceptable evidence of their identity and address. This means that refugees will often need to request benefits to be paid through simple payments until they can find a bank that is willing to provide them with an account.37 Refugees should be advised to try a range of banks and other financial institutions to open a bank account until one can be found that will accept them and, where necessary, supported to do so. Housing Support providers are often best placed to carry out this work.
+
+Advising refugees claiming Jobseeker's Allowance
+
+Our experience suggests that most refugees gaining their status are likely to claim Jobseeker's Allowance meaning that they are subject to the same welfare conditionality as any other claimant38. Scottish Refugee Council research suggests that individuals are most at risk of being sanctioned during the first six months of receiving status39. Language is a key barrier to accessing employment. Scottish Refugee Council experience suggests that over 60% of refugees have English below SQA Access 340 (see appendix 5). This level is too low to be referred to employability support projects and employment prospects are limited. The first step in their job search will be to access English for Speakers of Other Languages (ESOL) classes to bring their English to a level that will be acceptable by employers.
+Lack of recognition of previous qualificaitons, lack of knowledge of UK labour market, gaps in CVs due to the asylum process and the lack of social connections/ personal networks also represent specific barriers to employment for refugees.
+To ensure that refugees are able to fulfil their Claimant Commitment and avoid being sanctioned, it is essential that the requirements set out by the Jobcentre are realistic, personalised, achievable and fully understood by the claimant.
+Interpreters are not always provided at Jobcentres while phone interpreting is made available by DWP contact centres. There are risks of miscommunication due to some terminology that will not directly translate. Communication problems and a lack of understanding by refugees of their obligations under the Claimant Commitment can lead to perceived deliberate noncompliance. In addition, the conflicting priorities for refugees during the first three months (for example homelessness) can make the requirements of Jobseeker's Allowance difficult to meet.
+Volunteering can help refugees to increase employability. Volunteering is the main option for refugees in the UK to increase knowledge about the labour market, gain experience and also to improve English Skills. Housing Organisations can help refugees by:
+being aware of the many conflicting priorities of new refugees and adapt working approaches to reflect this;
+being aware of local ESOL, educational and employability provision and their accessibility to refugees; and
+briefing welfare rights officers and other staff on the issues facing refugees, ensuring that they are aware of local opportunities and referral systems.
+
+Income Support for those learning English
+
+People with Refugee Status may also claim Income Support while learning English in order to obtain employment. This is available only to people with refugee status who are on an English language course for more than 15 hours a week and, at the time the course started, they must have been in the UK for 1 year or less. They are entitled to a maximum of 9 months support.
+
+Claiming Housing Benefits
+
+As with other benefits, refugees are entitled to claim Housing Benefit. However, during the asylum process, refugees are not required to pay rent as this is included in their asylum support. It may, therefore, be necessary to spend additional time with refugees explaining housing Benefit and its importance to sustaining tenancies.
+
+Backdated payments of Child Benefit and Child Tax Credit
+
+People granted refugee status (not humanitarian protection or discretionary leave to remain) are entitled to apply for backdated Child Benefit and Working Tax Credit for the period they were claiming asylum.
+Any claim for backdated Child Benefit payment must be made within three months of being granted refugee status. The deadline for claiming backdated Child Tax Credit is one month.
+Backdated payment of Working Tax Credit will be possible only if the person was allowed to work and worked while seeking asylum. Not everyone will get backdated benefit, it will depend on how much money they had while waiting for their claim for asylum to be decided.
+
+Universal Credit
+
+At the time of writing, Universal Credit was still in the process of being rolled out and, in all but one “full service” area of Scotland (Musselburgh) non-UK nationals are not included in the roll out. Therefore, in most areas, refugees should still claim one of the old- style benefits (Jobseeker's Allowance, Income Support, Employment and Support Allowance etc). However, as Universal Credit rolls out, refugees in “full service” areas will need to make a claim for Universal Credit rather than the benefits outlined above41.
+
+Disabled people and their carers
+
+Claims for Disability Living Allowance, Personal Independence Payment, Attendance Allowance and Carer's Allowance are subject to a past residency test which means that claimants need to have been present in Great Britain for at least 104 weeks in the last 156 weeks. This rule disallows many new refugees unless they have been in the Great Britain for a long time prior to getting their status. However, this policy has been challenged as being discriminatory to refugees and their carers42. Any refugee who may qualify for these benefits should be referred to a welfare rights adviser for the best way to proceed.
+
+Integration Loan
+
+Although Integration Loans are not part of the UK welfare system, they are regularly accessed by refugees. This loan is administered by the Home Office and is available only to people being granted Refugee Status or Humanitarian Protection, and their dependants. It is intended to support them in dealing with some of the specific challenges that result when trying to settle in a new country. It is aimed at purchasing goods and services to assist their integration into the UK. The loan is interest free and can be spent on items and activities that facilitate integration such as vocational training where provision is not available through Jobcentre Plus, a deposit for accommodation, essential items for the home or the purchase of tools of a trade 43.
+
+Organisations that can help refugees
+See Appendix 1.
+
+Key Summary
+
+The above section summarises the key issues with benefits for refugees. However, there are complicated rules around some of these issues which should be explored while assisting a refugee to claim benefits or challenge a decision. For more information on Benefits available to new refugees, see factsheet Benefits for new refugees by CPAG and advice can be obtained from the CPAG on 0141 552 0552 (for frontline advisers and support staff in Scotland only, open Monday - Thursday 10am - 4pm, Friday 10am - 12 noon).
+
+7. Tenancy Sustainment
+
+Tenancy sustainment is a key responsibility of local authorities, housing associations and other landlords. Guidance on measures for tenancy sustainment and homeless prevention can be found in the Scottish Government/COSLA Prevention of Homelessness Guidance44.1 and Scottish Government Social Housing Allocations: A Practical Guide45. This section builds upon the recommendations in these guides, with particular focus on factors that can affect tenancy sustainment for refugees when allocating a tenancy, when someone is moving into a property and issues that can arise during a tenancy.
+
+Tenancy allocation
+
+Many refugees have been in Scotland for a short period of time when they have to make a decision on their housing situation and have little knowledge of their rights and entitlements (which may be very different from their home country). It is therefore essential to provide clear information about the options that are available, accommodation that is being offered and the implications of taking up those offers.
+In order to help sustain tenancies and prevent homelessness, housing organisations should offer guidance and support to refugees in the following areas:
+Housing types and locations
+Many refugees do not have any orientation of the area that they are in and can find the process of identifying an area that they feel comfortable living in difficult. Housing practitioners should be particularly aware of the need to avoid aggravating the effects of social isolation when deciding where they allocate tenancies to refugees, taking account of competing priorities in people's lives including English classes, employment and social networks.
+Similarly, some types of properties available through the Scottish housing and homelessness system can be worrying or unfamiliar to refugees. High rise properties or properties in areas of high deprivation, for example, may increase feelings of isolation and vulnerability46 so allocation of this type of property should be treated with caution.
+Choice-Based Lettings systems can increase refugees' involvement and inclusion in the process of choosing housing types and locations. However, it is very important local authorities put in place processes for ensuring that systems are accessible in terms of language and IT provision and that, if necessary, refugees receive additional support to use these systems.
+Hate crime - concerns about safety at home and in the neighbourhood
+Experience of hate crime and racial harassment can instantly put tenancies under threat as properties can soon become unreasonable to reside in after only a few instances. Encouraging the reporting of hate crimes (both to the housing authority and police) and keeping good records of where previous instances of hate crime and harassment have been reported in the past can provide a good idea of the areas where placing refugees would create risks. Similarly, having easy to understand procedures and literature around the reporting of hate crime and harassment can reassure refugees and offer speedy resolution to any reported incidents. These policies should include:
+the process for reporting a hate crime;
+an outline of how victims will be protected; and
+how action against the perpetrator will be handled.
+Housing providers should work closely with the police by, for example, becoming a hate crime Third Party Reporting Centre47.
+When carrying out assessments for the allocation of a house, staff should ensure that each of these issues is thoroughly explored with the applicant. Ideally, this should take place with the involvement of housing support staff and staff from the accommodation provider to ensure that the property being allocated is suitable and sustainable.
+
+Moving into a property
+
+Moving into a new permanent property can cause considerable difficulties for many homeless people. Refugees, however, face distinct barriers while going through this process linked to their previous experiences, language and orientation of systems and areas.
+Support for resettlement and setting up home, for example in furnishing their flat or connecting utilities
+Many refugees come to the UK with few or no belongings and, as Home Office and local authority temporary accommodation is generally let furnished, do not accumulate belongings before securing their first permanent tenancy. As explained in the "Welfare Benefits and Grants" section, there are a range of short and long-term benefits that refugees are entitled to access to alleviate these problems. However, many individuals require support to access these forms of assistance as they may be unaware of their right to access them and may have difficulty making applications for them due to language difficulties. In particular, housing providers should ensure that they assist individuals to claim Community Care Grants for basic furnishings and housing benefit.
+Systems for connecting utilities, arranging for bin collections and paying bills are likely to be unfamiliar to many refugees. This can cause basic problems in the early days of a tenancy which can escalate to more serious issues if not resolved quickly. Clear explanations and written instructions on how to deal with these matters can provide a quick and easy solution to these problems. In other cases, more intensive support may need to be provided either by the landlord or another support provider. Similarly, refugees may have difficulty negotiating the energy market and housing providers should ensure that they refer cases to appropriate energy saving projects where necessary.
+Information sharing and partnership working
+Local authorities and support agencies working with refugees during the homeless process are likely to have gathered considerable information on the needs of refugees including, for example, their language needs, support requirements and any vulnerabilities. Effectively transferring this information to housing officers and other landlord functions as well as making linkages with other supporting agencies for the effective transfer of support information can help to ensure any ongoing needs are met at an early stage and prevent tenancy sustainment problems arising later.
+
+During a tenancy
+
+In our experience, the following issues often contribute to problems with tenancy sustainment.
+Overcrowding - family reunion
+Most refugees come through the asylum system living on their own. Many, however, will have family in their home country or who may, themselves, be displaced to other countries. Refugees and people with Humanitarian Protection status are entitled to apply to have their partner or child to join them in the UK. If an application is successful, their family members will be allowed to join them in the UK and will be granted equivalent rights to remain and access public funds. Family reunion can take several months or years to achieve as, in some cases, refugees do not know where their family is. In other cases, family reunion can only take a few weeks. The British Red Cross can provide financial and practical assistance in facilitating family reunion (see appendix 1).
+Good forward planning and policies for staff to follow are essential to mitigate the impact of family reunion. This should include:
+training frontline staff in the process of family reunion so that they are equipped to discuss and plan for tenancy allocation and sustainment with new tenants;
+shaping allocation and overcrowding policies to allow flexibility about the timing, size and type of property offered to prospective and existing tenants who are going through family reunion. Policies should allow for the allocation of larger properties if family reunion is imminent, for overcrowding priority to be awarded at
+an early stage when family reunion has been confirmed and emergency arrangements where overcrowding is likely to become severe; and
+ask prospective or existing tenants about family reunion and establish approximately when family reunion is likely to take place, taking advice from any support agencies involved in the case.
+Finally, it is important to note that, if families separate after going through family reunion, this is likely to have an adverse effect on the immigration status of the parties with family reunion visas. Such individuals should be referred for legal advice on their immigration status as soon as possible.
+Community Care and Support Needs
+Refugees can often have mental health needs that are not identified. These needs may be as a result of their history of persecution, their traumatic journey to the UK or the multiple challenges of the asylum process, poverty and homelessness that ensue. Due to stigma and prejudice against people with mental health problems, refugees may not always disclose these issues and often rate their health as good44. Staff should know about these issues, be trained to recognise the onset of these difficulties and how to manage disclosure and have clear procedures for referral of individuals for appropriate support. The section on "Supporting refugees" gives further details about how housing organisations can proactively work with refugees to improve their lives.
+
+Organisations that can help refugees
+See Appendix 1.
+
+Key Summary
+To reduce the above risks, allocation, tenancy sustainment policies and other relevant policies should include activities prior to allocating a property, at the early stage of the tenancy and also with long established tenants. This could include going through detailed resettlement plans with new refugee tenants, offering additional support to refugees at the start of tenancies and providing a range of accessible information on help that is available. Such approaches should allow pre-crisis interventions and result in effective homelessness prevention.
+
+8. Supporting Refugees
+Refugees are likely to come into contact with a range of practitioners who have a role in supporting their integration. This section outlines some of the main issues that should be considered when doing so and a framework for supporting refugees.
+
+A framework for integration
+
+Figure 1 is a visualisation of the things to think about when supporting refugees to integrate. Although housing is only one of the “markers and means” of integration, housing organisations have several key roles in enabling refugees to achieve their integration objectives such as:
+providing access to housing rights and giving information on responsibilities as tenants and citizens;
+providing the environment for community safety and stability;
+acting as a community anchor, providing social links, bonds and bridges to formal and informal social connections; and
+directly and indirectly facilitating access to welfare, employability, employment, education and health services.
+In order for housing organisations to play this role amongst refugees, there are a number of factors that they will need to take into account.
+
+Being a “New Scot”
+
+Refugees are, above all, people who are new to Scottish society. They, therefore, face the dual barriers of poor orientation of local areas and services and lack of knowledge of systems and will, therefore, have some needs which may appear basic and fundamental. It will be necessary for housing organisations to spend additional time with refugees or their support agencies explaining their rights, obligations and options, as well as being realistic about what they can expect as an applicant, tenant and new user of Scottish services.
+
+Language and accessibility
+
+The most important aspect of supporting refugees is ensuring that they have equal access to all of your services and support functions. It is important to have clear, jargon-free, English language information available to all people which is reviewed regularly to ensure that people with limited English language skills are able to understand it. Refugees and other groups with limited English language skills should be involved in the review of any standard documents and leaflets to ensure that they are easily understandable to individuals.
+Although support in English language will be sufficient for some individuals, others will require oral interpretation and written translation. This is particularly important when discussing legal obligations such as tenancy agreements or where the tenancy is under threat. Housing organisations should, therefore, ensure that they provide adequate facilities for interpretation and translation.
+
+Key point: Working with interpreters - a quick guide
+Working with interpreters is a skill and requires training (further details of training courase provided by Scottish Refugee Council on this subject can be found at http://www. scottishrefugeecouncil.org.uk/what we do/ training)
+Before the session:
+Consider which interpreter to book - do you have interpreters who you can trust? Make sure the language is right and think of dialects!
+Keep the interpreter separate from the client.
+Brief the interpreter about the discussion including jargon or unusual words.
+During the session:
+Introduce the interpreter and yourself.
+Explain how the session is going to work (confidentiality, everything will be interpreted, NO side conversations).
+Make sure that there is a language match.
+If there is a problem with the interpreting, stop the session and see if you can fix it, if not continue at another time.
+After the session:
+Debrief with the interpreter.
+Do not ask the interpreter for personal opinions of the client.
+
+Recognising resilience and vulnerability
+
+There are a range of factors that will affect the support that refugees need. However, the process of fleeing a country and going through the asylum process requires individuals to demonstrate considerable resilience. Indeed, Scottish Refugee Council research suggests that the majority of refugees require guidance, advice, advocacy and signposting rather than in depth support in order to integrate 45.
+In line with a range of recent work, including the 2011 Commission on the Future Delivery of Public Services (“Christie”) report, Scottish Refugee Council supports the view that services for refugees should be “built around people and communities, their needs, aspirations, capacities and skills, and work to build up their autonomy and resilience”(Christie 2001; p26).
+Support services, therefore, need to have an effective way of assessing the abilities and needs of the refugees that they serve and plan for the building of their autonomy and resilience.
+
+The impact of fleeing persecution
+
+There are a range of reasons why people flee from their home countries including war and persecution (gender, ethnic, political, etc).
+Individuals' experience of persecution and asylum are varied and affect individuals in a multiplicity of ways. The only way to establish how these experiences impact upon the person and the assistance that they may now require is involving the person that you are working with, effectively assessing their individual needs in a sensitive way and making relevant referrals to the services that may be able to assist. Services will need to bear in mind that individuals may raise difficult issues including histories of intense war, torture, physical, sexual and gender-based violence and will require individual staff members to be well- trained in dealing with these issues. Staff should also be trained in self-care to ensure they are able to discuss these issues without affecting their own health and wellbeing.
+
+The impact of the asylum process
+
+Asylum is a complex and difficult process that may last for a considerable period. It is proven that the asylum process has an impact on refugee integration outcomes, especially health, due to stress and low income46. During the asylum process people have little control over many aspects of their lives including where they live. They are unable to work, travel outside the UK, be reunited with family abroad and cannot access many of the fundamental rights afforded to UK nationals. Asylum seekers have to report to the Home Office every 2 weeks to evidence that their circumstances have not changed and that they are complying with immigration control with a failure to report resulting in direct sanctions of Home Office financial support.
+This process can have a significantly detrimental effect on individual independence and refugees can often view officials supporting them as providing a similar role to those at the Home Office. As a result, refugees may require additional support and staff may need to allow for additional interview time and/or follow up sessions to fully address the issues and ensure the person understands the roles of the people involved in their support.
+
+Being culturally competent
+
+Developing culturally aware services requires that practitioners listen to what refugees say about their culture. What is important is to treat people as individuals, be respectful of differences and listen to their concerns. However, professionals will then need to manage personal wishes and preferences with the individual rights and obligations of living in Scotland - for them, their families and the people around them.
+
+Having a gender-sensitive approach
+
+Men and women's experience of persecution, asylum and settling in a different country can be very different. Refugee women face particular gendered barriers and may require additional support and consideration of their particular needs and experiences. Examples of these can include:
+possible experience of gender-based violence, human trafficking (including sex trafficking) 47 and female genital mutilation (FGM)48;
+longer average times in the asylum process than men and increased likelihood of receiving discretionary leave to remain 49;
+increased childcare responsibilities and the impact of fleeing persecution with children; and
+the role of women within families 50.
+In order to address these challenges, housing organisations should consider:
+additional training for housing staff in the issues affecting refugee women;
+keeping information on sexual health, support and counselling services, violence against women;
+using female staff and interpreters where appropriate;
+providing women-only drop-ins or advice/surgery times;
+allowing for caring responsibilities and childcare provision (for example timing appointments
+in school time or providing childcare where appropriate);
+ensuring that all members of a family are involved in support and casework, not just one “main applicant”; and
+facilitating support workers/buddies to attend interviews and appointments if appropriate, based on needs assessment.
+
+Helping refugees achieve their wider goals
+
+As suggested by the indicators of integration, housing is only one part of successful integration. Learning English, pursuing education and employability are often key objectives for refugees and will be important for many in achieving their integration into Scottish society. Refugees are often keen to explore whether they can transfer any qualifications and experience they gained back home to valuable assets in the UK. Housing organisations can assist with this by ensuring:
+they have good links to local centres for English for Speakers of Other Languages (ESOL), colleges and employability services;
+that refugees have access and support to information technology and computer services; and
+That refugees are given access to quality welfare rights advice.
+
+Key summary
+
+There are a range of activities that local authorities and housing organisations can do to assist in supporting refugee tenants and communities. Exactly how you decide to approach this should, however, depend upon the needs of those you serve. It is important that your organisation works with relevant groups, communities and individuals to shape your work with refugees and make your services work for them. An important part of this is knowing where your local groups, organisations and networks are and having key contacts within them. Equally important is having strong contacts within relevant departments in local, Scottish and national government structures. Not only will this allow for you to form strong referral routes for refugees to facilitate integration, it will also allow you to have a strong network of advice and support in doing your job for refugees.
+A list of networks and organisations that may be able to assist can be found at Appendix 1. Scottish Refugee Council also provides a range of training courses to assist organisations to support refugees and meet their needs. Find out more here.
+
+APPENDIX 1: Organisations that can help
+
+Scottish Refugee Council works with asylum seekers and refugees, providing advice, signposting and advocacy, to ensure asylum seekers and refugees can exercise their rights, understand their options and can make choices for a successful integration. Scottish Refugee Council also offers training and coordinates wider campaign and policy work on asylum and refugee issues.
+British Red Cross helps asylum seekers and refugees to access essential services and adapt to life in a new country. British Red Cross also helps to restore contact between families separated by armed conflict, disaster or migration by using the global Red Cross and Red Crescent network.
+Integration Networks work in partnership with asylum seekers and refugees to develop projects and services that meet the needs of local communities. They aim to build links within and between communities to encourage cross-cultural understanding and to celebrate diversity. There are nine Integration Networks in Glasgow:
+Central and West Integration Network
+Cranhill Development Trust
+Govan and Craigton Integration Network
+Greater Pollok Integration Network
+Maryhill Integration Network
+North Glasgow Integration Network
+Pollokshaws Area Network
+South East Integration Network
+Positive Action in Housing is a charity providing advice and information to ethnic minorities, including asylum seekers, refugees and destitute migrants. .
+Positive Action in Housing also offers training services and coordinates wider campaign and policy work on issues relating to ethnic minorities.
+Glasgow City Mission offers help, assistance and support for people who need understanding and care.
+The Bridges Programmes support the social, educational and economic integration of refugees, asylum seekers, migrants and anyone living in Glasgow for whom English is a second language.
+Refugee Women's Strategy Group (RWSG) is a group of refugee and asylum seeking women, supported by Scottish Refugee Council, whose aim is to ensure that the voices of refugee women in Scotland are heard.
+Migrant Rights Scotland works alongside migrants and their community organisations for a rights-based approach to migration, supporting their engagement in developing the policies and procedures which affect their lives in Scotland and in the UK.
+Freedom from Torture provides direct clinical services to survivors of torture who arrive in the UK, as well as striving to protect and promote their rights.
+NHS Greater Glasgow and Clyde Compass Team provides mental health services for refugees and asylum seekers in Glasgow and surrounds.
+NHS Greater Glasgow and Clyde Trauma and Homelessness Team provides mental health services for homeless people in Glasgow and surrounds.
+Fife Migrants Forum based in Kirkcaldy, provides free help, advice, support, information and referrals for migrants.
+Asylum Help provides advice and guidance to adult asylum seekers and their dependants. They can advise on issues such as how to claim asylum, the asylum process, financial support, finding legal representation, accessing health care and accommodation support.
+Asylum Seeker Housing Project (ASH) is a volunteer-run project which can assist asylum seekers to report housing issues to the accommodation provider and empowers asylum seekers by raising awareness of rights and responsibilities.
+Glasgow Asylum Destitution Action Network brings together charities, churches, community groups and individuals seeking to assist those who have been made destitute or homeless following the refusal of their application for asylum, and other vulnerable migrants with no recourse to public funds. Their services include the provision of a night shelter, for men only.
+
+Home Office is a branch of government (formerly called UK Border Agency) that processes applications for asylum and asylum support. Caseworkers can be contacted using the details on letters to asylum seekers or through the general asylum enquiry line on 0300 1232235.
+Orchard and Shipman provides accommodation for asylum seekers in Glasgow on behalf of the Home Office56 and should be contacted for any accommodation-related problem. They can be contacted on 0141 4283260 and repairs can be emailed to compassrepairs@orchard-shipman.com.
+Refugee Survival Trust is a volunteer-led charity that provides grants to asylum claimants and refugees living in Scotland. Refugee Survival Trust also lead the Destitute Asylum Seeker Service (DASS) which is a partnership project led by RST with Scottish Refugee Council, British Red Cross, University of Strathclyde Law Clinic, Glasgow Night Shelter, Fasgadh and Arise & Walk. DASS assists refused asylum seekers who have exhausted their rights of appeal to find a route out of destitution and resolve their situation.
+The Scottish Guardianship Service works with children and young people who arrive in Scotland unaccompanied and separated from their families. The service supports unaccompanied asylum seeking and trafficked children and young people.
+Guardians support the young people by helping them navigate the immigration and welfare processes, and feel supported and empowered throughout the asylum process, assisting them to access the help they need when they need it, and make informed decisions about their future.
+
+APPENDIX 2: Glossary
+
+Asylum seeker
+An asylum seeker is someone who has lodged an application for international protection under the United Nations 1951 Refugee Convention or Article 3 of the European Convention of Human Rights, and is awaiting a decision from the (UK) Government.
+Asylum support
+Asylum seekers who are destitute can apply for accommodation and/or subsistence support from the Home Office. This was previously known as NASS support. To apply, they must fill out an ASF1 form. Home Office accommodation is provided on a nochoice basis in one of the Home Office dispersal areas around the UK. Glasgow is currently the only dispersal area in Scotland. If asylum seekers have additional care needs due to chronic illness or disability they may also be eligible to support from their local authority.
+Application registration card (ARC)
+ARC is a credit card sized document issued to asylum applicants after they have lodged their asylum claim (known as ‘asylum screening') to show that they have applied for asylum. It is also used as evidence of identity, immigration status and entitlements in the UK. It holds identifying information including fingerprints and reporting arrangements in a microchip within the card.
+For more information:
+https://www.gov.uk/government/uploads/ system/uploads/attachment data/file/257376/ applicationregistrationcard.pdf
+Biometric Residence Permit
+Identification card held by many non UK nationals, including people with Refugee, Humanitarian Protection or Discretionary Leave to Remain status. It bears a photograph of the holder along with biometric details and should be sufficient evidence for most purposes.
+COMPASS
+COMPASS is the name given by the Home Office to a series of contracts for the provision of housing, support and transport to asylum seekers in the dispersal areas. In 2012 these 5-year contracts were won by a series of private companies. The current contractors are: Clearel Ltd in London and the South of England and Wales; G4S Care and Justice Services in the Midlands, East of England, North East England, Yorkshire and Humberside; and Serco Limited in the North West of England, Scotland and Northern Ireland.
+Discretionary leave to remain
+Discretionary leave is a form of immigration status granted to a person who the Home Office has decided does not qualify for refugee status under the 1951 Refugee Convention but where there are other compelling reasons why the person should be granted temporary leave to remain in the UK.
+Discretionary Leave to Remain is awarded for a maximum of 2.5 years. Further Leave to Remain should be applied for within 28 days of the leave expiring. During the application process, people keep the same entitlement to housing and welfare rights.
+Dispersal
+Dispersal is the process by which the Home Office moves an asylum seeker to accommodation outside London and the South East while they wait for a decision on their asylum claim. They are first moved to initial accommodation while their application for asylum support is processed (usually 2-3 weeks). Once the application has been processed and approved they are moved to dispersal accommodation, usually within the same dispersal area.
+Family reunion
+Family reunion is the process enabling people granted refugee status or humanitarian protection to bring their spouse and dependent children to join them in the UK.
+Female Genital Mutilation (FGM)
+Female genital mutilation (FGM), also known as female circumcision or female genital cutting, is defined by the World Health Organisation (WHO) as "all procedures involving partial or total removal of the external female genitalia or other injury to the female genital organs for non-medical reasons". FGM is most prevalent in Africa (in 28 countries), and in a few countries in the Middle East (e.g. Yemen, Kurdish communities, Saudi Arabia), Asia and among certain ethnic groups in Central and South America, as well as affected communities living in the diaspora, for example in Europe and North America. FGM is illegal in the UK.
+Humanitarian protection (HP)
+Humanitarian protection is a form of immigration status. It is granted by the Home Office to a person who it decides has a need for international protection but who does not meet the criteria for refugee status under the 1951 Refugee Convention.
+Humanitarian Protection is awarded for 5 years. People with Humanitarian Protection are eligible to apply for Indefinite Leave to Remain at the end of their initial 5 year grant of leave. Such application will normally be granted. During the application process and once granted Indefinite Leave to Remain, people keep the same entitlements to housing and welfare rights.
+Indefinite leave to remain (ILR)
+ILR is a form of immigration status given by the Home Office. Indefinite leave to remain (ILR) is also called ‘permanent residence' or ‘settled status' as it gives permission to stay in the UK on a permanent basis.
+Induction (asylum support)
+Induction is the part of the process asylum seekers go through in order to access Home Office support. In the induction process asylum seekers receive information about the asylum and asylum support processes and their rights and responsibilities in the UK. This process and the service to support applications for asylum support is provided by Migrant Help.
+Initial accommodation
+Initial accommodation is provided to destitute asylum seekers while they wait for the outcome of their application for asylum support. If the application for asylum support is successful an asylum seeker is moved to dispersal accommodation elsewhere within the dispersal area.
+Move-on period
+When a person seeking asylum in the UK is granted leave to remain in the UK (refugee status, discretionary leave to remain or humanitarian protection) they are given 28 days' notice from the Home Office after which time their asylum accommodation and financial support will come to an end. We refer to this period as the “move-on period”. During this period, people are entitled to claim benefits (although they may not yet have a National Insurance Number) and apply for social housing.
+NASS 35
+A NASS 35 is a document which states that the holder is no longer entitled to asylum support as they have received a positive decision on their asylum application. It is used to demonstrate that they are eligible for welfare benefits and have the right to work.
+Over stayer
+An over stayer is a person who was allowed into the UK for a limited period but who has remained longer than the time allowed without permission from the Home Office or under the immigration rules.
+Refugee
+A refugee is a person who ‘owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion, is outside the country of his nationality, and is unable to or, owing to such fear, is unwilling to avail himself of the protection of that country...' (United Nations 1951 Refugee Convention).
+Refugee status
+Refugee status is awarded to someone the Home Office recognises as a refugee as defined by the 1951 UN Refugee Convention. A person given refugee status is normally granted leave to remain in the UK for 5 years and at the end of that period can apply for Indefinite Leave to Remain (see ILR).
+Resettlement
+Resettlement is the process whereby refugees living outside their country of origin are moved to another country for permanent resettlement. Status for these individuals is granted prior to their arrival in the UK and the housing should be arranged by the receiving local authority before they arrive. Receiving local authorities are funded by the Home Office to provide basic income for these individuals while they claim state benefits. Recent examples are the UK Government's commitment to resettle Syrian nationals and the Gateway Scheme.
+Screening interview
+Screening interviews normally take place at the point at which an asylum seeker lodges their claim for asylum. They will be interviewed by an Immigration Officer to establish their identity, route to the UK, reasons for fleeing their country and ask questions about criminal offenses. During the interview asylum seekers will need to give their biometric information, such as photo and fingerprints and should be issued with an asylum registration card (see ARC).
+Section 4 support
+Section 4 of the Immigration and Asylum Act 1999 gives the Home Office powers to grant support to some destitute asylum seekers whose asylum application and appeals have been refused but there are barriers to them returning to their country of origin. Support provided under Section 4 is often in shared accommodation and financial support is provided on a cashless basis in the form of a payment card pre-loaded weekly with £35 per person, which can only be spent in designated shops for essential items. The card cannot be used to pay for public transport.
+Section 5 referrals
+Section 5 referrals (introduced in Section 5 of the Housing (Scotland) Act 2001) are the formal means by which local authorities can request that statutory homeless people are housed by registered social landlords in its area. Registered social landlords must comply with a local authority request, within a reasonable period, unless there is a good reason for not complying. The Scottish Government provided guidance stating that a reasonable period should be 6 weeks.
+Subsistence support
+Subsistence support is the cash element of Home Office support. Asylum seekers who have accommodation, for example with friends or relatives, can apply for subsistence support only.
+Torture
+The most widely accepted definition of torture internationally is that set out by Article 1 of the United Nations Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (UNCAT):
+“... 'torture' means any act by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person for such purposes as obtaining from him or a third person information or a confession, punishing him for an act he or a third person has committed or is suspected of having committed, or intimidating or coercing him or a third person, or for any reason based on discrimination of any kind, when such pain or suffering is inflicted by or at the instigation of or with the consent or acquiescence of a public official or other person acting in an official capacity. It does not include pain or suffering arising only from, inherent in or incidental to lawful sanctions.”
+Trafficking (human trafficking)
+Article 3, paragraph (a) of the Protocol to Prevent, Suppress and Punish Trafficking in Persons defines Trafficking in Persons as the recruitment, transportation, transfer, harbouring or receipt of persons, by means of the threat or use of force or other forms of coercion, of abduction, of fraud, of deception, of the abuse of power or of a position of vulnerability or of the giving or receiving of payments or benefits to achieve the consent of a person having control over another person, for the purpose of exploitation. Exploitation shall include, at a minimum, the exploitation of the prostitution of others or other forms of sexual exploitation, forced labour or services, slavery or practices similar to slavery, servitude or the removal of organs.
+Unaccompanied Asylum Seeking Children (UASC)
+Unaccompanied children seeking asylum are children who have applied for asylum in their own right, who are outside their country of origin and separated from both parents or previous/legal customary primary care giver. Such individuals should be provided with services for looked after children by receiving local authorities and be referred to the Scottish Guardianship Service. Section 11 Human Trafficking and Exploitation (Scotland) Act 2015 provides a statutory entitlement to an independent guardian for many UASCs. Scottish Ministers are expected to make further provision via regulations on independent guardians in 2017
+
+APPENDIX 3: Sample Determination of Asylum
+
+Below is an example of the letter issued to people granted refugee, humanitarian protection and discretionary leave to remain when they get their status in the UK.
+Home Office
+Fax:
+Our Ref
+Your Ref
+Date
+Dear
+Claimed asylum:
+DETERMINATION OF ASYLUM CLAIM
+You have been granted asylum in the United Kingdom. Your claim was decided on
+Your grant of Asylum
+You have been granted asylum for five years. Your leave ends on
+You must make an appheadon for further leave before your leave ends. You can apply for further leave one month before your leave expires. Details of how to do this can be found on the Home Office website at https://\vwwgoy.uk/visns-im migration.
+Biometric Residence Permit
+Your Biometric Residence Permit card will follow shortly. This is your evidence that you have permission to stay in the United Kingdom.
+If there are any errors on your Biometric Residence Permit or your details have changed, you must contact rhe Home Office within the next 10 days. If you do not tell the Home Office we may not be able to amend your card or you may have to pay for any changes.
+National Insurance Number
+You may apply directly to die Department for Work and Pensions for a National Insurance number if you wish to do so.
+ Department of Work and Pensions Leaflet
+This leaflet explains how the Department of Work and Pensions can help you to find work and claim benefits.
+Integration Loan application form and guidance
+I of 2
+The Integration .Loan form can be used co apply for a loan to help you build your life in the United Kingdom. This should be spent on items and activities that will help you start: your life here, such as a deposit for accommodation, training drat will help you get a job, or buying items for your home.
+Yours sincerely,
+Asylum Implementation Team an behalf of the Secretary of Stale
+2 of 2
+
+APPENDIX 4: English levels and abilities
+
+Level
+Ability
+Speaking and Listening
+Reading & writing
+Access 2 Literacies
+Stage 1 -
+Complete Beginner
+Can communicate only through gestures and a few basic words.
+Cannot fully recognise or use the English alphabet and unable to write independently or pronounce unfamiliar words when reading.
+
+Stage 2 - Starter
+Can use and understand simple English for personal and social purposes and ask and respond to basic phrases spoken slowly and repeated if necessary.
+Can recognise and write letters and numbers. Can read and understand simple written texts and common sight words. Can produce simple written English with correct spacing and punctuation.
+Access 2
+Elementary
+Can understand, request and provide short, simple spoken information in familiar and predictable personal, social, work and study contexts.
+Can understand basic notices, instructions and information. Can complete basic forms, and write notes and short letters including times and dates.
+Access 3
+Pre-Intermediate
+Can talk to others on topics of immediate interest in personal, social, work and study contexts. Can understand instructions or public announcements.
+Can read and write short, straightforward texts. Can write letters, emails or articles on predictable matters. Although the writing conveys meaning, it may contain errors in grammar, spelling and punctuation.
+Intermediate 1
+Intermediate
+Can keep up a conversation on a fairly wide range of topics in personal, social, work and study contexts.
+Communication will be sufficiently fluent and coherent to convey meaning. Can understand speakers in a range of listening situations.
+Can read a variety of texts to identify purpose and main points. Can write different types of text such as emails, letters or articles in which grammar, spelling and punctuation are sufficiently accurate to convey meaning.
+Intermediate 2
+Upper-Intermediate
+work and study contexts. Can understand idiomatic language in familiar situations. Can maintain a conversation and speak with limited hesitation which does not detract from communication.
+Can understand the purpose and content of straightforward texts and produce structured texts in personal and social, study-related or work-related topics. Can read quickly enough to cope with an academic course and show knowledge of general and some specialised vocabulary. There may be some inaccuracies in grammar, spelling and punctuation, but these do not impede understanding.
+Higher
+Advanced
+Can interact with fluency and spontaneity. Can use a range of structures to clearly communicate a message with an appropriate level of accuracy. Shows knowledge of a wide range of general and some specialised vocabulary and can use this accurately and appropriately within the context of a task. Can understand complex idiomatic language in familiar situations. Speaks with limited hesitation which does not detract from communication.
+Can understand the purpose and content of complex documents, correspondence and reports, identifying points of information. Can use a range of structures and shows knowledge of a range of general and specialised vocabulary. Can produce clear, detailed texts in personal and social, study or work-related contexts.
+
+Scottish refugee council
+
+Scottish Refugee Council is an independent charity dedicated to providing advice and information to people who have fled horrific situations around the world.
+In 2015 Scottish Refugee Council celebrated 30 years of working to ensure that all refugees in Scotland are treated fairly, with dignity and that their human rights are respected.
+To find out more, please visit our website: www.scottishrefugeecouncil.org.uk
+Scottish Refugee Council
+5 Cadogan Square
+(170 Blythswood Court) Glasgow G2 7PH
+Registered charity SC008639
+T 0141 248 9799
+E info@scottishrefugeecouncil.org.uk
+Facebook.com/scottishrefugeecouncil
+Twitter.com/scotrefcouncil
+
+2	Only families with children under 18, pregnant women, people with serious medical needs and separated children can request to claim asylum in Scotland.
+3	In early 2016 the Home Office wrote to most Scottish local authorities asking whether they would be interested in helping to extend dispersal to other parts of Scotland. They also wrote to Scottish local authorities seeking assistance with placing unaccompanied asylum seeking children.
+4	http://www.cosla.gov.uk/news/2015/10/scotlands-councils-ready- take-least-2000-refugees
+5	Sections 118 and 119 of Immigration and Asylum Act 1999
+6	Section 3.1 Social Housing Allocations: A Practice Guide (2011).
+Scottish Government http://wwwgov.scot/Topics/Built-Environment/
+Housing/16342/management/socialhousingaccess/allocations/Guide
+7	https://data.gov.uk/data/contracts-finder-archive/download/503103/
+ce88be88-62c0-4491-b903-5c6b02cc368c
+8	Section 98 Immigration Act 1999
+9	Section 95 Immigration Act 1999
+10 http://www.scottishrefugeecouncil.org.uk/assets/0000/8609/Scottish Refugee Council asylum housing report.pdf At the time of writing, the Home Affairs Committee is considering carrying out an inquiry into the quality of asylum accommodation.
+11 Section 115 of Immigration and Asylum Act 1999
+12 Rights to certain types of education are limited. For example, while
+asylum seekers may study part time or full time English language courses, they can usually only access part time non-advanced courses in other subjects.
+13	Section 4 of Immigration and Asylum Act 1999.
+14	The Immigration Act 2014 introduced a system of immigration check for direct social housing allocations and private landlords. Although this system is operational in England and Wales, at the time of writing, it is not operational in Scotland.
+17	The approach in England is not the same http://www.gov.scot/ Topics/Health/Services/Overseas-visitors
+18	S120 of Immigration and Asylum Act 1999
+19	For more information see http://www.scottishrefugeecouncil.org.uk/assets/0001/0255/HIS Year 2 R.pdf & http://www.scottishrefugeecouncil.org.uk/ assets/0001/1142/Full Integration Report June 2016.pdf
+20 For more information see http://www.scottishrefugeecouncil.org.uk/ assets/0001/1142/Full Integration Report June 2016.pdf
+& http://www.scottishrefugeecouncil.org.uk/assets/0001/0255/HIS
+Year 2 R.pdf
+21 For more information see http://www.scottishrefugeecouncil. org.uk/assets/0001/0255/HIS Year 2 R.pdf& http://www. scottishrefugeecouncil.org.uk/assets/0001/1142/Full Integration Report June 2016.pdf
+22 For more information see here.
+23 Escalation routes are provided to advice agencies.
+24 The latest copy of Scottish Welfare fund guidance can be found at http://www.gov.scot/Topics/People/fairerscotland/scottishwelfarefund/ scottishwelfarefuindguidance
+27	http://www.gov.scot/Topics/Built-Environment/Housing/16342/management/socialhousingaccess/allocations/Guide
+28	Appendix 13A Code of Guidance on Homelessness
+29	Section 8.14 - Code of Guidance on Homelessness
+30	Legal Advice can be obtained through the Shelter advice line on 0808 8004444. Individuals should ensure that they are transferred to the line dealing with English and Welsh law.
+31	For further information on when this can happen see http://www. housing-rights.info/scotland-private-rented-sector-advising-migrants.
+php#homelessness
+38	For more information see http://www.scottishrefugeecouncil. org.uk/assets/0001/0255/HIS Year 2 R.pdf& http://www. scottishrefugeecouncil.org.uk/assets/0001/1142/Full Integration Report June 2016.pdf
+39	http://www.scottishrefugeecouncil.org.uk/assets/0001/0255/HIS Year 2 R.pdf
+410 http://www.scottishrefugeecouncil.org.uk/assets/0001/0255/HIS
+Year 2 R.pdf
+41	Further information on Universal credit can be found at https://www. gov.uk/universal-credit/overview
+42	MM and SI v secretary of state for Work and Pension 2016 UKUT149 AAC
+43	Further information on Integration Loans can be found here.
+44 For more information see http://www. scottishrefugeecouncil. org.uk/assets/0001/0255/HIS Year 2 R.pdf& http://www. scottishrefugeecouncil.org.uk/assets/0001/1142/Full
+Integration Report June 2016.pdf and http://link.springer.com/ article/10.1007/s12134-016-0497-6?wt mc=internal.event.1.SEM. ArticleAuthorOnlineFirst
+45 http://www.scottishrefugeecouncil.org.uk/assets/0001/0255/HIS_Year_2_R.pdf
+47	Further information on human trafficking can be found at http:// www.scotland.police.uk/keep-safe/advice-for-victims-of-crime/human- trafficking/potential-signs-of-human-trafficking/
+48	Further information and resources to recognise and tackle FGM in Scotland's communities can be found at http://www.gov.scot/Topics/ People/Equality/violence-women/FGM
+49	Discretionary Leave to Remain does not allow some of the
+advantages of other types of leave. For example, it tends to be for a shorter time and does not allow people to enjoy family reunion. Please see our Glossary for a definition of Discretionary Leave to Remain and
+56	The Home Office's COMPASS contract for Scotland/Northern Ireland is formally held by Serco.

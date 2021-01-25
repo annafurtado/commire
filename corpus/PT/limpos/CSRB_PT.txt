@@ -1,0 +1,142 @@
+﻿<Header>
+	<title>
+		<tit> Cartilha para Refugiados no Brasil </tit>
+		<fileName> CSRB_PT </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Booklet </textType>
+		<subcorpus> Original Portuguese </subcorpus>
+	</title>
+	<sourceText>
+		<language> Portuguese </language>
+		<source> http://www.acnur.org/t3/fileadmin/Documentos/portugues/Publicacoes/2014/Cartilha_para_solicitantes_de_refugio_no_Brasil.pdf </source> 
+		<publisher> ACNUR, Ministério da Justiça, </publisher>
+		<pubDate> 2015 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> May 16, 2017 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+		<comments> The printed version is available to refugees in Ministério da Justiça, ACNUR and IMDH </comments>
+	</sourceText>
+	<author>
+		<institution> ACNUR </institution>
+	</author>
+</Header>
+
+Cartilha para Solicitantes de Refúgio no Brasil 
+<EN> Booklet for asylum seekers in Brazil </EN>
+<FR> Manuel pour les demandeurs d’asile au Brésil </FR>
+<ES> Folleto para Solicitantes de asilo en Brasil </ES>
+
+Cartilha para Solicitantes de refúgio no Brasil 
+Procedimentos, decisão dos casos, direitos e deveres, informações e contatos úteis 
+Português 
+Direitos dos solicitantes de refúgio no Brasil 
+Não devolução 
+Os solicitantes de refúgio não podem ser devolvidos ou expulsos para um país onde a sua vida ou integridade física estejam em risco. A proteção contra a devolução impõe, inclusive, o dever das autoridades brasileiras de garantirem que qualquer estrangeiro terá acesso ao mecanismo de refúgio, sobretudo nos controles migratórios nas fronteiras, portos e aeroportos. 
+Não penalização pela entrada irregular 
+Enquanto o pedido de refúgio estiver sendo analisado, os solicitantes de refúgio têm o direito de não serem investigados ou multados pelo ingresso irregular no território brasileiro. 
+Documentação 
+Os solicitantes de refúgio têm direito a documentos de identidade (Protocolo Provisório) e carteira de trabalho provisória, os quais servirão de prova do seu direito de permanecer em território brasileiro até decisão final do processo de solicitação de refúgio. 
+Livre trânsito pelo território brasileiro 
+Trabalho 
+Os solicitantes de refúgio têm direito a carteira de trabalho, podem trabalhar formalmente e são titulares dos mesmos direitos inerentes a qualquer outro trabalhador no Brasil. O Brasil proíbe o trabalho de menores de 14 anos, o trabalho em condições análogas à de escravo e a exploração sexual. 
+Livre trânsito pelo território brasileiro 
+Trabalho 
+Os solicitantes de refúgio têm direito a carteira de trabalho, podem trabalhar formalmente e são titulares dos mesmos direitos inerentes a qualquer outro trabalhador no Brasil. O Brasil proíbe o trabalho de menores de 14 anos, o trabalho em condições análogas à de escravo e a exploração sexual. 
+Educação 
+Os solicitantes de refúgio têm o direito de frequentar as escolas públicas de ensino fundamental e médio, bem como de participar de programas públicos de capacitação técnica e profissional. 
+Saúde 
+Os solicitantes de refúgio podem e devem ser atendidos em quaisquer hospitais e postos de saúde públicos no território nacional. 
+Não ser discriminado(a) 
+Ninguém pode ter seus direitos restringidos em razão da cor da sua pele, pelo fato de ser mulher ou criança, por sua orientação sexual, por sua situação social, por suas condições econômicas ou por suas crenças religiosas. O racismo é considerado crime no Brasil. 
+Não sofrer violência sexual ou de gênero 
+No Brasil, homens e mulheres têm os mesmos direitos e toda forma de violência contra a mulher, em razão do gênero ou da orientação sexual é crime. A mulher vítima de violência tem o direito a receber assistência médica e formalizar sua denúncia através do telefone 180 ou em delegacias de polícia especializadas em atendimento à mulher. 
+Não ser discriminado(a) 
+Ninguém pode ter seus direitos restringidos em razão da cor da sua pele, pelo fato de ser mulher ou criança, por sua orientação sexual, por sua situação social, por suas condições econômicas ou por suas crenças religiosas. O racismo é considerado crime no Brasil. 
+Não sofrer violência sexual ou de gênero 
+No Brasil, homens e mulheres têm os mesmos direitos e toda forma de violência contra a mulher, em razão do gênero ou da orientação sexual é crime. A mulher vítima de violência tem o direito a receber assistência médica e formalizar sua denúncia através do telefone 180 ou em delegacias de polícia especializadas em atendimento à mulher. 
+Praticar livremente sua religião 
+O Brasil é um país laico que assegura a plena liberdade de culto, religião e crença.
+OBRIGAÇÃO DOS SOLICITANTES DE REFÚGIO NO BRASIL
+ Respeitar as pessoas, entidades e organismos públicos e privados. 
+Respeitar todas as leis.
+Renovar seu Protocolo provisório de solicitação de refúgio nas delegacias de Polícia federal e mantê-lo sempre atualizado. 
+Informar seu domicílio e mantê-lo atualizado nas delegacias de Polícia federal e junto ao CONARE. 
+No Brasil, o mecanismo do refúgio é regido pela Lei 9.474 de 1997, que estabelece o procedimento para a determinação, cessação e perda da condição de refugiado, os direitos e deveres dos solicitantes de refúgio e refugiados e as soluções duradouras para aquela população. A Lei Brasileira de Refúgio considera como refugiado todo indivíduo que sai do seu país de origem devido a fundados temores de perseguição por motivos de raça, religião, nacionalidade, grupo social ou opiniões políticas imputadas, ou devido a uma situação de grave e generalizada violação de direitos humanos no seu país de origem. 
+Considera-se que uma pessoa é perseguida quando seus direitos humanos tenham sido gravemente violados ou estão em risco de sê-lo. Isso pode acontecer, por exemplo, quando a vida, liberdade ou integridade física da pessoa corria sério risco no seu país. 
+Todos os pedidos de refúgio no Brasil são decididos pelo Comitê Nacional para os Refugiados (CONARE), órgão vinculado ao Ministério da Justiça e composto por representantes do Ministério da Justiça, do Ministério das Relações Exteriores, do Ministério do Trabalho, do Ministério da Saúde, do Ministério da Educação, do Departamento de Polícia Federal e de organizações da sociedade civil dedicadas a atividades de assistência, integração local e proteção aos refugiados no Brasil. O ACNUR e a Defensoria Pública da União têm assento no CONARE com direito a voz, porém sem direito a voto. 
+QUEM É QUEM
+CONARE 
+É o órgão do governo que analisa e decide todos os pedidos de refúgio no Brasil. É também o órgão encarregado de formular a política sobre refúgio no Brasil e criar normas que esclareçam os termos da lei de refúgio. O CONARE fica localizado em Brasília, no Ministério da Justiça. 
+Ministro da Justiça 
+É a autoridade que analisa e decide todos os recursos dos solicitantes de refúgio no Brasil. O Ministro da Justiça é um Ministro do Estado brasileiro, responsável por temas relativos ao poder judiciário, segurança pública, nacionalidade, estrangeiros, populações indígenas, dentre outros temas. 
+Polícia Federal 
+É o órgão do governo encarregado de receber os pedidos de refúgio, emitir documentos para solicitantes de refúgio e refugiados, informar os solicitantes de refúgio sobre o resultado dos seus pedidos e receber recursos contra as decisões negativas do CONARE. 
+ASSISTÊNCIA A SOLICITANTES DE REFÚGIOS NO BRASIL
+O Alto Comissariado das Nações Unidas para Refugiados (ACNUR) recebeu da ONU o mandato de conduzir e coordenar ações internacionais para a proteção dos solicitantes de refúgio e refugiados e a busca de soluções duradouras para seus problemas. 
+Para cumprir essa missão, o ACNUR no Brasil conta com o apoio de organizações da sociedade civil que possuem larga experiência com o tema e trabalham para promover a proteção, assistência e integração local dos solicitantes de refúgio e refugiados no Brasil. Através destas organizações, os solicitantes de refúgio e refugiados podem obter orientações, informações e encaminhamentos em questões envolvendo moradia, saúde, educação, documentação, cursos de português, inclusão no mercado de trabalho, etc. 
+As organizações estão presentes em três cidades do país: Caritas Arquidiocesana do Rio de Janeiro (CARJ) no Rio de Janeiro; Caritas Arquidiocesana de São Paulo (CASP) em São Paulo; e Instituto Migrações e Direitos Humanos (IMDH) em Brasília. Para entrar em contato com uma destas organizações, consulte a seção “Contatos Úteis” ao final desta cartilha. 
+O TRABALHO DO ACNUR NO BRASIL
+O Alto Comissariado das Nações Unidas para Refugiados (ACNUR) no Brasil tem o mandato de monitorar a implementação dos tratados internacionais de proteção a refugiados e prestar assessoria técnica aos órgãos do governo e sociedade civil. É também missão do ACNUR assegurar os direitos e o bem-estar dos refugiados. O ACNUR, em parceria com organizações da sociedade civil, do Poder Público e do setor privado, oferece proteção e assistência às pessoas sob o seu mandato de forma imparcial, com base nas suas necessidades e sem distinção de raça, sexo, religião ou opinião política. 
+COMO SOLICITAR REFÚGIO NO BRASIL
+Para solicitar refúgio no Brasil, é preciso estar presente no território nacional. A qualquer momento após a sua chegada no Brasil, o estrangeiro que se considera vítima de perseguição em seu país de origem deve procurar uma Delegacia da Polícia federal ou autoridade migratória na fronteira e solicitar expressamente o refúgio para adquirir a proteção do governo brasileiro. O estrangeiro que solicita refúgio no Brasil não pode ser deportado para fronteira de território onde sua vida ou liberdade estejam ameaçadas. 
+É IMPORTANTE SABER QUE:
+Não é possível solicitar a condição de refugiado estando fora do território brasileiro, em consulado ou embaixada brasileira no exterior. 
+A solicitação de refúgio é inteiramente gratuita e pode ser feita diretamente pelo interessado. Não é obrigatória a presença de advogado. 
+A solicitação de refúgio pode ser feita na área de fronteira ou dentro do território brasileiro. 
+O ingresso irregular no território não constitui impedimento para o estrangeiro solicitar refúgio às autoridades competentes. 
+Toda informação prestada pelo solicitante de refúgio será confidencial e não será compartilhada com as autoridades do seu país de origem. 
+A solicitação de refúgio também pode ser feita para o grupo familiar que o acompanhe no Brasil. 
+Às crianças (menores de 18 anos) desacompanhadas ou separadas da sua família será designado judicialmente um adulto responsável (guardião). 
+Não é necessário viajar ou morar em Brasília, onde fica a sede do CONARE, para acompanhar o pedido de refúgio. Você pode acompanhar seu pedido em qualquer posto da Polícia Federal ou com as organizações da sociedade civil parceiras do ACNUR. 
+PROCEDIMENTO DO PEDIDO DE REFÚGIO
+Para registrar a sua solicitação de refúgio você deve: 
+Preencher um TERMO DE SOLICITAÇÃO DE REFÚGIO em qualquer posto da Polícia Federal; 
+Informar um ENDEREÇO (onde você mora ou está hospedado e pode ser encontrado), telefone e E-MAIL para contato. É muito importante que você mantenha seus contatos atualizados na Polícia Federal e no CONARE, para que você possa receber todas as comunicações ou citações que sejam necessárias. Em caso de mudança, informe o CONARE através do e-mail conare@mj.gov.br. 
+Após registrar sua solicitação na Polícia Federal você: 
+Receberá um PROTOCOLO PROVISÓRIO, válido por 1 ano e renovável até a decisão final do CONARE sobre o seu pedido de refúgio. Este protocolo será seu DOCUMENTO DE IDENTIDADE no Brasil. Ele serve de prova da sua situação migratória regular e de que você está protegido e não pode ser devolvido para país onde sua vida esteja em risco. Com este protocolo você terá direito a obter CARTEIRA DE TRABALHO (CTPS) e CADASTRO DE PESSOA FÍSICA (CPF) e acessar todos os serviços públicos disponíveis no Brasil. 
+Terá o direito de ser ENTREVISTADO PESSOALMENTE por um funcionário do CONARE ou da Defensoria Pública da União, do sexo que você preferir, que lhe perguntará em detalhes os motivos que o levaram a sair do seu país. A entrevista será realizada num IDIOMA QUE VOCÊ COMPREENDA e, se necessário, você tem DIREITO A UM INTÉRPRETE. 
+Poderá ter uma SEGUNDA ENTREVISTA com um advogado das organizações parceiras do ACNUR: Caritas Arquidiocesana do Rio de Janeiro, Caritas Arquidiocesana de São Paulo e Instituto Migrações e Direitos Humanos. Para saber onde estão essas organizações, consulte a seção “Contatos Úteis” ao final desta cartilha. 
+É IMPORTANTE SABER QUE: 
+Para que o protocolo provisório continue válido e você possa continuar trabalhando regularmente, é necessário renová-lo na Polícia federal a cada 1 ano. Os solicitantes que não renovam o protocolo no prazo sujeitam-se ao arquivamento do seu pedido de refúgio. Fique atento à data de renovação anotada em seu protocolo, e compareça na Polícia Federal antes da data de vencimento. 
+O CONARE considera importante qualquer informação ou documentação que você traga para explicar as razões pelas quais você saiu do seu país. Para entender melhor sua situação, é indispensável que você foRNEça a maior quantidade de informações possíveis sobre seu país e região de origem; 
+O solicitante que faltar INJUSTIFICADAMENTE a ENTREVISTA fica sujeito ao ARQUIVAMENTO da sua solicitação de refúgio. Caso você tenha alguma dúvida após receber a notificação da data da sua entrevista, entre em contato com o CONARE, com a Polícia Federal ou com a organização da sociedade civil mais próxima; 
+Você tem direito a ser ASSISTIDO POR UM ADVOGADO da Defensoria Pública da União ou das organizações parceiras do ACNUR, de forma TOTALMENTE GRATUITA, para acompanhar todos os procedimentos do seu pedido de refúgio; 
+Você também pode solicitar ORIENTAÇÃO ao CONARE, à Defensoria Pública da União, às entidades da sociedade civil que trabalham com o tema ou ao ACNUR. 
+DOCUMENTAÇÃO
+Além do Protocolo Provisório, os solicitantes de refúgio têm direito aos seguintes documentos: 
+Cadastro de Pessoa Física (CPF) 
+O que é o CPF e quem pode solicitá-lo? 
+O CPF é um dos principais documentos para cidadãos residentes no Brasil, pois permite o acesso a uma série de facilidades, como o Sistema Público de Saúde (SUS), o registro em instituições públicas de educação, a abertura de contas em bancos e outras operações financeiras. Qualquer pessoa física, nacional ou estrangeira, pode solicitar a inscrição no CPF. 
+Onde posso solicitar o CPF? 
+Em qualquer agência da Receita Federal, mediante pagamento de taxa, e o documento será expedido na mesma hora em que solicitado. Os endereços das entidades públicas conveniadas podem ser encontrados no website www.receita.fazenda.gov.br.
+Quais são os documentos necessários para solicitar o CPF? 
+Os maiores de 18 anos deverão apresentar o original ou a cópia autenticada do seu documento de identificação. Os menores de 18 anos deverão apresentar o original ou a cópia autentica da do seu documento de identificação e o documento de identificação de um dos pais ou responsável. 
+Para mais informações, acesse o website www.receita.fazenda.gov.br.
+Carteira de Trabalho e Previdência Social (CTPS) 
+O que é a CTPS e quem pode solicitá-la? 
+A Carteira de Trabalho e Previdência Social (CTPS) é o documento que comprova toda a vida funcional do trabalhador e autoriza as empresas a contratá-lo como em pregado. Este documento é obrigatório para o exercício de atividades profissionais e pode ser solicitado por qualquer pessoa maior de 14 anos, nacional ou estrangeira, com residência regular no Brasil. 
+Onde posso solicitar a CTPS? 
+O interessado em tirar ou renovar a Carteira de Trabalho e Previdência Social deverá dirigir-se à Superintendência Regional do Trabalho e Emprego (SRTE) ou à Gerência Regional mais próxima da sua residência, com todos os documentos necessários em mãos. Informações sobre a localização dos postos de atendimento podem ser obtidas pelo telefone 158 na Central de Atendimento Alô Trabalho. 
+Quais os documentos necessários para a CTPS? 
+Duas fotos em tamanho 3cmx4cm, com fundo branco, coloridas ou em preto-e-branco, iguais e recentes; 
+Protocolo Provisório expedido pela Polícia federal original acompanhado de cópia; 
+Em caso de dúvidas e para outras informações, entre em contato com a Central de atendimento alô trabalho por meio do número 158. 
+DECISÃO DO CASO
+Depois de colher todas as informações trazidas pelo solicitante de refúgio, o pedido será analisado pelos membros do CONARE, que decidirão se o estrangeiro deverá ou não ser reconhecido como refugiado. 
+Após a DECISÃO do CONARE sobre o seu pedido de refúgio, você será comunicado da decisão nos postos da Polícia Federal e tem o DIREITO DE RECEBER CÓPIA INTEGRAL DA DECISÃO, para saber os motivos que levaram o CONARE àquela conclusão. 
+O solicitante de refúgio que teve a sua condição de refugiado reconhecida pelo Brasil tem o direito de permanecer no Brasil como refugiado e obter o registro nacional de estrangeiros (RNE), documento de identidade dos estrangeiros no Brasil. A emissão e a renovação do RNE são feitas pelo site ou em qualquer unidade da Polícia Federal. Além disso, o refugiado terá direito a uma Carteira de Trabalho definitiva e adquire os mesmos direitos de qualquer outro estrangeiro em situação regular no Brasil. 
+ATENÇÃO: um refugiado reconhecido pelo CONARE somente ostentará a condição de refugiado em território brasileiro. 
+Os outros países não estão obrigados a reconhecer como refugiado uma pessoa que já foi reconhecida em outro lugar. 
+Sendo assim, se você foi reconhecido como refugiado no Brasil e quiser viajar para outro país, você deverá solicitar autorização do CONARE e será tratado conforme a lei migratória comum do país para onde viajar. 
+SE FOR RECONHECIDA A CONDIÇÃO DE REFUGIADO 
+Se o seu pedido de refúgio foi negado, você pode: 
+Apresentar um recurso Para o Ministro Da Justiça no prazo de 15 Dias contados a partir do recebimento da notificação. O pedido de revisão da decisão do CONARE deve ser fundamentado, ou seja, deve indicar e explicar detalhadamente as razões pelas quais você não concorda com a decisão e se o problema da decisão está na interpretação dos fatos ou aplicação das regras ao caso. 
+Você pode ser ASSISTIDO POR UM ADVOGADO da Defensoria Pública da União ou das organizações parceiras do ACNUR no momento de fazer o seu recurso. Para tanto você deverá buscar uma destas entidades logo que receber a informação sobre a decisão, pois o recurso deve ser entregue na Policia Federal no prazo máximo de 15 dias do recebimento da notificação; 
+Se a DECISÃO DO MINISTRO DA JUSTIÇA também for negativa, significa que o processo administrativo de refúgio terminou e você será submetido à lei de estrangeiros vigente no Brasil. Neste caso, você pode procurar a Defensoria Pública da União para obter orientações sobre as medidas cabíveis. 
+É IMPORTANTE SABER QUE:
+A tramitação de um pedido de reconhecimento da condição de refugiado não impede a tramitação de um pedido de permanência no território brasileiro junto ao Ministério da Justiça, conforme os critérios previstos na legislação nacional. 
+Não existe um prazo para que o CONARE decida sobre seu pedido de refúgio. No entanto, é obrigatório que você COMPAREÇA na data agendada para a sua entrevista pessoal e preste todos os esclarecimentos que lhe forem requisitados pelo CONARE. 
+Mantenha seu endereço e contatos sempre atualizados na Policia Federal e no CONARE. 
+ACORDO DE RESIDÊNCIA DO MERCOSUL
+Após a assinatura do Acordo sobre Residência para Nacionais dos Estados Partes do MERCOSUL”, nacionais da Argentina, Bolívia, Chile, Colômbia, Peru, e Uruguai poderão obter o direito de residência temporária no Brasil, válida por dois anos. Findos os dois anos iniciais da residência provisória, é facultado requerer a conversão em residência permanente. A residência provisória do Acordo do Mercosul pode ser solicitada em qualquer consulado brasileiro no exterior ou em qualquer posto da Polícia Federal no Brasil. A residência provisória do Acordo do Mercosul pode ser solicitada a qualquer momento e por qualquer nacional daqueles Estados partes no acordo, mesmo que eles também tenham solicitado refúgio no Brasil. 

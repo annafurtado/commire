@@ -1,0 +1,589 @@
+﻿<Header>
+  <title>
+    <tit> Country Chapter CAN </tit>
+    <fileName> EN_006 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Guide </textType>
+    <subcorpus> Original Canadian English </subcorpus>
+  </title>
+  <sourceText>
+    <language> Canadian English </language>
+    <source> https://www.unhcr.org/protection/resettlement/3c5e55594/unhcr-resettlement-handbook-country-chapter-canada.html </source> 
+    <publisher> United Nations High Commissioner for Refugees </publisher>
+    <pubDate> 2018 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 22.06.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher> 
+    <comments>  </comments>
+  </sourceText>
+  <author>
+    <institution> Canadian Government </institution>
+  </author>
+</Header>
+
+COUNTRY CHAPTER
+CAN
+CANADA
+BY THE GOVERNMENT OF CANADA
+
+Canada 2017 Overview:
+Resettlement programme since: 1978
+Selection Missions: Yes
+Dossier Submissions: Case-by-case basis only
+
+Resettlement Admission Targets for 2017:
+Admission targets for UNHCR submissions: 9,000
+Total Resettlement Admission Target: 25,000
+
+Resettlement Admission Targets for 2018:
+Admission targets for UNHCR submissions: 9,000
+Total Resettlement Admission Target: 27,000
+
+Regional Allocations:
+2017*:
+2018:
+Africa: 8,490
+Africa: To be confirmed
+Asia and Oceania: 235
+Asia and Oceania:
+Middle East: 17,340
+Middle East:
+Americas: 380
+Americas:
+Other: 480
+Other:
+
+*Although Canada allocated 25,000 resettlement spaces for both government-supported (9,000) and privately sponsored (16,000) refugees in 2017, the numbers in the table above reflect total admissions (26,925) during the year, rounded to the closest multiple of 5. The admissions listed above are based on the applicant's citizenship. Data is preliminary and subject to change.
+
+Sub-quota features:
+
+Designated sub-quota/ acceptance for:
+2018 Description, additional comments:
+Emergency resettlement procedures: Canada is able to take up to 100 persons under the urgent protection program (UNHCR equivalent emergency).
+Medical cases: No limit, but generally no more than 5% of referred cases should have high medical needs.
+Women-at-risk cases: No specific allocation
+Unaccompanied children: Canada generally does not accept unaccompanied children. Exceptions may be made when there is extended family in Canada.
+Family Reunion (within programme): No quota. Canada's one-year window provision allows reunion of separated nuclear members without a new submission, provided they apply within one year of the date of arrival of the principal applicant, and were identified as a family member prior to the principal applicant's departure for Canada.
+Under the Private Sponsorship of Refugees (PSR) program, sponsors identify the refugee(s) they would like to sponsor. This program has a strong family-link component.
+Other, please specify: Canada has three resettlement streams:
+1) Government-assisted refugees (GARs) are typically UNHCR-referred refugees that receive income support from the Government for their first year in Canada.
+2) Privately sponsored refugees (PSRs) are refugees and persons in refugee-like situations identified and supported for their first year in Canada by organizations and individuals.
+3) Blended visa office-referred (BVOR) refugees are UNHCR-referred refugees who are matched with a private sponsor. Income support comes partially from the Government and partially from the private sponsor for the refugee's first year in Canada.
+
+1. Resettlement Policy
+
+1.1 Description of Canada's resettlement policy
+
+Canada's resettlement program is administered by Immigration, Refugees and Citizenship Canada. Canada has a long history of providing humanitarian assistance to people fleeing persecution in their homeland or displaced by conflicts.
+The objectives of Canada's refugee program are to save lives, offer protection to the displaced and persecuted, meet Canada's international legal obligations with respect to refugees, and respond to international crises by providing assistance to those in need of resettlement.
+Since 2002, with the implementation of the Immigration and Refugee Protection Act, Canada has placed emphasis on the following principles for refugee resettlement:
+A shift toward protection rather than ability to successfully establish;
+Long term, multiyear planning;
+Group processing where possible to increase efficiencies where common group resettlement needs are present;
+Rapid family reunification;
+Accelerated processing of urgent and vulnerable protection cases; and
+Balancing inclusiveness with effective management through a closer relationship with partners.
+
+Within its overall immigration plan, Canada resettles Convention refugees, members of the Humanitarian-protected Persons Abroad Class (HPC) and persons who are admitted under public policy considerations due to the compelling nature of their particular situation. These latter two groups are, respectively, persons who are not Convention refugees but who are in refugee-like situations or who represent vulnerable groups within their own country or a third country and who require protection through resettlement. Through its Government- Assisted Refugees Program, Canada sets a target each year for the resettlement of Convention refugees who are eligible to receive financial assistance from the Government of Canada. For government-assisted refugees, Canada has shifted to an approach which focuses on multiyear commitments to refugee populations, thereby enabling better forward planning for resettlement partners.
+
+In addition, Canada has the Private Sponsorship of Refugees Program, which enables organizations and private individuals to submit undertakings for refugees and persons in refugee-like situations (members of the HPC) for consideration for resettlement. Upon approval, the sponsor is responsible for providing financial assistance for a limited period of time and assisting the refugee with integrating in Canada.
+
+Another stream, called the Blended Visa Office-Referred refugee program, was introduced in 2013. Under this stream, Convention refugees who are referred to Canada by the UNHCR are matched with a private sponsor. These refugees receive some financial assistance from the Government of Canada and some from the private sponsor.
+
+A number of resettlement spaces are also set aside for persons who may be admitted under public policy considerations and who may receive financial asistance from the Government.
+
+Refugees are granted permanent protection in Canada, with refugees processed overseas granted permanent resident status upon arrival in Canada. Permanent residents then become eligible to apply for citizenship once all requirements are met (see section 12). All resettled refugees, like other permanent residents, are eligible to work legally in Canada immediately after arrival and have access to education, health care, and other Government of Canada services.
+
+1.2 Ministries or Departments responsible for resettlement policy
+
+Immigration, Refugees and Citizenship Canada and Quebec's Ministere de l'Immigration, de la Diversité et de l'Inclusion are responsible for Canada's resettlement policy. Refugees destined to Quebec fall under the Canada-Quebec Accord on Immigration, which has a number of provisions concerning the division of responsibilities between Canada and Quebec.
+
+1.3 Process for deciding the annual resettlement quota and its composition, including the timelines for the process
+
+An annual resettlement range is established by the Minister of Immigration, Refugees, and Citizenship following consultations with provincial governments. The Minister submits the proposed resettlement level as part of a report on overall immigration levels to Parliament in November of each year. Operational targets are set in accordance with levels. Migration offices receive their initial target allocations in December for the coming year. Targets are then shared with resettlement partners, including the UNHCR.
+
+2. Criteria for Recognition of Refugee Status Eligibility and Asylum
+
+2.1 National legislation defining refugee status eligibility
+
+The Immigration and Refugee Protection Act (2001) and its related Regulations.
+
+2.2 Distinction, if any, between refugee status criteria for asylum-seekers, and that for resettled refugees
+
+Asylum seekers in Canada may make a claim based on the provisions of the Refugee Convention, the fear of facing torture or the risk to life, or risk of cruel and unusual treatment or punishment. On the other hand, refugee applicants abroad must meet either the criteria of a Convention Refugee or be a member of the Humanitarian-protected Persons Abroad Class.
+
+i) Ability to Establish
+Refugee applicants abroad must show potential to become self-sufficient and to successfully establish in Canada within a three to five year time frame. In some “urgent” or “vulnerable” cases, the ability to establish criteria may not be applied or may be applied flexibly (see sections 8.3 and 8.7). Asylum seekers in Canada do not have to meet this requirement.
+
+ii) Ineligibility
+Asylum seekers in Canada will be deemed ineligible to have their claims heard by the Immigration and Refugee Board of Canada if:
+a) They are not admissible to Canada on security grounds, or because of criminal activity or human rights violations, or
+b) They came directly from a “safe third country” defined as a country designated by the Immigration and Refugee Protection Regulations, other than a country of the claimant's nationality or former habitual residence [1]; or
+c) They made a previous refugee claim in Canada which was determined to be ineligible, or was accepted, rejected, withdrawn, or declared abandoned by the Immigration and Refugee Board of Canada, or
+d) They have been recognized as a Convention refugee by a country other than Canada and can be sent or returned to that country.
+
+These restrictions do not exist for refugees abroad.
+
+iii) Durable Solution
+Refugee applicants abroad must prove that they have no reasonable prospect, within a reasonable period of time, of a durable solution in a country other than Canada. This forward-looking assessment of a possible durable solution does not exist for asylum seekers in Canada.
+
+iv) Determination of Refugee Claim
+Claims of refugee applicants abroad are determined by Immigration, Refugees and Citizenship Canada migration officers overseas (administrative process). Claims of asylum seekers in Canada are adjudicated by the Refugee Protection Division of the Immigration and Refugee Board of Canada (quasi-judicial process).
+
+3. Criteria for Resettlement
+
+3.1 Refugee resettlement eligibility criteria
+Canada will only consider an applicant for resettlement as a refugee if they are referred by:
+UNHCR
+Another (designated) "referral organization"
+A private sponsor (i.e., already has an approved private sponsorship)
+
+An applicant must meet the criteria of the 1951 UN Convention or meet the criteria of the Humanitarian-protected Persons Abroad Class (HPC). In addition, the applicant must have no reasonable prospect, within a reasonable period of time, of a durable solution in a country other than Canada.
+Assessed in the context of the vulnerability of the applicant and the urgency of their protection need, applicants must show potential to become self-sufficient and successfully establish in Canada. This requirement is not applied to refugees determined by a migration officer to fall within the categories “urgent need of protection” or “vulnerable” (see section 7).
+
+3.2 Admissibility criteria
+
+For a refugee to be accepted by Canada they must pass:
+A medical examination - Successful applicants must not be suffering from a medical condition which is likely to be a danger to public health or safety. However, unlike applicants for other immigration categories, refugee applicants are not refused on grounds of medical inadmissibility due to excessive demand on Canada's healthcare system;[2]
+
+Criminal screening - Refugees are not required to submit police certificates from their country of origin;
+
+Security screening - Canada will not accept any person who participated in terrorism, including espionage and subversion; war crimes and crimes against humanity; or organized criminal activity, including human smuggling and trafficking and money laundering. For example, combatants who have participated in war crimes or crimes against humanity, senior officials, including former or serving senior military officials from certain designated regimes or individuals who belong to organizations that engage in acts of espionage, subversion against a democratic government or institution, subversion by force of any government or acts of terrorism, are inadmissible under the Immigration and Refugee Protection Act.
+
+As part of the security screening process, applicants between the ages of 14 and 79 (inclusive) are required to provide biographical and biometric information, including fingerprints and digital photos. For more information, please contact a Canadian migration office.
+
+3.3 Refugees selected by Quebec
+
+Quebec is responsible for the selection of refugees and persons in similar circumstances. Those selected by the province receive a Quebec Selection Certificate (CSQ). To select the applicants most likely to integrate into Quebec society and remain in Quebec, Quebec considers its own criteria, including knowledge of French and ties with Quebec (relatives or community from the same ethnic group settled in Quebec).
+
+3.4 Other humanitarian immigration programmes
+
+Either upon request or on the Minister's own initiative, the Immigration and Refugee Protection Act gives the Minister of Immigration, Refugees, and Citizenship the authority to exempt foreign nationals from the requirements of the Act, in exceptional situations, if justified by humanitarian and compassionate considerations.
+
+4. Resettlement Allocations/Processing Priorities
+
+4.1 Resettlement allocations
+
+An annual resettlement target is established by the Minister of Immigration, Refugees, and Citizenship following consultations with stakeholders. In 2018, the refugee resettlement admissions range is 23,000 to 31,000, with a range of 6,000 to 8,000 for Government- assisted refugees, 1,000 to 3,000 for blended visa office-referred refugees, and the remainder for privately sponsored refugees (see section 4.3). The annual operational targets, which are set within this range, are then allocated among migration offices. Allocations are made on the basis of established multiyear commitments and resettlement needs, while also considering existing inventory and available processing resources.
+
+The target number refers to individuals, not cases, and operates on the calendar year. Refugees must arrive in Canada and be granted permanent residence to be counted toward the annual target. Processing can be carried over into the next calendar year for refugees not able to travel the same year in which processing begins.
+
+4.2 Processing Priorities: urgent and vulnerable cases
+
+See section 7
+
+4.3 Non-UNHCR allocations, including role of referral organisations
+
+Immigration, Refugees and Citizenship Canada also accepts some referrals from other non-governmental organizations, for example the Hebrew Immigration Aid Society and Refuge Point. Referrals tend to be vulnerable populations in urban areas.
+
+In addition to establishing the range of Government-supported refugees to take in a calendar year, a range is established for the number of persons expected to be resettled under the Private Sponsorship of Refugees Program (see section 8.6). For 2018, the range established for privately sponsored refugees is 16,000 to 20,000 individuals, with a target range of 18,000.
+
+Through the Private Sponsorship of Refugees Program, the Government of Canada encourages Canadian public involvement in the resettlement of Convention refugees and members of the Humanitarian-protected Persons Class. Under this program, nongovernment organizations (NGOs), faith-based organizations, communities, organizations and groups of individuals sponsor refugees by entering into an agreement with Immigration, Refugees and Citizenship Canada. Private sponsors may identify a refugee they wish to assist, or may select a refugee referred by a migration office for matching with a private sponsor.
+
+Sponsoring groups commit to providing the refugee and their immediate family members with basic assistance in the form of accommodation, clothing, food and settlement assistance normally for one year from the refugee's date of arrival in Canada. The sponsoring group also assists the refugee to find employment and become self- supporting within the period of the sponsorship agreement.
+
+5. Submission and Processing via Dossier Selection
+
+Interviews are required in most cases. In addition to verifying the identity and eligibility of refugee applicants, interviews are used to elicit detailed family composition and background information, ask statutory questions, obtain authorizations that are not included in the UNHCR Resettlement Registration Form (RRF), and collect biometrics.
+
+In emergency cases where an urgent protection need has been identified, it may be possible to waive the usual requirement for an interview and biometrics. In these cases, it is important that the claim for protection be well recorded, detailed and documented (when possible).
+
+An applicant who is refused abroad can seek leave for judicial review of the decision before the Federal Court of Canada.
+
+6. Submissions and Processing via In Country Selection
+
+6.1 Selection mission policies
+
+Applicants will normally be interviewed by a migration officer who will determine whether the applicant meets Canadian eligibility and admissibility criteria (see sections 3.1 and 3.2). If a refugee meets the eligibility criteria, a medical examination is requested and must be carried out prior to issuance of an immigrant visa. Criminality and security screening also takes place at this time. The final decision to approve or reject an applicant will be made by the migration officer based on the results of the interview, medical examination, and criminality and security checks. If an applicant is refused, they will be informed of the negative decision and a letter outlining the reason(s) for the refusal will be sent to the applicant. The migration office will also advise the UNHCR of the decisions made on the cases they have referred.
+
+6.2 Case Documentation
+
+The following documents should be included with a submission to Canada:
+
+1. UNHCR Resettlement Registration Form (RRF), ensuring all sections are completed (to be sent electronically where possible);
+
+2. Other relevant documentation (e.g., birth, marriage, divorce, death certificates, ID cards, school and employment documents, medical certificates, etc.), if available; and
+
+3. Covering letter explaining why the refugee requires resettlement and whether they are at risk or fall into an urgent category (“urgent” in UNHCR terminology is the equivalent of “vulnerable” in Immigration, Refugees and Citizenship Canada's terminology).
+
+For emergency cases (“emergency” in UNHCR terminology is the equivalent of “urgent” in Immigration, Refugees and Citizenship Canada's terminology), reasons for requesting urgent processing should be clearly stated (see section 7).
+
+6.3 Routing of Submissions
+
+Immigration, Refugees and Citizenship Canada has a centralized process for allocating referral quotas, and receiving referrals from UNHCR. As of February 1, 2018, all UNHCR referrals are first sent to the Resettlement Operations Division of Immigration, Refugees and Citizenship Canada headquarters, who will review the referral prior to forwarding the referrals to the responsible Canadian migration office abroad.
+
+Note: Cases referred under the Urgent Protection Program (UPP) will continue to be sent directly from UNHCR sub-offices to Canadian migration offices (copying Immigration, Refugees and Citizenship Canada headquarters) to ensure there is no delay in the processing of cases requiring urgent protection. For more information on Canadian migration offices and their areas of responsibility, please consult the following website: www.cic.gc.ca.
+
+6.4 Processing Times
+
+Processing times vary among migration offices depending on such factors as: communications and travel infrastructure; caseload at the migration office in refugee and other business lines; location of refugee populations and types of medical needs; and processing resources available. In the event of an urgent/emergency case, the Canadian migration office should be clearly advised at the time of submission so that processing may be expedited.
+
+For processing times at each of Immigration, Refugees and Citizenship Canada's migration offices please visit: http://www.cic.gc.ca/english/information/times/perm-other.asp
+6.5 Recourses/Appeals
+
+In the case of a refusal where the UNHCR requests reconsideration, the Migration Program Manager at the responsible migration office should be contacted. There is no formal appeal system at the migration office. There is only the possibility of leave for judicial review of the decision at the Federal Court of Canada. If there are compelling reasons to believe that Canadian resettlement policy has not been interpreted properly, further advice can be requested from UNHCR Branch Office in Ottawa.
+
+6.6 Other details: Immigration Loans and Contributions
+
+In the case of refugees who cannot afford to pay for their own travel to Canada, an immigration loan may be authorized to cover these costs.
+
+Where necessary, transportation to the interview location may also be included in the loan.
+
+A refugee must demonstrate the need for, and the potential to eventually repay, the loan. Refugees are required to begin repaying the loan (in monthly instalments) a year following their arrival in Canada, and no interest is charged. Immigration, Refugees and Citizenship Canada may cover the cost in cases where refugees with special needs are unlikely to ever be able to repay the loan.
+
+An arrangement is in place between Immigration, Refugees and Citizenship Canada and the International Organization for Migration (IOM) to manage the loan process. IOM covers the costs put on the loan up front and is reimbursed by the Department of Immigration, Refugees and Citizenship.
+
+7. Emergency Cases/Urgent Cases
+
+7.1 Policies and procedures for receiving referrals for emergency / urgent / vulnerable submissions and routing of submissions
+
+Urgent Cases (“Emergency Cases” in UNHCR Terminology)
+Canada's Urgent Protection Program (UPP) is intended to respond to emergency requests from the UNHCR to provide urgent protection to persons who qualify for resettlement. These persons must be in need of urgent protection through resettlement due to immediate threats to their life, liberty or physical safety. Medical emergencies do not qualify for the UPP.
+
+UNHCR emergency cases should be submitted directly to the migration office that covers the area where the refugee resides. A copy of the referral should also be sent to the UNHCR office in Ottawa, and to Immigration, Refugees and Citizenship Canada's headquarters. The migration office will then inform the UNHCR within 24 hours whether they are able to respond to the emergency request.
+
+In UPP cases, Canada's preference is to complete processing to permanent resident visa issuance. This process requires completion of expedited medical examinations and background checks. Canada aims to process UPP cases from submission to departure within one week. However, in many cases, it is not logistically feasible to meet the one week guideline and for this reason, migration offices maintain close contact with UNHCR on UPP cases.
+
+When it is not possible to complete all requirements overseas within the prescribed timelines, a migration office may issue a Temporary Resident Permit instead. The Temporary Resident Permit document allows a refugee to travel to Canada before all the statutory (medical, security, and criminality) checks have been completed. The refugee will undergo medical and background checks in Canada. The refugee may then apply for permanent residence once the necessary requirements are met.
+
+Vulnerable Cases (“Urgent Cases” in UNHCR terminology)
+
+Canadian migration officers may determine a refugee to be vulnerable, meaning the person has a greater need of protection than other applicants because of particular circumstances that give rise to a heightened risk to their physical safety or well being. The vulnerability may result from circumstances such as lack of protection normally provided by a family or a medical condition. If the UNHCR flags a case as “urgent”, the migration office will give consideration to whether processing can be expedited due to the applicant's vulnerability. If cases are assessed as vulnerable, they will be prioritized before regular refugee cases and will be eligible for expedited processing (from one to four months).
+
+7.2 Case documentation for emergency/urgent/vulnerable cases
+
+Urgent (“emergency” in UNHCR terminology) protection cases should be submitted directly to the Migration Program Manager at the relevant Canadian migration office with supporting documentation as described in section 6. A copy of the referral should also be sent to the UNHCR office in Ottawa, and to Immigration, Refugees and Citizenship Canada's headquarters. An explanation as to why UNHCR believes the case to be urgent or vulnerable should be included with the submission.
+
+Vulnerable (“urgent” in UNHCR terminology) cases should be submitted to Immigration, Refugees and Citizenship Canada Headquarters in Ottawa through the normal process.
+Both refugees admitted under the UPP and those determined by a migration officer to be vulnerable are not required to demonstrate an ability to successfully establish in Canada.
+
+8. Special Categories/Special Needs
+
+8.1 Refugees with Medical Needs
+
+Refugee cases involving special medical needs should, where possible, be flagged for the responsible Canadian migration office. This includes situations where a dependent of the principal applicant has a medical condition. If the medical condition presents a danger to public health or safety, an applicant may fail Canada's medical examination.
+
+In Canada, provincial governments are responsible for health care and social services. Some health conditions may require frequent or costly medical treatment. Depending on the circumstances of the case, refugees with medical conditions may need to be destined to particular areas where the required medical services are available. As a result, processing times for such cases may be lengthy. Other medical conditions may require substantial support from other persons. Thus, when recommending refugee cases with medical conditions it is worth considering the presence of accompanying or other family in Canada able to assist the refugee. It is recommended that UNHCR consult with the responsible Canadian migration office if there are questions regarding the referral of a specific case.
+
+8.2 Survivors of Violence and Torture
+
+Persons who are survivors of violence and torture and who may need additional assistance establishing in Canada may be considered as a vulnerable or urgent case, depending on the circumstances of each case (see section 7). Such cases may be processed under the Joint Assistance Sponsorship Program for Government-assisted refugees (please refer to section 8.7 for details). Treatment for such cases is available in a number of Canadian cities. Cases should be submitted directly to the migration office with any need for follow-up treatment noted in the submission.
+
+8.3 Women at Risk
+
+The aim of the Canadian Women at Risk Program is to provide protection and assistance to refugee women who are in critical situations. Canada defines women-at-risk as “women without the normal protection of a family who find themselves in precarious situations and who are in a place where local authorities cannot ensure their safety”. This definition also includes women who experience significant difficulties such as harassment by local authorities or by members of their own communities. The program recognizes that refugee women in these circumstances require additional assistance to establish successfully in Canada.
+
+To be eligible for this program, women at risk must be Convention refugees or members of the Humanitarian-protected Persons Abroad Class. Urgent and vulnerable cases are given priority and the ability to establish criteria will not be applied (see section 7). In other words, women-at-risk may be accepted despite having limited settlement prospects.
+
+Not all women at risk face immediate danger. They can also be living in unstable conditions and resettlement in a third country offers the only solution. In this case, the ability to successfully establish will be assessed by Canadian migration officers on a 'sliding scale'; that is, the greater the need for protection the less weight placed on establishment considerations.
+
+Routing of Submissions
+
+All women at risk cases should be clearly flagged and submitted to the Resettlement Operations Division at Immigration, Refugees and Citizenship Canada headquarters in Ottawa through the normal referral process. Urgent cases are eligible for expedited processing and should be clearly marked and accompanied by an outline of the reasons for urgency (see section 7). UNHCR RRF and Social Assessment forms must also be completed.
+
+8.4 Children
+
+If an unaccompanied minor abroad has family in Canada, they could be eligible for consideration as a Government-assisted refugee, privately sponsored or sponsored under Canada's Family Class Program.
+
+Referrals of unaccompanied minor's should always be sent to the Resettlement Operations Division at Immigration, Refugees and Citizenship Canada headquarters in Ottawa. In coordination with the appropriate local office, the minor's relatives in Canada will then be contacted to determine their willingness and ability to provide support and act as guardians for the minor.
+
+If an unaccompanied minor abroad has no family in Canada willing to act as the minor's guardian, the current policy is to not accept them for resettlement.
+
+8.5 Elderly
+
+Elderly refugees with immediate family in Canada can be considered for resettlement in order to reunite families that have been separated. Also eligible for resettlement are elderly refugees dependent on another refugee that is being referred to Canada for resettlement, or with extended family in Canada.
+
+Elderly refugees without close family ties in Canada and who are not accompanied by family members can be considered for resettlement when there are compelling protection needs. Such cases would likely require additional settlement assistance and may be eligible for a Joint Assistance Sponsorship for Government-assisted refugees (see section 8.7).
+
+8.6 Private Sponsorship
+
+The Government of Canada encourages involvement of the Canadian public in the resettlement of Convention refugees and members of the Humanitarian Protected Persons Abroad Class.
+
+Under this category, non-governmental organizations, faith-based organizations, community organizations and individuals agree to privately sponsor refugees. The sponsorship of refugees by Canadian citizens and permanent residents allows for the admission of refugees in addition to the number whose admission is financially assisted by the Government of Canada. Sponsoring groups commit to provide the sponsored refugee with basic assistance in the form of accommodation, clothing, food, income support and settlement assistance normally for one year after the refugee's arrival in Canada. The sponsorship period may be up to thirty-six months in exceptional circumstances. The sponsoring group also assists the refugee to find employment and become self-supporting within the period of the sponsorship agreement. Private sponsors may identify a refugee they wish to assist or select a refugee referred by a migration office.
+
+Criteria
+
+Eligibility and admissibility criteria described in section 2 apply to privately sponsored refugees.
+
+8.7 Joint Assistance Sponsorship (JAS)
+
+This program is intended for Convention refugees selected as Government-assisted refugees with higher than normal settlement needs, including refugees whose personal circumstances may include a large number of family members, trauma from violence or torture, medical disabilities or the effects of systemic discrimination.
+
+A Joint Assistance Sponsorship allows the Government of Canada and a private sponsorship group to share the responsibilities of sponsorship for refugees who are in need of assistance over and above that which is provided through Government of Canada assistance alone. The Government of Canada assumes full financial responsibility while the private sponsorship group provides social and emotional support and, together with a service provider organization funded by Immigration, Refugees and Citizenship Canada, is committed to ensuring the refugee's integration. The period of sponsorship may be typically extended for two years and up to three years for exceptional cases such as separated minors.
+
+Eligibility and admissibility criteria are applicable. In exceptional situations, transportation may be covered by the Government of Canada as opposed to a loan (see section 11.2). InCanada Joint Assistance Sponsorship determination is also possible should the need for greater settlement assistance be identified after a refugee's arrival in Canada.
+
+8.8 Blended Visa Office-Referred (BVOR)
+
+The BVOR program was launched in 2013. This program matches refugees identified for resettlement by the UNHCR with private sponsors in Canada. This program allows the Government of Canada to engage in a three-way partnership with the UNHCR and private sponsors, which allows both new and experienced sponsors to cost-share with the Government and become involved in protecting refugees with whom they have had no previous contact. Under this program, the Government of Canada provides up to six months of income support through the Resettlement Assistance Program, while private sponsors provide another six months of financial support, and commit to providing a year of social and emotional support and to ensuring the refugee's integration.
+
+9. Medical Requirements
+
+All immigrants to Canada, including refugees, must pass a medical examination, which is provided by a local physician (“Immigration Medical Examiner”) authorised by the Government of Canada. A Canadian physician employed by Immigration, Refugees and Citizenship Canada then assesses the results of the medical examination. Canada does not admit applicants who suffer from a medical condition which is likely to be a danger to public health or safety. If applicants are diagnosed with a condition that would be a danger to public health (i.e., active tuberculosis or untreated syphilis), they receive treatment. When further tests indicate they no longer pose a danger, their cases can be approved for visa issuance and travel to Canada. Refugee applicants are not refused based on medical inadmissibility due to excessive demand on Canadian health or social services, as is the case with some other immigration streams.
+
+Under the Interim Federal Health Program (IFHP), resettled refugees, as well as certain other groups (e.g., some public policy groups), are eligible for certain pre-departure medical services provided by panel physicians, panel radiologists and secondary providers (i.e., hospitals and laboratories) who are registered with the program claims administrator, Medavie Blue Cross. These services include the immigration medical examination and any follow-up treatment needed for active tuberculosis or untreated syphilis. Individuals are also eligible to receive certain vaccinations, although they are not mandatory for admissibility; only panel physicians associated with the IOM may provide immunization services. As well, if a departmental regional medical officer determines that an individual requires medical support in transit to facilitate safe travel to Canada, the IFHP covers the costs of certain medical services and devices.
+
+10. Orientation (pre-arrival)
+
+The Canadian Orientation Abroad (COA) Program provides visa-ready refugees bound for Canada with orientation prior to their departure. Sessions are provided in the refugee's first language, when possible, or by using interpreters. COA sessions consist of three to five days of pre-departure group orientation covering topics such as introduction to Canada, getting ready to travel to Canada, information on the resettlement program they will be benefitting from, the settling-in period, employment, rights and responsibilities, geography and climate, finding a place to live, living in a multicultural society, the cost of living, family life, education, communication systems and adaptation to Canada. COA emphasizes the importance of arriving to Canada with realistic expectations. The Government of Canada has contracted the IOM to deliver COA. Participation is voluntary and free of charge. COA also provides targetted orientation for refugee youth. COA's Youth Refugee Curriculum is a teaching handbook allowing for a customized and tailored curriculum to meet the information needs of youth.
+
+11. Travel
+
+11.1 Travel booking procedures
+
+Arrangements for travel to Canada are generally made by the IOM in coordination with a migration office. IOM also remains in close communication with Immigration, Refugees and Citizenship Canada's Refugee Resettlement Operations Centre, which identifies destinations for refugees based on available settlement services, presence of relatives or members of the same community, and other factors.
+
+11.2 Payment
+
+Loans from the Government of Canada are available to Government-assisted as well as privately sponsored refugees to cover the cost of their travel to Canada. Government- assisted refugees identified as special needs refugees (e.g., persons with disabilities, women at risk, etc.) may be eligible for contributions in lieu of loans, to cover their travel costs.
+
+11.3 Travel documents issued
+
+All foreign nationals travelling to Canada are issued a permanent resident visa in the form of a generic counterfoil coded for immigration (IM-1). In the case of refugees who are stateless or cannot obtain passports from their countries of nationality on which the visa can be affixed, a Single Journey Document for Resettlement to Canada (SJTD) (IMM 5485) can be issued by the migration office. It serves as travel identification and can only be used for the first trip to Canada for entry as a Permanent Resident.
+
+12. Status on Arrival and the Path to Citizenship
+
+Except for those who are issued a Temporary Resident Permit, all refugees processed overseas are granted permanent resident status upon arrival in Canada. Those who arrive with Temporary Resident Permits may apply for permanent residence once medical and background checks are passed.
+
+Canadian citizenship may be granted to permanent residents who meet certain requirements, including:
+
+Is a Permanent Resident with no unfulfilled conditions under the Immigration and Refugee Protection Act;
+Has been physically present in Canada for 1095 days during the 5 years prior to the date of application is signed;
+Applicants may count each day they were physically present in Canada as a temporary resident or protected person, before becoming a permanent resident, as a half-day toward meeting the physical presence requirement for citizenship, up to a maximum credit of 365 days, within 5 years preceding the date of application.
+Has met applicable requirements to file a return of income in three taxation years that are fully or partially within the five years immediately before date of application;
+Has met applicable requirements to file a return of income in three taxation years that are fully or partially within the five years immediately before date of application;
+If between the ages of 18 and 55 at date of application, has an adequate knowledge of English or French;
+If between the ages of 18 and 55 at date of application, has an adequate knowledge of Canada and the responsibilities and privileges of citizenship; and
+Is not under a removal order or prohibited due to security or other reasons.
+
+The Citizenship Application fees are $530 for an adult applicant and $100 for minor applicants. The current process takes approximately 12 months or less for straightforward cases.
+
+With the exception of children born to foreign diplomats, consular officers or other representatives or employees in Canada of a foreign government, children born in Canada (before or after naturalization of their parents) are issued Canadian provincial or territorial birth certificates and are Canadian citizens.
+
+13. Domestic Resettlement, Settlement and Community Services
+
+13.1 Overview of services, including providers and length of eligibility
+
+Canada's Resettlement Assistance Program funds income support (see section 13.9) administered directly by Immigration, Refugees and Citizenship Canada to Government- assisted refugees including those receiving Joint Assistance Sponsorship and other eligible clients, as well as a range of immediate and essential services delivered by service provider organizations These services, generally delivered within four to six weeks of a client's arrival in Canada, include:
+
+Port of entry and reception services (e.g., provision of clothing for winter arrivals);
+Temporary accommodation and assistance with locating permanent accommodation;
+Needs assessment and referrals to other settlement programs and community based services;
+Information and orientation on financial matters as well as life skills; and o Links to essential federal and provincial programs, such as obtaining a Social Insurance Number and provincial health card, applying for the Canada Child Benefit, and registering children in school.
+
+Under Private Sponsorship (section 8.6) and Blended Visa Office-Referred programs (section 8.8), immediate and essential services are provided by private sponsors. Government-assisted refugees, privately sponsored refugees and refugees resettled under the Blended Visa Office-Referred program are all eligible to access services funded through the Settlement Program in addition to those provided under the Resettlement Assistance Program or by sponsors.
+
+Government assisted refugees destined to Quebec have access to the Programme d'accueil et d'installation des réfugiés (PAIR) and to financial support from Quebec upon arrival but privately sponsored refugees in Quebec are not eligible.
+
+Canada has a continued commitment to refugee settlement and funds programming that supports a ‘two-way street' approach that helps immigrants learn about Canadian values while also helping Canadians understand the diverse backgrounds of newcomers. This approach is underpinned by Canada's inclusive laws, policies and programs. Inclusive legislation includes, inter alia, the Canadian Charter of Rights and Freedoms, human rights legislation, the Citizenship Act, the Multiculturalism Act, the Immigration and Refugee Protection Act and the federal Employment Equity Act.
+
+Canada's Settlement Program funds partnerships with more than 500 third-party service provider organizations across Canada which deliver settlement services that support the full participation of newcomers, including resettled refugees and protected persons, in the economic, social, cultural and civic life of Canada. These services are free of charge, voluntary, and accessible to all permanent residents, including resettled refugees. Other orders of government provide complementary integration programs in the areas of education, health, and labour market access.
+
+Settlement services include: information and orientation, to help newcomers make informed decisions about their settlement and better understand Canada's laws and institutions; language training to help newcomers with finding information, jobs and making social connections; employment related services such as job search orientation, employer connections and information about foreign credential recognition pathways; community connections, which foster interaction between newcomers and Canadians and create welcoming institutions and communities; and support services, such as on-site child care, crisis counselling, transportation and supports to persons with disabilities.
+
+A key element in Canada's strategy for integration of refugees is the recognition that these individuals often face multiple barriers to integration and benefit from efforts made to meet these needs. Canada has the benefit of many years of experience resettling refugees from all parts of the world. Providing settlement services for multibarriered clients, including refugees, continues to be a priority to meet the diverse needs of these newcomers to Canada. Targetted programming is in place for newcomer women, children/youth, lesbian/gay/bisexual/transsexual/queer individuals, seniors and families.
+
+13.2 Reception
+
+Upon arrival at a port of entry, refugees are assisted with landing procedures and inland transportation. Arrangements are also made for overnight accommodation and meals, if required. Government-assisted refugees, including refugees receiving Joint Assistance Sponsorship, who arrive in Canada between mid-October and mid-April are provided with any necessary winter clothing. Privately sponsored refugees and refugees resettled under the Blended Visa Office-Referred program are provided with any necessary winter clothing from their sponsors. In exceptional circumstances, privately sponsored refugees and refugees resettled under the Blended Visa Office-Referred program will receive winter clothing from the port of entry service provider if they need to spend time outside before traveling onward to their final destination.
+
+Refugees arriving in Quebec are provided with hotel accommodations for a few days. Representatives of service providier organizations and the Ministere de 1'Immigration, de la Diversite et de 1'Inclusion help the refugees choose an apartment, apply for health insurance coverage, register for school, and open a bank account. Furniture, clothes, home appliances and necessities are also provided. Applicants who speak neither English nor French receive assistance and language and cultural interpretation services to facilitate their integration and access to public services. Soon after their arrival, the refugees are registered in either a French-language training program or an integration program if they already speak French.
+
+13.3 Housing
+
+Temporary accommodation is provided to Government-assisted refugees until permanent housing is secured. In some cases, this accommodation is provided commercially from hotels and motels. In other cases, accommodation is provided from organizations that have reception house services.
+
+Privately sponsored refugees (see section 8.6), including blended visa office-referred refugees, receive accommodation support directly from sponsors who secure accommodation for the duration of the sponsorship period.
+
+13.4 Needs Assessment and Orientation
+
+Orientation materials are provided to help newcomers better understand the Canadian way of life and society. Both written and audio-visual materials are used overseas in pre-arrival orientation sessions and in local offices and service provider organizations across Canada. After arrival in Canada, refugees receive orientation to assist with settlement into their new community through the Resettlement Assistance Program. Topics such as renting accommodation, shopping, telephones, food and cooking, public local transportation, and safety are covered. All refugees are also eligible for assessment through the Needs Assessment and Referral Services (NARS), whereby service providers help newcomers to understand their settlement needs and develop a personalised settlement plan to achieve their objectives and facilitate integration into Canada. Ongoing settlement orientation assistance is available from service providers. One-one-one, family and group orientation sessions are available covering topics such as rights and responsiblities, the Canadian legal system, citizenship and many other areas related to life in Canada.
+
+13.5 Referral to Federal / Provincial Programs and Settlement Programs
+
+Refugees are assisted with applications for medical insurance, social insurance number, permanent resident card, Canada Child Benefit, and with transfer and translation of employment records. They are also referred to language assessments and training and other settlement program and broader based community services.
+
+13.6 Health, including Mental Health
+
+Under the Interim Federal Health Program, the Government of Canada provides limited, temporary physical and mental health-care coverage for basic, supplemental and prescription drug coverage to eligible individuals, including resettled refugees, until they become eligible for provincial or territorial health-care coverage, which is usually no later than 90 days after arrival in the province or territory in which they intend to reside. Similar to provincial/territorial health-care insurance, the coverage includes hospital or physician services. Coverage for supplemental health-care services, such as urgent dental, psychology and psychotherapy services, as well as prescription drugs, is similar to what provinces and territories provide to Canadians who receive social assistance.
+
+Physical and mental health promotion activities are available through information and orientation products and or recreational/community based interventions that promote and foster healthy living.
+
+13.7 Language Training
+
+Acquisition of language skills in one of Canada's Official Languages, English and French, is crucial for integration into Canadian society. Therefore, instruction in one of Canada's two official languages is available to adult immigrants and refugees through federally and some provincially funded programs. Resettled refugees (who arrive in Canada as Permanent Residents and protected persons) are eligible for free Government of Canada-funded language training in English and French, delivered through Language Instruction for Newcomers to Canada (LINC) and Cours de langue pour les immigrants au Canada (CLIC). For more information on funded language training offerings, please visit http://www.cic.gc.ca/english/newcomers/live/language.asp.
+
+To begin LINC or CLIC language classes, a newcomer must first get an assessment. To find the address and contact information for an assessment centre, please consult http://www.cic.gc.ca/english/newcomers/map/services.asp or call Immigration, Refugees and Citizenship Canada's call centre at 1-888-242-2100. To find information about language training programs funded by provincial governments, please consult the website of the province/territory of settlement/residence.
+
+In addition, Immigration, Refugees and Citizenship Canada's Language Training for Canada video is intended to raise newcomer awareness on the importance of official language skills for settlement and the steps to take to improve them before and after arrival in Canada. The video is available on the Department of Immigration, Refugees and Citizenship's web site in English and in French and on the Department's YouTube channel:
+
+English: https://youtu.be/s7O924191lk
+French: https://youtu.be/IiWBN lCdw0
+Arabic: https://youtu.be/epNZbEuC3YM
+
+13.8 Education
+
+Elementary and secondary schools fall under provincial jurisdiction. Immigrant and refugee children, once permanent residents, are required to attend provincially-funded public schools. Post-secondary education is not free in Canada, but neither is it restricted to the affluent. There are various scholarships and university student loan programs available. Entrance to colleges and universities is based on a person's educational abilities, as demonstrated through high school grades, and sometimes through equivalent work and/or voluntary experience.
+
+The Settlement Program funds services in elementary and secondary schools to enable successful integration through specialised and culturally adequate support, while raising awareness of settlement issues within the school system and building capacity for institutional change. For example, Settlement Workers in Schools (SWIS), is an outreach program in Canada that aims to support newcomer students within the mainstream school system.
+
+13.9 Employment and Employment-Related Training
+
+Resettled refugees, like other permanent residents, are eligible to work legally in Canada immediately after arriving in Canada. Federal employment and training programs are administered by Employment and Social Development Canada (ESDC). Provinces and territories also deliver their respective suite of programs and services. All residents of Canada, including newly arrived immigrants and refugees, have access to labour market programs, services and information, including the Job Bank/Job Match tool.
+
+Furthermore, all unemployed Canadians have access to the services offered through community organizations. Through the local planning process, Service Canada will work with provinces, other federal departments, and other partners to identify gaps in service and collaborate on serving immigrants and refugees.
+
+In addition to these generalized services, Immigration, Refugees and Citizenship Canada, through its Settlement Program, funds an array of newcomer-focussed employment-related services that are delivered by provincial governments and service provider organizations.
+
+During the needs assessment exercise (see section 13.3), settlement workers assess the resettled refugee's skills, language knowledge and credentials, and provide them with relevant labour market information and referral to the services explained below. Additional employment-related services targeted at newcomers include, but are not limited to: employment counselling, job search workshops, resume screening and referrals to employers, mentorship and networking opportunities, internship placements, and preparation for obtaining required equivalences of foreign credentials and/or trade documents. There are also complementary programs funded by provinces and territories.
+
+Another tool to assist in finding employment in Canada is Immigration, Refugees and Citizenship Canada's Planning to Work in Canada: An Essential Workbook for Newcomers.
+
+A portion of Settlement Program funding is spent on directly engaging with Canadian employers on the benefits of a diverse workforce and matching employers' skills needs to newcomers.
+
+There are also activities in Canada to connect refugees with local support and social networks, to provide opportunities for labour market integration and cross-cultural interaction, as well as to encourage informal practice of language skills. Examples include:
+
+Opportunities to learn about Canadian ways of life and foster inter-cultural communication and understanding;
+Sports and recreation events, visits to important local sites and cultural celebrations; Conversation circles to support language learning;
+Youth leadership, peer support activities, homework clubs and after school programs to develop life skills, community leadership capacity and valuable volunteer experience;
+Mentoring and matching to connect refugees with local support networks, mainstream organizations, and employment-related networks and opportunities; and
+Job placements and internship to provide the “Canadian experience” sought by Canadian employers.
+
+For more information on work in Canada, please consult the following link: www.workingincanada.gc.ca
+
+13.10 Financial Assistance
+
+The Resettlement Assistance Program funds the provision of income support to Government-assisted refugees as well as other eligible clients, including Blended Visa Office-Referred refugees who receive a combination of Resettlement Assistance Program and private sponsor support, and persons who are admitted to Canada as permanent residents under humanitarian and compassionate grounds and under public policy considerations established by the Minister for compelling humanitarian reasons. The Resettlement Assistance Program offers income support that is genarally comparable to social assistance offered by the provinces.
+
+Resettlement Assistance Program's financial assistance for basic needs (e.g., food, clothing, and shelter) is typically available for up to 12 months or until they become selfsufficient, whichever comes first. Assistance may be extended for an additional 12 months for special needs cases, such as cases assessed as a Joint Assistance Sponsorship (see section 8.7). In addition, one-time start-up funds are provided to Government-assisted refugees to cover the initial costs associated with establishing a new home (e.g., furniture, linens, food staples, clothing and other household items.
+
+Privately sponsored refugees receive financial support from their sponsor (see section 8.6). The goal of the Resettlement Assistance Program and comparable private sponsorship support is to meet basic needs in support of the ultimate outcome of having resetted refugees live independently in Canadian society.
+
+13.11 Supplemental support for refugees with specific needs
+
+The specific needs of Government-assisted refugees are considered when Immigration, Refugees and Citizenship Canada's Refugee Resettlement Operations Centre determines a final destination within Canada. Whenever possible, survivors of torture or women-at-risk, for example, are resettled to centers with related available support. High needs Government-assisted refugees may have access to financial assistance to cover travel costs associated with resettlement to Canada. In addition, Government-assisted refugees with special dietary requirements due to a health condition may be eligible for an additional allowance as part of their Resettlement Assistance Program monthly income assistance.
+
+Life skills support for high-needs refugees
+
+Resettlement Assistance Program funds the provision of intensive life skills support to to high needs Government-assisted refugees after their arrival and once they have moved into their new community. Life skills workers provide culturally appropriate help with basic life skills in the refugee's own language. Help may also be provided for using appliances, budgeting, Canadian cultural orientation and other needs.
+
+13.12 Mechanisms to share information with service providers; including details on expected populations, specific cases and integration issues
+
+Immigration, Refugees and Citizenship Canada's Refugee Resettlement Operations Centre ensures critical information (e.g., refugee needs, arrival itineraries, etc.) is provided to the in-Canada resettlement network to ensure an efficient and nationally coordinated refugee resettlement movement. When available, cultural profiles of expected populations are also shared. To assist Resettlement Assistance Program service providers in planning and managing refugee arrivals to Canada, Immigration, Refugees and Citizenship Canada shares short, medium, and long term arrival projections.
+
+In addition, Form IMM5544 “The Supplemental Medical and Resettlement Form” is filled out by Immigration Medical Examiners and is used to identify health-related issues early. It is also used by the Resettlement Operations Centre to ensure that refugees are resettled in areas where their medical needs can be met. Form IMM5544 is not shared with in-Canada service providers or sponsors due to privacy restrictions; however, any relevant information it contains with respect to immediate settlement needs is shared.
+
+13.13 Other Services
+
+Support Services are offered across the Settlement Program to enable access to settlement programs and services, including: child care, transportation assistance, translation, interpretation, crisis counselling and provisions for disabilities.
+
+Interpretation and Translation
+
+Immigration, Refugees and Citizenship Canada funds interpretation services to assist refugees in their day to day activities, such as accessing settlement supports, translation services for documents related to orientation, needs assessments and referrals, and information regarding employment and language training.
+
+Crisis Counselling
+
+Non-therapeutic services (i.e., identifying needs, determining how to meet those needs, and helping the newcomer get help) are available to refugees having difficulties adjusting to life in Canada.
+
+Child Care
+
+Includes onsite care within settlement agencies, governed by Care for Newcomer Children Requirements or purchased seats in child care facilities that enable newcomer parents to attend both short and long term settlement programming.
+
+Transportation
+
+Includes costs for bus tickets, bus passes, and on an exceptional basis, taxi fares. Where no public transportation is available, shuttle services are offered on a case by case basis.
+
+Provisions for Disabilities
+
+Includes equipment provisions up to and including $1,000 such as hearing aids, nonequipment provisions and arrangements for people with a disability (such as special training materials and software), as well as interpretation costs to support communication between the deaf or hearing-impaired clients and service providers.
+
+14. Family Reunification of Refugees
+
+14.1 Definition of family within the Canadian resettlement program context
+
+For the purpose of refugee resettlement and refugee asylum, family members are spouses, common-law partners, dependent children of the principal applicant, spouse or commonlaw partner, and dependent children of the principal applicant's or the spouse's or commonlaw partner's dependent children.
+
+In addition, in the Resettlement Program, administrative guidelines allow the inclusion of individuals who do not meet the legal definition of family member but who are emotionally or economically dependent on the family unit. These individuals are called de facto dependants. It is important to note that even when a relationship of dependency is established, de facto dependants must meet the definition of refugee in their own right.
+
+An example of a de facto dependant would be an elderly relative who has always lived with the family. Canadian migration officers are asked to use their discretion and make every effort to keep refugee families together at the time of selection.
+
+14.2 Legislation regarding family reunification and eligibility
+
+One of the objectives of the Immigration and Refugee Protection Act is to keep families together and where not possible, reunite them in Canada as quickly as possible. In order to facilitate the expeditious reunification of families, the Refugee and Humanitarian Resettlement Program allows for the concurrent processing of refugee families if members of the same family are located in separate countries.
+
+At times, however, a family member's whereabouts are not known or conditions in the country of residence will prohibit the application of family members from being processed concurrently with that of the principal applicant. In these cases, the “one-year window” regulations allow separated family members to be resettled under the same class as the principal applicant (i.e., as a refugee) and to apply without the need for a family class sponsorship (see section 14.7). Individuals who make a successful claim in Canada and are recognized as a “Protected Person” in Canada also benefit from concurrent processing of family members' applications overseas.
+
+Eligibility
+
+Resettled refugees chosen overseas: For separated family members to qualify for one- year window processing, the principal applicant must have identified family members on their application for permanent residence (IMM0008) prior to departure for Canada. In addition, the family members must subsequently submit their own application for permanent residence to a migration office within one year from the date the principal applicant arrived in Canada. It is therefore very important that all immediate family members be identified on the principal applicant's application even if their present location is unknown or they are thought to be deceased. As a result, migration officers abroad counsel refugees at the interview to list all their dependants on their IMM 0008, including those who are accompanying, non-accompanying, missing (whereabouts unknown), or thought to be deceased.
+
+De facto dependants of refugees do not qualify under the one-year-window. However, they may qualify as refugees in their own right or may be sponsored under the Private Sponsorship of Refugees Program.
+
+Persons granted asylum in Canada: To qualify for concurrent processing of family members' applications overseas, the principal applicant must identify family members on their permanent residence application submitted in Canada. The family members who are not accompanying the principal applicant but who are included on the principal applicant's application for permanent residence may submit an application for permanent residence at a migration office within one year from the date the principal applicant becomes a permanent resident of Canada. It is therefore very important that all immediate family members be identified on the principal applicant's application even if their present location is unknown.
+
+14.3 Details on whether family reunification cases are counted within the resettlement quotas
+
+When one-year window cases are processed overseas, they are counted towards the Government-assisted or privately sponsored refugee target for that migration office in the year they were processed, depending on which category the principal applicant was resettled under.
+
+14.4 Routing of submissions/Case Documentation
+
+A “Request to process following family members under the One-Year Window of Opportunity Provisions” [IMM 5571] is submitted to the Resettlement Operations Centre in Ottawa which assesses the application for basic one-year window criteria (i.e., the request was submitted within one year, the family member was declared, and the person is a family member). If the application does not meet the basic one-year window criteria, the application is refused and no further processing is done. If the application meets the basic criteria, then it is forwarded to the migration office abroad responsible for processing files from the country of residence of the applicant.
+
+The migration office abroad conducts a more indepth analysis of the eligibility and admissibility of the applicant. If the applicant is eligible and not inadmissible to Canada then a permanent resident visa is issued. If not, the application is refused.
+
+14.5 Processing times
+
+Processing times for applications vary greatly among migration offices depending on their geographic location, caseload inventory, medical and health issues prevalent among particular refugee populations, processing capacity and communication infrastructure. In the event of a UPP case, the Canadian migration office should be informed at the time the application is submitted so that processing may be expedited. The following link provides information on general processing time for UNHCR referred cases:
+http://www.cic.gc.ca/english/information/times/perm/ref-government.asp
+
+14.6 Entitlements for family members including travel assistance, status on arrival, and support on arrival
+
+Financial Assistance
+
+In the case of Government-assisted refugees, family members of the principal applicant are not automatically eligible for financial assistance under the Resettlement Assistance Program. Rather, an eligibility assessment based on the total family income will be undertaken by the local office upon the family member's arrival in Canada. Blended visa office-referred refugees are assessed in the same way and receive the same monthly entitlements under the Resettlement Assistance Program as Government-assisted refugees for up to a six month period (other six months provided by the sponsor), except for start-up costs.
+
+In the case of privately sponsored refugees, the migration offices abroad are instructed to ensure that any family members identified on the principal applicant's application have also been included in the sponsoring group's undertaking. If the sponsoring group refuses to add the non-accompanying family members to the undertaking and does not find another sponsoring group for the family members, then the sponsorship application is likely to be refused as the necessary sponsorship supports (including income support) would not be in place.
+
+Status on Arrival
+
+Status on arrival is the same as that of the principal applicant (see section 13).
+
+Travel
+
+Travel arrangements are the same as those for the principal applicant (see section 12).
+
+14.7 Other immigration channels available for family reunification
+
+Under the Family Class category, a Canadian citizen or a permanent resident of Canada (including resettled refugees) can sponsor their spouse, common-law partner, conjugal partner, dependent child (including adopted child) or other eligible relative (such as a parent or grandparent) to become a permanent resident.
+
+Requirements to sponsor a relative for immigration to Canada as a member of the Family Class apply to potential sponsors equally, including those who arrived in Canada as resettled refugees. If the resettled refugee sponsors a relative to come to Canada as a permanent resident under the Family Class, they would be responsible for supporting that relative financially when the relative arrives. As a sponsor, the person must make sure that their spouse or relative does not need to seek financial assistance from the Government of Canada.
+
+Applications to sponsor a family member for immigration to Canada which are made by a resettled refugee who is a permanent resident or citizen of Canada will be treated as other applications in the Family Class. Once eligibility and admissibility assessments are complete and finalized, the family member travels to Canada and obtains permanent resident status upon arrival in Canada.
+
+For more information on the family class, please consult the following link:
+     http://www.cic.gc.ca/english/immigrate/sponsor/index.asp
+
+Under the Private Sponsorship of Refugees Program, groups in Canada can sponsor refugees for resettlement to Canada. Sponsors are able to “name” or identify the refugee they would like to sponsor and in some cases, the refugee sponsored has a familial link to Canada. This program provides an important outlet for family reunification requests where the family relation is also a refugee. Private sponsors provide financial and emotional support for the refugees for the duration of the sponsorship, typically for one year.
+
+15. References/Resources
+
+The following documents may be obtained through Canadian migration offices or by visiting the Department of Immigration, Refugees and Citizenship website or the Immigraton and Refugee Board website:
+
+Manual on Selection and Processing of Convention Refugees Abroad Class and Members of the Humanitarian-protected Persons Abroad Classes (OP 5)
+
+In-Canada Processing of Convention Refugees Abroad and Members of the Humanitarian Protected Persons Abroad Classes (IP3)
+
+Immigration and Refugee Board Guidelines on Women Refugee Claimants Fearing Gender-Related Persecution
+
+Immigration and Refugee Board Guidelines Involving Sexual Orientation and Gender Identity and Expression
+
+Websites
+Immigration, Refugees and Citizenship Canada: www.cic.gc.ca
+Immigration and Refugee Board: www.irb.gc.ca
+Ministre de l'Immigration, de la Diversite et de l'Inclusion (Quebec): www.midi.gouv.qc.ca
+
+[1] The only country that has been designated to date as a “safe third country” is the United States of America.
+[2] Note, however, that in order to give the various migration offices advance notice on cases with additional
+medical needs, Immigration, Refugees and Citizenship Canada requests that the referral from the UNHCR
+include the complete medical/health details of the person(s) referred.

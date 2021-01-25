@@ -1,0 +1,1461 @@
+﻿<Header>
+  <title>
+    <tit> Your guide to living independently </tit>
+    <fileName> EN_021 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Guide </textType>
+    <subcorpus> Original Irish English </subcorpus>
+  </title>
+  <sourceText>
+    <language> Irish English </language>
+    <source> http://www.ria.gov.ie/en/RIA/GuidetoLivingIndependently.pdf/Files/GuidetoLivingIndependently.pdf </source>
+    <publisher> Department of Justice and Equality </publisher>
+    <pubDate> 2020 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 12.07.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher>
+    <comments> charts and tables containing only numbers were replaced by tags </comments>
+  </sourceText>
+  <author>
+    <institution> Department of Justice and Equality </institution>
+  </author>
+</Header>
+
+Your guide to living independently
+An information booklet for people who have been granted refugee or subsidiary protection status, or permission to remain in Ireland
+
+DEPARTMENT OF JUSTICE AND EQUALITY
+Plain English Approved by NALA
+
+This information booklet has been prepared by the Department of Justice and Equality with the assistance of the National Adult Literacy Agency.
+
+Contents
+
+About this booklet	5
+Where can I get advice? 	6
+Accommodation 	8
+Social housing 	8
+Private rented housing 	11
+Homelessness 	13
+Help with paying your rent	14
+Housing Assistance Payments (HAP)	14
+Housing checklist	16
+Finances	19
+Income 	19
+Money Advice & Budgeting Service (MABS) 	22
+Money lending	22
+Employment 	24
+Looking for a job	24
+Training	26
+Qualifications	28
+Rights and entitlements	28
+Self-employment 	30
+Taxation 	31
+Education	32
+Early childhood education	32
+Primary education 	33
+Second-level education 	34
+Third-level education 	35
+Further Education and Adult Education	38
+Healthcare 	40
+HSE Local Health Offices	40
+Registering with a family doctor (GP) 	41
+Public Health Nurse 	43
+Medical emergencies 	44
+Other healthcare services 	44
+General information 	45
+Utilities 	45
+Television licence 	53
+Water charges 	54
+Domestic refuse services	54
+Banking 	57
+Driving in Ireland 	60
+Public transport 	63
+Libraries 	65
+Appendix 1: Citizens Information Centres 	66
+Appendix 2: Local Authorities 	72
+Appendix 3: Money Advice & Budgeting Service (MABS) 	75
+Appendix 4: Education and Training Boards 	81
+Appendix 5: Local Health Offices 	83
+Appendix 6: Some additional websites which may help you 	87
+
+About this booklet
+
+If you have been granted refugee status, subsidiary protection status, or permission to remain in Ireland, this information booklet will help you as you start a new chapter in your life.
+You may find this a stressful time as you will face many new challenges. This booklet tells you about:
+housing,
+finances,
+healthcare,
+education, and
+other issues you will face.
+
+We hope you find it useful.
+Some of the information comes from the Citizens Information Board and the Money Advice & Budgeting Service (MABS). It is a good idea to visit your local Citizens Information Centre (CIC) and MABS office as they will be able to give you more detailed information than is possible in this booklet. The services of the Citizens Information Centres and MABS are free.
+You will find a list of Citizens Information Centres and MABS offices at the end of this booklet.
+
+First steps
+Your first step to living independently in Ireland is to put a plan in place. Ask yourself these questions:
+1. Where do I want to live?
+2. How will I support myself?
+3. Can I get financial help from the social welfare system?
+4. How can I find a job?
+5. Do I need further education or training?
+You will find information on these and other important topics in this booklet.
+
+Where can I get advice?
+1. Citizens information
+Your local Citizens Information Centre can tell you about public services in Ireland and about residence rights, employment rights, health services, housing, social welfare entitlements and general information about living in Ireland. You can contact Citizens Information:
+by phone - 0761074000
+online at www.citizensinformation.ie; or
+in person by calling to Citizens Information Centre (CIC). You'll find a list of these centres in Appendix 1 on page 66 of the booklet.
+
+2. Local authorities
+Every county and many cities in Ireland have a local authority which provides services for people in their local area. This includes housing for people who cannot afford housing from their own resources. You should call into your local authority office and ask for their help and advice about finding somewhere to live. You'll find a list of local authorities in Appendix 2 on page 72.
+
+3. Department of Social Protection
+The Department of Social Protection runs Ireland's social welfare system. It can give you advice about income support and social welfare payments and can help you with finding a job. The Department has a network of social welfare and employment offices around Ireland. Some of these are called Intreo Centres. You can find contact details for these on www.welfare.ie.
+
+Accommodation
+The first challenge you will face is to find a new home. This may be in public (social) housing or in private, rented housing.
+
+Social housing
+In Ireland, city and county councils (also known as local authorities) provide social housing for people who cannot afford housing from their own resources. You should call into your local authority office and ask their help and advice about finding somewhere to live. You will find a list of local authorities in Appendix 2 on page 72 of the booklet.
+Housing associations and housing co-operatives also provide social housing for people who cannot afford to buy their own homes or rent a home in the private sector. You can find a list of housing associations at www.citizensinformation.ie (click on ‘Housing').
+
+Do I have a right to social housing?
+Not everyone has a right to local authority housing. It depends on your eligibility and needs, including household income limits. There is also a long waiting list. The rent is decided based on the income (after tax) of all people over 18 living in the home. You must fill out an application form for local authority housing. Your local authority or local Citizens Information Centre can help you with this.
+Housing associations and housing co-operatives also have rules about who may be eligible for their housing. Again, your local Citizens Information Centre can help with this.
+
+What points do I need to watch for when applying for social housing support?
+
+General points
+You can only apply to one housing authority.
+In general, you must already be living in the area covered by that housing authority or have a local connection with the area through previous residence, current employment, medical care, education or relatives - though a housing authority may agree to waive (ignore) this requirement.
+You must send a completed application form to the relevant local authority. You can get the forms from the authority - see Appendix 2 on page 72 of this booklet for contact details.
+When completing the application form, you can choose up to three areas (“Areas of Choice”) within the local authority area you want to live. However, if applying to an authority in Dublin, Cork or Galway, you can choose three areas in that county, one of which must be in the area of the authority you are applying to.
+
+Assessing your application
+Your application will be assessed by the local authority based on eligibility criteria, including income, right of residency and the availability of alternative accommodation.
+Once you satisfy the eligibility criteria, your housing need will be assessed. This assessment takes account of your current accommodation.
+
+Waiting list
+If your local authority decides that you meet both the eligibility and need criteria you will be placed on a waiting list (now known as a ‘record of qualified households'). Each local authority decides on its own rules for deciding order of priority on the waiting list (an “Allocation Scheme”). You can get a copy of this scheme from your local authority.
+While you have some choice in specifying the areas where you would like to live, you should remember that if you choose a popular area, you may wait longer for an offer of housing than if you choose a less popular area. The demand for social housing is high and you can expect to wait a number of years before a local authority can offer you a house (depending on your housing needs and availability of suitable accommodation).
+Further information on the application process is available from your local authority.
+
+Private rented housing
+If you do not qualify for social housing or will have to wait a long time for social housing, you should look at renting in the private sector.
+The Private Residential Tenancies Board (PRTB) oversees the private rental sector in Ireland. Its website, www.prtb.ie, explains the rights and responsibilities of tenants (you) and landlords. The website also has a Good Tenant Guide which you can download. This guide has information on:
+paying rent;
+maintaining the property;
+repairs; and
+how much notice both you and the landlord must give to end the tenancy.
+
+You can also get information and advice from Threshold, the national housing charity. See www.threshold.ie.
+
+How much will I have to pay in rent?
+The cost of renting varies greatly. Expect to pay a lot more if you choose to live in, or near, a city. You can find details of typical rents in different parts of Ireland on www.prtb.ie.
+You will usually have to pay a deposit and the first month's rent before you can move into rented housing.
+Both Threshold and Focus Ireland, charities that help people at risk of homelessness, may be able to help you find housing that accepts the rent supplement payment or Housing Assistance Payment (HAP). You can find out more about the Housing Assistance Payment and rent supplement on pages 14 and 15.
+
+What documents might the landlord ask for?
+The landlord may ask for copies of the following documents:
+character references from people who know you well;
+professional references, usually from your employer; and
+bank statements to show your income.
+
+Homelessness
+If you or someone you know is homeless or at risk of becoming homeless, you can get information and advice from:
+the housing section of your local authority;
+the Dublin City Council 24-hour Homeless Helpline at 1800 707 707 or the Homeless Persons Unit at 1800 724 724 - if you live in Dublin;
+the Cork City Council's Homeless Persons Unit at (021) 480 5495 - if you live in Cork;
+the Community Welfare Officer in your local health office (you will find a list of health offices in Appendix 5, page 83);
+your local Citizens Information centre. See Appendix 1, page 66 for a list of Citizens Information Centres;
+the Private Residential Tenancies Board (PRTB) (phone: 0818 30 30 37) - if you are in private rented accommodation and need advice and information on your rights as a tenant; and
+www.threshold.ie - will provide additional information on your rights as a tenant.
+
+Help with paying your rent
+There are two types of financial support with rent payments:
+Housing Assistance Payments (HAP) provided by some - but not all - local authorities; and
+Rent Supplement payments provided by the Department of Social Protection.
+
+Housing Assistance Payments (HAP)
+HAP is a new form of housing support provided by some local authorities where you find your own place to live. HAP is being introduced on a phased basis. Ask your Local Authority about HAP support in your area.
+HAP will mean that some local authorities can now provide housing assistance for households who qualify for social housing support. Under HAP, local authorities will make the full rent payment - on behalf of the HAP recipient - directly to the landlord. The HAP recipient will then pay a rent contribution to the local authority. The rent contribution is based on income and the ability to pay.
+Under HAP, you are allowed to take up full-time employment without losing your HAP payment. The tenancy agreement will be between you and your landlord. (The local authority is not your landlord.)
+You must pay the deposit yourself. In some cases you may be eligible for an ‘exceptional needs' payment from the Department of Social Protection to help with paying the deposit.
+
+Rent Supplement
+If you live in a county where HAP is not yet available, you can apply to the Department of Social Protection for the Rent Supplement payment. This will pay some of the cost of the rent.
+Rent Supplement is paid to people living in private rented housing who cannot pay the full rent themselves. To qualify for the Rent Supplement payment:
+you must be on the social housing waiting list;
+your income must be below a certain level (if your only income is a social welfare payment, you will probably qualify); and
+you may have to meet other conditions.
+You can find out more from your local Department of Social Protection office, from www.welfare.ie or from your local Citizens Information Centre.
+
+Housing checklist
+Decide on the area you would like to live in and contact that local authority to get a housing application form.
+Complete and return the form to the housing section of the local authority. If you qualify for social housing, you will be placed on the housing waiting list.
+Ask the local authority how long you may be waiting for a house.
+Start looking for private rented housing. Ask your local authority if the Housing Assistance Payment (HAP) is available in your area. (You will find more information on HAP in the section on Help with paying your rent.)
+If HAP is not yet available in your area, contact your local Department of Social Protection office and ask how to apply for the rent supplement payment. You will find a list of Department of Social Protection offices on www.welfare.ie
+If you need help with paying the deposit and
+first month's rent, ask the Department of Social Protection if you can apply for an ‘exceptional needs payment' to help with this cost.
+When you find accommodation, contact the Department of Social Protection to see if you qualify for the rent supplement payment.
+Agree a rent amount with your landlord and find out what is included in the rent (for example, gas, electricity, water, refuse collection, management fees, and so on).
+Make sure you get a lease or tenancy agreement from your landlord. This is an important document. If you don't understand it, ask someone to help you (for example, Threshold).
+Check to see if the gas, electricity, water and other services will be put in your name and if you will have to pay these bills. Most likely this will be the case. If necessary, pay a transfer or connection fee. (See the ‘Utilities' section in the chapter on General information.)
+Do not pay your deposit until you have looked at the property and are satisfied with it.
+Broaden your search to find accommodation at a price you can afford - if you need to.
+
+Finances
+Living independently in Ireland means you will have to manage your income and what you spend carefully. We hope the information in this chapter helps you.
+
+Income
+Once you are granted refugee status, subsidiary protection status, or permission to remain, you should apply for any Department of Social Protection payments for which you may be eligible. These could include:
+Jobseeker's Allowance;
+One Parent Family Payment;
+Disability Allowance; and
+Child Benefit.
+You can get information on these and other welfare payments from:
+your local Department of Social Protection office;
+your local Citizens Information centre; and
+www.welfare.ie.
+
+Jobseeker's Allowance
+If you are aged 18 or over, unemployed and available to work, you may be entitled to receive Jobseeker's Allowance (JSA). This payment is to help you support yourself while you are looking for work.
+When you apply for Jobseeker's Allowance, you will be given information and advice about the employment support services provided by your local Intreo centre.
+You will also meet with a case officer who will work with you to develop a plan to help you get a job. This is called a ‘personal progression' plan. This plan may include a referral to training or education.
+
+One-Parent Family Payment
+If you are under 66 years of age and are rearing children without the support of a partner, you may qualify for this payment. You must meet certain conditions and your income must be below a certain level.
+
+Disability Allowance
+To qualify for Disability Allowance (DA), you must:
+have an injury, disease or physical or mental disability that is expected to last for at least one year; and
+be - as a result of your disability - unable to do the work that someone of your age, experience and qualifications should be able to do.
+You must also be at least 16 years of age and your income must be below a certain level.
+
+Child benefit
+Child benefit is payable to the parents or guardians of children under 16 years of age if the child is in full-time education, Youthreach training, or has a disability.
+Apply for child benefit through your local Department of Social Protection office or visit www.welfare.ie.
+
+Money Advice & Budgeting Service (MABS)
+The Money Advice & Budgeting Service (MABS) is the State's money advice service. Its main role is to advise people how to manage their income and debts (what they owe). It is a free service.
+The MABS Helpline is open Monday to Friday, 9am to 8pm (Phone: 076 107 2000).
+You can also visit a MABS office and speak in person with an advisor. You will find a list of MABS offices in Appendix 3 on page 75.
+
+Money lending
+Money lenders lend cash to people who find it hard to get loans through banks or other lenders. They charge high interest rates. Many moneylenders will call to your home to collect your repayment on the loan.
+Legal moneylenders have a moneylending licence from the Central Bank of Ireland. You can find a list of legal moneylenders at www.centralbank.ie. You can also call the Central Bank's Helpline (phone: 1890 777 777) to find out if a particular moneylender is licensed.
+Illegal moneylenders do not have a licence. Lending money without a licence from the Central Bank is a crime and should be reported to the Garda^ (police) and/ or the Central Bank.
+If you are thinking about borrowing from a moneylender, contact the MABS Helpline (phone: 076 107 2000) Monday to Friday between 9:00am and 8:00pm. They may be able to advise you on your options.
+
+Employment
+
+Looking for a job
+There is a range of information sources and supports to help you look for a job. Here are some steps that may help.
+
+Step 1: Research
+It is a good idea to research all possible sources of information about job opportunities. Here are some of the main ones:
+Your local Intreo centre or employment services office. Staff can give you information and advice including a list of job vacancies.
+www.jobsireland.ie. The Jobs Ireland website lists jobs available in Ireland and abroad. You can add your CV (see Step 2: Preparing your CV) to the Jobs Ireland database using the website. Employers can access these CVs and contact a jobseeker directly. This website also lists internships and vacancies under the Community Employment Scheme run by the Department of Social Protection (for additional information please visit www.welfare.ie).
+Newspapers. Classified jobs sections of national and local newspapers.
+Recruitment agencies. You will find these listed in the phone directory or by doing an online search. There are specialist recruitment agencies if you are looking for a particular type of job.
+Notices. Jobs are often advertised in shop and restaurant windows, and in libraries, supermarkets and other community noticeboards.
+Companies. Some vacancies are only advertised on a company website. You should regularly check company websites which are relevant to your area of work.
+Personal contacts. Friends or relatives may know of job opportunities.
+
+Step 2: Preparing your CV
+Your CV (sometimes called a resume) is a very important document. It is a summary of your personal details, educational qualifications and work experience. It should also include your skills and the names of two people who will provide a reference for you.
+If you are unemployed, your local employment service (LES) or Jobs Club can help you with writing CVs and job applications and with training in interview skills.
+
+Step 3: Applying for a job
+When you find a job vacancy you are interested in, contact the employer to get more information about the vacancy and the company.
+Update your CV so that the information in it is relevant to the job you are applying for and send it with a letter or application form to the company. Your application should focus on the specific requirements of the job.
+If you are called for a job interview, it is important to prepare for it.
+
+Step 4: What next?
+If your job search is not successful, you may want to consider other options such as training, returning to education or self-employment.
+
+Training
+Your case officer in the Intreo centre can advise you about applying for a training course. They can also tell you if you are eligible for funding or support while you are on a training course.
+Training courses are provided by Education and Training Boards. You can get more information on specific training courses at www.etbi.ie. There is a list of Education and Training Boards in Appendix 4 on page 81.
+
+What other help is available?
+Local employment services. These help people who have been out of work for more than one year. They can help you look at training options and community employment schemes. They also help local employers find suitable workers. See www.localemploymentservices.ie.
+JobBridge internships. These provide work experience opportunities.
+Jobs Clubs. These can help you to:
+prepare your CV;
+search for a job; and
+practise interview skills.
+They also provide ‘drop in' services and job preparation workshops lasting from 1 to 4 weeks.
+Training Support Grant (TSG). This grant enables you to take up short-term training that is not available from a State provider or that might help you get a job quickly. Your case officer in the Intreo centre can approve a training support grant for you if it meets the needs identified in your personal progression plan. Please visit www.welfare.ie for more information.
+Irish National Organisation of the Unemployed. You can download information on looking for work from www.inou.ie.
+
+Qualifications
+Will my qualifications be recognised in Ireland?
+To check if your qualifications are recognised in Ireland, you need to contact Quality and Qualifications Ireland - the state agency that recognises qualifications. It is best to visit www.qqi.ie.
+If you have a professional qualification, you should also check with the Irish branch of your professional body to see if your qualifications are acceptable for use in Ireland.
+
+Rights and entitlements
+What are my rights at work?
+If you are offered a job, you have certain rights under the law.
+You are entitled to a contract within three months of starting a job. This contract will set out the terms and conditions of employment. You can get more information on work contracts on www.citizensinformation.ie. You are entitled to a minimum wage. Currently, this is €8.65 per hour but it will increase to €9.15 per hour on 1 January 2016. Your employer can pay you more than this but, by law, cannot pay you less.
+Some sectors of employment, such as cleaning and security work, are covered by regulations which set out general terms and conditions for the job.
+
+What rights do I have if I work part-time?
+In general, you have the same rights as full-time workers. In some cases you may have to work for a certain length of time before some of these rights take effect (for example, entitlements to time off). Please visit www.workplacerelations.ie to find more information on part-time work.
+
+I have a fixed-term contract. What are my rights?
+Many people are now employed for a specific length of time or a specific purpose. In general, you have the same rights as other workers. However, your employer is not allowed to continually renew a fixed-term contract. You can only work on one or more fixed-term contracts for a continuous period of four years. After four years, the law considers you to have a permanent contract.
+
+Are children and young people allowed to work?
+In general, children under the age of 16 are not permitted to work. Employers may take on children aged 14 and 15 to work in limited circumstances. Further information on this can be found on www.workplacerelations.ie.
+
+Self-employment
+Self-employment means working for yourself, not for an employer. If you are thinking of setting up a business, there are a number of issues you need to consider. Different supports and regulations apply, depending on whether you are employed, unemployed or coming from outside Ireland to set up a business.
+If you are unemployed, you may qualify for the Back to Work Enterprise Allowance. This allowance lets people take up self-employment while retaining some of their social welfare payment. Your Intreo case officer can tell you more about this. You can also get information from www.welfare.ie or from www.citizensinformation.ie.
+For general information on setting up a business, the following websites may be useful:
+www.localenterprise.ie - this gives information on small, start-up businesses;
+www.enterprise-ireland.ie - for information on development programmes for potential entrepreneurs;
+www.welfare.ie - for unemployed people who want to set up a business;
+www.microfinance.ie - for information on loans available for small businesses.
+
+Taxation
+Once you begin working you will have to pay tax. You can get information from the Revenue Commissioners on:
+tax credits;
+income thresholds where tax does not apply; and
+how to comply with income tax regulations.
+You can find information about tax on www.revenue.ie and www.citizensinformation.ie.
+
+Education
+
+In Ireland, by law, children must be educated from the ages of 6 to 16 (or until they have completed three years of second-level education).
+Children, who are new to Ireland, whether asylum seekers, refugees or children of migrant workers, have the same right to education as other children in Ireland.
+The Irish education system is made up of primary, second-level, third-level and further education.
+
+Early childhood education
+Early childhood education in Ireland is not part of the formal education system. It is run by a wide range of private, community and voluntary groups. These include creches, nurseries, pre-schools, Irish language preschools, playgroups and day-care services.
+The ECCE programme (Free Pre-school Year in Early Childhood Care and Education) is designed to give children (usually under 4 years of age) access to a free pre-school year of appropriate programme-based activities in the year before they start primary school. More information can be found on www.dcya.gov.ie.
+
+Primary education
+Children attend primary school between the ages of 4 and 12. Primary schools are also known as National Schools. There are several types:
+denominational (religious) schools;
+multi-denominational schools;
+non-denominational schools;
+Irish-speaking schools (called Gaelscoileanna);
+schools for children with special educational needs arising from a disability; and
+private primary schools.
+Education in State primary schools is free. However, you must pay if you want your child to be educated in a private primary school. The school year is from September to June.
+Primary schools are overseen by Boards of Management.
+
+Second-level education
+Children begin their second-level education around the age of 12 and leave around the age of 17 or 18.
+The second-level school cycle is five years with two State examinations during that time, the Junior Certificate after three years and the Leaving Certificate after five years. Some schools also offer a ‘transition year' after the Junior Certificate, making the school cycle six years in total.
+The earliest a child can leave school is 16 years (or after they have completed three years of second-level education, whichever is later).
+There are several types of second-level schools including:
+voluntary secondary schools (privately owned and managed, often by the Church authorities);
+vocational schools and community colleges; and
+community and comprehensive schools.
+Second-level schools are overseen by Boards of Management.
+
+English language support
+Young children learn English very quickly. Even if your child has very little English, they will normally be placed in a class with children of the same age. At both primary and second-level there is additional language support for children who do not speak English as their first language.
+
+Special needs education
+Children with special educational needs arising from a disability get extra support either in their own school or in special schools. More information can be found on www.ncse.ie.
+EDUCATION
+
+Third-level education
+Third-level education is also known as higher education. It includes courses run by:
+universities;
+institutes of technology;
+colleges of education; and
+private third level colleges.
+Access to higher education for students moving on from second-level education is based on the Leaving
+Certificate, which is the final state examination at the end of second-level school.
+The Central Applications Office (CAO) manages applications to higher education institutions. You can apply for a place by sending a completed application form to the CAO. You can get more information on www.cao.ie.
+
+Is there financial support to attend third level?
+Financial help for students is means-tested (it is based on the family income). Grants are available to help meet living expenses, transport costs and/or college fees. The grants are managed by Student Universal Support Ireland (SUSI). You can find out more on their website, www.susi.ie.
+Some students may be able to get additional help. They include:
+students with disabilities who are attending full time Third Level and Post-Leaving Certificate (PLC) courses; and
+students who may not be able to continue their third-level studies for financial reasons.
+This help is provided by the National Access Office of the Higher Education Authority (HEA). You can get more information about this at www.hea.ie. Students can also ask their college or university for more details.
+
+Is there any help for refugees or asylum-seekers?
+Yes, there is some. Since 28 August 2015, a new pilot (trial) scheme was set up for students leaving secondary school. The new scheme is targeted at school leavers who are in the protection system (other than at deportation order stage), and will grant access, on a pilot (trial) basis, to student support in line with the current Student Grant Scheme. Students have to meet the following criteria:
+Meet the definition of a protection applicant or a person at leave to remain stage (other than those at deportation order stage);
+Have passed their leaving certificate;
+Have been accepted on an approved Post Leaving Certificate course or an approved undergraduate course;
+Have attended at least five academic years in the Irish school system, as at 31 August 2015; and
+Have been part of an application for protection or at leave to remain stage (other than deportation order stage) for a combined period of at least 5 years as at 31 August 2015.
+More information on the above scheme can be found on www.education.ie.
+
+Are my educational qualifications recognised in Ireland?
+It depends. Quality and Qualifications Ireland (QQI) is the state agency responsible for providing advice on the recognition of foreign qualifications in Ireland and the recognition of Irish qualifications abroad. You can get more information on their website www.qqi.ie.
+
+Further Education and Adult Education
+Further education is education and training which takes place after second-level school but which is not part of the third-level system. It includes programmes such as:
+Post-Leaving Certificate (PLC) courses;
+Vocational Training Opportunities Scheme (VTOS) - this is second-chance education for unemployed people;
+Youthreach programmes for early school-leavers;
+literacy and basic education programmes;
+evening classes for adults in second-level schools.
+You can get more information on www.education.ie (click on Further Education and Training) or from your local Education and Training Board. You will find a list of these in Appendix 4 on page 81 of the booklet.
+There are also education links in Appendix 6 on page 88. Further information about the Irish education system, including supports available, can be found on the Department of Education and Skills website, www.education.ie.
+
+Healthcare
+In Ireland, the public health service is run by the Health Service Executive (HSE). The HSE oversees public hospitals. It also operates a network of local health offices and health centres which provide a range of health and social services.
+HSE Local Health Offices
+Your local health office is your entry point to community health and personal social services. Local health offices and health centres provide a wide range of services including:
+GP (family doctor) services,
+public health nursing,
+child health services,
+community welfare,
+chiropody (care of the feet),
+ophthalmic (care of the eye),
+speech therapy,
+social work,
+addiction counselling and treatment,
+physiotherapy,
+occupational therapy, and
+psychiatric services.
+You will find a list of local health offices in Appendix 5 on page 83.
+
+Registering with a family doctor (GP)
+To access health services, you will need to register with a family doctor in your area. You will have to give your name, address, contact number and date of birth to the doctor. You will find a list of General Practitioners on www.icgp.ie.
+If you change your doctor and you already hold a medical card or GP visit card, you must ask your local health office for a new medical card or GP visit card.
+Some GPs only offer services to private patients, while others may deal with both private and medical/GP card patients. Your local Health Office can provide you with details of the GPs in your area who accept medical/GP card patients.
+
+Do I have to pay to see a doctor?
+In Ireland, if your family income is below a certain level, you may be entitled to a Medical Card. This card entitles you and your family to:
+free healthcare from a GP (family doctor);
+free medicines;
+free care in public hospital emergency departments; and
+a range of other free healthcare services.
+If your family income is above this level, you may be entitled to a GP Visit Card. This card gives you free visits to your family doctor but you must pay for medicines and other healthcare services.
+Children under the age of 6 years and people over the age of 70 years are automatically entitled to a GP Visit Card.
+If you do not qualify for either of these cards, you must pay for GP visits, medicines and other primary healthcare services.
+If you are changing doctor, you should tell your current doctor of your plans to change and ask that your medical history be sent on to your new doctor. If you qualify for a medical card, you may need to check if the new doctor is accepting new patients.
+
+Do I have to pay to go to the hospital?
+For acute public hospital services, including emergency department services, you do not have to pay, but you will normally need a letter from your GP (a referral letter) to access public hospital services.
+If you do not have a referral letter from your GP, or a medical card, you will be charged €100 for accident and emergency services.
+Hospital services are also available from a number of private hospitals. You will have to pay the full cost for private hospital services unless you have private health insurance which covers the cost.
+You can get more information on public health services and how to apply for a medical card or GP visit card from your local health office. You will find contact details for local health offices in Appendix 5 on page 83.
+
+Public Health Nurse
+Public health nurses provide a range of services free of charge in your community.
+If you have been registered with a public health nurse during your stay in State Accommodation, it is important to give the public health nurse your new address when you leave. This allows the nurse to follow up with you, or refer you to the local public health nurse near your new residence.
+For more information on Public health nurses, please visit www.hse.ie.
+
+Medical emergencies
+In a medical emergency, you should phone 112 or 999 and tell the operator about the emergency.
+
+Other healthcare services
+Additional information on other healthcare services and service providers can be found on www.hse.ie, or by contacting your local health office. Please see page 83 for contact details.
+
+General information
+
+Utilities
+Once you have found a place to live you will need to make sure you have the proper services (utilities) for your home. These may include electricity, gas, oil heating or phones. Ask your landlord what services are included in your rent. You may be responsible for connecting to and paying some or all of the services listed below.
+You may find price comparison websites useful as they compare prices for most services and utilities.
+
+Electricity
+Ask your landlord what to do about the existing electricity supply in your house or apartment.
+Has the bill for use by the previous tenant been paid?
+Ask your landlord if the cost of electricity is included in your rent or if you need to become a customer in your own name.
+Write down the electricity meter reading when you move into the property. Where possible, agree this reading with the landlord or the previous tenant.
+Choose an electricity provider and contact them to arrange electricity supply.
+
+Electricity providers
+Provider
+Head Office Contact Details
+ESB
+ESB Customer Supply St. Margaret's Road Finglas, Dublin 11 Phone: 1850 372 372 Web: www.esb.ie
+Bord Gais
+Bord Gais Energy - Electricity
+Bord Gais Energy
+PO Box 10943
+Dublin 1
+Phone: 1850 485 868
+Web:
+https://www.bordgaisenergy.ie/home
+Provider
+Head Office Contact Details
+Airtricity
+SSE Airtricity Red Oak South
+South County Business Park Leopardstown
+Dublin 18
+Phone: 1850 404 080
+Energia
+Viridian Energy Ltd
+Mill House Ashtowngate Navan Road
+Dublin 15
+Phone: 1850 300 700 or (01) 960 2952 Web: www.energia.ie/home
+Electric Ireland
+Electric Ireland
+PO Box 841
+South City Delivery Office Cork
+Phone: 1850 305 090 www.electricireland.ie
+PrePay Power
+PrePayPower Corrig Road Sandyford Dublin 18
+Phone: 1890 989 536 www.prepaypower.ie
+
+Gas
+Ask your landlord what to do about the existing gas supply in your house or apartment. Has the bill for use by the previous tenant been paid?
+Ask your landlord if the cost of the gas is included in your rent or if you need to become a customer in your own name.
+Record the gas meter reading when you move into the property. Where possible, agree this reading with the landlord or the previous tenant.
+Ask your landlord for the name of the gas supplier and contact them for an application form.
+
+Gas suppliers
+Provider
+Head office contact details
+Bord Gais Energy
+Bord Gais Energy - Electricity
+Bord Gais Energy
+PO Box 10943
+Dublin 1
+Phone: 1850 485 868
+Web: www.bordgaisenergy.ie/home
+Airtricity
+SSE Airtricity Red Oak South
+South County Business Park Leopardstown
+Dublin 18
+Phone:1850 22 20
+Provider
+Head office contact details
+Web: www.sseairtricity.com
+Energia
+Viridian Energy Ltd Mill House Ashtowngate Navan Road Dublin 15
+Phone: 1850 300 700 or (01) 960 2952 Web: www.energia.ie/home
+Electric Ireland
+Electric Ireland
+PO Box 841
+South City Delivery Office Cork
+Phone: 1850 305 090 www.electricireland.ie
+Flogas
+Flogas
+Knockbrack House Matthews Lane Donore Rd
+Drogheda
+Co.Louth
+Phone: (041) 9831 041 Web: www.flogas.ie
+
+Oil heating
+You will normally be responsible for arranging the filling of the tank and paying for the oil (if you have oil heating).
+Keep the oil in the tank above the minimum level. If the level falls below this it may cause damage to the tank.
+Buy oil when it is cheaper, usually during the summer.
+Report any faults to the landlord immediately.
+Ask your landlord if you have to fill the tank before leaving the property or what will happen if there is unused oil, which you have paid for, left in the tank.
+
+Fixed line phones
+Many companies in Ireland offer fixed line phone services. Fixed line means that your phone is connected by a cable to an outlet on a wall in your home. Wireless phones are available to use with fixed lines. The type of fixed line service you choose will depend on your needs.
+You can compare fixed line phone prices from all operators on www.callcosts.ie. This website is run by ComReg, the communications regulator, to help you choose the best phone package based on your needs and usage.
+
+Mobile phone, TV and broadband providers
+Many operators provide mobile phone, television and broadband (internet) services in Ireland. New operators also enter the market regularly. You can compare the prices of different service providers on price comparison websites.
+The table lists some of the main providers of services.
+
+<table>
+
+How do I pay my utility bills?
+You can pay for your utilities in various ways:
+through your bank or building society;
+at the post office;
+online through the suppliers' websites; or
+at any shop displaying the Payzone sign.
+Some companies offer options to ‘pre-pay' your bill (pay before you use the service), ‘pay as you go' (pay as you use the service) or ‘spread your bill evenly' over a year.
+
+Television licence
+By law, if you have a television in your home (or equipment that can receive a television signal), you must have a television licence.
+The licence is a certificate that states that you have paid the licence fee to the government. Licence fees are used to pay for public service broadcasting in Ireland.
+Your television licence lasts for one year and then you must renew it. You can buy the licence at any post office or online at www.tvlicence.ie.
+Even if your landlord owns the television in your home, the law says that you must buy a television licence.
+You can get more information on television licences on www.anpost.ie or www.citizensinformation.ie.
+
+Water charges
+Homes in Ireland that are connected to a public water supply or to public wastewater services must pay for their water. Irish Water, the national water utility, administers the water charges.
+Even if you rent your home, you are responsible for paying the water charges, not your landlord.
+
+Domestic refuse services
+Ask your landlord if your domestic waste costs are included in your rent. If they are not, you must pay them yourself.
+Household waste is usually collected once a week. Some operators collect different types of waste in different weeks.
+Many operators use ‘wheelie bins' to collect the waste. Some may also use a bin tag system.
+Save money on waste charges by recycling and composting some of your waste. Your local authority can tell you about recycling centres in your area. If you have a garden, you could compost some of your food waste and re-use it in your garden.
+Your local authority can tell you which operators provide waste disposal services in your area. You will need to contact the waste operator to arrange collection.
+In areas using bin tag systems, you can generally buy tags from local shops.
+The main waste collection companies are listed on the next page.
+
+Company
+Contact details
+Greenstar
+www.greenstar.ie
+(01) 294 7900
+Panda
+www.panda.ie
+1890 62 62 62
+The City Bin Co.
+www.citybin.com
+1800 24 89 24
+Greyhound
+www.greyhound.ie
+1890 98 99 98
+Oxigen
+www.oxigen.ie
+1890 69 44 36
+
+Banking
+There are three main types of financial institution in Ireland:
+banks;
+building societies; and
+credit unions.
+
+Where can I do my everyday banking?
+You can open an account in any bank or building society for your everyday banking needs. This type of account is called a current account. With a current account, you can:
+lodge (put) money such as your salary or a social welfare payment into the account;
+take out money at an ATM (cash machine);
+use a debit card in a shop to pay for something and, in some shops, to get cash back;
+transfer money to another bank account;
+transfer money abroad;
+pay a bill (such as your electricity or heating);
+use phone banking and internet banking (there may be phone call or data charges).
+
+Where can I save my money?
+You can open a savings account in any bank or building society to build up your savings and maybe earn interest on the money. This type of account is also called a deposit account.
+You can also open a savings account in the post office (see www.anpost.ie) or a credit union.
+If you earn interest on your savings, you will have to pay a tax on the interest called Deposit Interest Retention Tax (DIRT).
+
+What is a credit union?
+Credit unions are financial co-operatives where members can save money and lend money to each other at reasonable rates of interest. Unlike banks and building societies, credit unions are not-for-profit organisations with a community focus. To find out more about credit unions and if you can become a member, visit www.creditunion.ie.
+
+Which financial institution is best for me?
+To help you decide which financial product is best for you, visit www.consumerhelp.ie. This website, provided by the Competition and Consumer Protection Commission, has lots of easy-to-understand information about banking, savings, loans and other financial matters that may be of interest to you.
+On this website, you can also compare the costs and benefits of various financial products.
+
+How do I open a bank account?
+Once you have decided what type of account you want to open and which financial provider you want to use, contact them and ask for an application form. You will have to provide proof of your identity and address.
+For more information about opening a bank account, see www.consumerhelp.ie or www.citizensinformation.ie.
+
+Driving in Ireland
+Driving licences
+To drive in Ireland you must have a valid driver's licence.
+If you have never driven before, you will first have to:
+pass the driver theory test;
+apply for a learner permit;
+complete a driver training course;
+pass a driving test.
+If you pass the driving test, you can apply for a driving licence. You will have to give proof of your identity, address, country of birth and residency entitlement.
+For more information about getting a driving licence, visit the website of the National Driver Licence Service (www.ndls.ie) or the Road Safety Authority (www.rsa.ie).
+
+What do I do if I have a driving licence from another country?
+It is possible to exchange a driving licence issued by certain recognised States for an Irish driving licence. A list of the recognised States can be found on www.citizensinformation.ie under ‘travel and recreation'.
+If you are the holder of a driving licence issued by a country not recognised for driving licence exchange, you cannot exchange your driving licence for an Irish driving licence. You will only get an Irish driving licence after you have gone through the full driver licensing procedure, starting with the driver theory test.
+
+Motor tax
+By law, if you have a car, you must pay motor tax before you can drive it. Motor tax is collected by local authorities. You can get more information about the cost and how to pay the tax at www.motortax.ie.
+
+Motor insurance
+By law, you must also have motor insurance before you can drive your car in Ireland. You will need a current certificate of insurance to pay motor tax. Driving in Ireland without motor insurance is a serious offence (crime). You will have to pay a fine and may be disqualified from driving or get penalty points on your driving licence.
+Most insurance companies sell motor insurance. There is no standard rate for insurance. The amount charged depends on the age of the car, type of car, and the experience of the driver. It can vary a lot from company to company. You can compare insurance quotes on price comparison websites.
+
+National Car Test (NCT)
+By law, your car must have regular tests to make sure it is safe to drive. The test is called the National Car Test and is carried out on behalf of the Government by the National Car Testing Service. You could face a fine and penalty points on your driving licence if your car has not had its NCT test.
+For more information about the NCT test and when it is due on your car, visit www.ncts.ie.
+
+Public transport
+
+Bus services
+Dublin Bus provides bus services within Dublin and to and from the surrounding areas. These include Airlink (linking Heuston rail Station to Dublin airport via city centre) and Nitelink (late- night buses to and from the city centre to the suburbs). See www.dublinbus.ie for timetables and fares.
+Bus Eireann provides bus services throughout Ireland with the exception of Dublin City. See www.buseireann.ie for timetables and fares.
+The Rural Transport Programme provides services to people who live in remote areas not served by existing bus or train services. You can find contact details for your local Rural Transport Group, and details of timetables and fares at www.ruraltransportnetwork.ie.
+Private bus services also operate in cities, between towns and in rural areas.
+For information on routes and fares for public buses, visit www.transportforireland.ie. This website also gives links to smartphone apps to help you when using public transport services.
+
+Rail (train) services
+Irish Rail operates all rail services in Ireland including the DART service in Dublin. See www.irishrail.ie for timetables and fares.
+Luas
+This is a public transport tram system that operates in Dublin. There are two tramlines:
+The Green Line connects Brides Glen near Loughlinstown to St Stephen's Green in the city centre.
+The Red Line connects Tallaght to the 3 Arena in Dublin Docklands and Connolly rail Station.
+See www.luas.ie for timetables and fares.
+Leap Card
+If you live in the Dublin area and use public transport a lot, you can save money by buying a Leap Card. This is an integrated ticket which you can use for travel on buses, trains and the Luas. You can get more information at www.Leapcard.ie.
+
+Libraries
+Public libraries are open to everyone. There are more than 350 public libraries in Ireland, so there is probably one near you. You do not have to be a member of the library if you just want to read something in the library, ask a question or consult a reference work (such as a telephone directory or a dictionary).
+You will need to join the library if you want to borrow books or other items or, in most cases, if you want to use the Internet. Some libraries have a small membership fee, and most will charge a fine for the late return of books and other borrowed items. You will need to show proof of address when joining a library.
+Visit www.environ.ie (click on Local Government), or www.askaboutireland.ie/libraries/ to find your nearest library.
+
+Appendix 1: Citizens Information Centres
+There are Citizens Information Centres located across Ireland. This list provides details of those located near State Accommodation Centres. To find one near you, visit www.citizensinformation.ie.
+County
+State
+Accommodation
+Centre
+Local Citizens Information Centres
+Phone
+Clare
+Knockalisheen, Meelick
+Bindon Lane Bank Place, Ennis
+(076)
+107
+5260
+Unit 1, Business Centre, Shannon Town Centre, Shannon
+(076)
+107
+5370
+Cork
+Glounthane
+Convent Road, Blackrock, Cork
+(076)
+107
+6930
+Millstreet
+South Square, Macroom
+(076)
+107
+8430
+Glenvera, Wellington Road
+80 South Mall, Cork City
+(076)
+107
+6950
+Kinsale Road
+County
+State
+Accommodation
+Centre
+Local Citizens Information Centres
+Phone
+Dublin
+Georgian Court, 7779 Lower Gardiner Street, Dublin 1
+13a Upper O'Connell Street, City Centre, Dublin 1
+(076)
+107
+7230
+Hatch Hall, 28 Lower Hatch Street, Dublin 2
+Carmelite Community Centre, 56 Aungier Street Dublin 2
+(076)
+107
+7070
+Staircase, 21 Aungier Street, Dublin 2
+Watergate House, 11-14 Usher's Quay, Dublin 8
+1b Ring Terrace, Inchicore, Dublin 8
+(076)
+107
+7170
+90 Meath Street, Dublin 8
+(076)
+107
+7180
+Balseskin, St. Margaret's, Finglas
+1B Village Centre, Finglas Village, (beside PermanentTSB Bank), Finglas, Dublin 11
+(076)
+107
+7360
+The Towers, The Ninth Lock,
+Luke Cullen House, Oakfield
+(076)
+107
+County
+State
+Accommodation
+Centre
+Local Citizens Information Centres
+Phone
+Clondalkin, Dublin
+22
+Industrial Estate, Clondalkin Dublin 22
+5100
+Galway
+Eglinton, The Promenade, Salthill Galway
+Augustine House, St Augustine Street, Galway
+(076)
+107
+7600
+Great Western House, Eyre Square, Galway
+Kerry
+Atlas House, Killarney
+Unit 2, 1 St Floor, Park Court, Beech Road, Killarney
+(076)
+107
+Park Lodge, Killarney
+7820
+Atlas House, Tralee
+4 Bridge Lane, Tralee
+(076)
+Johnston Marina, Tralee
+107
+7860
+Kildare
+Eyrepowell, Newbridge
+Parish Centre, Station Road, Newbridge
+(076)
+107
+8300
+Hazel Hotel
+Laois
+Montague, Emo, Portlaoise
+Kellyville Centre, Portlaoise
+(076)
+107
+5590
+Limerick
+Hanratty's,
+54 Catherine
+(076)
+County
+State
+Accommodation
+Centre
+Local Citizens Information Centres
+Phone
+Glentworth Street, Limerick
+Street, Limerick
+107
+5780
+Westbourne Holiday Hostel, Dock Road, Limerick
+Mount Trenchard, Foynes
+Weigh House, Market Yard, Newcastle West
+(076)
+107
+5820
+Longford
+Richmond Court, Richmond Street, Longford
+Level 1, Longford Shopping Centre
+(076)
+107
+5890
+Louth
+Carroll Village, Dundalk
+3 - 6 Adelphi Plaza, Long Walk, Dundalk
+(076)
+107
+5950
+Mayo
+The Old Convent, Ballyhaunis
+Cavendish House, Link Road, Castlebar
+(076)
+107
+6040
+CURAM Centre, Dalton Street, Claremorris
+(076)
+107
+6080
+Meath
+Mosney
+Accommodation Centre, Mosney, Co.
+3 - 6 Adelphi Plaza, Long Walk, Dundalk
+(076)
+107
+7450
+County
+State
+Accommodation
+Centre
+Local Citizens Information Centres
+Phone
+Meath
+Town Hall, St Georges Square, Balbriggan
+(076)
+107
+7450
+Monaghan
+St. Patrick's Accommodation Centre, Monaghan
+23 North Road, Monaghan
+(076)
+107
+6230
+Sligo
+Globe House, Chapel Hill, Sligo
+Unit 3 & 4, Bridgewater House, Rockwood Parade, Sligo
+(076)
+107
+6390
+Tipperary
+South
+Bridgewater House,
+Carrick-On-Suir
+Market Place, Clonmel
+(076)
+107
+6460
+Waterford
+Atlantic House, Tramore, Co. Waterford
+37 Lower Yellow Road, Waterford
+14 Gladstone Street, Waterford
+(076) 107
+6580
+Birchwood House/Ursuline Former Convent, Ballytruckle Road
+Ocean View, Tramore, Co. Waterford
+(076)
+107
+6560
+County
+State
+Accommodation
+Centre
+Local Citizens Information Centres
+Phone
+Viking House, Coffee House Lane, Waterford
+Westmeath
+Athlone
+Accommodation
+Centre, Athlone
+Elliott House, St. Mary's Square, Athlone
+(076)
+107
+6610
+
+Appendix 2: Local Authorities
+City and County Council
+Website
+Phone
+Cork City
+www.corkcity.ie
+(021) 496 6222
+Dublin City
+www.dublincity.ie
+(01) 222 2222
+Dun Laoghaire Rathdown
+www.dlrcoco.ie
+(01) 205 4700
+Fingal
+www.fingalcoco.ie
+(01) 890 5000
+Galway City
+www.galwaycity.ie
+(091) 536 400
+Meath
+www.meath.ie
+(046) 909 7000
+South Dublin
+www.sdcc.ie
+(01) 414 9000
+Kildare
+www.kildare.ie/countycouncil
+(045) 980 200
+Cork County
+www.corkcoco.ie
+(021) 427 6891
+Kerry
+www.kerrycoco.ie
+(066) 718 3500
+Kilkenny County
+www.kilkennycoco.ie
+(056) 779 4900
+Limerick City and County
+www.limerick.ie/council
+(061) 407 120
+
+City and County Council
+Website
+Phone
+Louth
+www.louthcoco.ie
+(042) 933 5457
+Wexford
+www.wexford.ie
+(053) 919 6000
+Waterford
+www.waterfordcouncil.ie
+(076) 110 2020
+Carlow County
+www.carlow.ie
+(059) 917 0300
+Cavan County
+www.cavancoco.ie
+(049) 437 8300
+Clare
+www.clarecoco.ie
+(056) 682 1616
+Donegal
+www.donegalcoco.ie
+(074) 915 3900
+Galway County
+www.galway.ie
+(091) 509 300
+Laois
+www.laois.ie
+(057) 866 4000
+Leitrim
+www.leitrimcoco.ie
+(071) 962 0005
+Longford County
+www.longfordcoco.ie
+(043) 334 3300
+Mayo
+www.mayococo.ie
+(094) 902 4444
+Monaghan
+www.monaghan.ie
+(047) 30500
+Offaly
+www.offaly.ie
+(057) 934 6800
+
+City and County Council
+Website
+Phone
+Roscommon
+www.roscommoncoco.ie
+(090) 663 7100
+Sligo County
+www.sligococo.ie
+(071) 911 1111
+Tipperary
+www.tipperarycoco.ie
+(076) 106 5000
+Waterford County
+www.waterfordcouncil.ie
+(076) 110 2020
+Westmeath
+www.westmeathcoco.ie
+(044) 933 2000
+
+Appendix 3: Money Advice & Budgeting
+Service (MABS)
+There are MABS offices located across Ireland. This list provides details of those located near State Accommodation Centres. To find one near you, visit www.mabs.ie.
+
+County
+State
+Accommodation
+Centre
+Nearest MABS office
+Phone
+Clare
+Knockalisheen, Meelick
+8 Harmony Row, Ennis
+(076)
+107 2430
+Community Office, Unit 1, Business Centre, Shannon
+(076)
+107 2790
+Cork
+Glounthane
+Unit 12 Penrose Wharf,
+Penrose Quay, Cork City, Co. Cork
+(076)
+107 2090
+Glenvera, Wellington Road
+Kinsale Road
+Millstreet
+25 O'Brien Street, Mallow
+(076)
+107 2440
+County
+State
+Accommodation
+Centre
+Nearest MABS office
+Phone
+Dublin
+Georgian Court, 7779 Lower Gardiner Street Dublin 1
+53 Upper Dorset Street Dublin 1
+(076)
+107 2510
+Hatch Hall, 28
+Lower Hatch Street, Dublin 2
+26-28 Lombard Street, Dublin 2
+(076)
+107 2520
+Staircase, 21
+Aungier Street
+Dublin 2
+Watergate House, 11-14 Usher's Quay, Dublin 8
+32 Francis Street, Dublin 8
+(076)
+107 2350
+Balseskin, St. Margaret's, Finglas
+5 Church Street, Finglas, Dublin 11
+(076)
+107 2170
+The Towers The Ninth Lock Clondalkin, Dublin 22
+Civic Offices Ninth Lock Road Clondalkin Dublin 22
+(076)
+107 2270
+Galway
+Eglinton, The Promenade, Salthill, Galway
+3rd Floor The Halls Quay Street Galway
+(076)
+107 2570
+Great Western House, Eyre Square, Galway
+County
+State
+Accommodation
+Centre
+Nearest MABS office
+Phone
+Kerry
+Atlas House Killarney
+Unit 2, First Floor, Park Court, Beech Road, Killarney
+(076)
+107 7827
+Park Lodge Killarney
+Atlas House, Tralee
+Edward Court Edward Street Tralee
+(076)
+107 2190
+Johnston Marina, Tralee
+Kildare
+Eyrepowell Newbridge
+Henry Street Newbridge
+(076)
+107 2600
+Laois
+Montague, Emo, Portlaoise
+Railway Mews, Railway Street, Portlaoise Co. Laois
+(076)
+107 2620
+Limerick
+Hanratty's, Glentworth Street Limerick
+Floor 3, Park Manor, Upper Mallow St Limerick
+(076)
+107 2210
+Westbourne Holiday Hostel Dock Road , Limerick
+Mount Trenchard, Foynes
+County
+State
+Accommodation
+Centre
+Nearest MABS office
+Phone
+Longford
+Richmond Court
+Richmond Street
+Longford
+Fee Court Church Street Longford
+(076)
+107 2640
+Louth
+Carroll Village Dundalk
+58/59 Anne Street,
+Dundalk
+(076)
+107 2540
+Mayo
+The Old Convent Ballyhaunis
+Unit 14,
+Nephin Halls, Hopkins Road, Castlebar
+(076)
+107 2670
+Teeling St Cualgara Ballina
+(076)
+107 2660
+Meath
+Mosney Accommodation Centre, Mosney
+1B Brews Hill
+Navan
+(076)
+107 2680
+58/59 Anne Street, Dundalk
+(076)
+107 2540
+Monaghan
+St. Patrick's
+Accommodation
+Centre, Monaghan
+3rd Floor Bramley House Muckno Street Castleblaney
+(076)
+107 2690
+County
+State
+Accommodation
+Centre
+Nearest MABS office
+Phone
+Sligo
+Globe House Chapel Hill, Sligo
+Carbury House
+Fish Quay,
+Sligo
+(076)
+107 2730
+Tipperary
+South
+Bridgewater House,
+Carrick-On-Suir
+Nano Nagle Community Resource Centre Clancy House Greenside, Carrick-on- Suir
+(076)
+107 2810
+Waterford
+Atlantic House
+Tramore
+6B Wallace
+House
+Maritana Gate
+Canada Street Waterford
+(076)
+107 2050
+Birchwood House
+Ballytruckle Road
+Ocean View
+Tramore
+Former Ursuline
+Convent
+Ballytruckle Road
+Viking House Coffee
+House Lane
+Waterford
+County
+State
+Accommodation
+Centre
+Nearest MABS office
+Phone
+Westmeath
+Athlone
+Accommodation
+Centre
+St. Mary's
+Square,
+Athlone
+(076)
+107 2400
+
+Appendix 4: Education and Training
+
+Boards
+Location
+Contact details
+Cavan and Monaghan ETB
+Monaghan:(047) 30888
+Cavan: (049) 433 1044
+Cork ETB
+(021) 490 7100
+City of Dublin ETB
+(01) 668 0614
+Donegal ETB
+(074) 916 1600
+Dublin and Dun Laoghaire ETB
+(01) 452 9600
+Galway and Roscommon ETB
+Galway city: (091) 549 400
+Galway county: (091) 874 500
+Roscommon: (090) 662 6151
+Kerry ETB
+(066) 712 1488
+Kildare and Wicklow ETB
+Kildare: (045) 988 000
+Wicklow: (0404) 60500
+Laois and Offaly ETB
+Laois: (057) 862 1352
+Offaly: (057) 934 9400
+
+Location
+Contact details
+Limerick and Clare ETB
+Limerick city: (061) 417 688
+Limerick county: (061) 442 100
+Clare: (065) 682 8107
+Longford and Westmeath ETB
+Longford: (043) 333 4000 or (043)
+334 6493
+Westmeath: (044) 934 8389
+Louth and Meath ETB
+Louth: (042) 933 4047
+Meath: (046) 906 8200
+Mayo, Sligo and Leitrim ETB
+Mayo: (094) 902 4188
+Sligo: (071) 914 5025
+Leitrim: (071) 962 0024
+Tipperary ETB
+Tipperary North: (067) 31250
+Tipperary South: (052) 612 1067
+Waterford and Wexford ETB
+Waterford city: (051) 874 007 Waterford county: (058) 41780 Wexford: (053) 912 3799
+
+Appendix 5: Local Health Offices
+
+Location
+Address
+Phone
+Carlow and
+Carlow Community Care, Athy
+(059) 913 6520
+Kilkenny
+Road, Carlow
+Kilkenny Community Care, James's Green, Kilkenny
+(056) 778 4600
+Cavan and
+Cavan PCCC Office, Lisdaran,
+(049) 436 1822
+Monaghan
+Cavan
+Monaghan PCCC Office, Rooskey, Monaghan
+(047) 30400
+Clare
+St. Joseph's Hospital, Ennis
+(065) 686 3555 / 3556
+Cork North
+Local Health Office Community Services, Hospital Grounds Newberry, Mallow
+(022) 31855
+Cork North
+St Finbarr's Hospital, Douglas
+(021) 496 6555
+Lee
+Road, Cork
+Cork South
+St. Finbarr's Hospital, Douglas
+(021) 496 5511
+Lee
+Road, Cork
+Cork West
+Local Health Office Coolnagarrane, Skibbereen
+(028) 40400
+Location
+Address
+Phone
+Donegal
+Donegal PCCC HQ, St. Joseph's Hospital, Stranorlar
+(074) 913 1391
+Dublin North
+Cromcastle Road, Coolock, Dublin
+5
+(01) 816 4200
+Dublin North Central
+Local Health Office, Civic Centre,
+Ballymun, Dublin 11
+(01) 846 7000
+Dublin North West
+Local Health Office, Ground Floor, Unit 4 & 5, Nexus Building, Block 6A, Blanchardstown Corporate Park, Dublin 15
+(01) 897 5100
+Dublin South City
+Local Health Office, City Lodge, Old Meath Hospital, Heytesbury Street, Dublin 8
+(01) 7077921
+Dublin South East
+Local Health Office, Vergemount
+Hall, Clonskeagh, Dublin 6
+(01) 268 0300
+Dublin South West
+Old County Road Health Centre, Crumlin, Dublin 12
+(01) 415 4700
+Dublin West
+Local Health Office, Cherry Orchard Hospital, Ballyfermot, Dublin 10
+(01) 620 6300
+Dun Laoghaire
+Local Health Office, Tivoli Road, Dun Laoghaire
+(01) 284 3579 /
+(01) 236 5200
+
+Location
+Address
+Phone
+Galway
+Local Health Office, 25 Newcastle Road, Galway
+(091) 523 122
+Kerry
+HSE South, Rathass, Tralee
+19 / 24 Denny Street, Tralee
+(066) 718 4500
+Kildare and West Wicklow
+St. Mary's, Craddockstown Road, (next to Naas General Hospital)
+(045) 873 200
+Laois and Offaly
+Laois Community Services, Dublin Road, Portlaoise
+Offaly Community Services,
+Arden Road, Tullamore
+(057) 862 1135
+(057) 934 1301
+Limerick
+Local Health Office ,Ballycummin Avenue, Raheen Business Park, Limerick
+(061) 483 719
+Longford and Westmeath
+Local Health Office, Health Centre, Mullingar
+(044) 939 5111
+Louth
+Community Care Services, Dublin Road, Dundalk
+(042) 933 2287
+Mayo
+Local Health Office Westport Road Castlebar
+(094) 902 2333
+Meath
+Primary Care Services Leighsbrook Lane, Off Railway
+(046) 907 6489
+
+Location
+Address
+Phone
+Street, Navan
+Roscommon
+Community Services, Roscommon Town
+(090) 663 7500
+Sligo and Leitrim
+Local Health Office Manorhamilton
+(071) 982 0524
+Community Services, Carrick-on- Shannon
+(071) 965 0300
+Community Services, Markievicz House, Sligo
+(071) 915 5100
+Tipperary North
+Civic Offices, Limerick Road, Nenagh
+(067) 46600
+Tipperary South
+Western Road, Clonmel
+(052) 617 7000
+Waterford
+Cork Road, Waterford
+(051) 842 800
+Wexford
+George's Street, Wexford
+(053) 912 3522
+Wicklow
+Glenside Road, Wicklow
+(0404) 68400
+
+Appendix 6: Some additional websites which may help you
+
+We have organised the categories of websites alphabetically.
+Accommodation
+www.welfare.ie (Department of Social Protection) www.environ.ie (Department of Environment, Community and Local Government)
+www.prtb.ie (Private Residential Tenancies Board)
+www.citizensinformation.ie
+www.threshold.ie
+www.focusireland.ie
+www.cluid.ie
+Accommodation: rentals/lettings and sales
+www.daft.ie
+www.myhome.ie
+www.property.ie
+Driving
+www.ndls.ie (National Driver License Service) www.rsa.ie (Road Safety Authority) www.ncts.ie (National Car Testing Service) www.motortax.ie
+Education
+www.education.ie (Department of Education and Skills) www.dcya.ie (Department of Children and Youth Affairs) www.tusla.ie (Child and Family Agency) www.cao.ie (Applications to third level college courses) www.susi.ie (Third level grants) www.hea.ie (Higher Education Authority) www.qqi.ie (Quality and Qualifications Ireland) www.ncse.ie (National Council for Special Education) Employment/Training www.localenterprise.ie www.jobsireland.ie
+www.jobsplus.ie (Department of Social Protection Initiative)
+www.inou.ie (Irish National Organisation of the Unemployed)
+www.etbi.ie (Education and Training Boards Ireland) www.qqi.ie (Quality and Qualifications Ireland) www.citizensinformation.ie
+www.workplacerelations.ie (Industrial relations - workplace rights and obligations)
+Finance
+www.mabs.ie (Money Advice & Budgeting Service) www.anpost.ie (Post Offices) www.centralbank.ie
+www.revenue.ie (Irish Tax and Customs) www.consumerhelp.ie www.creditunion.ie
+General information
+www.ccpc.ie (Competition and Consumer Protection
+Commission)
+www.askaboutireland.ie
+Healthcare
+www.hse.ie (Health Service Executive) www.welfare.ie (Department of Social Protection) Taxation
+www.revenue.ie (Irish Tax and Customs) www.citizensinformation.ie
+Television www.tvlicence.ie
+Transport www.irishrail.ie www.dublinbus.ie www.buseireann.ie (national bus service outside Dublin) www.ruraltransportnetwork.ie www.leapcard.ie (cheaper travel) www.nationaltransport.ie
+www.luas.ie (Dublin tram service) Utilities
+www.water.ie www.callcosts.ie www.energycustomers.ie
+Thank you
+We appreciate the assistance of many organisations and departments in preparing this booklet.
+Citizens Information Board
+Money Advice & Budgeting Service
+National Adult Literacy Agency
+Department of Social Protection
+Department of Environment, Community and Local
+Government
+Department of Health
+Department of Education
+Reception and Integration Agency
+Office for the Promotion of Migrant Integration
+Jesuit Refugee Service
+Core Group of Asylum Seekers and Refugees
+Migrant Rights Centre Ireland
+Cork City Partnership (Asylum Seekers Outreach Service)
+The graphics used in this booklet have been reproduced with the kind permission of www.freepik.com.

@@ -1,0 +1,227 @@
+﻿<Header>
+	<title>
+		<tit> Introduire une demande de protection internationale </tit>
+		<fileName> IDPI_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Luxembourg) </language>
+		<source> https://guichet.public.lu/fr/citoyens/immigration/cas-specifiques/protection-internationale/demande-protection-internationale.html </source> 
+		<publisher> Le gouvernement du grand-duché de Luxembourg </publisher>
+		<pubDate> Mar, 2019 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Le gouvernement du grand-duché de Luxembourg </institution>
+	</author>
+</Header>
+Introduire une demande de protection internationale
+Résident
+En matière de droit d'asile, le Luxembourg reconnaît 2 statuts de protection internationale : le statut de réfugié et celui conféré par la protection subsidiaire.
+Le demandeur qui se voit accorder le statut de protection internationale bénéficie d'un titre de séjour protection internationale d'une validité de 5 ans.
+A ces 2 protections, s'ajoute la protection temporaire à caractère plus exceptionnel. Elle est décidée en cas d'afflux massif de personnes ayant dû quitter subitement leur pays et qui ne peuvent y retourner. Cette protection est déclenchée uniquement par décision du gouvernement luxembourgeois ou par décision de l'Union européenne.
+Personnes concernées
+La protection internationale concerne exclusivement les ressortissants de pays tiers et les apatrides.
+Est exclue d'office du bénéfice de la protection internationale la personne qui :
+a commis un crime contre la paix, un crime de guerre ou un crime contre l'humanité ; ou
+a commis un crime grave de droit commun en dehors du Luxembourg avant d'être admis comme réfugié ; ou
+a contrevenu à la Charte des Nations unies.
+Les demandes effectuées par des citoyens de l'Union européenne ne sont pas recevables.
+POUR LE STATUT DE RÉFUGIÉ
+Toute personne qui, parce qu'elle craint d'être persécutée du fait de sa race, de sa religion, de sa nationalité, de ses opinions politiques ou de son appartenance à un certain groupe social, et qui :
+pour le ressortissant d'un pays tiers : se trouve hors du pays dont il a la nationalité et qui ne peut ou, du fait de cette crainte, ne veut se réclamer de la protection de ce pays ; ou
+pour l'apatride : se trouve hors du pays dans lequel il avait sa résidence habituelle et qui ne peut ou, du fait de cette crainte, ne veut y retourner.
+POUR LE STATUT CONFÉRÉ PAR LA PROTECTION SUBSIDIAIRE
+Toute personne qui ne peut être considérée comme un réfugié, mais pour laquelle il y a des motifs sérieux et avérés de croire qu'elle courrait un risque réel de subir des atteintes graves si elle était renvoyée :
+pour le ressortissant d'un pays tiers : dans son pays d'origine ; ou
+pour l'apatride : dans le pays dans lequel il avait sa résidence habituelle.
+Exemples d'atteinte grave :
+peine de mort ;
+torture ou traitements inhumains ou dégradants ;
+menaces graves et individuelles contre la vie ou la personne d'un civil en raison d'une violence aveugle en cas de conflit armé interne ou internationale.
+Modalités pratiques
+DEMANDE DE PROTECTION INTERNATIONALE
+Le demandeur exprime en personne son souhait d'introduire une demande de protection internationale auprès :
+du ministère des Affaires étrangères et européennes (MAEE - Direction de l'immigration, Service des réfugiés) ; ou
+du Service de contrôle à l'aéroport ; ou
+de la Police grand-ducale ; ou
+du centre de rétention dans lequel il est placé ; ou
+du centre pénitentiaire dans lequel il est placé.
+Un demandeur de protection internationale peut présenter une demande de protection pour les personnes dont il a la charge (mineur non émancipé, personnes majeures ayant consenti à l'introduction d'une demande en leur nom).
+Le mineur non accompagné peut présenter une demande de protection internationale lui-même, ou via un administrateur ad hoc qui sera désigné par le juge des tutelles. Le rôle de cet administrateur est de l'assister et le représenter au cours de toute la procédure de demande de protection internationale. S'il est probable que le mineur atteindra l'âge de 18 ans au cours de la procédure, il n'y a pas d'obligation de nommer un administrateur ad hoc pour l'accompagner.
+En cas de doute sur l'âge d'un mineur non accompagné, celui-ci peut être invité à un examen médical afin de déterminer son âge.
+Enregistrement de la demande
+Le demandeur doit ensuite se présenter personnellement (le mineur également, qu'il s'agisse d'un mineur accompagné ou non) auprès de la Direction de l'immigration du ministère des Affaires étrangères et européennes afin d'enregistrer sa demande.
+Le demandeur reçoit :
+> un document explicatif sur toute la procédure de demande de protection internationale, ses droits et obligations. Ce document est rédigé dans une langue dont il est raisonnable de supposer qu'il la comprend ;
+> des informations sur son droit de se faire assister à titre gratuit d'un interprète qui maîtrise une langue dont il est raisonnable de supposer qu'il la comprend ;
+> des informations sur son droit de choisir à ses frais un avocat inscrit au tableau de l'un des barreaux établis au Grand-Duché de Luxembourg, ou d'avoir recours à l'assistance judiciaire.
+Lors de l'enregistrement, un formulaire est remis au demandeur, et un rendez-vous est fixé pour introduire la demande.
+Lors du rendez-vous, le requérant doit remettre le formulaire rempli et les pièces justificatives afin que la demande de protection internationale puisse être examinée. Les données présentes sur le formulaire concernent les données personnelles du demandeur ainsi que diverses informations utiles.
+Le demandeur doit également remettre, contre récépissé, ses documents d'identité et toutes autres pièces utiles, lesquelles lui seront restituées une fois qu'un des statuts lui est accordé. Seuls les documents d'identité ne sont pas restitués lorsque le demandeur bénéficie du statut de réfugié. En cas de refus, tous les documents lui sont restitués au moment où il est éloigné du territoire luxembourgeois.
+A l'exception des pièces d'identités, tout document remis dans une autre langue que l'allemand, l'anglais et le français doit être accompagné d'une traduction dans l'une ces langues.
+Une photographie du demandeur sera effectuée.
+Le demandeur de protection internationale sera également entendu par un agent du Service de Police Judiciaire chargé de vérifier l'identité du demandeur et l'itinéraire de voyage pour arriver au Luxembourg. Les empreintes digitales du demandeur seront enregistrées, et le cas échéant, une fouille pourra avoir lieu.
+Le demandeur peut se voir remettre une convocation pour un entretien.
+Délivrance de l'attestation
+En principe 3 jours après l'introduction de la demande, une attestation est remise au demandeur ("papier rose").
+Cette attestation permet au demandeur de séjourner au Luxembourg pendant la durée du traitement de la demande de protection internationale, et de circuler librement sur le territoire luxembourgeois.
+L'attestation ne permet pas de se rendre à l'étranger. Une exception est toutefois admise pour les jeunes demandeurs de protection scolarisés et dont la classe effectue un voyage scolaire à l'étranger.
+La durée de validité du "papier rose" est en principe d'un mois renouvelable jusqu'à la fin de la procédure. La prolongation de l'attestation est à demander personnellement au guichet du Service des réfugiés de la Direction de l'immigration au plus tard le jour de son expiration.
+L'attestation ne tient pas lieu de pièce d'identité ou de permis de séjour.
+Encadrement des demandeurs d'asile
+Suite à l'introduction de sa demande, le demandeur de protection internationale rencontre un assistant social de l'Office luxembourgeois de l'accueil et de l'intégration (OLAI) qui est en charge de l'encadrement des demandeurs de protection internationale et qui pourra lui fournir des renseignements sur les différentes aides disponibles.
+Déclaration d'arrivée ou élection de domicile
+Dans les 8 jours suivant l'introduction de la demande de protection internationale, le demandeur doit effectuer une déclaration d'arrivée auprès de la commune dans laquelle il établit sa résidence habituelle.
+Il peut également choisir d'élire domicile chez son représentant (avocat).
+Tout changement de résidence au sein de la même commune devra être déclaré à la commune. En cas de transfert de la résidence habituelle dans une autre commune, le demandeur doit en informer celle-ci.
+A défaut d'élection de domicile ou de résidence habituelle, il est réputé avoir élu domicile au ministère des Affaires étrangères et européennes. Dans ce cas, le ministre procède à une notification par affichage public au ministère pendant une durée de 30 jours. L'affichage de l'avis mentionne la date de l'affichage et la nature de l'acte à notifier. Il indique en outre l'endroit où le demandeur peut se faire remettre l'acte.
+Sauf exception accordée par le ministre, le demandeur a l'obligation de demeurer sur le territoire et il a le droit d'y circuler librement pendant l'instruction de sa demande.
+Dans un délai de 6 semaines après son entrée sur le territoire, le demandeur doit se soumettre à un examen médical.
+Entretien individuel
+Le demandeur reçoit à sa résidence habituelle ou domicile élu un courrier l'invitant à l'entretien au fond. Le courrier peut également être remis en mains propres.
+A défaut de résidence habituelle ou d'élection de domicile, le demandeur est réputé avoir élu son domicile au ministère des Affaires étrangères et européennes (MAEE). La convocation à l'entretien au fond y sera alors affichée.
+Le demandeur doit se présenter personnellement à la date et l'heure prévues, muni de sa convocation et de l'attestation reçue ("papier rose") au Service des réfugiés de la Direction de l'immigration.
+Seules des raisons médicales peuvent justifier d'une absence à l'entretien fixé. Le demandeur est dès lors tenu d'avertir dès que possible l'agent procédant à l'entretien en appelant le numéro de téléphone figurant sur la convocation, et en présentant sans délai un certificat médical établi par un médecin. En cas de doute, le MAEE peut demander l'avis d'un professionnel de santé pour déterminer si le demandeur peut participer ou non à un entretien.
+Chaque adulte d'une famille est entendu séparément. Exceptionnellement, un autre membre de famille peut être présent.
+Le demandeur a le droit d'être accompagné d'un interprète si l'entretien doit se faire dans une langue qu'il ne comprend pas.
+Il peut également être accompagné d'un avocat.
+L'entretien est l'occasion pour le demandeur de protection internationale de s'expliquer en détail sur les motifs de sa demande et les raisons pour lesquelles il a quitté son pays. Les réponses aux questions posées doivent être sincères, claires et refléter la vérité.
+Le demandeur doit remettre, s'il en dispose, les documents originaux ou les autres papiers qui peuvent faire preuve d'identité, de nationalité, d'état civil, de motifs à la base de la demande, etc.
+Tout document remis dans une autre langue que l'allemand, l'anglais et le français doit être accompagné d'une traduction dans l'une ces langues.
+Les déclarations effectuées au cours de l'entretien sont notées afin d'établir un rapport écrit détaillé et factuel. Le demandeur peut relire le rapport, ou demander à ce qu'il lui en soit fait une lecture orale, et y apporter des rectifications qui seront notées à la fin du rapport.
+Le requérant est invité à signer le rapport, ainsi que toutes les personnes qui ont pris part à l'entretien. En cas de refus de signature du requérant, les motifs de refus y sont indiqués.
+Si l'entretien est enregistré de manière audio ou audiovisuelle, une signature du rapport n'est pas nécessaire. Le requérant peut alors transmettre ses commentaires ou apporter des précisions par écrit dans les 8 jours qui suivent la remise du rapport.
+L'entretien est confidentiel.
+En cas de doute sur l'origine du demandeur, des tests linguistiques peuvent être effectués. De même, un examen médical portant sur des signes de persécution ou d'atteintes graves à l'intégrité physique peut être effectué si le demandeur dit en avoir été victime.
+RECEVABILITÉ DE LA DEMANDE
+La demande ne sera pas examinée si le ministère des Affaires étrangères et européennes se déclare incompétent pour traiter de la demande de protection internationale, notamment si un autre pays est compétent. Le demandeur est alors transféré vers cet Etat.
+La demande sera déclarée irrecevable si :
+le demandeur est un ressortissant de l'Union européenne (UE) ; ou
+une protection internationale a déjà été accordée par un autre Etat membre de l'UE ; ou
+s'il existe un premier pays d'asile, c'est-à-dire un autre pays dans lequel le statut de réfugié a été accordé et qu'il est encore possible :
+de se prévaloir de cette protection ; ou
+d'y jouir d'une autre protection suffisante sous réserve d'être réadmis dans ce pays ; ou
+s'il existe un pays sûr où le demandeur aurait pu s'installer et où il n'a rien à craindre pour sa vie ou sa liberté en raison de sa race, religion, nationalité, appartenance à un groupe social particulier, opinions politiques, etc. ; ou
+la demande est une demande ultérieure dans laquelle n'apparaît ou n'est présenté aucun élément ou fait nouveau permettant de déterminer si les conditions pour obtenir une protection internationale sont remplies ;
+la demande est introduite personnellement alors que le demandeur a déjà donné son accord pour qu'une demande soit introduite en son nom.
+Les décisions d'irrecevabilité sont notifiées par écrit. Les voies de recours contre ces décisions sont indiquées dans la décision.
+EXAMEN DE LA DEMANDE
+Si la demande est recevable, le ministère des Affaires étrangères et européennes (MAEE) étudiera la demande au fond.
+A l'issue de l'examen du dossier, le statut de réfugié ou celui de la protection subsidiaire pourra être accordé, ou la demande pourra être rejetée.
+Pour le traitement de la demande, le demandeur peut être amené à effectuer un examen médical portant sur des signes de persécutions ou d'atteintes graves qu'il aurait subi dans le passé.
+Procédure normale
+Le demandeur reçoit en principe une réponse dans les 6 mois à compter de l'introduction de la demande.
+Si le délai pour le traitement de la demande dépasse les 6 mois (questions factuelles ou juridiques complexes, grand nombre de demandes simultanées de protection internationale, non-respect de ses obligations par le demandeur), le demandeur est informé du retard. S'il le souhaite, le requérant peut demander les raisons du retard et une estimation du délai de traitement de sa demande.
+Le délai de traitement de la demande ne peut pas dépasser un total de 21 mois.
+Procédure accélérée
+Un examen de la demande selon une procédure accélérée peut avoir lieu dans les cas suivants :
+si le demandeur n'a présenté que des faits qui ne sont pas pertinents pour prétendre aux statuts conférés par la protection internationale ;
+si le pays d'origine du demandeur est un pays d'origine sûr ;
+si le demandeur, pour influencer la décision, a fourni de fausses informations, des faux documents ou a dissimulé des documents concernant son identité ou sa nationalité ;
+s'il est probable que le demandeur a détruit expressément des pièces d'identités ou documents de voyage qui auraient aidé à établir son identité ou sa nationalité ;
+si les déclarations du demandeur sont incohérentes, contradictoires, fausses ou peu  plausibles et contredisent les informations suffisamment vérifiées du pays d'origine ;
+le demandeur a présenté une demande ultérieure qui n'est pas recevable ;
+le demandeur présente une demande aux seules fins de retarder ou d'empêcher une décision d'éloignement prise à son encontre ;
+si le demandeur est entré sur le territoire ou s'il a prolongé son séjour illégalement et, sans motif valable, ne s'est pas présenté auprès du ministère des Affaires étrangères et européennes ou n'a pas présenté de demande de protection internationale dans les délais les plus brefs à partir de son entrée sur le territoire ;
+le demandeur refuse de donner ses empreintes digitales ;
+le demandeur peut potentiellement représenter un danger pour l'ordre public luxembourgeois.
+Pour la procédure accélérée, le délai de réponse du ministère est en principe de 2 mois à compter du jour où il apparaît que le demandeur tombe sous un de ces cas.
+Réponse favorable
+L'accès du demandeur à la protection internationale lui confère soit le statut de réfugié, soit la protection subsidiaire.
+La notification de l'octroi se fait en règle générale par remise en mains propres.
+La notification de l'octroi de l'un de ces 2 statuts peut également se faire par écrit, à l'aide d'un courrier recommandé. La décision est considérée comme notifiée 3 jours après l'envoi sous pli recommandé.
+A défaut de résidence habituelle ou d'élection de domicile, la décision est notifiée par affichage public au MAEE.
+Le demandeur peut alors bénéficier des droits octroyés par la protection internationale.
+Rejet de la demande
+Dans l'hypothèse où la demande de protection internationale est rejetée, le demandeur en est informé par écrit à l'aide d'un courrier recommandé. La décision est considérée comme notifiée 3 jours après l'envoi sous pli recommandé.
+A défaut de résidence habituelle ou d'élection de domicile, la décision est notifiée par affichage public au MAEE.
+La notification de la décision peut également se faire par remise en mains propres.
+Les voies de recours contre ces décisions sont indiquées dans le courrier.
+La décision de rejet de la protection internationale vaut décision de retour.
+RETRAIT DE LA DEMANDE
+La demande de protection internationale peut être retirée implicitement ou explicitement.
+Il y a retrait implicite lorsque le demandeur :
+n'a pas fourni des informations essentielles ou ne s'est pas présenté à l'examen ; ou
+a fui ou quitté sans autorisation le lieu où il a été placé en rétention ou le domicile d'habitation déclaré, sans contacter le ministère des Affaires étrangères et européennes (MAEE) dans un délai de 24h, ou sans avoir respecté l'obligation de se présenter au MAEE dans le délai d'un mois.
+Il y a retrait explicite lorsque le demandeur renonce par écrit à sa demande.
+Le retrait de la demande fait perdre le statut de demandeur de protection internationale, et la personne fera alors l'objet d'un retour dans son pays d'origine.
+AUTORISATION D'OCCUPATION TEMPORAIRE
+Pendant la phase de l'examen de sa demande, le demandeur de protection internationale peut, sous certaines conditions, obtenir une autorisation d'occupation temporaire lui permettant d'exercer une activité professionnelle.
+RECOURS
+Procédure normale
+Contre la décision de refus de l'octroi de la protection internationale et contre l'ordre de quitter le territoire, pris dans le cadre la procédure normale, un recours est possible devant le tribunal administratif.
+Les 2 recours doivent faire l'objet d'une seule requête introductive, sous peine d'irrecevabilité. Le délai de recours est d'un mois à partir de la notification de la décision.
+Le délai de recours et le recours introduit dans le délai ont un effet suspensif.
+Contre la décision du tribunal administratif, un appel peut être interjeté dans le délai d'un mois à partir de la notification de la décision. Le délai d'appel et l'appel interjeté dans le délai ont un effet suspensif.
+Il importe de préciser que le recours gracieux contre la décision ministérielle de refus n'interrompt pas le délai de recours.
+Le recours devant le tribunal administratif doit se faire par le biais d'un avocat.
+Procédure accélérée
+Dans le cadre de la procédure accélérée, un recours est ouvert, dans un délai de 15 jours suivant la notification de la décision, devant le tribunal administratif :
+contre la décision de faire usage de cette procédure ;
+contre la décision de refus d'accorder la protection internationale ;
+contre l'ordre de quitter le territoire.
+Les 3 recours doivent faire l'objet d'une seule requête, sous peine d'irrecevabilité. La décision du président de la Chambre ou du juge qui le remplace n'est pas susceptible d'appel.
+Le recours gracieux contre la décision ministérielle prise dans le cadre de la procédure accélérée n'interrompt pas le délai de recours.
+Le recours devant le tribunal administratif doit se faire par le biais d'un avocat.
+Incompétence du Luxembourg et irrecevabilité de la demande
+Contre les décisions qui retiennent l'incompétence du Luxembourg ou l'irrecevabilité de la demande de protection internationale, il est possible d'introduire dans un délai de 15 jours à partir de la notification de la décision un recours devant le tribunal administratif. Les décisions du tribunal administratif ne sont pas susceptibles d'appel.
+Le recours devant le tribunal administratif doit se faire par le biais d'un avocat
+RETOUR VERS LE PAYS D'ORIGINE
+Le refus de la protection internationale et l'épuisement des voies de recours marque la fin de la procédure de demande de protection internationale.
+L'attestation de demandeur de protection internationale sera alors annulée, et un rendez-vous sera fixé avec l'un des agents du ministère des Affaires étrangères et européennes (MAEE) pour expliquer la manière dont va se dérouler le retour vers son pays d'origine.
+Le demandeur est invité à retourner dans son pays d'origine dans un délai de 30 jours à partir du jour où la décision de refus est devenue définitive.
+Retour volontaire
+Si la personne opte pour le retour volontaire, elle doit en informer le MAEE dans le délai de 30 jours.
+Dans certains cas (enfants scolarisés, autres liens sociaux et familiaux...), le délai de retour volontaire peut être prolongé.
+Les personnes quittant volontairement le territoire peuvent bénéficier d'une aide au retour pour l'organisation du voyage et leur réinstallation dans leur pays d'origine ou un pays acceptant de les accueillir. Les personnes de pays tiers qui bénéficient d'un passeport sans visa sont exclues du bénéfice de l'aide au retour.
+Les documents d'identité remis au début de la procédure de demande d'une protection internationale seront restitués au demandeur au moment de l'éloignement du territoire luxembourgeois.
+Retour forcé
+Si le demandeur n'a pas quitté le territoire dans un délai de 30 jours à partir du jour où la décision de refus est devenue définitive (après l'épuisement des voies de recours), il peut être éloigné de force du territoire, escorté par les forces de l'ordre. Le cas échéant, il peut être placé dans une structure fermée.
+L'aide financière au retour est refusée, et une interdiction d'entrée et de séjour dans l'espace Schengen est prononcée. Cette interdiction peut aller jusqu'à 5 ans.
+Services en ligne / Formulaires
+Demande en renouvellement d'un titre de séjour pour ressortissant de pays tiers en qualité de bénéficiaire d'une protection internationale
+Télécharger le formulaire
+Organismes de contact
+Démarches associées
+Contester une décision administrative
+Se faire embaucher en tant que demandeur de protection internationale
+Liens associés
+> 26, route d'Arlon
+L-1140 Luxembourg
+> Grand-Duché de Luxembourg
+> Adresse postale :
+B.P. 752 L-2017 Luxembourg
+Tél. : (+352) 247-84565 (de 8h00 à 16h00)
+Fax : (+352) 247-84050 accueil des nouveaux arrivants : de 8h30 à 12h00 du lundi au vendredi ; heures d'ouverture des guichets : de 8h30 à 12h00 et de 13h00 à 16h00 du lundi au vendredi
+INFORMATIONS COMPLÉMENTAIRES
+Aide sociale pour demandeurs d'asile sur le site d e l'OLAI
+Droits conférés par la protection internationale Perte ou retrait de la protection internationale
+RÉFÉRENCES LÉGALES
+Loi du 18 décembre 2015
+1. relative à la protection internationale et à la protection temporaire; 2. modifiant - la loi modifiée du 10 août 1991 sur la profession d'avocat, - la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l'immigration, - la loi du 28 mai 2009 concernant le Centre de rétention; 3. abrogeant la loi modifiée du 5 mai 2006 relative au droit d'asile et à des formes complémentaires de protection
+Office luxembourgeois de l'Accueil et de l'Intégration (OLAI)
+5, rue Carlo Hemmer
+L-1734 Luxembourg
+Grand-Duché de Luxembourg
+Tél. : (+352) 247-85700
+Fax : (+352) 247-85720 Réception : de 09h00 à 12h00 et de 13h00 à 17h00
+Service contrat d'accueil et d'intégration (OLAI)
+5, rue Carlo Hemmer
+L-1734 Luxembourg Grand-Duché de Luxembourg
+Tél. : (+352) 247-85785 ou Infoline
+CAI n° vert 8002-6006
+I Barreau de Diekirch
+B.P. 68 / L-9202 Diekirch Grand-Duché de Luxembourg
+Tél. : (+352) 80 80 67-1 ou (+352) 80 94 96-1
+Barreau de Luxembourg
+45, Allée Scheffer L-2520 Luxembourg Grand-Duché de Luxembourg Adresse postale :
+B.P. 361 L-2013 Luxembourg
+Tél. : (+352) 46 72 72-1
+Fax : (+352) 22 56 46
+

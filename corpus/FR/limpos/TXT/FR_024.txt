@@ -1,0 +1,44 @@
+﻿<Header>
+	<title>
+		<tit> Membres de la famille exclus : Guide pratique </tit>
+		<fileName> MFEGP_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Canada) </language>
+		<source> https://ccrweb.ca/fr/membres-famille-exclus-guide-pratique </source> 
+		<publisher> Conseil Canadien pour les Réfugiés </publisher>
+		<pubDate> Jul, 2018 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Fondation du droit de l'Ontario </institution>
+	</author>
+</Header>
+Membres de la famille exclus : Guide pratique
+Certains membres de la famille (enfants, conjoints) sont des "membres de la famille exclus" en vertu de la loi d'immigration canadienne et ne peuvent être parrainés. Cette ressource fournit des informations pratiques concernant cet enjeu et explique ce qu'une famille touchée peut faire.
+Membres de la famille exclus: le Règlement 117(9)(d)
+L'article 117(9)(d) du Règlement sur l'immigration et la protection des réfugiés stipule qu'une personne n'appartient pas à la catégorie du regroupement familial, si elle n'a pas fait l'objet d'un contrôle auprès d'un agent des visas lorsque le répondant (la personne qui la parraine) a immigré au Canada. Puisqu'elle n'est plus considérée comme membre de la famille, elle est « membre de la famille exclue » et ne peut pas être parrainée.
+Les scénarios suivants peuvent mener à l'exclusion de certains membres de la famille :
+Une famille réfugiée a un nouveau bébé après l'entrevue avec l'agent des visas et avant le départ pour le Canada. Certaines personnes mal renseignées leur conseillent d'aller au Canada comme prévu et de parrainer le bébé après leur arrivée. Le bébé est un membre de la famille exclu.
+Un homme marie sa fiancée quelques jours à peine avant son arrivée au Canada. Il ne se rend pas compte qu'il doit déclarer sa nouvelle femme et la soumettre à un contrôle. Sa femme est une membre de la famille exclue.
+Un homme apprend après qu'il a obtenu la résidence permanente au Canada, qu'une femme porte un enfant de lui. L'enfant est un membre de la famille exclu.
+Sous la pression d'un membre de sa famille, une femme qui immigre au Canada n'a pas mentionné qu'elle avait eu un enfant hors mariage. L'enfant est un membre de la famille exclu.
+Un homme immigre au Canada parce qu'il sait que le Canada permet la réunification familiale pour les couples de même sexe. Au moment de sa demande d'immigration au Canada, le couple n'avait pas cohabité pendant une année et le conjoint ne pouvait être inclus comme une personne à charge. Cependant, au moment de son arrivée au Canada, le couple a cohabité pendant une année, mais l'homme ne se rend pas compte qu'il doit déclarer ce fait. Son conjoint est un membre de la famille exclu.
+Exemption si l'agent des visas a approuvé le non-examen
+L'article 117(10) stipule qu'un agent des visas peut décider, au moment de l'étude de la demande de résidence permanente du répondant, d'exempter une personne de l'obligation de faire l'objet d'un contrôle. Cette exception peut s'appliquer en particulier aux réfugiés qui déclarent un membre de la famille qui ne pourrait pas faire l'objet d'un contrôle, par exemple, parce que son sort leur est inconnu.
+L'exemption ne peut pas s'appliquer si l'agent des visas n'ignorait l'existence du membre de la famille.
+Demandes dans le cadre du délai prescrit d'un an
+Dans le cas des réfugiés (Personnes protégées) qui normalement déposeraient une demande en vertu de la disposition relative au délai prescrit d'un an, le Règlement 141 exclut les membres de la famille qui n'ont pas été déclarés. La disposition est limitée à un membre de la famille « visé par la demande de visa de résident permanent du demandeur au moment où celle-ci a été faite ou son nom y a été ajouté avant le départ du demandeur pour le Canada. »
+Considérations d'ordre humanitaire
+Immigration, Réfugiés et Citoyenneté Canada (IRCC) reconnaît que dans certains cas, la règle du membre de la famille exclu ne devrait pas s'appliquer. Dans ce cas, leur solution est de se prévaloir des considérations d'ordre humanitaire prévues à l'article 25 de la Loi sur l'immigration et la protection des réfugiés.
+Selon IRCC, le recours aux facteurs d'ordre humanitaire afin de surmonter la règle du membre de la famille exclu peut être approprié lorsque la personne invoque des raisons impérieuses pour ne pas avoir déclaré l'existence d'un membre de sa famille. IRCC cite les exemples suivants :
+un réfugié présente des éléments de preuve indiquant qu'il croyait que les membres de sa famille étaient décédés ou qu'il ne savait pas où ceux-ci se trouvaient;
+un client présente des éléments de preuve indiquant que l'existence d'un enfant n'a pas été déclarée car cela aurait causé un préjudice extrême du fait que l'enfant est né hors des liens du mariage dans une culture où cette situation est jugée inacceptable.
+Afin d'apprendre plus sur l'utilsation des considérations d'ordre humanitaire afin de surmonter l'obstacle du membre de la famille exclu, téléchargez la ressource. Les membres du CCR peuvent également suivre le webinaire.
+Cette ressource fait partie de notre série Améliorer l'accès à la justice financée par la Fondation du droit de l'Ontario jui 2018

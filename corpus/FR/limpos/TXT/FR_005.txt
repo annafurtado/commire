@@ -1,0 +1,715 @@
+﻿      <Header>
+      	<title>
+      		<tit> GUIDE DU RÉFUGIÉ </tit>
+      		<fileName> GDR_FR </fileName>
+      		<generalDomain> Migration </generalDomain>
+      		<specificDomain> Refugees </specificDomain>
+      		<textType> Booklet </textType>
+      		<subcorpus> Original French  </subcorpus>
+      	</title>
+      	<sourceText>
+      		<language> French (France) </language>
+      		<source> leguidedurefugie.com </source> 
+      		<publisher> Welcome Bordeaux </publisher>
+      		<pubDate> oct, 2018 </pubDate>
+      		<pubPlace> Internet </pubPlace>
+      		<accessDate> April 18, 2019 </accessDate>
+      		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+      	</sourceText>
+      	<author>
+      		<institution> Welcome Bordeaux </institution>
+      	</author>
+      </Header>
+      GUIDE DU RÉFUGIÉ
+      leguidedurefugie.com
+      GUIDE DU RÉFUGIÉ
+      Mise à jour 10/2018
+      leguidedurefugie.com
+      MODE D’EMPLOI DU GUIDE
+      Chaque chapitre de ce Guide (Statut, Carte de séjour, État civil, Langue française…) s’organise en 4 parties :
+      Ce qu’il faut savoir
+      Ce qu’il faut faire
+      Les essentiels
+      Les liens utiles et les Textes et les lois
+      À partir du sommaire, en cliquant sur le dessin, vous accédez directement au chapitre qui vous intéresse.
+      Retrouvez la bande dessinée complète du Guide du réfugié sur le site Internet.
+      GLOSSAIRE
+      P.A.D.A.
+      Plateforme d’Accueil pour Demandeurs d’Asile
+      P.R.A.H.D.A.
+      Programme Régional d’Accueil et d’Hébergement pour Demandeurs d’Asile
+      C.A.D.A.
+      Centre d’Accueil pour Demandeurs d’Asile
+      A.T.S.A.
+      Accueil Temporaire Service Asile
+      H.U.D.A.
+      Hébergement d’Urgence pour Demandeurs d’Asile
+      C.A.O.
+      Centre d’Accueil et d’Orientation
+      C.P.H.
+      Centre Provisoire d’Hébergement
+      G.U.D.A.
+      Guichet Unique Demande d’Asile
+      O.F.P.R.A.
+      Office Français de Protection des Réfugiés et Apatrides
+      C.N.D.A.
+      Cour Nationale du Droit d’Asile
+      O.F.I.I.
+      Office Français de l’Immigration et de l’Intégration
+      D.I.H.A.L.
+      Délégation Interministérielle à l’Hébergement et l’Accès au Logement
+      D.G.E.F.
+      Direction Générale des Étrangers de France
+      D.D.C.S.
+      Direction Départementale pour la Cohésion Sociale
+      C.C.A.S.
+      Centre Communal d’Action Sociale
+      S.I.A.O.
+      Service Intégré d’Accueil et d’Orientation
+      C.I.R.
+      Contrat d’Intégration Républicaine
+      C.A.F.
+      Caisse d’Allocation Familiale
+      A.D.A.
+      Allocation de Demande d’Asile
+      R.S.A.
+      Revenu de Solidarité Active
+      C.P.A.M.
+      Caisse Primaire d’Assurance Maladie
+      M.S.A.
+      Mutualité Sociale Agricole
+      P.U.Ma.
+      Protection Universelle Maladie
+      C.M.U.C.
+      Couverture Maladie Universelle Complémentaire
+      P.M.I.
+      Protection Maternelle Infantile
+      C.M.S.
+      Centre Médico-Social
+      C.M.P. (I)
+      Centre Médico-Psychologique (Infantile)
+      P.A.S.S.
+      Permanence d’Accès aux Soins et à la Santé
+      M.D.S.I.
+      Maison Départementale de la Solidarité et de l’Insertion
+      P.L.I.E.
+      Plan Local pour l’Insertion et l’Emploi
+      I.A.E.
+      Insertion par l’Activité Économique
+      S.M.I.C.
+      Salaire Minimum Interprofessionnel de Croissance (salaire horaire minimum légal en France)
+      C.D.I.
+      Contrat à Durée Indéterminée
+      C.D.D.
+      Contrat à Durée Déterminée
+      C.D.D.I.
+      Contrat à Durée Déterminée d’Insertion
+      V.A.E.
+      Validation des Acquis par l’Expérience
+      H.L.M.
+      Habitation à Loyer Modéré
+      A.V.D.L.
+      Accompagnement Vers et Dans le Logement
+      F.S.L.
+      Fonds de Solidarité Logement
+      A.P.L.
+      Aide Personnalisée au Logement
+      C.E.S.E.D.A.
+      Code de l’Entrée et du Séjour des Étrangers et Demandeurs d’Asile
+      SOMMAIRE
+      00
+      STATUT ................................................................................... page 06
+      (Obtention - OFPRA - Recours…)
+      01
+      CARTE DE SÉJOUR ................................................... page 11
+      (Préfecture - Contrat d’Intégration républicaine - Ofii…)
+      02
+      ÉTAT CIVIL .......................................................................... page 16
+      (Fiche famille - Livret de famille - Actes état civil…)
+      03
+      LANGUE FRANÇAISE ............................................. page 21
+      (Évaluation - Apprentissage…)
+      04
+      AIDES FINANCIÈRES .............................................. page 26
+      (CAF- Allocations familiales - RSA)
+      05
+      BANQUE ................................................................................ page 33
+      (Livret - Compte courant)
+      06
+      LOGEMENT -DOMICILIATION ................... page 38
+      (CCAS- Associations - HLM - FSL…)
+      07
+      EMPLOI .................................................................................. page 45
+      (Diplôme - Formation - Emploi…)
+      08
+      SANTÉ ...................................................................................... page 52
+      (Sécurité sociale - Soins…)
+      09
+      MOBILITÉ ............................................................................ page 57
+      (Passeport- Permis- Bus-Train-Schengen…)
+      10
+      UNITÉ FAMILIALE ...................................................... page 62
+      (Réunification - Regroupement…)
+      11
+      NATURALISATION ..................................................... page 67
+      12
+      L’INTÉGRATION
+      VUE PAR LES RÉFUGIÉS ..................................... page 72
+       00
+      STATUT
+      (OBTENTION -OFPRA -RECOURS…)
+      L’obtention du statut de réfugié, de protégé subsidiaire ou d’apatride est le début d’une nouvelle vie avec des droits et des obligations. C’est l’entrée réelle dans la société française et la rupture administrative et juridique avec votre pays d’origine. Il faut s’y préparer, c’est le début d’un long et difficile parcours, fait d’étapes administratives et de démarches concrètes, qui est difficile.
+      STATUT
+      CE QU’IL FAUT SAVOIR
+      
+      Quand vous avez le statut, le récépissé de protection internationale ou de demande de carte de séjour vous autorise à travailler et ouvre vos droits civils et sociaux (sauf pour le logement social, le titre de séjour est obligatoire).
+      Entant que réfugié, vous avez droit à une carte de résident de 10 ans, renouvelable de plein droit.
+      En tant que protégé subsidiaire, vous avez droit à une carte temporaire de 1 an, renouvelable pour des durées de 2 ans, avec la mention « vie privée et familiale ».
+      Si vous êtes apatride, c’est une carte temporaire de 1 an renouvelable.
+      Protection subsidiaire, « type 1 » et « type 2 » : si l’Ofpra vous qualifie de « type 1 », il établit vos actes d’état civil. S’il utilise le terme de « type 2 », vous devez demander les documents à l’ambassade de votre pays d’origine. En cas de refus, écrivez à l’Ofpra pour une « requalification » en protection de « type 1 » avec la lettre de l’ambassade.
+      Vos enfants mineurs arrivés avec vous ou ensuite grâce à l’unité familiale ne pourront demander un titre de séjour qu’à leur majorité, à 18 ans.
+      Si vous êtes protégé subsidiaire mais que vous estimez devoir être reconnu comme réfugié, un recours est possible auprès de la Cour Nationale du Droit d’Asile (CNDA) dans les 30 jours après la date de réception du statut par courrier. Vous pouvez bénéficier d’un avocat (aide juridictionnelle) avec une prise en charge totale ou partielle par l’État. Contactez le Bureau d’Aide Juridictionnelle (BAJ) de la CNDA qui, si accord, en nommera un.
+       STATUT
+      CE QU’IL FAUT FAIRE
+      Dès l’obtention de votre statut (Ofpra ou CNDA), vous allez à la préfecture de votre domicile pour changer votre récépissé de demandeur d’asile en récépissé de réfugié avec la mention « reconnu réfugié ; autorise son titulaire à travailler ». Ou, pour les protégés subsidiaires, avec la mention « décision favorable de l’Ofpra/de la Cnda en date du …, autorise son titulaire à travailler ».
+      C’est aussi le moment de remplir votre Fiche familiale de référence.
+      Cette demande de récépissé déclenche votre convocation par l’Office Français de l’Immigration et de l’Intégration (Ofii) à la visite médicale obligatoire et au Contrat d’Intégration Républicaine (CIR). Si vous ne recevez pas cette convocation dans le mois qui suit votre demande, présentez vous à l’Ofii.
+      L’Ofpra peut mettre fin à votre statut si vous y renoncez, si vous avez obtenu la nationalité française, si vous revenez volontairement dans votre pays d’origine, si vous faites toute demande auprès du consulat, de l’ambassade ou de l’administration de votre pays d’origine, si les raisons de votre asile n’existent plus. Un recours est possible devant la CNDA puis le Conseil d’État. La perte du statut de réfugié(e) n’entraîne pas la perte de la carte de résident mais, à son renouvellement, une demande de séjour en tant que résident de nationalité étrangère. Pour les protégés subsidiaires, elle entraîne la perte de la carte de séjour.
+      LES ESSENTIELS
+      A l’obtention du statut, l’Allocation de Demande d’Asile (ADA) s’arrête à la fin du mois qui suit le mois où vous avez reçu votre statut (exemple : à la fin juin si vous avez reçu le courrier de votre statut en mai).
+      Avec votre récépissé de protection, vous ouvrez de nouveaux droits sociaux : RSA, carte vitale, allocations familiales…
+      En tant que réfugié, l’Ofpra est votre mairie et votre administration de référence. Vous devez l’informer de tous les changements importants de votre vie (mariage, naissance, divorce, décès…) par courrier avec accusé de réception en rappelant toujours votre numéro de dossier. Les changements d’adresse peuvent se faire sur le site Internet de l’Ofpra.
+      Vous pouvez avoir des échanges réguliers avec votre famille restée dans votre pays d’origine (courriers, téléphone, e-mails, rencontres en France ou dans un autre pays que votre pays d’origine), vous ne risquez pas de perdre votre statut.
+      LES TEXTES ET LES LOIS
+      Les articles du CESEDA pour la carte de séjour sont les articles L.314-11, 8°(Réfugié) et L.313-11 et 13 (Protection subsidiaire). Pour le retrait ou la fin du statut : L712-3
+      LIENS UTILES
+      Retrouvez toutes les informations sur le statut sur le site de l’Ofpra (dont le service des démarches en ligne) : 
+      www.ofpra.fr
+      Si vous renoncez à votre statut et souhaitez retourner dans votre pays d’origine, l’Ofii propose un soutien financier, l’Aide au Retour Volontaire (ARV). Pour le document de renonciation à la protection internationale :
+      www.ofpra.gouv.fr/sites/default/files/atoms/
+      files/notice_dinformation_et_formulaire_de_renonciation.pdf
+      SOMMAIRE
+       01
+      CARTE DE SÉJOUR
+      (PRÉFECTURE -CONTRAT D’INTÉGRATION RÉPUBLICAINE - OFII…)
+      Les réfugiés statutaires ont droit à une carte de résident en France d’une durée de dix ans, les protégés subsidiaires et apatrides à une carte de séjour temporaire de un an renouvelable. Pour avoir ce titre de séjour, une visite médicale à l’Ofii (Office Français de l’Immigration et de l’Intégration) est obligatoire. La signature du
+      « Contrat d’Intégration Républicaine » (CIR) ne l’est pas mais elle est fortement conseillée.
+      CARTE DE SÉJOUR
+      CE QU’IL FAUT SAVOIR
+      Dans certaines préfectures, vous pouvez demander votre carte de résident ou de séjour dès la signature du CIR mais dans d’autres préfectures, il faut attendre que l’Ofpra ait reconstitué et envoyé vos documents d’état civil. Ces délais peuvent être plus ou moins longs.
+      Vous devez avoir une adresse personnelle à l’hôtel (attestation de l’hôtel et facture du dernier mois), chez un propriétaire (attestation, copie de la carte d’identité, copie de la taxe foncière) ou chez un locataire (attestation, carte d’identité, copie de la facture de gaz ou autre…). La domiciliation par une association est reconnue mais avec plus de difficultés.
+      La visite médicale est obligatoire pour les mineur(e)s de plus de 16 ans entrés régulièrement en France.
+      Parfois, des erreurs sont commises sur les documents de séjour (récépissé, carte de séjour ou titre de voyage). Si vous les constatez, demandez les changements en préfecture.
+      LE « CONTRAT D’INTÉGRATION RÉPUBLICAINE »(CIR)
+      Pour les réfugiés et protégés subsidiaires, la signature du CIR n’est pas obligatoire mais elle est fortement conseillée. Elle permet de bénéficier des programmes d’intégration et d’obtenir sans difficultés son titre de séjour.
+      CARTE DE SÉJOUR
+      CE QU’IL FAUT FAIRE
+      Quand vous obtenez le récépissé de protection, la préfecture informe l’Ofii qui vous convoque pour la visite médicale (bilan, radio des poumons, vaccins) et la signature du CIR. Il est conseillé d’amener tous les examens que vous possédez.
+      Après un entretien avec le représentant de l’Ofii, vous signez pour une durée de 1 an le CIR qui comprend une session « Principes, valeurs et institutions de la République française » (6 heures), une session « Vivre et accéder à l’emploi en France » (6 heures) et un test de français.
+      Suivant votre niveau de français, une formation obligatoire de 50, 100 ou 200 heures vous est prescrite afin d’atteindre le niveau A1 et obtenir, après examen, le Diplôme Initial de Langue Française (DILF). Vous pouvez ensuite demander à l’Ofii de bénéficier d’une formation supplémentaire pour atteindre le niveau A2. En cas d’empêchement pour les formations, écrivez à l’Ofii par courrier recommandé en expliquant vos raisons.
+      Si votre famille vous a rejoint, elle recevra une convocation pour signer le Contrat d’Intégration Républicaine pour la Famille (CIRF).
+      Si vous déménagez, vous devez demander un changement d’adresse sur votre titre de séjour auprès de la préfecture. Si vous faites une demande de titre de voyage, vous devez avoir la même adresse que sur votre titre de séjour. Chaque changement d’adresse sur la carte a un coût de frais de dossier de 19 euros.
+      LES ESSENTIELS
+      Pour les protégés subsidiaires, la protection internationale n’apparaît pas sur la carte. Dans vos relations avec les administrations, ajoutez une copie de la décision de l’Ofpra ou de la CNDA.
+      Timbre fiscal et Taxe : les réfugiés et les protégés subsidiaires paient un timbre fiscal de 19 euros pour leur premier titre de séjour mais, à la différence des autres étrangers, ils ne paient pas la taxe sur le premier titre de séjour.
+      Le renouvellement de la carte est à demander en préfecture 2 mois avant la date de fin de votre titre de séjour. Prévoyez une certaine somme d’argent (En 2017 : 269 euros, timbre fiscal et taxe). Les apatrides, après 3 ans de résidence, peuvent demander une carte de 10 ans.
+      Avec le titre de séjour, vous pouvez ouvrir un compte en banque, changer votre permis de conduire, accéder au logement social et demander un titre de voyage.
+      LES TEXTES ET LES LOIS
+      Pour connaître en détail le contenu du CIR (épreuves orales et écrites de langue française et le contenu des journées de formation), voir la loi du 16/03/2016 :
+      www.immigration.interieur.gouv.fr/Accueil-et-accompagnement/Le-parcours-personnalise-d-integration-republicaine
+      LIENS UTILES
+      Le livret d’information PDF « Venir vivre en France », à destination des étrangers, en plusieurs langues est à télécharger
+      www.immigration.interieur.gouv.fr/Accueil-et-accompagnement/Le-livret-d-information-Venir-vivre-en-France
+      Pour avoir plus d’informations sur les titres de séjour, vous pouvez consulter, entre autres, les sites des associations.
+      La Cimade www.lacimade.org
+      Forum réfugié www.forumrefugies.org
+      Le Gisti www.gisti.org
+      France Terre d’asile www.france-terre-asile.org
+      SOMMAIRE
+      02
+      ÉTAT CIVIL
+      (FICHE FAMILIALE -LIVRET DE FAMILLE -ACTES D’ÉTAT CIVIL…)
+      L’Ofpra est la Mairie des réfugiés, des protégés subsidiaires et des apatrides, elle établit leurs documents d’état civil à partir des documents originaux administratifs en possession des réfugiés et à partir des déclarations faites lors de la demande d’asile.
+      Ces documents de l’Ofpra remplacent les originaux pour obtenir les titres de séjour et servir dans les démarches administratives.
+      ÉTAT CIVIL
+      CE QU’IL FAUT SAVOIR
+      Les documents d’état civil que délivre l’Ofpra sont les actes de naissance, de mariage, de décès et le livret de famille (pour les mariages célébrés à l’étranger et pour les mineurs nés à l’étranger). Pour un mariage ou une naissance d’un enfant en France, les mairies qui les ont enregistrés délivrent l’acte de mariage, le livret de famille et l’acte de naissance. L’Ofpra établit également le « certificat administratif » (pour les mineurs protégés) et le « certificat de coutume » (pour pouvoir se marier ou se pacser).
+      La « fiche familiale de référence » est envoyée par l’Ofpra après l’obtention de votre statut. Elle permet de constituer votre état civil complet. Vous devez la renvoyer remplie à l’Ofpra par courrier recommandé avec accusé de réception avec tous vos documents originaux (carte d’identité, passeport, acte de naissance, certificat de mariage, y compris les mariages religieux et coutumiers dans le pays d’origine…).
+      Si vous êtes seul en France et que votre époux(se) et vos enfants se trouvent encore dans votre pays d’origine, l’Ofpra n’inscrit dans le livret de famille que votre époux(se) et vous-même. Vos enfants yseront enregistrés uniquement lorsqu’ils seront en France.
+      Vous pouvez téléphoner à l’Ofpra, à la Division protection, au 01 58 68 10 10.
+      Soyez attentifs dans vos déclarations sur la fiche familiale de référence (orthographe exacte des noms, dates de naissance, membres de la famille…) car ce sera important pour la réunification familiale et d’autres démarches. Les erreurs sont complexes à rectifier.
+       LE PERMIS DE CONDUIRE
+      Attention, n’envoyez pas votre permis de conduire original à l’Ofpra avec la fiche familiale de référence car vous en aurez besoin pour la demande d’échange de permis à la préfecture.
+      ÉTAT CIVIL
+      CE QU’IL FAUT FAIRE
+      L’Ofpra est votre administration de référence. Vous devez l’informer, par courrier, des changements qui concernent votre état civil.
+      Les délais de délivrance d’actes civils peuvent être très longs. Cela peut avoir des conséquences sur l’obtention du titre de séjour pour le maintien de vos droits sociaux, RSA, Carte vitale, logement social... Il faut relancer régulièrement la division protection de l’Ofpra (fax, courrier) en se faisant éventuellement aider par une association.
+      Mariage (en France) : les règles sont les mêmes que pour les Français, vous publiez les bans à la mairie de votre domicile et vous informez l’Ofpra après le mariage. Il en est de même pour le Pacte Civil de Solidarité (PACS). En cas de divorce, vous devez demandez à l’Ofpra les documents nécessaires avant la démarche au tribunal de grande instance de votre domicile (avec un avocat).
+      Mariage (à l’étranger, en dehors du pays d’origine) : à votre retour en France, vous envoyez à l’Ofpra le « certificat de capacité de mariage » (à retirer à l’ambassade ou le consulat de France du pays) ou l’attestation de publication des bans à la mairie de votre domicile, une preuve de votre voyage (billet de train, d’avion…), une copie conforme de l’acte de mariage avec une version en français par un traducteur assermenté. En cas de divorce avec une procédure à l’étranger, le Tribunal de grande instance de Paris devra ensuite le déclarer conforme.
+      LES ESSENTIELS
+      Quand le premier état civil est établi, vous pouvez faire les demandes d’actes d’état civil de moins de 3 mois dont vous avez besoin pour des démarches administratives sur le site Internet de l’Ofpra (démarches en ligne).
+      Si un événement (mariage, naissance, décès…) a eu lieu dans un autre pays que la France ou votre pays d’origine, vous devez demander ces documents à l’ambassade ou au consulat du pays en question.
+      Mariage de personnes de même sexe : la loi française permet le mariage, ou le PACS, de personnes de même sexe.
+      En cas de mariage avec un(e) étranger(ère), ce(tte) dernier(ère) doit publier les bans auprès de son consulat.
+      LES TEXTES ET LES LOIS
+      Article 25-3 de la convention de Genève : « Les documents ou certificats ainsi délivrés remplaceront les actes officiels délivrés à des étrangers par leurs autorités nationales ou par leur intermédiaire, et feront foi jusqu’à preuve du contraire ». A lire aussi les articles 12, 25 et 27.
+      LIENS UTILES
+      Plusieurs documents, dont le formulaire d’inscription d’un mariage à l’étranger, sont téléchargeables sur le site de l’Ofpra : www.ofpra.gouv.fr
+      En cas d’erreur dans l’état civil, utilisez le document Cerfa n°11531*01 (« Demande de rectification d’une erreur ou d’une omission matérielle ») pour l’adresser à Monsieur le Procureur de la République près le tribunal de grande instance de Paris. Joignez la copie intégrale de l’acte de l’Ofpra à rectifier, les documents prouvant l’erreur, une copie de votre pièce d’identité. Ce document Cerfa est à télécharger sur Internet :
+      www.formulaires.modernisation.gouv.fr/gf/showFormulaireSignaletiqueConsulter.do?numCerfa=11531
+      (L’Ofpra pourrait dans le futur gérer lui-même les rectifications.)
+      SOMMAIRE
+      03
+      LANGUE FRANÇAISE
+      (ÉVALUATION -APPRENTISSAGE…)
+      Apprendre le français est essentiel dans la vie quotidienne pour mieux comprendre les démarches administratives, avoir un emploi et un logement, défendre ses droits et faciliter son entrée dans la société. C’est aussi un droit auquel la France doit répondre : son rôle en tant que société d’accueil est de favoriser l’intégration des réfugiés, notamment par l’apprentissage du français. Le réfugié doit profiter de toutes les opportunités pour parler et pratiquer le français, c’est indispensable.
+      LANGUE FRANÇAISE
+      CE QU’IL FAUT SAVOIR
+      Après le test de français (oral et écrit) du CIR, l’Ofii vous oriente, s’il le juge nécessaire, vers un organisme de formation linguistique pour des durées de 50, 100 ou 200 heures. Vous ne payez rien.
+      Si votre français est déjà au niveau A1 lors du test, l’Ofii peut vous donner une « attestation de dispense de formation linguistique ». Vous pouvez demander une formation de niveau A2 si besoin.
+      Le DEFLE (Département d’études du français et des langues étrangères) des universités françaises permet de passer les 6 niveaux de langue reconnus (du A1 au C2) avec la remise d’un diplôme. Pour s’inscrire au DEFLE, il faut avoir le baccalauréat (BAC) ou équivalent, ou prouver que votre métier dans votre pays d’origine nécessitait le baccalauréat. Vous bénéficiez d’une réduction sur les coûts d’inscription et certaines universités réservent des places pour les réfugiés. Des cours du soir sont aussi possibles, pour ceux qui n’ont pas le BAC, mais ils n’aboutissent pas à un diplôme de fin d’études.
+      Formations sur Internet : certaines associations et organismes ont conçu des outils en ligne pour progresser en français, ils sont en général accessibles gratuitement. L’écoute des médias en français est également une façon efficace pour s’imprégner de la langue.
+      L’ÉVALUATION DU NIVEAU DE LANGUE
+      La connaissance et la pratique de la langue sont évaluées selon des critères européens et se classent en 6 niveaux : A1 et A2, B1 et B2, C1 et C2.
+      Le premier niveau A1 est celui visé par le CIR, il s’agit du minimum et il est préférable de parvenir aux niveaux A2 puis B1 et B2 dès que possible. Le niveau B1 est par exemple nécessaire pour la naturalisation, le niveau B2 pour vous inscrire à l’université. C’est un réel avantage pour la recherche d’emploi.
+      LANGUE FRANÇAISE
+      CE QU’IL FAUT FAIRE
+      Le niveau A1 (oral et écrit) est celui à atteindre dans le cadre du CIR pour obtenir le diplôme initial de langue française (DILF). Si vous échouez au DILF, l’Ofii peut, sur demande, financer une seconde formation pour le repasser. Après le DILF, une autre formation existe pour atteindre le niveau A2 (avec un financement de l’Ofii).
+      Le CIR est le principal dispositif d’apprentissage du français destiné aux réfugiés mais il y a d’autres dispositifs ouverts aux réfugiés :
+      pôle emploi et mission locale :
+      formations linguistiques (compétences clés, Insup…),
+      services sociaux, préfectures, régions et entreprises (formation professionnelle),
+      conseil départemental (alphabétisation, lutte contre l’illetrisme et FLE),
+      Centre communal d’action social (CCAS), associations ou organismes de formation.
+      Des conditions sont nécessaires : être demandeur d’emploi, bénéficiaire du RSA ou de l’allocation parent isolé, résider dans la commune en question, être travailleur, jeune…
+      Renseignez-vous auprès de chaque administration ou organisme, vous y avez droit.
+      Le français langue étrangère (FLE) est également enseigné dans différentes écoles et structures mais son coût est élevé si vous n’avez pas un financement de la Région, de Pôle emploi, des mairies, des associations…
+      Selon leur âge, pour apprendre le français, vos enfants peuvent bénéficier de classes spécifiques. Pour le primaire, entre 6 et 11 ans, avec une orientation par votre mairie. Pour le collège, entre 11 et 15 ans, par le collège et le CASNAV. Pour le lycée, entre 16 et 18 ans, par un CIO (Centre d’Information et d’Orientation).
+      LES ESSENTIELS
+      Vos enfants apprennent le français grâce à la scolarisation qui est obligatoire entre 6 et 16 ans.
+      Vous êtes prioritaire en tant que réfugié pour les formations de l’Ofii si vous signez le CIR mais aussi lorsque vous demandez la naturalisation car le niveau B1 est obligatoire pour devenir Français.
+      Toutes les occasions de parler français sont bonnes : des associations et des centres sociaux culturels organisent des cafés d’échanges linguistiques ou des cours de discussion. Faire du bénévolat dans une association ou participer à des événements dans votre quartier vous donne aussi la possibilité d’améliorer votre langue et de rencontrer des Français. Il est essentiel de pratiquer le français en dehors des cours.
+      LES TEXTES ET LES LOIS
+      Pour l’État français et pour l’Europe, apprendre la langue du pays est un droit et une nécessité, c’est le passage obligé pour l’intégration. Ils s’engagent à développer des formations pour les réfugiés sur tout le territoire national.
+      Pour savoir tout ce qui existe, en plusieurs langues (avec des exercices pour tous les diplômes, les tests, etc.), consulter : www.ciep.fr
+      LIENS UTILES
+      L’association AFPA propose par exemple un « Mooc FLE » gratuit sur Internet pour le niveau A1 (avec des cours de langage professionnel) :
+      https://mooc.afpa.fr
+      D’autres organismes ont repris ce Mooc FLE pour l’appliquer au niveau A2, par exemple l’Alliance française :
+      https://mooc-francophone.com/cours/mooc-cours-de-francais-langue-etrangere
+      https://www.fun-mooc.fr/	
+      L’Europe a développé dans le cadre d’Erasmus des outils Internet gratuits pour ceux qui apprennent les langues européennes dont une plateforme - Online Linguistic Support (OLS) :
+      http://erasmusplusols.eu/fr
+      SOMMAIRE
+      04
+      AIDES FINANCIÈRES
+      (CAF - ALLOCATIONS FAMILIALES - RSA)
+      Les réfugiés âgés de plus de 25 ans peuvent bénéficier du Revenu de solidarité active (RSA) et comme toute personne ayant des enfants et vivant en France, ils ont droit aux allocations familiales et à différentes aides. Attention, ces droits existent mais en pratique, malheureusement, ils ne sont pas appliqués d’une façon égalitaire partout en France. Il faut insister, se faire aider par une association ou un service social et ne pas se décourager pour obtenir ses droits.
+      AIDES FINANCIÈRES/CAF
+      CE QU’IL FAUT SAVOIR
+      Les prestations sociales de la Caisse d’Allocations Familiales (CAF) sont soumises à des conditions : ressources, nombre et âge des enfants…
+      Vous devez résider en France (une adresse dans un CCAS ou une association est suffisante) de même que vos enfants (naissance en France, réunification familiale).
+      Voici la liste des aides financières de la CAF : Allocations familiales à partir de votre deuxième enfant.
+      Prestation d’accueil du jeune enfant (PAJE) dès votre premier enfant jusqu’à ses 3 ans : prime à la naissance ou à l’adoption, allocation de base...
+      Allocation de soutien familial, ASF (dite parent isolé), vous vivez seul(e) en France avec des enfants. La CAF n’est pas autorisée à vous demander des informations sur votre conjoint resté dans votre pays d’origine.
+      D’autres aides existent : allocation de rentrée scolaire, complément familial (au moins 3 enfants), enfant handicapé ou malade, au déménagement (famille avec enfants mineurs)…
+      Les conseils départementaux et les mairies proposent des aides pour les personnes en difficulté.
+      En cas de handicap, il existe l’allocation adulte handicapé (AAH).
+      LES DOCUMENTS DE VOS ENFANTS
+      Qu’ils soient venus avec vous ou après, vous devez fournir les passeports et actes de naissance originaux (ou en copies) traduits, ou le livret de famille. Certaines CAF réclament le livret de famille de l’Ofpra avec l’enregistrement des enfants. Vous le fournirez quand vous l’aurez.
+      AIDES FINANCIÈRES/CAF
+      CE QU’IL FAUT FAIRE
+      L’ouverture à la banque d’un compte courant ou livret A est indispensable. Vous devez aussi faire une déclaration de revenus sur les deux dernières années ou une déclaration sur l’honneur si vous n’avez pas d’avis d’imposition. L’Allocation temporaire d’attente (ATA) est comptée comme revenu, pas l’Allocation pour demandeur d’asile (ADA).
+      Les documents nécessaires :
+      votre récépissé de protection internationale,
+      une copie de la décision de l’Ofpra ou de la CNDA,
+      le justificatif des trois derniers mois de ressources (salaire, formations professionnelles, ATA…),
+      un justificatif de domicile,
+      un relevé d’identité bancaire (RIB),
+      la CAF demande le livret de famille reconstitué par l’Ofpra. Si vous ne l’avez pas encore, demandez une attestation avec la composition de votre famille aux CADA, PADA et CPH, à l’Ofii de votre région ou à la préfecture (Circulaire CNAF n°2011-016 du
+      2 novembre 2011). Attention, ne demandez aucun
+      document à votre pays d’origine.
+      La « recognition des droits » (spécifique aux réfugiés), permet de bénéficier de vos prestations familiales à la date d’entrée de vos enfants en France (jusqu’à deux ans en arrière de la date de réception du certificat médical de l’Ofii par la CAF). On appelle aussi cela la « rétroactivité ». Avec le formulaire, vous devez écrire une lettre pour demander le versement rétroactif des prestations avec les documents prouvant la date d’arrivée de vos enfants.
+      AIDES FINANCIÈRES/RSA
+      CE QU’IL FAUT SAVOIR
+      Attention, votre Allocation pour demandeur d’asile (ADA) s’arrête à la fin du mois qui suit l’obtention de votre statut. Demandez le RSA dès que vous avez le récépissé de protection internationale (récépissé + copie de la décision de l’Ofpra ou CNDA). La CAF n’a pas besoin de votre titre de séjour (circulaire n°2010-015 du 15 décembre 2010 et circulaire CNAF n°2006-017 du 12 septembre 2006).
+      Le Revenu de solidarité active (RSA) concerne les personnes sans emploi, sans allocations chômage ou avec de faibles ressources. Son montant dépend de votre situation (en couple ou « parent isolé », célibataire, séparé, veuvage), du nombre de vos enfants et des ressources du foyer (activité, autres aides…).
+      Le RSA est financé par les conseils départementaux et l’État. Il est versé par la CAF. Pour connaître les montants : http://rsa-revenu-de-solidarite-active.com
+      Dans le cadre du RSA, la Prime d’activité est versée lorsque vous avez trouvé un emploi (salariés, travailleurs indépendants) suivant le niveau du salaire et de vos ressources.
+      Pour bénéficier du RSA, vous devez vivre en France et avoir une adresse (même une domiciliation).
+      LES JEUNES DE MOINS DE 25 ANS
+      Entre 18 et 25 ans, vous n’avez pas droit au RSA sauf si vous êtes parent isolé avec un ou plusieurs enfants qui sont nés ou vont naître (RSA jeune). Inscrivez-vous à la mission locale, elle peut vous aider : aide d’urgence, « garantie jeune », insertion professionnelle…
+      AIDES FINANCIÈRES/RSA
+      CE QU’IL FAUT FAIRE
+      La demande de RSA est à déposer ou à poster à la CAF de votre département (formulaire RSA + les mêmes documents que pour les allocations).
+      La CAF vous informe par courrier de l’accord du Conseil départemental (RSA à la date du dépôt du dossier à la CAF) puis elle vous donne votre numéro d’allocataire (6 chiffres et une lettre) avec un code provisoire que vous devez changer en code personnel à 8 chiffres. Ce code vous permet d’aller sur le site Internet de la CAF pour suivre vos paiements, faire vos déclarations trimestrielles…
+      Attention, vous devez déclarer tous les trois mois (déclaration trimestrielle) vos revenus qui ne proviennent pas de la CAF : salaires, formation professionnelle… Un accueil sans rendez-vous existe dans les CAF, avec un poste informatique et un agent qui peut vous aider à l’utiliser.
+      Le RSA est un contrat. Le Conseil départemental vous oriente par courrier vers un référent RSA à Pôle emploi pour un Projet personnalisé d’accès à l’emploi (PPAE) ou un référent RSA dans une association ou un service social (MDSI, CCAS) pour un contrat d’engagement réciproque (CER).
+      FIN DE L’ALLOCATION TEMPORAIRE D’ATTENTE (ATA)
+      Destinée aux protégés subsidiaires et aux apatrides demandeurs d’emploi ayant des revenus inférieurs au RSA, l’ATA a été supprimée depuis le 1er septembre 2017 (les réfugiés n’y avaient pas droit). Ceux qui en bénéficiaient jusqu’à cette date continueront à la percevoir (ATA + complément RSA = RSA à taux plein).
+      LES ESSENTIELS
+      Si votre conjoint et/ou vos enfants sont restés dans votre pays d’origine ou ailleurs (hors Union européenne), vous devez le déclarer à la CAF en précisant « séparation géographique ».
+      Pour les aides au logement, (voir le chapitre 06 Domiciliation- Logement.) Quand vous percevez une aide au logement, un forfait (48 euros) est déduit de votre RSA. De même si vous êtes logé gratuitement.
+      Tous les 3 mois, dans votre « déclaration trimestrielle » pour le RSA (site Internet de la CAF ou formulaire par courrier), signalez tout changement de situation dans votre foyer (travail, naissance, déménagement…).
+      Mais n’attendez pas la déclaration trimestrielle pour informer la CAF d’une perte d’emploi, d’un contrat de travail…
+      Des associations caritatives proposent différents types d’aides, alimentaires et financières, en cas d’urgence. Renseignez- vous dans votre ville.
+      LES TEXTES ET LES LOIS
+      En cas de refus d’une prestation par la CAF, demandez une décision écrite. Recours possibles : médiateur de la CAF/Commission des recours à l’amiable (CRA) de la CAF/Tribunal des affaires de sécurité sociale (TASS). Demandez conseil à une association (délais et procédures).
+      En cas de refus ou suspension du RSA : « recours gracieux » au Conseil départemental dans les deux mois qui suivent puis, en cas de rejet, au tribunal administratif dans les deux mois suivants. Consultez le site de la CAF pour connaître les motifs de radiation.
+      Recognition des droits (CAF) : Circulaire CNAF n°2008- 030 du 29/10/2008, lettre-circulaire CNAF n°2013-116 du 23/07/2013, note de service PF 35/2008 AC 34/2008 et article R.348-4 du CASF.
+      LIENS UTILES
+      Pour toutes les aides, allez à la CAF ou consultez son site Internet :
+      www.caf.fr
+      Des services sociaux ou des associations peuvent vous aider à utiliser l’application Internet de la CAF et d’autres, par exemple l’association Emmaüs avec son service Emmaüs Connect :
+www.emmaus-connect.org
+      SOMMAIRE
+      05
+      BANQUE
+      (LIVRET -COMPTE COURANT - TRANSFERT D’ARGENT…)
+      Avoir un compte bancaire est indispensable pour percevoir les prestations sociales, pour l’emploi, le logement et la vie quotidienne. La loi française garantit ce que l’on appelle le « droit au compte » : toute personne qui habite en France, dont les réfugiés, a le droit d’ouvrir un compte courant (et pas seulement un livret A).
+      BANQUE
+      CE QU’IL FAUT SAVOIR
+      La loi française garantit à toute personne résidant en France l’ouverture d’un compte courant dans une banque nationale, régionale ou à la Banque postale. Peu importe vos ressources et votre situation.
+      Ouvrir un compte est un contrat entre la banque et vous : vous pouvez choisir votre banque et la banque choisir ses clients. Elle peut ainsi vous refuser l’ouverture du compte sans avoir à donner de raisons. Mais la loi l’oblige à vous signifier ce refus par écrit. Vous pouvez ensuite saisir la Banque de France (voir ce qu’il faut faire).
+      Vous pouvez essayer différentes banques, sans garantie de résultat.
+      Le Code monétaire et financier prévoit douze services gratuits que doit proposer la banque (services bancaires de base, SBB) dont les relevés d’identité bancaire (RIB), un changement d’adresse par an, la domiciliation, l’encaissement de chèques et les virements bancaires, les paiements par prélèvements, dépôts et retraits d’espèces au guichet, la consultation à distance du compte, une carte bancaire avec une autorisation de la banque pour chaque utilisation…
+      LIVRET A ET COMPTE COURANT
+      Le livret A (il existe un accord avec la Banque postale pour les réfugiés) est un compte d’épargne qui ne sert normalement pas aux opérations courantes même s’il fonctionne pour percevoir vos allocations sociales ou l’encaissement des chèques. Il ne permet de prélèvements que pour le loyer, les impôts, l’eau, l’électricité et le gaz. Avec la carte de livret A, vous pouvez faire des retraits mais pas de paiements. Lecompte courant permet toutes les opérations, il est indispensable : prélèvements téléphone, internet, cartes de transport, paiements avec la carte (Visa, Mastercard, Carte bleue) …
+      BANQUE
+      CE QU’IL FAUT FAIRE
+      Pour ouvrir un compte courant, selon les textes réglementaires, vous n’avez besoin que d’un justificatif d’identité avec votre photographie (titre de séjour, récépissé de titre de séjour ou de demande d’asile) et d’un justificatif de domicile (une domiciliation par un organisme ou une association est valable). Dans les faits, la banque peut exiger d’autres documents : bulletins de salaires, attestation RSA, contrat de travail…
+      Présentez à la banque une attestation d’absence de compte que vous avez écrite (à la main ou sur ordinateur) : 
+      « Attestation d’absence de compte
+      Je, soussigné (nom, prénom), demeurant (votre adresse), atteste sur l’honneur que je ne dispose d’aucun compte bancaire. Attestation établie conformément aux dispositions de l’article L312-1 du code monétaire et financier.
+      Fait à (lieu), le (date) (avec votre signature). »
+      Si elle vous ouvre un compte, la banque doit vous remettre un contrat, une convention de compte.
+      Si la banque refuse, écrivez en recommandé avec accusé de réception ou rendez vous directement à la Banque de France la plus proche de chez vous avec les documents suivants : une lettre où vous expliquez ne pas avoir de compte, la lettre de refus de la banque, votre pièce d’identité et un justificatif de domicile. La Banque de France désigne ensuite une banque qui sera obligée de vous ouvrir un compte.
+      LES ESSENTIELS
+      Ne soyez pas intimidés par l’attitude ou les paroles de certains employés dans les banques, ouvrir un compte est un droit.
+      Le droit au compte est valable pour les personnes mais aussi pour les entreprises, les sociétés, les commerçants, les professions libérales…
+      Des banques proposent l’ouverture de comptes en ligne. Des établissements financiers ont aussi créé des comptes sans conditions (comme le compte Nickel chez les buralistes), avec carte de retrait et de paiement, possibilité de recevoir et faire des virements… Attention, on ne peut pas y encaisser de chèques et certains opérateurs téléphoniques refusent d’ouvrir un abonnement avec ces comptes.
+      LES TEXTES ET LES LOIS
+      Loi du 29 juillet 1998, « droit au compte bancaire » :
+      « Toute personne physique résidant en France, dépourvue d’un compte de dépôt, a droit à l’ouverture d’un tel compte dans l’établissement de crédit de son choix ou auprès des services financiers de La Poste ou du Trésor public ».
+      Article L312-1 du Code monétaire et financier :
+      « L’établissement de crédit qui a refusé l’ouverture d’un compte remet systématiquement et sans délai au demandeur une attestation de refus d’ouverture de compte et informe le demandeur que celui-ci peut demander à la Banque de France de lui désigner un établissement de crédit pour lui ouvrir un compte ».
+      Sur les informations que peut demander le banquier pour l’ouverture du compte, voir l’article R.312-2 du code monétaire et financier.
+      LIENS UTILES
+      Lettre type pour demander à la Banque de France de désigner une banque après un refus :
+https://www.conso.net/content/vous-navez-plus-de-compte-bancaire-vous-demandez-lintervention-de-la-banque-de-france
+      SOMMAIRE
+      06
+      LOGEMENT - DOMICILIATION
+      (CCAS-ASSOCIATIONS -HLM -FSL…)
+      Les réfugiés ont les mêmes droits d’accès au logement que les Français. Si le Dispositif National d’Accueil (DNA) leur est réservé, avec les Centres d’accueil pour demandeurs d’asile (CADA) et les Centres Provisoires d’Hébergement (CPH), le nombre de places est très insuffisant. Dans les faits, se loger est difficile. Les délais sont longs pour un logement social (Habitation à Loyer Modéré, HLM) et le logement privé est souvent inaccessible malgré les aides et des soutiens.
+      LOGEMENT
+      CE QU’IL FAUT SAVOIR
+      Si vous n’avez pas de logement, demandez une domiciliation dans une association ou un CCAS car une boîte postale est nécessaire pour vos démarches. Vous devez relever votre courrier au moins une fois par semaine.
+      En France, les logements privés dans les grandes villes sont chers et difficiles à trouver. Les propriétaires ou les agences immobilières demandent des garanties : contrats de travail à durée indéterminée, revenus élevés, cautions… Vous pouvez aussi être confronté à des discriminations et des méfiances.
+      Si vous êtes en CADA, vous bénéficiez d’une aide pour trouver un logement et accomplir d’autres démarches mais vous ne pouvez y rester que 6 mois au maximum après l’obtention du statut.
+      L’Ofii attribue les places dans les CPH. Vous êtes prioritaire si vous êtes qualifié de vulnérable (santé, famille, situation sociale, pas de ressources…) par le travailleur social qui vous accompagne ou par l’Ofii de votre région. En CPH, votre séjour est de 9 mois, prolongeable de 3 mois sur argumentaire, avec l’accord de l’Ofii.
+      Les préfectures, les mairies, les départements et d’autres institutions ont des appartements réservés dans les parcs de logement social (HLM) : le contingent prioritaire. En plus de votre demande de logement social (voir Ce qu’il faut faire), déposez des dossiers dans chaque collectivité car vous pouvez entrer sur une liste prioritaire.
+      Quand vous obtenez un logement, il faut verser une caution (1 mois du loyer sans les charges), éventuellement des frais d’agence et prendre une assurance habitation.
+      LOGEMENT
+      CE QU’IL FAUT FAIRE
+      Pour demander une place en CPH, un travailleur social du CADA, de la PADA, du CAO ou de l’Ofii de votre région envoie par e-mail à l’Ofii Paris (dnacph@ofii. fr) le formulaire avec une photocopie de la décision de l’Ofpra ou de la CNDA, le titre de séjour ou le récépissé de demande.
+      Ne perdez pas de temps : dès votre récépissé de demande de titre de séjour, inscrivez-vous avec le formulaire de logement social Cerfa 14069*02 (avec la copie de votre récépissé). Faites-le par la poste vers un organisme HLM (liste fournie par les mairies).
+      Cela est plus rapide sur le site Internet de Demande de logement social (https://www.demande-logement- social.gouv.fr/) en créant un compte. Vous devez avoir une adresse e-mail et un numéro de téléphone. Vous obtiendrez dans les deux cas votre numéro unique départemental pour le logement social. La date de première demande est importante pour ouvrir d’autres droits : contingent prioritaire, droit au logement opposable (DALO)…
+      Ensuite, dès l’obtention de votre carte de séjour, constituez un dossier complet pour enregistrer votre demande avec le formulaire, la copie du titre de séjour, la décision Ofpra ou CNDA, le justificatif de vos ressources (RSA, CAF, salaires…) ainsi que d’autres documents. L’accès au logement social dépend de vos ressources individuelles et familiales ainsi que de votre situation d’urgence.
+      Une commission d’attribution examine votre dossier. Vous avez 10 jours pour accepter ou refuser une proposition. Compte tenu du manque de logements dans les grandes villes, il est conseillé de ne pas refuser un logement HLM sans raisons justifiées (insalubrité, isolement…).
+      AIDES AU LOGEMENT
+      CE QU’IL FAUT SAVOIR
+      Des solutions d’urgence et alternatives existent pour le logement, comme pour toute personne en difficulté. Si vous êtes logé, mal logé ou sans logement, si vous avez ou non des ressources, un travail, une famille… les organisations et les dossiers sont différents. Renseignez- vous auprès des CCAS (personne isolée), des MDSI (famille) et des associations.
+      L’hébergement d’urgence en hôtel se fait en téléphonant au 115.
+      Si vous passez par le SIAO (Service Intégré d’Accueil et d’Orientation), vous devez accepter un accompagnement social et administratif pour avoir accès aux Centres d’Hébergement et de Réinsertion Sociale (CHRS), aux Maisons relai, à l’Allocation Logement Temporaire (ALT) et à l’Intermédiation locative (IML). Ce sont des possibilités différentes de logement.
+      Si vous travaillez, vous avez accès aux Résidences Hôtelières à Vocation Sociale (RHVS), aux Foyers de Jeunes Travailleurs (FJT, avec une inscription sur Internet) et aux Foyers de Travailleurs Migrants.
+      Autres solutions : l’ADOMA (résidence sociale) avec une inscription sur Internet, Habitat et humanisme qui regroupe des associations, des logements et des services, les résidences sociales, les Agences Immobilières à vocation sociale, les pensions de famille, les sous-locations privées… Certaines associations, comme JRS Welcome et Singa, proposent des logements provisoires dans des familles. D’autres ont des programmes spécifiques pour le logement : Forum Réfugiés (programme Accelair) et France Terre d’asile (Cap vers l’intégration et Reloref).
+      AIDES AU LOGEMENT
+      CE QU’IL FAUT FAIRE
+      Il y a un nombre limité de places en CPH : C’est le travailleur social qui obtient la réponse de l’Ofii qui peut vous orienter sur un CPH partout en France.
+      Si vous travaillez et que votre employeur cotise au 1% logement, vous êtes prioritaire sur certains logements (Action Logement ou LOCA-PASS). Si vous êtes intérimaire avec plus de 600 heures de travail, vous bénéficiez du programme FASTT (demandez à votre agence d’intérim). L’assurance VISALE, accessible en ligne (https://www. visale.fr), vous permet d’obtenir une garantie, en 48 heures, pour le propriétaire privé ou l’agence immobilière.
+      Selon votre situation, la CAF dispose d’aides au logement (APL, ASL…). En HLM, le bailleur envoie les documents à la CAF, l’aide n’est versée qu’au deuxième mois.
+      Dans chaque département, le Fonds de solidarité pour le logement (FSL) propose des aides (garantie pour le propriétaire ou l’organisme HLM, aides financières, premier loyer, assurance logement…). Vous devez remplir un dossier spécifique.
+      LE DROIT AU LOGEMENT OPPOSABLE (DALO)
+      Selon la loi n°2007-290 du 5 mars 2007, l’État garantit à tous un « droit à un logement décent et indépendant ». Une commission départementale de médiation, que vous devez saisir, établit une liste de personnes prioritaires adressée au préfet pour le Plan Départemental d’Action pour le Logement des Personnes Défavorisées (PDALPD). Avec le DALO, vous pouvez aussi introduire une requête en référé-liberté, avec un avocat, pour que le Tribunal administratif exige de la préfecture un logement d’urgence.
+      LES ESSENTIELS
+      L’assurance habitation est obligatoire et doit être fournie à la signature du bail (contrat de location).
+      N’hésitez pas à démarcher les bailleurs HLM et pensez à mettre à jour votre dossier, avec vos nouveaux bulletins de salaire ou tout autre élément important.
+      Les délais sont très longs dans les grandes villes pour un logement social. Chercher dans les petites villes ou les villages peut être plus rapide.
+      N’oubliez pas de renouveler chaque année votre demande de logement HLM, un mois avant la date anniversaire. Vous risquez sinon de tout recommencer à zéro.
+      Le numéro unique départemental pour le logement social n’est valable que pour votre département. Si vous déménagez dans un autre département, vous devrez refaire une demande de numéro unique.
+      LES TEXTES ET LES LOIS
+      Selon l’arrêté du 14 juin 2010 sur la demande de logement social et locatif, les titulaires d’une protection internationale qui n’ont pas d’avis d’imposition français ne doivent justifier de leurs ressources qu’après leur date d’entrée en France ou durant les douze derniers mois. Soit à partir de documents (feuilles de salaire, attestations de la CAF, du RSA, de l’Ofii…) soit par une attestation sur l’honneur. Le bailleur social ne peut pas exiger un avis d’imposition N-1 et N-2 (deux dernières années).
+      LIENS UTILES
+      Formulaire de demande logement social :
+      https://www.service-public.fr/particuliers/vosdroits/R149
+      Programme de logement pour tous les réfugiés en famille (DIHAL) :
+      http://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement-dihal
+      Contactez les associations d’aide au logement et consulter les adresses des CPH en France.
+      SOMMAIRE
+      07
+      EMPLOI
+      (DIPLÔME -FORMATION -EMPLOI…)
+      Après l’obtention du statut (dès le récépissé), les réfugiés et les protégés subsidiaires ont les mêmes droits de travailler et d’accéder à la formation professionnelle que les Français. Mais ils ont souvent des difficultés en raison de la non maîtrise de la langue, du manque de relations, de la non reconnaissance de leurs diplômes et de leur expérience, des complexités techniques de recherche d’emploi. Ils sont aussi victimes de discriminations. Le parcours est souvent long, il peut décourager et culpabiliser : il est important d’être accompagné pour ne pas rester seul face aux difficultés.
+      DIPLÔMES & FORMATIONS
+      CE QU’IL FAUT SAVOIR
+      La maîtrise de la langue française est essentielle pour trouver un emploi. Suivez des formations, certaines visent le vocabulaire professionnel.
+      Vous pouvez demander des attestations de comparabilité de vos diplômes, gratuites pour les bénéficiaires de la protection internationale, car il n’existe pas d’équivalences entre un diplôme étranger et un diplôme européen. Uniquement par Internet, au Centre ENIC-NARIC France (http://www.ciep.fr/enic-naric-france). Joignez la décision Ofpra ou CNDA, vous n’avez pas besoin de faire traduire vos diplômes.
+      Il existe en France des emplois réglementés avec des conditions de nationalité française (fonction publique) ou de diplôme (médecin, dentiste, avocat, pharmacien…). Pour les professionnels de la santé, vous devez vous renseigner auprès de l’ARS (Agence Régionale de Santé) et consulter les procédures d’autorisation (http://www.cng. sante.fr/-Procedure-d-Autorisation-d-.html).
+      L’Ofii, les CADA et les CPH peuvent vous orienter vers des formations professionnelles et linguistiques.
+      Pour vous inscrire dans l’enseignement secondaire, vous devez demander une attestation de niveau au Rectorat de votre région et vous inscrire dans un établissement. Pour reprendre des études supérieures, vous devez avoir le BAC ou équivalent, le niveau de français B2 et demander à l’université voulue une attestation de niveau qui est décidée par une Commission pédagogique. L’attestation ENIC- NARIC peut appuyer votre demande.
+      Renseignez-vous dans l’université ou l’établissement qui propose la formation que vous souhaitez : les conditions et les manières d’y accéder sont souvent différentes.
+      DIPLÔMES & FORMATIONS
+      CE QU’IL FAUT FAIRE
+      Des formations professionnelles (en général rémunérées) sont proposées par l’État, Pôle emploi, les Conseils départementaux et les Conseils régionaux. Les mairies proposent des Plans Locaux pluriannuels pour l’Insertion et l’Emploi (PLIE) où vous pouvez vous inscrire. Ces formations sont accessibles, sous conditions, aux demandeurs d’emploi et aux bénéficiaires du RSA.
+      L’État français a chargé deux organismes pour proposer des formations, des bilans de compétences, des Évaluations de compétence et de capacité professionnelle (ECCP), des accompagnements à la Validation des Acquis par l’Expérience (VAE)… Il s’agit des Groupements d’établissements publics d’enseignement (GRETA) et de l’Association Nationale pour la Formation Professionnelle des Adultes (AFPA). Vous pouvez les contacter.
+      La Validation des Acquis par l’Expérience (VAE) : si vous avez au moins trois ans d’expérience dans un métier, avec éventuellement des études liées à cette profession, vous pouvez obtenir un diplôme le reconnaissant. La VAE est payante (financement possible par Pôle Emploi, l’État, les Régions…). Un bon niveau de français est nécessaire et le dossier est long et complexe. Si vous n’avez aucun document prouvant votre expérience, la VAE n’est pas conseillée. Pour toute information, consultez le site www. vae.gouv.fr, vous y trouverez un Point relais conseil près de chez vous.
+      LES FORMATIONS DURANT L’EMPLOI
+      Si vous travaillez, vous avez droit à des formations dans le cadre de l’entreprise : plans de formation, Congé Individuel de Formation (CIF), congé pour un bilan de compétence, Droit Individuel de Formation (DIF)…
+      EMPLOI
+      CE QU’IL FAUT SAVOIR
+      Les emplois auxquels ont souvent accès les réfugiés sont la restauration et l’hôtellerie, la construction, le ménage, les services à la personne, la grande distribution, la sécurité…. Ils sont souvent éloignés de votre métier d’origine mais cela peut être un premier pas pour avoir des revenus, trouver un logement…
+      Vous pouvez travailler et vous inscrire à Pôle Emploi dès la remise du récépissé de demande de carte de séjour (sur lequel est inscrit « autorise son titulaire à travailler »). Votre famille venue dans le cadre de la réunification familiale a également le droit de travailler.
+      Vous n’avez en général pas pu travailler durant la demande d’asile, vous n’avez donc pas droit à l’Allocation chômage ou à l’Allocation de Retour à l’Emploi (ARE). Vous avez droit à l’ARE quand vous avez travaillé au moins 610 heures durant les 28 derniers mois.
+      Avoir le permis de conduire est important pour les offres d’emploi : pensez à échanger votre permis durant la première année de la carte de séjour.
+      LES JEUNES DE MOINS DE 25 ANS
+      Vous n’avez pas droit au RSA mais vous avez accès à des programmes d’insertion rémunérés avec les Missions locales sur une durée déterminée, avec le Parcours Contractualisé d’Accompagnement vers l’Emploi (PACE) et la Garantie Jeunes. Vous pouvez signer un Contrat de volontariat, en internat, avec l’Établissement Pour l’Insertion Dans l’Emploi (EPIDE) ou demander à intégrer l’École de la deuxième chance (E2C). Enfin, un Service civique (dans une organisation, une association ou une collectivité) est aussi possible. Apprenez le français le plus vite possible.
+      EMPLOI
+      CE QU’IL FAUT FAIRE
+      Inscrivez-vous sur le site Internet de Pôle emploi. Ce n’est pas facile, faites-vous aider par un conseiller de Pôle emploi, une association ou un service comme Emmaüs Connect. Vous aurez un espace personnel sur le site, avec un identifiant et un mot de passe.
+      Vous êtes ensuite convoqué pour valider votre inscription avec un conseiller de Pôle emploi. Prenez votre attestation CMU/CMUC ou votre carte vitale, votre récépissé ou votre carte de séjour et votre justificatif de domicile. Essayez d’aller à ce premier rendez-vous avec quelqu’un qui parle français.
+      Le conseiller de Pôle emploi définit avec vous votre Plan Personnalisé d’Accès à l’Emploi (PPAE), c’est-à-dire votre projet professionnel et vos démarches jusqu’au prochain rendez-vous. Pensez à actualiser votre situation chaque fin de mois. Donnez quand vous l’avez une copie de l’attestation ENIC-NARIC à votre conseiller.
+      Vous avez droit aux formations et aux contrats emplois aidés comme tout demandeur d’emploi : Contrat d’Insertion dans la Vie Sociale (CIVIS), Insertion par l’Activité Économique (IAE), aides à la création d’entreprise, contrats en alternance, aides à l’embauche dans les TPE et les PME… N’hésitez pas à demander des formations (langues française et professionnelle). L’Intérim est une autre possibilité, tout comme les chantiers d’insertion, les services à la personne. Le bénévolat peut vous amener vers un emploi par les rencontres et ce que vous allez apprendre.
+      Vous pouvez aussi bénéficier d’une immersion professionnelle en entreprise avec Pôle emploi, une Mission locale, une association… Vous serez accompagné, vous pouvez découvrir un métier et avoir de nouveaux contacts.
+      Si vous devez vous déplacer pour un entretien d’embauche, une formation ou un concours, Pôle emploi peut vous aider financièrement avec l’Aide à la mobilité (transport, hébergement, repas).
+      LES ESSENTIELS
+      Vous devez actualiser votre situation chaque fin de mois sur le site de Pôle emploi (« Je m’actualise ») avec votre identifiant et votre code personnel pour confirmer que vous cherchez toujours un emploi, pour déclarer un emploi... Si vous ne le faites pas, Pôle emploi vous radie, vous exclut.
+      Vous pouvez contacter votre conseiller Pôle Emploi avec l’adresse e-mail précisée dans votre espace personnel.
+      Pour toute démarche pour l’emploi, ne donnez jamais les originaux de vos documents mais des photocopies.
+      Pôle emploi n’a pas de service spécifique pour les réfugiés. Les CPH ont des accords avec Pôle emploi pour vous accompagner. Les associations vous conseilleront et, petit à petit, les personnes que vous rencontrerez.
+      N’hésitez pas à demander du travail directement dans les entreprises, les commerces, à vos rencontres…. Un réseau de connaissances est essentiel pour l’emploi.
+      LES TEXTES ET LES LOIS
+      Le droit à la formation professionnelle pour toute personne, dont les réfugiés, est inscrite dans la l’article L 6111-1 du Code du travail. L’article L 751-1 du CESEDA modifié par l’article 29 de la loi relative à la réforme du droit d’asile du 29/07/2015 précise que les bénéficiaires de la protection internationale qui ont signé un CIR bénéficient d’un « accompagnement personnalisé pour l’accès à l’emploi et au logement ».
+      LIENS UTILES
+      Un portail régional de formation et d’emploi, le CARIF OREF, propose des formations par métier et région que vous pouvez consulter :
+      http://www.intercariforef.org/formations/recherche-formations.html#
+      Pour trouver un centre de formation Afpa près de chez vous :
+      https://www.afpa.fr/
+      Pôle Emploi (onglets Découvrir le marché du travail et Les métiers porteurs) :
+      http://www.pole-emploi.fr
+      De nombreuses associations agissent pour l’insertion économique des réfugiés. L’association Action Emploi Réfugiés vous met ainsi en lien avec des employeurs suivant votre métier en vous accompagnant. Inscription et annonces sur :
+      www.actionemploirefugies.com
+      SOMMAIRE
+      08
+      SANTÉ
+      (SÉCURITÉ SOCIALE -SOINS…)
+      Les réfugiés ont les mêmes droits que les Français pour l’accès aux soins et à la sécurité sociale : la Protection universelle maladie (PUMA) couvre tous ceux qui travaillent et vivent en France. La Couverture maladie universelle (CMU) a été supprimée mais pas la CMU complémentaire (CMU-C) pour les personnes aux faibles ressources. Dans la pratique, les réfugiés rencontrent de réelles difficultés : inégalités sur le territoire français, manque d’interprètes et de prise en compte de leurs problèmes spécifiques de santé.
+      SANTÉ
+      CE QU’IL FAUT SAVOIR
+      Le système de santé français comprend un régime général obligatoire (PUMA) financé par les cotisations sur les revenus du travail et un régime complémentaire (privé, mutuelle ou CMU-C). Cette sécurité sociale couvre les frais de maladie, de maternité, d’accident du travail… Une grande partie des consultations, médicaments, examens et hospitalisations sont pris en charge par l’État et le système complémentaire, dont la CMU-C. Vous n’avez pas à faire d’avance financière, sauf pour des soins non couverts.
+      Vous devez choisir un médecin généraliste qui sera votre médecin de famille (médecin traitant). C’est une obligation pour être remboursé, il faut le déclarer à la Caisse primaire d’assurance maladie (CPAM) à l’aide d’un formulaire lors de votre première visite médicale. Pour consulter un spécialiste ou passer des examens, vous devez être orienté par votre médecin généraliste.
+      Si vous bénéficiez de la PUMA et de la CMU-C depuis votre demande d’asile, vos droits restent les mêmes. Si vous avez un numéro de sécurité sociale provisoire (qui commence par un 8 pour les femmes, un 7 pour les hommes), vous devez fournir l’état civil de l’Ofpra à la CPAM pour avoir un numéro définitif et la Carte vitale (attention, les délais sont longs, n’hésitez pas à redemander par courrier ou au guichet).
+      ENFANTS ET FAMILLE
+      Vos enfants de moins de 18 ans bénéficient de votre couverture maladie s’ils sont toujours à votre charge (Carte vitale dès l’âge de 12 ans). Pour les conjoints, le statut d’ayant droit n’existera plus en 2019, demandez à être affilié (enregistré) à la Sécurité sociale en votre nom avec le critère de résidence.
+      SANTÉ
+      CE QU’IL FAUT FAIRE
+      Quand vous avez votre numéro de sécurité sociale définitif (qui commence par 1 pour les hommes, 2 pour les femmes), demandez par Internet ou par courrier votre Carte vitale à la CPAM la plus près de chez vous. Elle vous envoie un imprimé à signer et renvoyer, avec une photo d’identité et une copie du titre de séjour ou du récépissé dans l’enveloppe fournie avec le formulaire. Avant la carte vitale, l’attestation, à retirer à la CPAM, permet la prise en charge des soins. La carte vitale est à mettre à jour chaque année (en pharmacie).
+      Selon vos revenus de l’année précédente, demandez la CMU-C à la CPAM avec le formulaire rempli, l’attestation de domicile, le récépissé ou titre de séjour, l’attestation de RSA ou les bulletins de salaire et autres justificatifs sur les 12 derniers mois. Pensez à renouveler la CMU-C chaque année si vos ressources restent faibles.
+      Si vous êtes salarié, votre employeur vous affilie à la Sécurité sociale, vous devez prendre une mutuelle (celle de l’employeur ou celle de votre choix). La CPAM peut vous aider à la payer.
+      Si vous aviez l’Aide Médicale d’État ou aucune couverture, demandez la PUMA et la CMU-C dès l’obtention de votre statut.
+      Selon que vous habitez à Paris ou ailleurs, en ville ou dans un village, il peut être compliqué de trouver des médecins spécialistes. L’accueil et le traitement des dossiers à la CPAM sont inégaux selon les régions et il n’y a pas d’interprètes. Pour des problèmes psychiatriques, les structures d’aide existent surtout dans les grandes villes. Ne vous découragez pas, des associations peuvent vous aider.
+      LES ESSENTIELS
+      Si vous changez de médecin généraliste, envoyez une nouvelle déclaration à la CPAM.
+      Si vous êtes sans protection maladie à cause de problèmes administratifs, la Permanence d’accès aux soins (PASS) propose des consultations et des médicaments gratuits à l’hôpital public. Demandez auprès de l’assistante sociale des urgences de l’hôpital. Vous pouvez aussi contacter une association comme Médecins du monde.
+      En cas de handicap, l’Allocation d’Adulte Handicapé (AAH) garantit un revenu minimal.
+      Elle est versée par la CAF. Demandez à votre médecin ainsi qu’à une assistante sociale pour déposer un dossier à la Maison Départementale pour les Personnes Handicapées (MDPH).
+      Signalez à la CPAM les changements d’adresse, de coordonnées bancaires et de situation professionnelle si vous bénéficiez de la CMU-C.
+      LES TEXTES ET LES LOIS
+      La Convention de Genève demande aux États d’accorder « aux réfugiés résidant sur leur territoire le même traitement en matière d’assistance et de secours public qu’à leurs nationaux » (articles 23 et 24).
+      LIENS UTILES
+      Site de l’assurance maladie (vous pouvez créer votre compte) :
+      www.ameli.fr
+      Pour les personnes qui ont des difficultés psychologiques, des structures spécialisées existent, contactez-les ou demandez à des associations locales :
+      Comede (Comité pour la santé des exilés)
+      www.comede.org
+      Centre Primo Levi
+      www.primolevi.org
+      Parcours d’exil
+      www.parcours-exil.org
+      France Terre d’asile, CIAPA (pour les adolescents), contact avec le Centre de ressource des mineurs étrangers isolés, InfoMIE :
+      http://infomie.net
+      SOMMAIRE
+      09
+      MOBILITÉ
+      (PASSEPORT -PERMIS -BUS -TRAIN - SCHENGEN)
+      La mobilité-la capacité de se déplacer en France et à l’étranger-est essentielle pour l’intégration des réfugiés, que ce soit pour l’emploi, le logement ou pour ce que chacun souhaite faire. Une majorité de réfugiés vit en région parisienne alors que de meilleures conditions de vie existent peut-être ailleurs. Il faut du courage pour se déplacer encore une fois après l’obtention du statut de réfugié, de la curiosité aussi, mais cela peut être bénéfique.
+      MOBILITÉ
+      CE QU’IL FAUT SAVOIR
+      Si vous êtes réfugié ou protégé subsidiaire de « type 1 », l’Ofpra conserve votre passeport, mais pour voyager vous pouvez obtenir un titre de voyage (préfecture) qui est indispensable dans l’espace Schengen (la carte de séjour ne suffit pas). Vous n’avez pas besoin de visa. En dehors de l’espace Schengen, demandez un visa au consulat du pays où vous souhaitez aller.
+      Si vous êtes protégé subsidiaire de « type 2 », vous utilisez votre passeport pour voyager.
+      Si vous pensez rester plus de 90 jours dans un pays de l’espace Schengen, demandez alors un visa.
+      Le permis de conduire : vous pouvez échanger votre permis de conduire sans réciprocité (c’est-à-dire sans accord entre la France et le pays d’origine). Cet échange est possible durant la première année du titre de séjour. Au-delà, vous devez repasser le code et le permis. Cet échange est possible même quand votre permis a expiré avant l’obtention de votre statut, pendant la demande d’asile ou avant votre entrée en France.
+      LE VOYAGE DES ENFANTS MINEURS
+      Pour voyager, vos enfants mineurs doivent pouvoir présenter un document de circulation pour étranger mineur (DCEM) ou, pour ceux nés en France, un titre d’identité républicain (TIR), à demander par les parents en préfecture (valables 5 ans dans l’espace Schengen). Hors Schengen, vous pouvez demander un titre de voyage pour vos enfants, avec visa selon les pays. Vous devez récupérer le document de voyage à la préfecture en compagnie du mineur. Ces titres sont aussi utiles dans la vie quotidienne en France (contrôle de police, inscription à la CPAM…).
+      MOBILITÉ
+      CE QU’IL FAUT FAIRE
+      Le titre de voyage se demande en préfecture avec votre titre de séjour, un justificatif de domicile, 2 photos d’identité et le formulaire. Il est valable 5 ans pour un réfugié, 1 an pour un protégé subsidiaire (timbre fiscal de 45 euros et de 19 euros). Le ou les pays où vous ne pouvez pas vous rendre (au risque de perdre votre protection internationale) sont inscrits dans votre titre de voyage.
+      Pour le permis de conduire, les documents à fournir en préfecture sont votre permis original traduit par un traducteur assermenté (permis national et non le permis international qui est provisoire), les 3 formulaires remplis (à retirer en préfecture), le titre de séjour, le justificatif d’identité et une photo d’identité. Pour les permis C et D, une visite médicale (payante) chez un médecin agréé par la préfecture est obligatoire.
+      Si vous n’avez pas votre permis original, ou si vous avez juste une copie, vous devez prouver que vous en aviez un (attestation d’assurance, carte de chauffeur de taxi, déclaration de perte etc.). En cas de refus de la préfecture, faites un recours avec l’aide d’un avocat.
+      Pour vous installer dans un autre pays, vous devez demander à l’Ofpra, par courrier, un transfert de protection. L’Ofpra soumet votre dossier au pays concerné qui acceptera ou non selon votre situation (emploi, famille, maîtrise de la langue…). Ce système n’existe pas pour les protégés subsidiaires qui doivent demander eux-mêmes un transfert de protection au pays d’installation.
+      LES ESSENTIELS
+      Passage du permis de conduire : des aides financières sont possibles avec un projet professionnel et des auto- écoles sociales et solidaires ont des tarifs moins élevés.
+      Transports en commun : selon les villes, les départements ou les régions, il existe des cartes gratuites si vous êtes inscrit à Pôle emploi ou si vous bénéficiez du RSA : bus, métro, tramway, trains régionaux (TER). De même que des cartes familles à la Sncf. Les cartes jeunes et d’autres cartes de réduction pour les transports en commun commencent à l’âge de 5 ans.
+      Astuces : les déplacements en voiture avec Blablacar peuvent être avantageux, si vous avez une carte bancaire (https://www.blablacar. fr/). La Sncf fait toujours des promotions, réservez à l’avance (https://www. voyages-sncf.com/). Pôle emploi peut prendre en charge des déplacements professionnels. Attention, avoir une voiture personnelle coûte cher : carte grise, assurance, parking, réparations…
+      LES TEXTES ET LES LOIS
+      Article R.321-1 du CESEDA : « Les étrangers séjournant régulièrement en France y circulent librement » y compris dans les Départements d’Outre-Mer (DOM) et les Collectivités d’Outre-Mer (COM) où il existe cependant des restrictions pour l’exercice de certaines professions.
+      Permis de conduire :
+      arrêté du 12/01/2012 : circulaire du 03/08/2012 :
+      www.legifrance.gouv.fr/affichText.do?cidText=JORFTEXT000025175223
+      circulaire du 03/08/2012:
+      http://circulaire.legifrance.gouv.fr/pdf/2012/10/cir_35951.pdf
+      LIENS UTILES
+      Wimoov est une plateforme qui peut vous aider (passage de permis, choix des modes de transport etc.). Pôle emploi, la mission locale ou un service social peuvent vous orienter vers Wimoov :
+      www.wimoov.org
+      L’association France terre d’asile (FTDA) a un programme, Clef de France, pour aider les réfugiés d’Ile-de-France à chercher dans d’autres régions un emploi et un logement. D’autres associations (par l’exemple l’APREVA) proposent des aides pour le déplacement ou des locations de voitures peu chères.
+      www.france-terre-asile.org
+      SOMMAIRE
+      10
+      L’UNITÉ FAMILIALE
+      (RÉUNIFICATION-REGROUPEMENT…)
+      Le principe de « l’unité familiale » s’applique aux réfugiés, ils ont droit à la « réunification familiale » en raison de leurs craintes pour leurs conjoints et enfants sans les conditions demandées aux autres étrangers pour le « regroupement familial » (logement, ressources, temps passé en France…). La réunification familiale s’applique aux protégés subsidiaires et apatrides entrés régulièrement en France. Les familles entrées irrégulièrement après le protégé doivent faire une demande d’asile.
+      L’UNITÉ FAMILIALE
+      CE QU’IL FAUT SAVOIR
+      Pour vous rejoindre dans le cadre de la « réunification familiale », les membres de votre famille doivent avoir été déclarés à l’Ofpra sur la fiche familiale de référence lors de la demande de protection. La famille a droit à une carte de résident de 10 ans (1 an renouvelable pour les protégés et apatrides) :
+      Votre conjoint majeur, si le mariage a été célébré avant l’obtention du statut de réfugié. Pour un concubinage, une vie commune stable avant la demande de statut doit être prouvée.
+      Vos enfants non mariés, de 19 ans maximum.
+      Vos enfants et ceux de votre conjoint issu d’une union précédente si l’un de vous a l’autorité parentale (avec copie de la décision juridique et l’autorisation de l’autre parent).
+      Vos parents si vous êtes mineur.
+      Pour tous les autres cas, la demande se fait dans le cadre du « regroupement familial », comme les autres étrangers, auprès de la direction territoriale de l’Ofii la plus proche de votre domicile.
+      Billet d’avion : réunissez l’argent pour faire venir votre famille, il n’y a pas d’aide officielle.
+      Le Bureau des familles de réfugiés (BFR) vous écrit quand votre famille a fait sa demande de visa au Consulat. Vous devez fournir une copie de votre titre de séjour, l’acte de naissance de l’Ofpra si vous l’avez, un justificatif de domicile, l’attestation CPAM et CMU, le justificatif de la CAF et les preuves du lien continu avec votre famille. L’Ofpra transmet au BFR la composition de votre famille.
+      L’UNITÉ FAMILIALE
+      CE QU’IL FAUT FAIRE
+      Votre famille doit d’abord demander un « visa de long séjour » au Consulat ou à l’Ambassade de France où elle vit. Elle doit prendre un rendez-vous par téléphone ousur Internet. Cette étape peut être complexe (langue et parfois demande de documents non exigés par la loi).
+      Votre famille doit fournir : un formulaire de demande de visa par personne, un passeport (ou un laissez- passer), des photographies d’identité conformes, la copie intégrale certifiée conforme des actes de naissance et/ou de mariage, toute preuve du lien familial, le justificatif de votre statut de réfugié(e) et 99 euros en monnaie locale.
+      Tous les documents doivent être remplis en français avec un traducteur agréé par le Consulat. Envoyez à votre famille une copie de votre état civil de l’OFPRA, si vous l’avez, qui peut être d’une grande aide. Vous devez répondre de votre côté au Bureau des réfugiés (voir page précédente).
+      Le Consulat remet à votre famille une « quittance » datée (gardez une copie). Le délai de réponse est de 2 mois renouvelable une fois + 4 mois en cas de vérification d’état civil (au maximum 8 mois en tout). Votre famille s’informe régulièrement auprès du Consulat. La démarche peut être longue.
+      Quand le visa est délivré, votre famille a 3 mois maximum pour venir en France et demander le titre de séjour auquel elle a droit à la préfecture.
+      Écrivez à l’Ofpra pour dire l’arrivée de vos proches en envoyant le livret de famille et les passeports pour enregistrer vos enfants.
+      LES ESSENTIELS
+      Bureau des familles de réfugiés : gardez les preuves du lien continu avec votre famille (e-mails, photos, transferts d’argent, téléphone…) pour lui transmettre.
+      Les motifs de refus des visas peuvent être entre autres liés à des documents manquants, des manques de preuve de filiation, à une demande frauduleuse, des menaces à l’ordre public, le non respect des principes de la vie familiale en France (interdiction de la polygamie) …
+      En cas de refus de visa par le Consulat ou de non réponse dans les 8 mois : le Consulat doit toujours expliquer son refus. Vous avez deux mois maximum pour faire un recours à la Commission contre les décisions de refus de visa d’entrée en France, BP 83609, 44036 Nantes cedex 1. En cas de refus, un recours au Tribunal administratif est possible. Prendre un avocat est conseillé dans les deux cas.
+      LES TEXTES ET LES LOIS
+      Le droit à l’unité familiale est, entre autres, reconnu par la déclaration universelle des droits de l’Homme, la Convention de Genève de 1951, la convention européenne des droits de l’Homme (art 8), la chartre des droits fondamentaux de l’Union européenne et la Directive 2003/86/CE.
+      En France, le droit spécifique pour l’unité familiale se trouve dans le CESEDA.
+      CESEDA : L. 752-1, L. 812-5, R. 752-1 à 3 et R. 812-4.
+      LIENS UTILES
+      Le « visa long séjour » avec mention « carte de séjour à valider dans les deux mois suivant l’arrivée », est à consulter et télécharger pour le remplir (vous pouvez aussi le remplir puis le scanner et l’envoyer à votre famille) :
+      www.formulaires.modernisation.gouv.fr/gf/cerfa_14571.do
+      Pour les détails sur les visas, voir dans la rubrique « vivre en France » :
+      www.diplomatie.gouv.fr
+      SOMMAIRE
+      11
+      NATURALISATION
+      Les réfugiés peuvent demander la nationalité française, par la naturalisation, dès l’obtention de leur statut mais les protégés subsidiaires et les apatrides doivent attendre cinq ans de résidence en France sauf dans certains cas. Même si elle n’est qu’une étape, elle est importante pour les réfugiés : elle ouvre des droits et des devoirs et elle représente un grand pas dans l’intégration à la société française.
+      NATURALISATION
+      CE QU’IL FAUT SAVOIR
+      Devenir Français par naturalisation n’est pas un droit : c’est l’État français qui décide d’accorder la nationalité, par décret.
+      Les protégés subsidiaires et les apatrides doivent attendre cinq ans de résidence en France, sauf dans certains cas (deux années d’études supérieures, parcours exceptionnel d’intégration…). Les réfugiés peuvent demander la naturalisation dès l’obtention de leur statut mais il est préférable d’attendre de remplir certaines conditions : maîtrise du français, venue de la famille, situation stable…
+      Pour faire cette demande, vous devez :
+      être âgé de plus de 18 ans, posséder un titre de séjour,
+      avoir votre résidence et vos principaux revenus en France,
+      habiter avec votre famille en France,
+      avoir une connaissance suffisante de la langue française
+      (niveau B1 français oral, diplôme ou attestation d’un organisme avec le label « Français langue d’intégration »),
+      avoir une connaissance de base de l’histoire, de la culture et de la société française, des droits et devoirs de la nationalité et des valeurs de la République (ce qu’on attend de vous est dans le livret du citoyen),
+      être de « bonne vie et mœurs », avoir un « comportement loyal » vis à vis des institutions françaises, ne pas avoir été condamné.
+      LA NATURALISATION DE VOS ENFANTS
+      Attention à bien inscrire vos enfants dans votre demande de naturalisation. Si votre enfant naît après la demande, déclarez-le avec le formulaire de « changement de situation ». L’enfant mineur devient Français de plein droit s’il réside avec le parent devenu Français, même après un divorce (« effet collectif » de la naturalisation). Si vous n’êtes pas Français, votre enfant né en France peut acquérir la nationalité à 18 ans.
+      NATURALISATION
+      CE QU’IL FAUT FAIRE
+      Vous remettez à la préfecture deux exemplaires du formulaire de demande de naturalisation avec les documents et un timbre fiscal de 55 euros. Si vous souhaitez franciser votre nom et / ou votre prénom, cela se fait en même temps. On vous remet un récépissé.
+      Vérifiez bien en préfecture ou avec l’outil Internet du ministère de l’Intérieur tous les documents à fournir.
+      Pour les photocopies de documents dans votre langue maternelle, présentez des traductions d’un traducteur assermenté. Le dossier se fait avec des photocopies mais vous devez montrer tous les originaux.
+      Vous passez un entretien à la préfecture (ce qu’on attend de vous est dans le livret du citoyen) et des enquêtes, par exemple de voisinage, peuvent être demandées par la préfecture (« bonne vie et mœurs » et « comportement loyal »).
+      Cet entretien est essentiel, tenez-vous aussi au courant des informations (nom du président, gouvernement, histoire récente de la France…).
+      Le préfet a 6 mois pour rejeter votre dossier, l’ajourner, le déclarer irrecevable ou recevable et dans ce cas l’envoyer au ministre chargé des naturalisations. L’administration a un délai total de 18 mois depuis la date du récépissé pour prendre une décision. Si votre demande est acceptée, vous devenez Français quand le décret de naturalisation passe dans le Journal officiel. La préfecture vous en informe.
+      En cas de décision négative du préfet, vous avez deux mois pour un recours gracieux auprès du ministre chargé des naturalisations. En cas de refus ou de non réponse dans les quatre mois, faites un recours contentieux au tribunal administratif de Nantes. Il est préférable de prendre un avocat.
+      LES ESSENTIELS
+      L’emploi et la stabilité de vos ressources : plusieurs décrets de loi prévoient que c’est l’ensemble de votre carrière qui est prise en compte et tous vos efforts depuis l’obtention de votre statut pour trouver un emploi, pas seulement votre situation quand vous faites la demande. Présentez également vos attestations de bénévolat, d’engagement associatif, politique, artistique et culturel.
+      En tant que réfugié, protégé subsidiaire et apatride, vous n’avez pas à fournir un extrait de casier judiciaire de votre pays d’origine.
+      Vous n’êtes pas obligé de renoncer à votre nationalité d’origine, la France reconnaît la double-nationalité, y compris pour les réfugiés.
+      Une cérémonie collective d’accueil dans la citoyenneté française est organisée dans chaque département, environ 6 mois après l’obtention de la nationalité. C’est une étape symbolique importante, vous signez la charte des droits et devoirs du citoyen français.
+      LES TEXTES ET LES LOIS
+      Article 34 de la Convention de Genève : « les États contractants faciliteront, dans toute la mesure du possible, l’assimilation et la naturalisation des réfugiés. Ils s’efforceront notamment d’accélérer la procédure de naturalisation et de réduire, dans toute la mesure du possible, les taxes et les frais de cette procédure ».
+      LIENS UTILES
+      Le ministère de l’Intérieur propose un outil sur Internet pour vous aider à préparer votre dossier :
+      http://accueil-etrangers.gouv.fr/modeles/articles-lies/article/outil-d-aide-a-la-constitution-des-dossiers-de-	naturalisation
+      Pour télécharger le formulaire de naturalisation :
+      www.formulaires.modernisation.gouv.fr/gf/cerfa_12753_02.do
+      Pour le formulaire de francisation de votre nom et/ou de vos prénoms, si vous le souhaitez :
+      http://accueil-etrangers.gouv.fr/modeles/articles-lies/article/formulaire-cerfa-no-65-0054
+      Pour préparer l’entretien d’assimilation, les connaissances attendues sont dans le livret du citoyen :
+      www.immigration.interieur.gouv.fr/Accueil-et-accompagnement/La-nationalite-francaise/Le-livret-du-citoyen
+      SOMMAIRE
+      12
+      L’INTÉGRATION
+      VUE PAR LES RÉFUGIÉS
+      Témoignages
+      L’INTÉGRATION
+      VUE PAR LES RÉFUGIÉS
+      L’intégration suppose un effort des immigrés, dont les réfugiés, pour s’adapter à la société française mais aussi un effort de la société et de ses institutions pour les accueillir. La dynamique de l’intégration est basée sur cette réciprocité : respect des règles et valeurs du pays et adhésion à une société dont ils deviennent des membres à part entière du côté de ceux qui viennent en France ; respect des différences et reconnaissances juridique, économique, sociale et culturelle du côté de la société française et de ses institutions. Depuis environ trente ans, « l’intégration » est la doctrine officielle de la France. Elle a remplacé celle dite de « l’assimilation » selon laquelle les spécificités socio-culturelles des immigrés devaient rester cantonnées dans le domaine privé, voire être oubliées.
+      Un nouveau mot apparaît aujourd’hui, celui d’inclusion : sociale, économique, culturelle, relationnelle. Plutôt que penser des politiques pour les réfugiés, il s’agirait de les penser avec eux. Plutôt que d’une réciprocité, il s’agirait d’un échange.
+      Ce terme étant relativement nouveau, à la suite du travail pour le Guide mené avec les réfugiés du comité, nous leur avons demandé comment ils comprennent le terme d’intégration et où ils en sont dans leur vie depuis leur arrivée.
+      Ces entretiens ont été réalisés en français.
+      Joseph 35 ans, arrivé en 2013. Originaire du Congo
+      « L’intégration, c’est avoir les mêmes droits que les autres. Tu acceptes la civilisation et la manière de vivre, même si ce n’est pas comme chez toi, pour être un citoyen, un bon républicain comme on dit chez vous. Tu changes un peu ta culture, avec le bon d’ici et le bon dans ta culture, et tu es libre. Là, tu es intégré totalement. Mais il ne faut jamais oublier sa culture d’origine ! Tu as une histoire, tu ne peux pas. C’est comme si vous allez vivre en Afrique : vous pourrez vous adapter à la culture mais au fond de vous, vous resterez Français.
+      La société française m’a donné beaucoup pour refaire ma vie en m’acceptant, en me donnant du travail et en m’aidant. Après cinq ans, je me sens bien intégré. C’est beau à vivre ici. Avec les Français, ce n’est pas facile d’aborder quelqu’un que tu ne connais pas, pour eux non plus avec les immigrés. Chacun est un peu dans son coin. C’est ce qui est triste ici, il n’y a pas l’amitié comme en Afrique où ça va vite.
+      Dans le travail, il ne faut pas toujours chercher à faire ce qu’on faisait avant, on doit s’adapter à l’emploi et travailler dur pour réussir. J’ai fait une reconversion. J’avance parce que j’ai la volonté. Si tu es brave et que tu travailles bien, il n’y a pas de questions de couleur ici. »
+      Hosam 37 ans, arrivé en 2014. Apatride palestinien originaire de Syrie
+      « Tout est différent. Il faut d’abord comprendre cette société pour savoir comment y vivre et comment trouver la manière d’être avec les gens. C’est mon destin d’être là.
+      La première difficulté, c’est la langue et je n’avais aucune relation ici. Je ne voulais pas rester dans ma communauté mais être avec les Français. On me dit toujours qu’il faut apprendre la langue pour s’intégrer mais comment apprendre la langue sans s’intégrer ?
+      On doit apprendre beaucoup de choses en même temps et certains restent traumatisés par ce qu’ils ont vécu. J’ai eu de l’aide, des personnes, de l’État et des associations qui sont très importantes ici. J’ai aussi eu la chance de pouvoir continuer dans mon métier.
+      J’ai rencontré beaucoup de Français et je les aime bien. Je me sens chez moi ici. J’ai beaucoup d’amis, j’ai mon travail, mon appartement. Ça n’a pas été facile mais j’ai ma vie. Je suis même bien intégré : j’ai payé ma première amende parce que je n’avais pas mis la ceinture à l’arrière de la voiture… Je ne savais pas.
+      Pour s’intégrer, il ne faut pas être fermé dans sa communauté ou sa religion, entre soi. C’est très important, il faut être ouvert. L’islam le dit, on doit être en contact avec les autres. »
+      Abeer 41 ans, arrivé en 2015. Originaire d’Irak
+      « Pour moi, c’est l’insertion dans la société française de nombreuses façons, comprendre les Français et se comporter correctement parce qu’il y a beaucoup de différences avec la société arabe d’où je viens. Il faut participer, être un membre actif et la première étape est la langue. Sans ça, tu habites en France mais juste physiquement, comme sur une autre planète.
+      On m’accepte et c’est comme un engagement que je dois tenir. Pour les réfugiés, les aides se font sur les salaires des autres. Si tu travailles, tu participes toi aussi. La société française m’a donné l’asile et la sensation de vivre en paix. Je ne réfléchis plus à ma sécurité. Elle me donne beaucoup d’espérance. Cela ajoute quelque chose pour moi et moi j’ajoute quelque chose à la société. C’est comme une façon de vivre ensemble.
+      Si j’ai la nationalité, je deviendrai un Français d’origine irakienne et arabe. Je ne peux pas oublier mon origine et je ne veux pas, j’en suis fier. En deux ans, j’ai appris beaucoup de choses et je continue. Je fais tout pour m’intégrer vite. Le travail est essentiel, cela me manque aujourd’hui pour avancer dans ce que je sais faire, pour ne pas perdre la main comme on dit. »
+      Clémentine 50 ans, arrivée en 2011. Originaire de Côte d’Ivoire
+      « Je le comprends comme m’intégrer dans le pays de quelqu’un, dans une société. J’ai une sécurité par rapport à ce qui s’est passé dans mon pays, je peux avoir une vie que je n’aurais pas eu, me refaire une autre vie. Ça m’a changé de venir ici, j’ai appris beaucoup de choses. C’est important de s’intégrer parce que tu apprends beaucoup. Si tu ne voyages pas, il y a tellement de choses que tu ne peux pas connaître. Et tu deviens une autre personne dans ta manière de voir et de comprendre, tu as plus de connaissances.
+      Je ne peux pas oublier d’où je viens, mon éducation. Je sais que je viens de là. Je préfère par exemple l’éducation chez moi mais je préfère l’évolution des choses ici. Je me dis que peut- être plus tard, je ferai connaître mon pays à des Français en les emmenant là-bas.
+      Respecter les gens d’ici, les coutumes et les lois, c’est important. Aujourd’hui je travaille, je cotise pour les autres. Je donne aussi de l’aide à des gens, à des personnes âgées par exemple. Je me sens bien intégrée, dans les relations et mon travail. Même si j’aime pas le froid ! Je compte rester ici, je n’ai plus de toit dans mon pays. Et j’attends mes enfants, qu’ils viennent me rejoindre. C’est ce qui me manque. »
+      Anna 48 ans, arrivée en 2006. Originaire de Russie
+      « C’est être ensemble avec les autres, travailler, étudier et faire toutes les choses du quotidien avec eux. C’est un échange. Il ne faut pas s’enfermer à la maison et rester invisible. Sur le chemin de l’intégration, il faut cocher des cases. On fait ce qu’on peut pour vivre ici et progresser dans tous les domaines. Mais sans l’apport de la société, on ne pourrait pas. Quand on est arrivés, la scolarité, les services médicaux et les cours de français étaient gratuits. Aujourd’hui, en travaillant, on fait ce qu’on peut pour le pays et pour nous-mêmes. C’est pour cela qu’on veut être naturalisés, pour être citoyens de ce pays.
+      On n’oublie jamais d’où on vient, sinon on devient sans passé et sans histoire. Les enfants doivent savoir d’où ils viennent. Cela n’empêche pas de faire quelque chose pour la France. On ne fête pas Noël à la maison par exemple mais on le fête à l’école pour qu’ils ne se sentent pas différents des autres. On cumule les deux cultures et je crois qu’on devient plus riches.
+      Je me sens bien maintenant. Mes garçons sont protégés et je leur dis combien de gens rêvent de venir ici, qu’ils doivent en profiter. Mes amis et ma famille me manquent, je garde le contact à distance. Le goût des fruits me manque aussi, mais je m’adapte. »
+      Ahmed 38 ans, arrivé en 2014. Originaire du Yémen
+      « J’entends souvent ce mot d’intégration à la télévision. Mais l’intégration est en moi depuis longtemps. Une partie de ma famille vit en France, mon père a vécu à Paris, je parle français depuis l’école, je connaissais la culture et ensuite j’ai travaillé dans le tourisme au Yémen avec des Français.
+      La France m’a ouvert sa porte, elle m’a bien accueilli alors que des pays arabes voisins ne l’auraient pas fait. Maintenant je travaille, je suis entré dans le système français, je n’ai plus le temps d’aider des réfugiés avec des bénévoles français et des associations comme je le faisais. Ces Français reflètent les droits de l’homme de la France, ils jouent un rôle très important dans nos vies. Il ne faut pas les oublier.
+      Au début c’était difficile, j’avais la nostalgie, je pensais repartir après la guerre. Depuis que je travaille, je me sens encore plus responsable de ma famille. J’ai une sœur en Norvège, une autre en Belgique et j’aide mes parents qui sont au Yémen. Je me suis rendu compte que c’était possible de vivre loin d’eux, comme si le monde était devenu plus petit. Je me sens bien, j’ai une stabilité. Pendant vingt ans, j’ai accueilli des Français au Yémen, comme guide, pour leur faire connaître mon pays. Des Français me l’ont rendu, encore plus. »
+      Le Guide du réfugié a été réalisé en collaboration avec une équipe de réfugiés. Ils ont également raconté leurs perceptions de l’intégration et leurs expériences qui sont devenues des histoires courtes en bande dessinée.
+      Pour le travail et le temps partagé, un grand merci à Anna, Abeer H. Rashid, Joseph, Hosam Kamal, Ahmed Al Kubati, Clémentine Yapi ainsi que d’autres réfugiés qui ont participé plus ponctuellement.
+      Le Guide a été rendu possible grâce au soutien actif de l'association Welcome Bordeaux, membre du réseau JRS Welcome. Ce réseau organise, entre autres, un accueil en famille des demandeurs d’asile et réfugiés dans l’attente d’un logement. JRS France (Jesuit Refugee Service) mène différentes actions de soutien pour accompagner, servir et défendre les réfugiés.
+      Deux mécènes privés, qui ne souhaitent pas en faire publicité, ont permis par leur contribution la réalisation de ce travail, de même que le Conseil départemental de la Gironde. Qu’ils en soient ici vivement remerciés !
+      Le Guide du réfugié a été réalisé par :
+      Ligne éditoriale et conception :
+      Anne Rouffi et Christophe Dabitch
+      Rédaction (Guide et bande dessinée) :
+      Christophe Dabitch
+      Dessin : Cami
+      Graphisme et site Internet : Laurent Labat Traduction : Joëlle Kolich (anglais), Tatiana de Sousa (russe) et Abeer H. Rashid (arabe).
+      Relecture et correction : Chantal Wionnet et Jérôme Thollon-Pommerol (français), Clare Durif-Scott (anglais), Issam Al Khatib et Iyad Kallas (arabe), Tatiana de Sousa (russe). Pour leur contribution, merci à Olya Deveix (russe), à Menni-Liza Lekehal-Bruniau (arabe) età Azita Hempartian (persan).
+      Ce Guide du réfugié ne remplira son rôle que s’il est diffusé le plus possible par les associations, administrations et structures qui travaillent avec les réfugiés en France, mais aussi par les réfugiés eux-mêmes.
+      Pour leur soutien à la diffusion du Guide, merci à : JRS France, Conseil départemental de la Gironde, Amnesty International, Groupe d’Intervention et de Soutien aux Immigrés (Gisti), Singa, FNARS, Forum Réfugié, Cimade, France Terre d’Asile (FTDA), Médecins du Monde, Action Emploi Réfugiés, Alifs, Foyer Notre-Dame…
+      Merci également à : La Croix-Rouge, Samu Social de Paris, Coalia, Secours Catholique, Secours Populaire, Adoma, Centre Primo Levi, COS, LDH, AIR, France Horizon, Asti, Emmaüs… et toutes les associations, collectifs et réseaux de volontaires ou bénévoles qui accompagnent les réfugiés.
+      Nous remercions par avance les services de l’État qui travaillent à l’intégration des réfugiés de leur aide à la diffusion de ce document, les départements et leurs MDSI, les mairies et leurs CCAS. Nous remercions également l’OFPRA pour son attention.
+      Le Guide du réfugié leguidedurefugie.com :
+      © Welcome Bordeaux.
+      Welcome Bordeaux
+      208 rue de Pessac - 33000 Bordeaux.
+      Octobre 2018
+      Tous droits réservés. Toute reproduction, même partielle, sous quelque forme que ce soit, est interdite sans autorisation écrite du détenteur des droits.
+      ISBN : 979-10-699-1585-5
+      1er dépôt légal : décembre 2017

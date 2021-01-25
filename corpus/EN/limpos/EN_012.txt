@@ -1,0 +1,102 @@
+﻿<Header>
+  <title>
+    <tit> Human rights and Asylum seekers and refugees</tit>
+    <fileName> EN_012 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Guide </textType>
+    <subcorpus> Original Australian English </subcorpus>
+  </title>
+  <sourceText>
+    <language> Australian English </language>
+    <source> https://humanrights.gov.au/sites/default/files/content/letstalkaboutrights/downloads/HRA_asylum.pdf </source> 
+    <publisher> Australian Human Rights Commission </publisher>
+    <pubDate> 2015 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 28.06.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher> 
+    <comments> </comments>
+  </sourceText>
+  <author>
+    <institution> Australian Government </institution>
+  </author>
+</Header>
+
+Australian Human Rights Commision
+everyone, everywhere, everyday
+
+Human rights and Asylum seekers and refugees
+
+This information sheet talks about some of the human rights issues faced by asylum seekers and refugees in Australia. It also highlights how a federal Human Rights Act could help deal with these issues.
+
+Which human rights are we talking about?
+Human rights are about everyone, including people who are not Australian citizens. Some of the human rights and freedoms particularly relevant to asylum seekers and refugees include the right:
+not to be subjected to arbitrary detention, torture, or cruel, inhuman or degrading treatment or punishment
+to challenge in court the legality of their detention
+not to be sent back to a country where their life or freedom would be threatened
+to work, education, and physical and mental health care.
+Child asylum seekers and refugees are entitled to special protection. For example:
+the best interests of the child must be a primary consideration at all times
+they are entitled to humanitarian assistance and tracing of family members in other parts of the world
+detention of a child must be a last resort and for the shortest appropriate period of time.
+
+What are some of the human rights problems faced by asylum seekers and refugees in Australia?
+Over the past 15 years Australia has breached the human rights of many asylum seekers and refugees. For example:
+Hundreds of children were held in immigration detention centres for long periods of time. One Cambodian boy was detained for five and a half years. The long-term detention of children in immigration detention centres, often in remote desert locations, severely affected the mental health of many child detainees and violated a range of their fundamental human rights including the right to be detained only as a measure of last resort, and their rights to education and health care.
+Many adult asylum seekers have been subjected to prolonged and indefinite detention under Australia's mandatory detention laws.
+Some asylum seekers were transferred to offshore detention facilities in other countries like Nauru and Papua New Guinea where they did not have access to Australia's refugee status determination process. While these facilities have now closed, some asylum seekers are still being processed offshore on Christmas Island.
+Some asylum seekers were granted Temporary Protection Visas which only lasted for three years and prevented them from travelling to see family or bringing their family to Australia to join them. This left some refugees, including unaccompanied children, separated from their family for years, and exposed severely traumatised people to further uncertainty.
+
+Indefinite detention permitted by Australian law
+
+Mr Al-Kateb was born in Kuwait to parents of Palestinian origin. He arrived in Australia by boat. After two years in immigration detention he decided he wanted to be removed from Australia. The Australian Government tried to send him to Egypt, Jordan, Kuwait and Syria as well as to the Palestinian Territories, but none of those countries would give him a passport. He was stuck in detention because the Australian Government couldn't arrange for him to leave. When Mr Al-Kateb applied to the courts for his release, the Australian High Court found that Australian law permits the indefinite detention of asylum seekers. Mr Al-Kateb was eventually given a bridging visa and now lives in the Australian community.
+Recently, there have been some changes to improve the treatment of asylum seekers and other immigration detainees. This has included the abolition of Temporary Protection Visas and the removal of children from immigration detention centres. However, significant concerns remain. For example:
+the law requiring mandatory detention is still in place, and immigration detainees are still unable to challenge their detention in a court
+some children are still held in closed immigration detention facilities on the mainland and Christmas Island
+there is no law governing the way people should be treated in immigration detention
+there are insufficient legal guarantees to prevent the return of asylum seekers who fail to meet the definition of a refugee, but still face threats of torture and death in their country of origin
+some asylum seekers are given bridging visas that allow them to live in the community but without the right to work or receive Medicare, so they are dependent on support from charity.
+
+Young boy attempts suicide in immigration detention
+
+Between April and July 2002, a 14 year old boy held at the immigration detention centre in Woomera attempted to hang himself four times, climbed into the razor wire four times, slashed his arms twice and went on hunger strike twice. Psychiatrists pleaded with authorities to release him and his mother from detention. Two years later, he was finally recognised as a refugee and released. He now lives in Australia with his family.
+Human Rights and Equal Opportunity Commission, A Last Resort? National Inquiry into Children in Immigration Detention (2004), pp 442-444.
+
+What are the limitations of existing human rights protections for asylum seekers and refugees?
+There are very limited human rights protections for asylum seekers and refugees in Australia.
+Australian tribunals and courts do not have the power to consider whether an individual's detention is arbitrary, unreasonable or unnecessary and they cannot order the government to release a person from immigration detention.
+Asylum seekers and refugees do have some options if they think their human rights have been breached. For example, they can:
+apply to some tribunals and courts for review of certain visa-related decisions
+complain to the Commonwealth Ombudsman, for example, about the Department of Immigration's decision-making processes
+complain to the Australian Human Rights Commission about their treatment in immigration detention. However, while the Commission and the Ombudsman can make recommendations in response to individual complaints, the government does not have to comply with those recommendations.
+
+How could we improve human rights protections for asylum seekers and refugees?
+The Australian Human Rights Commission supports a Human Rights Act for Australia.
+A Human Rights Act could make a difference in protecting and promoting the rights of refugees and asylum seekers by requiring our government to carefully consider how decisions impact on their human rights.
+If Australia had a Human Rights Act, it could:
+make the federal Parliament consider how laws impact on human rights - for example, parliament would need to consider whether a law requiring the mandatory detention of all ‘unlawful non-citizens' could be justified in light of the fundamental human rights breaches it leads to
+make the federal government respect human rights when developing policy - for example, when deciding on the conditions attached to
+a bridging visa, the Department of Immigration would need to consider the human rights of asylum seekers to an adequate standard of living
+make public servants respect human rights when making decisions and delivering services - for example, when deciding whether an immigration detainee can see a medical specialist, the Department of Immigration and detention service providers would need to consider the right of all persons to the highest attainable standard of physical and mental health
+provide a range of enforceable remedies if a government department, such as the Department of Immigration, breached human rights.
+Over the longer term, a Human Rights Act would also be a powerful tool for fostering a stronger human rights culture in Australia by promoting greater understanding and respect among all people in Australia.
+There is a range of other ways in which the human rights of asylum seekers and refugees could be better promoted and protected in Australia. For example:
+enhanced protection of human rights in the Australian Constitution
+repealing mandatory detention laws
+legislating minimum standards for conditions and treatment of persons in immigration detention
+legislating to better protect people at risk of torture or death if returned to their country of origin
+ensuring that visa regulations and conditions permit access to appropriate health care, education, housing and work opportunities
+ensuring that staff members of the Department of Immigration and detention service providers receive adequate human rights training.
+
+One Cambodian boy was detained for five and a half years. The long-term detention of children in immigration detention centres, often in remote desert locations, severely affected the mental health of many child detainees and violated a range of their fundamental human rights.
+
+These and other measures could make a positive difference to human rights protection of asylum seekers and refugees in Australia.
+
+Where can I find more information about the human rights of asylum seekers and refugees?
+Australian Human Rights Commission: www.humanrights.gov.au/human_rights/immigration/index.html
+Refugee Council of Australia: www.refugeecouncil.org.au/index.html
+Amnesty International Australia: www.amnesty.org.au/refugees
+A Just Australia: www.ajustaustralia.com/home.php
+
+The Australian Human Rights Commission investigates complaints about alleged breaches of human rights in immigration detention facilities. It has conducted national inquiries and annual inspections focusing on the treatment of asylum seekers and refugees in immigration detention in Australia.
+For the full range of information sheets visit: www.humanrights.gov.au/letstalkaboutrights

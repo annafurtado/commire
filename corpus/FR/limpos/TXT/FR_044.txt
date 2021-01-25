@@ -1,0 +1,77 @@
+﻿<Header>
+	<title>
+		<tit> Renseignements destinés aux personnes qui envisagent de faire une demande d’asile au Canada en arrivant des États-Unis </tit>
+		<fileName> FR_044 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Canada) </language>
+		<source> https://ccrweb.ca/fr/renseignements-demandeurs-dasile-arrivant-etats-unis </source> 
+		<publisher> Conseil Canadien pour les réfugiés </publisher>
+		<pubDate> Mar, 2017 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+		<comments> </comments>
+	</sourceText>
+	<author>
+		<institution> Conseil Canadien pour les réfugiés </institution>
+	</author>
+</Header>
+Conseil canadien pour les réfugiés
+Renseignements destinés aux personnes qui envisagent de faire une demande d’asile au Canada en arrivant des États-Unis
+Mise en garde: L’information qui suit est fournie à titre indicatif seulement. Pour des renseignements plus précis, consultez la loi ou un avocat.
+Avertissements
+Si vous présentez votre demande à un poste frontalier officiel et que vous n’êtes pas visé par l’une des exceptions prévues par l’Entente sur les tiers pays sûrs, vous ne serez pas autorisés de demander l’asile au Canada. Vous serez immédiatement renvoyé aux États-Unis où vous pourriez être détenu et soumis à des procédures de renvoi vers votre pays d’origine.
+Si votre demande est jugée irrecevable pour d’autres raisons (ex : vous avez déjà demandé l’asile au Canada, ou vous n’êtes pas admissible pour des raisons de grande criminalité ou de sécurité), vous risquez de faire l’objet d’une expulsion immédiate vers votre pays d’origine (et non les États-Unis). Vous pourriez être détenu par les autorités de l’immigration. Vous n’aurez droit qu’à de recours très limités concernant les risques auxquels l’expulsion vous exposerait.
+Si votre demande d’asile est jugée admissible, vous devrez démontrer que vous êtes exposé à la persécution dans votre pays d’origine. Si vous n’êtes pas exposé à la persécution, votre demande sera probablement rejetée et vous ferez l’objet d’un renvoi vers votre pays d’origine (et non les États-Unis).
+Il est souvent difficile de démontrer que vous êtes exposé à la persécution si vous êtes à l’extérieur de votre pays d’origine depuis plusieurs années.
+Ne vous attendez pas à avoir le droit de travailler dès votre arrivée au Canada. Si votre demande est recevable, vous pouvez demander un permis de travail, mais les délais de traitement sont de plusieurs mois. Les demandeurs d’asile issus de pays d’origine désignés doivent attendre 180 jours avant de pouvoir demander un permis de travail.
+Faire une demande d’asile à un poste frontalier officiel : l’entente sur les tiers pays sûrs
+Une personne souhaitant demander l’asile à un poste frontalier officiel (un point d’entrée) est soumise à l’entente sur les tiers pays sûrs et ne peut donc généralement PAS demander l’asile au Canada. Lorsqu’une demande d’asile est jugée inadmissible en vertu de l’entente sur les tiers pays sûrs :
+La personne est renvoyée aux États-Unis le jour même (elle est généralement visée par une mesure de renvoi qui lui interdit de retourner au Canada sans autorisation pendant 12 mois);
+Les autorités canadiennes informent les autorités américaines au point d’entrée des États-Unis;
+La personne ne peut plus jamais demander l’asile au Canada.
+Exceptions
+Quelques exceptions sont prévues à l’entente. Une demande d’asile formulée au point d’entrée pourrait être jugée admissible si la personne :
+A des membres admissibles de sa famille effectivement présents au Canada (voir ci-dessous) ;
+Est un mineur non accompagné dont aucun des parents (ou tuteur légal) n’est ni aux États-Unis, ni au Canada;
+A un visa canadien valide;
+Vient d’un pays d’origine pour lequel un visa n’est pas exigé pour entrer au Canada, mais l’est pour entrer aux États-Unis (ex. : ressortissants mexicains); ou
+Est soumise à la peine de mort.
+Les membres de la famille visés par l’exception (admissibles) sont les suivants
+Un époux ou conjoint de fait (y compris de même sexe); un tuteur légal; un enfant; un père ou une mère; un frère ou une sœur; un grand-père ou une grand-mère; un petit-enfant; un oncle ou une tante; un neveu ou une nièce; ET
+Le membre de famille doit être citoyen canadien, résident permanent, une personne protégée ou réfugié au sens de la Convention, avoir obtenu un sursis à son renvoi, être titulaire d’un permis de travail ou d’études (certaines exceptions s’appliquent), ou encore - si le membre de la famille a 18 ans ou plus - être demandeur d’asile; ET
+Le membre de famille doit être physiquement présent au Canada.
+Afin de déterminer si une personne est visée par les exceptions à l’entente, les autorités canadiennes intervieweront la personne (et le membre de la famille), examineront tout document fourni et consulteront les bases de données du gouvernement canadien.
+http://www.cbsa-asfc.gc.ca/agency-agence/stca-etps-fra.html
+www.jrchc.org/vive/information-for-asylum-seekers/ (Site web en anglais seulement)
+Entrer au Canada, et ensuite faire une demande d’asile
+L’entente sur les tiers pays sûrs ne s’applique pas aux personnes faisant une demande d’asile à l’intérieur du Canada après y être entrées depuis les États-Unis. Les personnes traversant de manière irrégulière (à l’extérieur des postes frontaliers) sont souvent arrêtées par les autorités canadiennes près de la frontière. Si ces personnes disent vouloir faire une demande d’asile, elles sont amenées à un point d’entrée officiel pour voir si leur demande d’asile est recevable.
+Note: Une personne ne peut faire qu’UNE SEULE demande d’asile dans sa vie. Si une personne se présente à un point d’entrée et est renvoyée aux États-Unis en raison de l’entente sur les tiers pays sûrs, puis traverse la frontière canadienne de manière irrégulière, cette personne ne peut PAS demander l’asile.
+La demande d’asile est-elle recevable?
+Hormis l’entente sur les tiers pays sûrs, une demande d’asile pourrait aussi être jugée irrecevable si la personne
+A été reconnue comme réfugiée par un autre pays [tel que les États-Unis] et peut y retourner;
+A précédemment fait une demande d’asile au Canada (qu’elle ait été refusée, acceptée, retirée, abandonnée, ou jugée irrecevable);
+Est interdite de territoire au Canada pour raison de sécurité, grande criminalité, crime organisé ou pour atteinte aux droits humains.
+Demandes recevables : détermination du statut de réfugié
+Les demandes jugées recevables sont envoyées à la Commission de l’immigration et du statut de réfugié pour une audience. Dans la plupart des cas, l’audience est prévue dans un délai de 60 jours. On remet au demandeur un formulaire « Fondement de la demande d’asile » à compléter. Ce formulaire est très important et devrait être rempli avec l’aide d’un avocat d’expérience.
+À l’audience, la Commission de l’immigration et du statut de réfugié déterminera si la personne est réfugiée au sens de la Convention ou si elle sera exposée, dans son pays d’origine, à de la torture, des traitements ou punitions cruels et inusités, ou encore si sa vie sera en danger.
+Les demandeurs entrant au Canada depuis les États-Unis devraient savoir que les facteurs suivants seront considérés et auront peut-être une incidence négative sur l’évaluation de leur demande :
+Séjour prolongé aux États-Unis sans avoir présenté une demande d’asile;
+Long délai avant de présenter une demande d’asile aux États-Unis;
+Abandon d’une demande d’asile en cours aux États-Unis;
+Demande d’asile rejetée aux États-Unis;
+Demande d’asile acceptée aux États-Unis;
+Long délai avant de présenter une demande d’asile au Canada.
+http : / /www. cic. gc. ca/ français/ réfugiés/ aucanada/ demande-qui. asp refugeeclaim. ca/ preparation-guide/
+Ressources
+CCR, Les demandeurs d'asile arrivant des États-Unis et le tiers pays sûr : FAQ, ccrweb.ca/fr/demandeurs-E-U-tiers- pays-sur-faq
+CCR, page sur les Tiers pays sûrs: ccrweb.ca/fr/tiers-pays-sur
+Vive Shelter (Buffalo) [refuge pour demandeurs d’asile] Informations pour les demandeurs [page en anglais uniquement]: www.jrchc.org/vive/information-for-asylum-seekers/
+Système de détermination du statut de réfugié
+Page du CCR avec liens: ccrweb.ca/fr/la-reforme-refugies
+Conseil canadien pour les réfugiés Canadian Council for Refugees

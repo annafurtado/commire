@@ -1,0 +1,56 @@
+﻿<Header>
+	<title>
+		<tit> Demander la citoyenneté canadienne </tit>
+		<fileName> DCC_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Informational Text in PDF </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Canada) </language>
+		<source> https://ccrweb.ca/sites/ccrweb.ca/files/citizenship-resource-fr.pdf </source> 
+		<publisher> Conseil canadien pour les réfugiés </publisher>
+		<pubDate> Jul, 2018 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Conseil canadien pour les réfugiés </institution>
+	</author>
+</Header>
+Demander la citoyenneté canadienne
+Raisons d'obtenir la citoyenneté
+La citoyenneté permet à la personne de participer pleinement à la société canadienne. Elle garantit à la personne une gamme de droits économiques, sociaux et politiques (incluant le droit de vote), mais surtout le droit absolu d'entrer et de rester au Canada. La citoyenneté est devenue encore plus précieuse parce que les changements apportés récemment à la loi sur l'immigration facilitent la perte du statut de résident permanent.
+L'obtention de la citoyenneté est surtout importante pour les réfugiés qui ne peuvent pas rentrer chez eux; et qui sont effectivement apatrides.
+Saviez-vous qu'il est plus facile de demander la citoyenneté canadienne avant 18 ans?
+N'attendez pas - devenez citoyen ou citoyenne dès que possible. Partagez ces raisons Un plus grand nombre de personnes ont maintenant droit à la citoyenneté
+En octobre 2017, des modifications à la Loi sur la citoyenneté sont entrées en vigueur, de sorte que de nombreuses personnes ont droit à la citoyenneté plus tôt que par le passé.
+Notamment :
+Les enfants peuvent demander la citoyenneté, même si leurs parents ne peuvent ou ne veulent pas en faire la demande.
+Les demandeurs doivent avoir passé 3 des 5 dernières années au Canada.
+Certains demandeurs peuvent comptabiliser une partie de la période qu'ils ont vécue au Canada avant d'avoir obtenu la résidence permanente. Ils doivent avoir passé au moins 2 ans au Canada en tant que résidents permanents. Ils peuvent également compter une demi-journée pour chaque jour effectivement passé au Canada avant de devenir résident permanent, s'ils avaient le statut de réfugié (personne protégée) ou résident temporaire. Par exemple:
+Jacinta est acceptée en tant que réfugiée par la Commission de l'immigration et du statut de réfugié en juin 2015 (elle a donc le statut de « personne protégée »). Elle obtient sa résidence permanente en juin 2016. L'année qu'elle a passée en tant que personne protégée compte pour six mois sur les trois années exigées pour être admissible à la citoyenneté. En supposant qu'elle demeure physiquement présente au Canada pendant toute cette période, elle peut demander la citoyenneté après deux ans et demi à titre de résidente permanente (c.-à-d. en décembre 2018).
+Utilisez la Calculatrice de la période de présence effective fournie par le gouvernement canadien pour déterminer le jour où une personne devient éligible.
+Les enfants et les jeunes qui demandent la citoyenneté seuls
+Les enfants et les jeunes de moins de 18 ans peuvent demander la citoyenneté s'ils rencontrent les mêmes règles qui s'appliquent aux demandeurs adultes en matière de résidence permanente et la présence effective au Canada.
+Il s'agit d'une nouvelle possibilité pour les jeunes qui auparavant ne pouvaient pas présenter leur propre demande, en raison de leur âge.
+Depuis février 2018, le coût des demandes de la part des mineurs est descendu à 100$.
+Exemples: 
+• Roberto arrive au Canada à l'âge de 14 ans en tant que mineur non accompagné et est accepté comme réfugié. Ses parents le rejoignent plus tard au Canada, mais ils ne sont pas encore admissibles à la citoyenneté. Roberto peut demander la citoyenneté dès qu'il s'y qualifie.
+• Khadija (aujourd'hui âgée de 17 ans) et Samia (15 ans) se sont réinstallées au Canada en tant que réfugiées, avec leur mère, il y a trois ans. Leur mère travaille toujours à améliorer son français (et elle n'a pas l'argent nécessaire pour sa demande de citoyenneté). Khadija et Samia peuvent demander la citoyenneté toutes seules (au prix de 100 $ chacune).
+En savoir plus sur les demandes de citoyenneté présentées par des mineurs.
+Langue/connaissances et la demande de citoyenneté
+Les demandeurs adultes (âgés de 18 à 54 ans) doivent :
+• Présenter à l'avance une preuve de compétence linguistique en français ou en anglais
+• Réussir l'examen de citoyenneté. (Les candidats qui ne réussissent pas l'examen écrit sont invités à le refaire. S'ils ne réussissent pas la deuxième fois, on leur offre une troisième chance : cette fois les questions sont lues à haute voix dans une salle privée. On ne peut pas utiliser les services d'un interprète lors de l'examen.)
+Ces exigences constituent un obstacle pour certaines personnes, mais il est possible de demander une dispense ou un accommodement.
+Demandes de dispense ou d'accommodement
+Cochez la case dans le formulaire pour demander une dispense ou un accommodement.
+Fournir des informations détaillées sur les circonstances personnelles du demandeur pour soutenir la demande. Si la personne a un passé de réfugiée, il faudrait le mentionner. Des lettres d'intervenants, d'enseignants et d'autres professionnels peuvent être soumises. En règle générale, les agents de la citoyenneté demandent une preuve médicale de l'incapacité de satisfaire aux exigences linguistiques ou de connaissances pour envisager une dispense pour des raisons d'ordre humanitaire, mais les demandeurs peuvent également expliquer leur situation plus globalement, car « humanitaire » signifie que toutes les circonstances pertinentes doivent être prises en considération.
+Les dispenses pour des raisons d'ordre humanitaire ne sont pas très souvent accordées, mais on les voit un peu plus souvent au cours des dernières années.
+Des renseignements concernant les procédures et les éléments que les agents prendraient en considération se trouvent dans les lignes directrices.
+Citoyenneté et perte de l'asile
+Dans le cas des personnes qui sont venues au Canada en tant que réfugiées, une demande de citoyenneté peut mener à une perte de statut au Canada, si leur demande révèle qu'elles sont retournées dans leur pays d'origine. Depuis 2012, le gouvernement utilise les demandes de citoyenneté pour lancer le processus de perte de l'asile (ou cessation, c'est-à-dire dépouiller la personne de son statut de réfugié et donc de sa résidence permanente, parce qu'elle n'a plus besoin de la protection du Canada). Il est donc important d'examiner les conséquences possibles d'une demande qui révèle que la personne a visité son pays d'origine.
+Voir ccrweb.ca/fr/cessation-informations-base

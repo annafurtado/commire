@@ -1,0 +1,399 @@
+﻿<Header>
+	<title>
+		<tit> Guide du demandeur d'asile (Version imprimable) </tit>
+		<fileName> GDAVI_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Canada) </language>
+		<source> https://irb-cisr.gc.ca/fr/demandes-asile/Pages/ClaDemGuide.aspx#introduction </source> 
+		<publisher> Commission de l'immigration et du statut de réfugié du Canada </publisher>
+		<pubDate> 2018 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Commission de l'immigration et du statut de réfugié du Canada </institution>
+	</author>
+</Header>
+Accueil + Demandes d'asile + Guide du demandeur d'asile (Version imprimable)
+Guide du demandeur d'asile (Version imprimable)
+Version 5 - 2018
+Table des matières
+Au sujet du guide
+La protection des réfugiés au Canada : introduction
+Définitions
+Demander l'asile
+Comment puis-je présenter une demande d'asile?
+À un point d'entrée
+Dans un bureau intérieur
+Quelles sont mes responsabilités?
+Obtenir un formulaire FDA (formulaire Fondement de la demande d'asile) exact et rempli soumis à temps
+Responsabilités concernant les documents et l'audience
+Tenir la CISR (Commission de l'immigration et du statut de réfugié du Canada) au courant de ses coordonnées et de celles de son conseil
+Une fois que vous avez une date d'audience prévue
+Dans quelle langue la SPR (Section la protection des réfugiés) communiquera-t-elle avec moi?
+À quel moment la SPR (Section la protection des réfugiés) peut-elle prononcer le désistement de ma demande d'asile?
+Puis-je retirer ma demande d'asile?
+Formulaire Fondement de la demande d'asile et documents administratifs
+Qu'est-ce que le formulaire Fondement de la demande d'asile?
+Quand dois-je remettre mon formulaire FDA (formulaire Fondement de la demande d'asile)?
+À un point d'entrée
+À un bureau intérieur
+Dans quelle langue puis-je remplir mon  formulaire FDA (formulaire Fondement de la demande d'asile) ?
+Les enfants doivent-ils remplir un formulaire FDA (formulaire Fondement de la demande d'asile) ?
+Ai-je besoin d'un représentant désigné?
+Qu'arrive-t-il si je ne remplis pas le  formulaire FDA (formulaire Fondement de la demande d'asile) à temps?
+Qu'arrive-t-il si je ne donne pas mes coordonnées à temps?
+Puis-je modifier mon formulaire FDA (formulaire Fondement de la demande d'asile) ?
+Conseil
+Ai-je besoin d’un conseil pour me représenter dans le cadre de ma demande d’asile?
+Qui peut être conseil?
+Que se passera-t-il si mon conseil souhaite me représenter dans l’autre langue officielle? Comment puis-je obtenir mes documents si mon conseil cesse de me représenter?
+Se préparer à l’audience
+Comment vais-je savoir quand mon audience aura lieu?
+Que se passe-t-il si mon conseil ou moi ne sommes pas disponibles le jour de l’audience? Si vous n’êtes pas disponible le jour de l’audience
+Puis-je changer la langue officielle que j’ai demandé à la SPR (Section la protection des réfugiés) d’utiliser avec moi après la présentation de mon formulaire FDA (formulaire Fondement de la demande d'asile) ?
+Qu’arrivera-t-il si je change la langue officielle que j’ai demandé à la SPR (Section la protection des réfugiés) d’utiliser avec moi?
+Puis-je changer la langue d’interprétation à l’audience après la présentation de mon formulaire FDA (formulaire Fondement de la demande d'asile) ?
+Dois-je fournir des documents à la SPR (Section la protection des réfugiés) ?
+Quand la SPR (Section la protection des réfugiés) doit-elle recevoir mes documents?
+Mes documents doivent-ils être traduits?
+Quels autres documents la SPR (Section la protection des réfugiés) utilisera-t-elle pour déterminer si elle accueille ou non ma demande d’asile?
+Que dois-je prouver pour que ma demande d’asile soit accueillie?
+Puis je participer à une séance d’information sur les audiences de la SPR (Section la protection des réfugiés)?
+L’audience
+Qui déterminera si ma demande d’asile est accueillie?
+Un interprète me sera-t-il fourni?
+Mes enfants doivent-ils se présenter à l’audience?
+Puis-je faire comparaître des témoins?
+Comment mon audience se déroulera-t-elle?
+Vous effectuerez une déclaration
+Vous témoignerez
+Vos témoins déposeront leurs témoignages
+Des commentaires (observations) seront formulés relativement à votre cas
+Une décision sera rendue
+Que se passe-t-il une fois la décision rendue?
+Si votre demande d’asile est accueillie
+Si votre demande d’asile est rejetée
+Obtenir de l'aide
+Au sujet du guide Le présent guide est destiné aux personnes qui demandent l'asile au Canada. Il fournit des renseignements de base concernant :
+la façon dont les décisions sur les demandes d'asile sont rendues au Canada;
+les fonctions de la Section de la protection des réfugiés (SPR) à la Commission de l'immigration et du statut de réfugié au Canada (CISR);
+vos responsabilités.
+La protection des réfugiés au Canada : introduction
+La CISR (Commission de l'immigration et du statut de réfugié du Canada) est un tribunal indépendant et est responsable, par l'entremise de l'une de ses sections, la SPR (Section la protection des réfugiés), de trancher les demandes d'asile au Canada.
+L'asile vous est conféré au Canada si vous répondez à la définition des Nations Unies relative au réfugié au sens de la Convention ou si vous êtes une personne à protéger. Les Nations Unies définissent le réfugié au sens de la Convention comme une personne qui craint avec raison d'être persécutée du fait de sa race, de sa religion, de sa nationalité, de ses opinions politiques ou de son appartenance à un groupe social. L'appartenance à un groupe social peut comprendre, entre autres, l'orientation sexuelle, l'identité sexuelle, les femmes craignant la violence conjugale et l'état sérologique vis-à-vis du VIH. La personne à protéger doit démontrer que, si elle retourne dans son pays d'origine, elle sera exposée au risque d'être soumise à la torture, à une menace à sa vie ou au risque de traitements ou peines cruels et inusités.
+Le présent guide donne des renseignements généraux au sujet du processus d'octroi de l'asile. Il ne s'agit pas d'un document juridique. Pour obtenir des renseignements juridiques plus précis, consultez la Loi sur l'immigration et la protection des réfugiés, le Règlement sur l'immigration et la protection des réfugiés ainsi que les Règles de la Section de la protection des réfugiés.
+Vous trouverez tous ces documents sur le site Web de la CISR à : www.cisr-irb.gc.ca
+Définitions
+Aide juridique : Service offert par certains gouvernements provinciaux ou territoriaux au Canada, qui peuvent payer certains services juridiques à des personnes qui n'ont pas assez d'argent pour retenir les services d'un avocat.
+Bureau intérieur : Tout bureau d'Immigration, Réfugiés et Citoyenneté Canada (IRCC) ou de l'Agence des services frontaliers du Canada (ASFC) à l'intérieur du Canada.
+Commissaire : Décideur de la Section de la protection des réfugiés (SPR) qui examine votre demande d'asile et décide si elle doit être accueillie.
+Conseil : Toute personne qui vous représente dans le cadre du processus d'octroi de l'asile.
+Si votre conseil vous demande une rémunération ou reçoit un autre mode de paiement pour vous représenter, il doit être un membre en règle d'un barreau provincial (avocat ou parajuriste, dans une province autorisant les parajuristes à être membres du barreau), de la Chambre des notaires du Québec ou du Conseil de réglementation des consultants en immigration du Canada. Le conseil peut aussi être un membre de la famille, un ami ou un bénévole qui vous représente sans vous demander une rémunération.
+Coordonnées : Renseignements nécessaires pour communiquer avec vous ou avec votre conseil. Cela comprend votre adresse actuelle complète et le ou les numéros de téléphone où il est possible de vous joindre. S'il s'agit des coordonnées de votre conseil, elles doivent aussi comprendre ses numéros de télécopieur et son adresse de courriel.
+Désistement d'une demande d'asile : Si vous ne faites pas tout ce qui est nécessaire pour que la Section de la protection des réfugiés (SPR) puisse rendre une décision au sujet de votre demande d'asile, elle peut décider que vous ne voulez pas que le traitement de votre demande d'asile se poursuive. Par exemple, cela peut se produire si vous ne transmettez pas votre formulaire Fondement de la demande d'asile à temps, si vous ne vous présentez pas à votre audience ou si vous ne communiquez pas avec la SPR (Section la protection des réfugiés) lorsque vous devez le faire.
+Si la SPR (Section la protection des réfugiés) prononce le désistement de votre demande d'asile, le traitement de votre demande d'asile ne pourra pas se poursuivre, et vous ne pourrez pas présenter une demande d'asile à l'avenir.
+Étranger désigné : Une personne faisant partie d'un groupe dont l'arrivée a été désignée par le ministre comme étant une « arrivée irrégulière ».
+Formulaire Fondement de la demande d'asile (formulaire FDA) : Formulaire dans lequel vous donnez des renseignements à votre sujet et précisez pourquoi vous demandez l'asile au Canada.
+Jour ouvrable : Un jour qui n'est ni un samedi ni un dimanche, ou n'importe quel jour où les bureaux de la Commission sont fermés.
+Participation du ministre : Lorsque le ministre de la Sécurité publique ou le ministre de l'Immigration, des Réfugiés et de la Citoyenneté décide de participer à votre demande d'asile et devient partie au processus d'octroi de l'asile. Un représentant de l'Agence des services frontaliers du Canada (ASFC) ou d'Immigration, Réfugiés et Citoyenneté Canada (IRCC) (le conseil du ministre) agit au nom du ministre à la Section de la protection des réfugiés.
+Partie : Le demandeur d'asile et le ministre, si ce dernier participe à votre demande d'asile. 
+Pays d'origine désigné (POD) : Pays désigné comme POD (Pays d'origine désigné) par le ministre de l'Immigration, des Réfugiés et de la Citoyenneté conformément à la Loi sur l'immigration et la protection des réfugiés (https://www.canada.ca/fr/immigration-refugies- citoyennete/services/refugies/presenter-demande-asile-canada/demande/politique-pays- designes.html).
+Personne à protéger : Personne se trouvant au Canada qui serait personnellement exposée au risque d'être soumise à la torture, à une menace à sa vie ou au risque de traitements ou peines cruels et inusités si elle était renvoyée dans son pays d'origine (son pays de nationalité ou, si elle n'en a pas, le pays où elle avait sa résidence habituelle).
+Personne exclue : Personne qui ne peut pas être considérée comme un réfugié au sens de la Convention ni comme une personne à protéger parce qu'elle a commis un crime grave de nature non politique hors du Canada, un crime contre la paix, un crime de guerre ou un crime contre l'humanité. Il peut aussi s'agir d'une personne rendue coupable d'agissements contraires aux buts et aux principes des Nations Unies ou qui n'a pas besoin de protection parce qu'elle vit dans un pays où elle possède des droits et des obligations semblables à ceux d'un citoyen de ce pays.
+Personne vulnérable : Personne dont la capacité de présenter son cas devant la Commission de l'immigration et du statut de réfugié du Canada (CISR) est grandement diminuée. Cette personne peut, entre autres, être atteinte d'une maladie mentale, être mineure ou âgée, avoir été victime de torture, avoir survécu à un génocide et à un crime contre l'humanité. Il peut aussi s'agir d'une femme qui a été victime de persécution liée au genre ou d'une personne qui a été victime de persécution liée à l'orientation sexuelle ou à l'identité de genre. Une personne vulnérable peut s'adresser à la Section de la protection des réfugiés (SPR) pour obtenir des mesures d'adaptation d'ordre procédural dans le cadre de son audience.
+Point d'entrée (PDE) : Un aéroport, un port maritime ou poste frontalier entre le Canada et les États-Unis.
+Protection des réfugiés / asile : Protection offerte par le Canada à un réfugié au sens de la Convention ou à une personne à protéger.
+Recevabilité / peut être déférée : Première étape du processus de demande d'asile. Un agent de l'Agence des services frontaliers du Canada (ASFC) ou d'Immigration, Réfugiés et Citoyenneté Canada (IRCC) décide si votre demande d'asile respecte certaines conditions de base. Si c'est le cas, l'agent envoie (« défère ») votre demande d'asile à la Section de la protection des réfugiés (SPR) de la Commission de l'immigration et du statut de réfugié du Canada (CISR), qui prendra une décision à son égard.
+Réfugié au sens de la Convention : Toute personne visée par la définition de « réfugié » énoncée dans la Convention de 1951 des Nations Unies relative au statut des réfugiés. Vous avez qualité de réfugié au sens de la Convention si :
+vous avez quitté votre pays d'origine (votre pays de nationalité ou, si vous n'en avez pas, le pays où vous aviez votre résidence habituelle);
+vous craignez avec raison d'être persécuté du fait de votre race, de votre religion, de votre nationalité, de vos opinions politiques ou de votre appartenance à un groupe social;
+vous ne pouvez ou, du fait de votre crainte, ne voulez pas essayer d'obtenir la protection de votre pays d'origine.
+Représentant désigné : Personne qui a la responsabilité de protéger les intérêts d'un enfant de moins de 18 ans ou d'un adulte qui est incapable de comprendre la nature du processus d'octroi de l'asile. Le représentant désigné a aussi la responsabilité d'expliquer le processus d'octroi de l'asile à cette personne. Dans le cas des enfants de moins de 18 ans, le représentant désigné est habituellement le père ou la mère de l'enfant. Toutefois, d'autres membres de la famille, un tuteur légal, un ami ou un travailleur d'un organisme de services sociaux peuvent également agir comme représentant désigné s'ils satisfont aux exigences prévues.
+Résident permanent : Droit de vivre, de travailler ou d'étudier et de séjourner au Canada conformément à des exigences précises en matière d'obligation de résidence.
+Retrait : Si vous ne voulez plus que le traitement de votre demande d'asile se poursuive, vous devez en informer la Section de la protection des réfugiés (SPR) par écrit. Si vous retirez votre demande d'asile, vous ne pourrez pas présenter une autre demande d'asile au Canada.
+Section d'appel des réfugiés (SAR) : Section de la Commission de l'immigration et du statut de réfugié du Canada (CISR) qui tranche les appels interjetés contre des décisions rendues par la Section de la protection des réfugiés (SPR). Dans la plupart des cas, la Section d'appel des réfugiés (SAR) procédera sans tenir d'audience, en se fondant sur les documents que les parties lui ont présentés et sur le dossier de la SPR (Section la protection des réfugiés).
+Section de la protection des réfugiés (SPR) : Section de la Commission de l'immigration et du statut de réfugié du Canada (CISR) qui examine les demandes d'asile présentées au Canada et détermine si elles doivent être accueillies.
+Demander l'asile
+Comment puis-je présenter une demande d'asile?
+Vous pouvez présenter une demande d'asile en parlant à un agent à un point d'entrée lorsque vous arrivez au Canada, ou à un bureau intérieur.
+L'agent de l'Agence des services frontaliers du Canada (ASFC) ou d'Immigration, Réfugiés et Citoyenneté Canada (IRCC) prendra une décision relativement à la recevabilité de votre demande d'asile et déférera cette dernière à la Commission de l'immigration et du statut de réfugié du Canada (CISR). Si votre demande d'asile est jugée recevable, elle sera transmise (« déférée ») à la Section de la protection des réfugiés (SPR) de la CISR (Commission de l'immigration et du statut de réfugié du Canada) pour lancer le processus de demande d'asile.
+À un point d'entrée
+Si vous présentez votre demande d'asile à un point d'entrée, vous recevrez une
+Confirmation de cas déféré et un Formulaire de fondement de la demande d'asile Formulaire FDA) à remplir. Vous devrez remettre votre formulaire FDA (formulaire Fondement de la demande d'asile) dûment rempli à la SPR (Section la protection des réfugiés) au plus tard 15 jours après la date à laquelle votre demande d'asile a été transmise à la SPR (Section la protection des réfugiés). À une date ultérieure, la SPR (Section la protection des réfugiés). Vous enverra un Avis de convocation à une audience qui précisera le moment et l'endroit où votre demande d'asile sera instruite.
+Dans un bureau intérieur
+Si vous présentez votre demande d'asile à un bureau intérieur, vous devez remettre votre formulaire FDA (formulaire Fondement de la demande d'asile) dûment rempli à l'agent qui décidera si votre demande d'asile est recevable. Cet agent vous remettra une Confirmation de cas déféré. À une date ultérieure, la SPR (Section la protection des réfugiés) vous enverra un Avis de convocation à une audience qui précisera le moment et l'endroit où votre demande d’asile sera instruite par la SPR (Section la protection des réfugiés).
+À votre audience, un décideur de la SPR (Section la protection des réfugiés), appelé un commissaire, décidera si votre demande d'asile devrait être accueillie ou rejetée.
+Quelles sont mes responsabilités?
+Obtenir un . formulaire FDA (formulaire Fondement de la demande d'asile) exact et rempli soumis à temps
+Vous devez fournir des renseignements complets, vrais et exacts dans votre formulaire FDA (formulaire Fondement de la demande d'asile).
+Vous devez fournir votre formulaire FDA (formulaire Fondement de la demande d'asile) à un agent si vous demandez l'asile à un bureau intérieur.
+Vous devez fournir votre formulaire FDA (formulaire Fondement de la demande d'asile) à la SPR (Section la protection des réfugiés) dans un délai de 15 jours suivant la date à laquelle votre demande d'asile est envoyée à la Commission si vous avez demandé l'asile à un point d'entrée.
+Vous devez faire en sorte que la SPR (Section la protection des réfugiés) reçoive à temps tous les documents qu’elle vous a demandé, y compris le formulaire FDA (formulaire Fondement de la demande d'asile).
+Responsabilités concernant les documents et l'audience
+Vous devez obtenir et fournir tout document à l'appui de votre demande d'asile. Vous devez prendre des dispositions dès maintenant pour obtenir ces documents sans tarder.
+Vous devez vous présenter à votre audience.
+Vous devez lire tous les documents que la SPR (Section la protection des réfugiés) vous envoie et veiller à fournir une réponse à temps à toute question posée par la SPR (Section la protection des réfugiés).
+Tenir la CISR (Commission de l'immigration et du statut de réfugié du Canada) au courant de ses coordonnées et de celles de son conseil
+Vous devez fournir à la SPR (Section la protection des réfugiés) vos coordonnées actuelles (adresse et numéro de téléphone). Si vous n'avez pas fourni votre adresse à l'agent de l'ASFC (l'Agence des services frontaliers du Canada) ou d'IRCC (Immigration, Réfugiés et Citoyenneté Canada) à votre entrevue visant à déterminer la recevabilité, vous devez la fournir à la SPR (Section la protection des réfugiés) au plus tard dix jours après la date de réception de votre Confirmation de cas déféré.
+Si vous déménagez, vous devez immédiatement donner votre nouvelle adresse à la SPR (Section la protection des réfugiés).
+Si vous êtes représenté par un conseil, vous devez immédiatement fournir à la SPR (Section la protection des réfugiés) les coordonnées de votre conseil (adresse et numéro de téléphone).
+Si vous changez de conseil, vous devez fournir à la SPR (Section la protection des réfugiés) les coordonnées de votre nouveau conseil.
+Une fois que vous avez une date d'audience prévue
+Changement de la langue de l'audience
+Si vous voulez changer la langue officielle (le français ou l'anglais) que vous avez choisie pour votre audience, vous devez en informer la SPR (Section la protection des réfugiés) au plus tard dix jours avant l'audience.
+Si vous voulez changer la langue ou le dialecte d'interprétation pour votre audience, vous devez en informer la SPR (Section la protection des réfugiés) au plus tard dix jours avant l'audience.
+Changement du lieu de l'audience
+Vous pouvez demander à la SPR (Section la protection des réfugiés) de changer le lieu de votre audience. Vous devez le faire au plus tard 20 jours avant l'audience. La SPR (Section la protection des réfugiés) acceptera de changer le lieu de l'audience dans certaines circonstances seulement.
+Au moment d'examiner la demande de changement de lieu de l'audience, la SPR (Section la protection des réfugiés) examinera des facteurs pertinents, notamment les suivants :
+si vous résidez à l'endroit où vous voulez que l'audience ait lieu;
+si le changement de lieu permet une instruction approfondie de l'affaire;
+si le changement de lieu retardera vraisemblablement la procédure;
+l'effet du changement de lieu sur le fonctionnement de la section;
+l'effet du changement de lieu sur les parties;
+si le changement de lieu est nécessaire pour accommoder une personne vulnérable;
+si l'audience peut avoir lieu par un moyen de télécommunication en direct avec le demandeur d'asile.
+Changement de la date ou de l'heure d'une audience
+Vous pouvez demander à la SPR (Section la protection des réfugiés) de changer la date ou l'heure de votre audience. Vous devez le faire au moins trois jours ouvrables avant l'audience. Ce n'est que dans des circonstances exceptionnelles que la SPR (Section la protection des réfugiés) acceptera de changer la date ou l'heure de l'audience.
+Dans quelle langue la SPR (Section la protection des réfugiés) communiquera-t-elle avec moi?
+Le Canada a deux langues officielles : le français et l'anglais. Vous pouvez choisir la langue officielle dans laquelle vous voulez que la SPR (Section la protection des réfugiés) communique avec vous (par exemple, pour votre audience ou les documents) en remplissant la section « Langue et interprète » du formulaire FDA (formulaire Fondement de la demande d'asile).
+Si vous ne comprenez ni le français ni l'anglais, la SPR (Section la protection des réfugiés) vous fournira un interprète pour l'audience. Vous devez préciser la langue et le dialecte que vous voulez utiliser dans la section « Langue et interprète » du formulaire FDA (formulaire Fondement de la demande d'asile).
+À quel moment la SPR (Section la protection des réfugiés) peut- elle prononcer le désistement de ma demande d'asile?
+La SPR (Section la protection des réfugiés) peut prononcer le désistement de votre demande d'asile si vous :
+ne transmettez pas à temps votre formulaire FDA (formulaire Fondement de la demande d'asile) dûment rempli;
+ne transmettez pas vos coordonnées actuelles et exactes;
+ne vous présentez pas à l'audience relative à votre demande d'asile;
+ne vous présentez pas à l'audience spéciale relative au désistement de votre demande
+d'asile, si vous êtes tenu d'être présent.
+Si la SPR (Section la protection des réfugiés) prononce le désistement de votre demande d'asile, celle-ci ne sera pas examinée. Cela signifie également que vous ne serez pas autorisé à présenter ultérieurement une autre demande d'asile et que vous devrez fort probablement quitter le Canada.
+Puis-je retirer ma demande d'asile?
+Avant votre audience, si vous décidez que vous ne voulez pas poursuivre votre demande d'asile,
+vous devez informer la SPR (Section la protection des réfugiés) par écrit que vous retirez votre demande d'asile.
+Formulaire Fondement de la demande d'asile et documents administratifs
+Qu'est-ce que le formulaire Fondement de la demande d'asile?
+Le formulaire FDA (formulaire Fondement de la demande d'asile) sert à présenter votre demande d'asile à la SPR (Section la protection des réfugiés). Dans le formulaire FDA (formulaire Fondement de la demande d'asile), vous donnerez des détails vous concernant (identité, famille, documents et antécédents de voyage) et préciserez pourquoi vous demandez l'asile au Canada. Les questions figurant dans le formulaire vous aideront à inclure les parties les plus importantes de vos expériences de vie. Il importe de mentionner tous les faits et les événements importants et de dire la vérité.
+À votre audience, un commissaire peut vous poser des questions sur tout ce que vous avez inscrit dans votre formulaire FDA (formulaire Fondement de la demande d'asile) et peut vous poser d'autres questions sur des éléments qui ne figurent pas dans votre formulaire FDA (formulaire Fondement de la demande d'asile). La SPR (Section la protection des réfugiés) se servira de l'information figurant dans votre formulaire FDA (formulaire Fondement de la demande d'asile) pour rendre une décision sur votre demande d'asile. Par conséquent, il importe de vous assurer que tous les renseignements mentionnés dans votre formulaire FDA (formulaire Fondement de la demande d'asile) sont complets, vrais et exacts.
+Vous devez signer et dater votre formulaire FDA (formulaire Fondement de la demande d'asile). En signant votre formulaire FDA (formulaire Fondement de la demande d'asile), vous déclarez que les renseignements qui y sont donnés sont complets, vrais et exacts.
+Quand dois-je remettre mon formulaire FDA (formulaire Fondement de la demande d'asile)?
+Cela dépend du lieu où vous avez présenté votre demande d'asile.
+À un point d'entrée
+Si vous avez présenté votre demande d'asile à un point d'entrée, vous devez transmettre l'original et une copie de votre formulaire FDA (formulaire Fondement de la demande d'asile) rempli à la SPR (Section la protection des réfugiés) au plus tard 15 jours après la date à laquelle IRCC (Immigration Réfugiés et Citoyenneté Canada) ou l'ASFC (l'Agence des services frontaliers du Canada) a transmis votre demande d'asile à la SPR (Section la protection des réfugiés) pour lancer le processus d'octroi de l'asile. Vous pouvez apporter votre formulaire FDA (formulaire Fondement de la demande d'asile) en personne à la SPR (Section la protection des réfugiés) ou le transmettre par messager. Dans le cas où il comporte moins de 20 pages au total, vous pouvez également le transmettre par télécopieur. Si vous ne fournissez pas votre formulaire FDA (formulaire Fondement de la demande d'asile) original à la SPR (Section la protection des réfugiés), notamment si vous l'envoyez par télécopieur, vous devrez produire l'original au début de votre audience.
+N'envoyez pas votre formulaire FDA (formulaire Fondement de la demande d'asile) par courrier ordinaire.
+À un bureau intérieur
+Si vous avez présenté votre demande d'asile à un bureau intérieur, vous devez remettre la version originale de votre formulaire FDA (formulaire Fondement de la demande d'asile) dûment rempli ainsi qu'une copie à d'IRCC (Immigration, Réfugiés et Citoyenneté Canada) ou à l'ASFC (l'Agence des services frontaliers du Canada) le jour de l'entrevue visant à déterminer la recevabilité. IRCC (Immigration, Réfugiés et Citoyenneté Canada) ou l'ASFC (l'Agence des services frontaliers du Canada) transmettra votre formulaire FDA (formulaire Fondement de la demande d'asile) dûment rempli à la SPR (Section la protection des réfugiés).
+Dans quelle langue puis-je remplir mon formulaire FDA (formulaire Fondement de la demande d'asile)?
+Vous devez remplir le formulaire FDA (formulaire Fondement de la demande d'asile) en français ou en anglais. Si un interprète vous aide à remplir le formulaire, il doit également le signer. Si aucun interprète ne vous aide, vous devez signer la déclaration (figurant dans le formulaire FDA (formulaire Fondement de la demande d'asile)) précisant que vous avez lu et compris le contenu du formulaire FDA (formulaire Fondement de la demande d'asile) dans la langue (français ou anglais) dans laquelle vous l'avez rempli.
+Les enfants doivent-ils remplir un formulaire FDA (formulaire Fondement de la demande d'asile)?
+Chaque membre de votre famille qui demande l'asile doit remplir son propre formulaire FDA (formulaire Fondement de la demande d'asile). Dans le cas des enfants âgés de six ans ou moins, il ne faut remplir que la partie 1 du formulaire FDA (formulaire Fondement de la demande d'asile) (« Qui vous êtes »). Les enfants âgés de plus de six ans et tous les enfants non accompagnés d'un adulte doivent répondre à toutes les questions. Si vous remplissez le formulaire FDA (formulaire Fondement de la demande d'asile) pour un enfant dont vous avez la garde et qui est âgé de moins de 18 ans, vous et la personne nommée par la SPR (Section la protection des réfugiés) en qualité de représentant désigné de l'enfant devez signer le formulaire FDA (formulaire Fondement de la demande d'asile) de l’enfant.
+Ai-je besoin d'un représentant désigné?
+Un représentant désigné est une personne chargée de protéger les intérêts d'un enfant de moins de 18 ans ou d'un adulte qui est incapable de comprendre la nature du processus d'octroi de l'asile. Le représentant désigné est également chargé d'expliquer le processus d'octroi de l'asile à cette personne.
+Dans le cas des enfants de moins de 18 ans accompagnés d'un adulte, le représentant désigné est habituellement le père ou la mère de l'enfant. Toutefois, d'autres membres de la famille, un tuteur légal, un ami ou un travailleur d'un organisme de services sociaux peuvent également agir comme représentant désigné s'ils satisfont aux exigences prévues.
+La décision de désigner un représentant est prise par la SPR (Section la protection des réfugiés) le plus tôt possible au cours du processus. Si vos enfants mineurs vous accompagnent dans le cadre de votre demande d'asile, veuillez remplir le formulaire Désignation d'un représentant pour les mineurs accompagnés et soumettez-le à la SPR (Section la protection des réfugiés) en même temps que votre formulaire Fondement de la demande d'asile (formulaire FDA). Si vos enfants demandent l'asile, veuillez remplir le formulaire Désignation d'un représentant pour les mineurs accompagnés et le soumettre en même temps que votre formulaire FDA.
+Qu'arrive-t-il si je ne remplis pas le formulaire FDA (formulaire Fondement de la demande d'asile) à temps?
+Si vous ne présentez pas votre formulaire FDA (formulaire Fondement de la demande d'asile) dûment rempli à temps, la SPR (Section la protection des réfugiés) pourrait prononcer le désistement de votre demande d'asile. Cela signifie que votre demande d'asile ne sera pas examinée. Avant de prononcer le désistement de votre demande d'asile, la SPR (Section la protection des réfugiés) tiendra une audience spéciale sur le désistement au plus tard cinq jours ouvrables après la date d'échéance prévue pour présenter votre formulaire FDA (formulaire Fondement de la demande d'asile). À cette audience spéciale, vous devrez expliquer pourquoi vous n'avez pas pu transmettre à temps le formulaire FDA (formulaire Fondement de la demande d'asile) dûment rempli et pourquoi la SPR (Section la protection des réfugiés) devrait poursuivre le traitement de votre demande d'asile. Il est donc très important que vous soyez présent à cette audience spéciale.
+La date de cette audience spéciale figurera dans la section « Date d'audience spéciale si le formulaire Fondement de la demande d'asile n'est pas reçu à temps » de la Confirmation de cas déféré.
+Qu'arrive-t-il si je ne donne pas mes coordonnées à temps?
+Si vous n'avez pas fourni votre adresse au Canada à IRCC (Immigration, Réfugiés et Citoyenneté Canada) ou à l'ASFC (l'Agence des services frontaliers du Canada) lorsque votre demande d'asile a été transmise à la SPR (Section la protection des réfugiés) pour qu'elle lance le processus d'octroi de l'asile, vous devez la fournir à la SPR (Section la protection des réfugiés), ainsi qu'à IRCC (Immigration Réfugiés et Citoyenneté Canada) ou à l'ASFC (l'Agence des services frontaliers du Canada) (selon l'organisation qui a envoyé votre demande d'asile à la SPR (Section la protection des réfugiés)) au plus tard dix jours après la réception de votre avis de convocation à une audience. Vous devez également informer immédiatement la SPR (Section la protection des réfugiés), ainsi que IRCC (IMMIGRATION REFUGIES ET CITOYENNETE CANADA) ou l'ASFC (l'Agence des services frontaliers du Canada), si vous déménagez. Si vous ne fournissez pas à temps vos coordonnées à la SPR (Section la protection des réfugiés), cette dernière pourrait ne pas être en mesure de communiquer avec vous et pourrait prononcer le désistement de votre demande d'asile.
+Puis-je modifier mon formulaire FDA (formulaire Fondement de la demande d'asile) ?
+Oui. Si vous trouvez une erreur dans votre formulaire FDA (formulaire Fondement de la demande d'asile), si vous vous rendez compte que vous avez omis un élément important ou si vous avez reçu des renseignements supplémentaires, vous devez en aviser la SPR (Section la protection des réfugiés). Vous devez souligner les modifications ou les ajouts, signer et dater les pages modifiées, et faire parvenir l'original ainsi qu'une copie de toutes les pages modifiées à la SPR (Section la protection des réfugiés). Vous devez également fournir une déclaration selon laquelle les renseignements contenus dans le formulaire FDA (formulaire Fondement de la demande d'asile) ainsi que les modifications et les ajouts apportés à celui-ci sont complets, vrais et exacts et que vous comprenez que votre déclaration a la valeur d'un serment. La SPR (Section la protection des réfugiés) transmettra ensuite une copie de ces pages modifiées à IRCC (Immigration Réfugiés et Citoyenneté Canada) ou à l'ASFC (l'Agence des services frontaliers du Canada) (selon l'organisation qui a envoyé votre demande d'asile à la SPR (Section la protection des réfugiés) doit recevoir les nouvelles pages au moins dix jours avant l'audience.
+Conseil
+Ai-je besoin d'un conseil pour me représenter dans le cadre de ma demande d'asile?
+Vous pouvez vous représenter vous-même. Vous n'êtes pas tenu d'avoir un conseil pour vous représenter. Toutefois, vous pouvez décider de faire appel à quelqu'un pour vous aider à présenter votre cas à l'audience. Si une date a déjà été fixée pour votre audience, assurez-vous que le conseil que vous avez choisi est disponible à la date de celle-ci. Vous devez aussi transmettre immédiatement par écrit les coordonnées de votre conseil à la SPR (Section la protection des réfugiés), ainsi qu'à IRCC (Immigration Réfugiés et Citoyenneté Canada) ou à l'ASFC (l'Agence des services frontaliers du Canada) (selon l'organisation qui a envoyé votre demande d'asile à la SPR (Section la protection des réfugiés)). Les coordonnées sont l'adresse, le numéro de téléphone, le numéro de télécopieur et l'adresse électronique, s'il y a lieu. Si vous changez de conseil pendant le processus de demande d'asile, vous devez en informer la SPR (Section la protection des réfugiés) en remplissant un nouveau formulaire Coordonnées du conseil.
+Qui peut être conseil?
+Votre conseil peut être :
+un membre en règle du barreau d'une province (avocat ou parajuriste, dans une province qui accepte les parajuristes à titre de membres du barreau);
+un membre en règle de la Chambre des notaires du Québec;
+un consultant en immigration qui est membre en règle du Conseil de réglementation des consultants en immigration du Canada.
+Seules ces personnes peuvent vous représenter à la SPR (Section la protection des réfugiés) et vous demander une rémunération. Si vous décidez de retenir les services d'un conseil, vous devez le faire à vos frais. Si vous n'avez pas suffisamment d'argent pour payer un conseil, vous pouvez communiquer avec le service d'aide juridique de votre province pour connaître les ressources en matière d'aide qui sont offertes, le cas échéant. Veuillez consulter la liste des organisations provinciales d'aide juridique se trouvant dans la trousse à l'intention du demandeur d'asile que vous avez reçue.
+Votre conseil doit donner à la SPR (Section la protection des réfugiés) le nom de l'organisation dont il est membre ainsi que son numéro de membre et il doit aussi remplir le formulaire Coordonnées du conseil CISR (Commission de l'immigration et du statut de réfugié du Canada)-101.02) compris dans la trousse à l'intention du demandeur d'asile que vous avez reçue. Ce formulaire est aussi disponible sur le site Web de la CISR (Commission de l'immigration et du statut de réfugié du Canada).
+Votre conseil peut également être un membre de votre famille, un ami ou un bénévole qui vous représente sans frais. Dans ce cas, vous devrez remplir le formulaire Avis - représentant non rémunéré ni autrement rétribué, qui fait partie de la trousse à l'intention des demandeurs d'asile.
+Ce formulaire est aussi disponible sur le site Web de la CISR (Commission de l'immigration et du statut de réfugié du Canada).
+Que se passera-t-il si mon conseil souhaite me représenter dans l'autre langue officielle?
+Votre conseil a le droit, s'il le préfère, de vous représenter dans l'autre langue officielle (le français ou l'anglais) que celle que vous avez demandé à la SPR (Section la protection des réfugiés) d'utiliser. Vous devez en informer la SPR (Section la protection des réfugiés) au moins dix jours avant l'audience.
+Comment puis-je obtenir mes documents si mon conseil cesse de me représenter?
+Si vous étiez représenté par un conseil pendant une partie du processus de demande d'asile, mais que vous décidez de ne plus retenir les services de ce conseil, il est important d'obtenir tous les documents nécessaires en vue d'être tout à fait prêt pour l'audience.
+Nous vous encourageons à conserver une copie du formulaire FDA (formulaire Fondement de la demande d'asile) et de tous les autres documents, même si votre conseil en a des copies. Si vous n'avez pas conservé de copie de ces documents et êtes incapable de les obtenir de votre ancien conseil, vous pouvez communiquer avec la SPR (Section la protection des réfugiés) bien avant l'audience afin d'obtenir des copies de ces documents.
+Si un nouveau conseil vous représente, vous êtes responsables de veiller à ce que votre nouveau conseil reçoive tous les documents pertinents pour appuyer votre demande d'asile. Cela vaut pour les documents fournis à votre ancien conseil par vous, la SPR (Section la protection des réfugiés) ou le ministre (si le ministre participe à l'audience).
+Se préparer à l'audience
+L'audience est un moment important du processus d'octroi de l'asile parce que c'est habituellement à ce moment-là que la SPR (Section la protection des réfugiés) détermine si vous avez qualité de réfugié au sens de la Convention ou celle de personne à protéger.
+Comment vais-je savoir quand mon audience aura lieu?
+La SPR (Section la protection des réfugiés) vous remettra un avis de convocation à une audience, qui précisera le moment et l'endroit où vous devez vous présenter. L'avis précisera également à quelle heure l'audience débutera et à quelle heure vous devez vous présenter.
+Veuillez vous assurer de suivre les instructions fournies avec l'avis de convocation.
+Veuillez préciser à la SPR (Section la protection des réfugiés) tout changement d'adresse ou de numéro de téléphone afin de recevoir tous les avis et toutes les lettres de la SPR (Section la protection des réfugiés). Vous pouvez utiliser notre formulaire Avis de communication des coordonnées du client, disponible sur notre site Web à l'adresse https://cisr- irb.gc.ca/fr/formulaires/Documents/IrbCisr10101_f.pdf.
+Que se passe-t-il si mon conseil ou moi ne sommes pas disponibles le jour de l'audience?
+La SPR (Section la protection des réfugiés) fait tout son possible pour communiquer avec le conseil et fixer l'audience à une date où vous et votre conseil êtes disponibles.
+Lorsque la date de l'audience a été fixée, votre conseil (si vous en avez un) et vous devez être prêts à participer à l'audience ce jour-là. Cependant, dans certains cas, vous pouvez demander à la SPR (Section la protection des réfugiés) de changer la date et l'heure de votre audience.
+La SPR (Section la protection des réfugiés) s'attend à ce que les demandeurs d'asile soient prêts à la date prévue de l'audience. La SPR (Section la protection des réfugiés) acceptera de changer la date ou l'heure de l'audience seulement dans des circonstances exceptionnelles. Elle peut accepter de le faire si, par exemple, vous êtes une personne vulnérable pour qui des mesures d'adaptation sont nécessaires, s'il y a eu une urgence ou si un événement indépendant de votre volonté s'est produit et que vous avez fait tout ce que vous pouviez pour que le traitement de votre demande d'asile se poursuive.
+Seule la SPR (Section la protection des réfugiés) peut changer la date et l'heure de l'audience. À moins de recevoir d'autres directives de la part de la SPR (Section la protection des réfugiés), vous devez vous présenter à l'audience à la date et à l'heure inscrites sur votre avis de convocation.
+Si vous demandez de changer la date et l'heure de l'audience et que vous n'avez pas de réponse, ou si votre demande de changement de la date et de l'heure est refusée, vous devez vous présenter à votre audience à la date et à l'heure fixées par la SPR (Section la protection des réfugiés).
+Si vous avez été informé qu'IRCC (Immigration Réfugiés et Citoyenneté Canada) ou l'ASFC (l'Agence des services frontaliers du Canada) participera à l'audience, vous devez envoyer une copie écrite de votre demande de changement de la date et de l'heure au représentant d'IRCC (Immigration Réfugiés et Citoyenneté Canada) ou de l'ASFC (l'Agence des services frontaliers du Canada).
+Lorsque vous remettez l'original de votre demande à la SPR (Section la protection des réfugiés), vous devez aussi y joindre une déclaration écrite mentionnant à quel moment et de quelle façon vous avez remis une copie de votre demande à IRCC (Immigration Réfugiés et Citoyenneté Canada) ou à l'ASFC (l'Agence des services frontaliers du Canada).
+Si vous n'êtes pas disponible le jour de l'audience
+Vous pouvez présenter une demande de changement de la date ou de l'heure de l'audience seulement si vous avez une très bonne raison de ne pas pouvoir vous présenter à la date fixée par la SPR (Section la protection des réfugiés). Vous devez présenter une demande par écrit immédiatement après avoir reçu votre avis de convocation avec la date de votre audience. La SPR (Section la protection des réfugiés) doit recevoir votre demande au moins trois jours ouvrables avant la date prévue pour l'audience. Si l'audience doit avoir lieu dans moins de trois jours ouvrables, vous devez vous présenter à l'audience et faire une demande en personne.
+Dans votre demande, vous devez expliquer pourquoi vous voulez changer la date ou l'heure de l'audience. Vous devez aussi donner au moins trois nouvelles dates et heures auxquelles vous serez disponible pour l'audience. Ces trois nouvelles dates doivent se situer dans un délai de dix jours ouvrables après la date d'audience fixée par la SPR (Section la protection des réfugiés).
+Si vous souhaitez changer la date ou l'heure de l'audience pour des raisons médicales, vous devez transmettre un certificat médical avec votre demande. Ce certificat doit :
+porter une date récente;
+être signé par un médecin qualifié;
+comprendre les nom et adresse imprimés ou estampillés du médecin;
+donner les particularités de votre situation médicale, sans mentionner de diagnostic;
+préciser la date à laquelle vous devriez être en mesure de vous présenter à l'audience.
+À défaut de transmettre un certificat médical, vous devez fournir avec votre demande :
+des précisions quant aux efforts que vous avez faits pour obtenir le certificat médical exigé ainsi que des éléments de preuve à l'appui;
+des précisions quant aux raisons médicales relatives à la demande ainsi que des éléments de preuve à l'appui;
+une explication de la raison pour laquelle la situation médicale vous empêche de participer à l'audience à la date fixée.
+Puis-je changer la langue officielle que j'ai demandé à la SPR (Section la protection des réfugiés) d'utiliser avec moi après la présentation de mon formulaire, formulaire FDA (formulaire Fondement de la demande d'asile)?
+Si vous voulez changer la langue officielle (le français ou l'anglais) que vous avez demandé à la SPR (Section la protection des réfugiés) d'utiliser avec vous dans votre formulaire FDA (formulaire Fondement de la demande d'asile), vous devez en informer la SPR (Section la protection des réfugiés) par écrit le plus rapidement possible et au moins dix jours avant votre audience.
+Qu'arrivera-t-il si je change la langue officielle que j'ai demandé à la SPR (Section la protection des réfugiés) d'utiliser avec moi?
+Si vous changez la langue officielle (le français ou l'anglais) que vous avez demandé à la SPR (Section la protection des réfugiés) d'utiliser avec vous, les documents qui font déjà partie de votre dossier resteront dans la langue officielle dans laquelle ils ont été présentés. Les documents que la SPR (Section la protection des réfugiés) vous enverra après le changement de la langue officielle à utiliser avec vous, comme la décision définitive vous concernant, seront rédigés dans la nouvelle langue officielle choisie.
+Puis-je changer la langue d'interprétation à l'audience après la présentation de mon formulaire FDA (formulaire Fondement de la demande d'asile)?
+Si vous voulez changer la langue ou le dialecte d'interprétation que vous avez choisi dans votre formulaire FDA (formulaire Fondement de la demande d'asile) vous devez en informer la SPR (Section la protection des réfugiés) par écrit (en précisant la nouvelle langue et, le cas échéant, le dialecte à interpréter) au moins dix jours avant l'audience.
+Dois-je fournir des documents à la SPR (Section la protection des réfugiés)?
+Vous devez fournir à la SPR (Section la protection des réfugiés) des documents à l'appui de votre demande d'asile. En conséquence, vous devriez commencer à recueillir des éléments de preuve pour étayer votre demande d'asile le plus tôt possible.
+Vous devez prouver votre identité à la SPR (Section la protection des réfugiés) en lui fournissant des copies de grande qualité de documents officiels qui contiennent votre nom et votre date de naissance (« pièces d'identité »). Par exemple, vous pouvez donner un passeport, une carte d'identité nationale, un acte de naissance, un diplôme d'études, un permis de conduire, un document militaire ou une carte de membre d'une association professionnelle ou d'un groupe religieux.
+En plus des pièces d'identité, vous pouvez présenter d'autres copies de grande qualité de documents originaux que vous croyez pertinents relativement à votre demande d'asile, y compris des documents prouvant que vous appartenez à des organisations politiques, des rapports médicaux ou psychologiques, des documents de la police, des dossiers d'affaires, des coupures de journaux, des visas et des titres de voyage (billets d'avion, de train ou d'autobus).
+Il n'est pas nécessaire de fournir à la SPR (Section la protection des réfugiés) les documents originaux, mais vous devez être en mesure de les produire à la demande de la SPR (Section la protection des réfugiés). Vous devez également apporter les documents originaux à votre audience.
+Si vous ne fournissez pas de pièces d'identité ni d'autres documents à l'appui de votre demande d'asile, vous devrez expliquer, à l'audience, pourquoi vous n'avez aucun document et démontrer que vous avez tout essayé pour les obtenir.
+Les documents que vous fournissez doivent être tapés avec une police de caractères d'au moins 12 points ou être des photocopies de documents originaux. Tous les documents doivent être imprimés sur du papier 8% po sur 11 po (21,5 cm sur 28 cm), et toutes les photocopies doivent être claires et faciles à lire. Vous devez faire une liste de tous les documents que vous joignez.
+Les pages de vos documents doivent porter des numéros consécutifs (c.-à-d. 1, 2, 3, 4, etc.), comme s'il s'agissait d'un seul document.
+Quand la SPR (Section la protection des réfugiés) doit-elle recevoir mes documents?
+Vous devez joindre à votre formulaire FDA (formulaire Fondement de la demande d'asile) des copies de tous les documents que vous avez à l'appui de votre demande d'asile. Fournissez des traductions certifiées conformes, en français ou en anglais, pour tous les documents qui ne sont pas rédigés en français ou en anglais.
+Si vous obtenez d'autres documents qui étayent votre demande d'asile après la présentation de votre formulaire FDA (formulaire Fondement de la demande d'asile), vous devez en donner deux copies sans délai à la SPR (Section la protection des réfugiés). La SPR (Section la protection des réfugiés) doit recevoir les copies de ces documents supplémentaires au moins dix jours avant l'audience. Il est préférable que vous envoyiez vos documents à la SPR (Section la protection des réfugiés) dès que vous les obtenez.
+Vous pouvez transmettre vos documents en personne, par courrier ou par service de messagerie. Si vous avez moins de 20 pages au total, vous pouvez aussi les transmettre par télécopieur.
+Mes documents doivent-ils être traduits?
+Si vos documents ne sont ni en français ni en anglais, vous devez les faire traduire dans la langue officielle (le français ou l'anglais) que vous avez choisie pour l'audience. Vous devez fournir à la SPR (Section la protection des réfugiés) les traductions et une déclaration du traducteur avec les copies des documents. La déclaration du traducteur doit comprendre ce qui suit :
+le nom du traducteur;
+la langue et le dialecte, le cas échéant, qui ont été traduits;
+une déclaration qui confirme que la traduction est exacte;
+la signature du traducteur.
+Quels autres documents la SPR (Section la protection des réfugiés) utilisera-t-elle pour déterminer si elle accueille ou non ma demande d'asile?
+La CISR (Commission de l'immigration et du statut de réfugié du Canada) produit un cartable national de documentation (CND) pour chaque pays. Le CND est une compilation de documents accessibles au public qui font état de la situation politique, sociale, culturelle et économique ainsi que des droits de la personne. Chaque CND fournit des citations complètes pour vous aider à trouver les documents qui ne sont pas accessibles sur le site Web de la CISR (Commission de l'immigration et du statut de réfugié du Canada).
+De plus, dans la mesure du possible, des liens menant vers les documents disponibles sur les sites Web des organisations qui ont publié les documents sont fournis.
+Vous êtes responsable de consulter le site Web de la CISR (Commission de l'immigration et du statut de réfugié du Canada) pour examiner les documents dans le CND sur votre pays d'origine, car la SPR (Section la protection des réfugiés) pourrait les examiner au moment de rendre une décision à l'égard de votre demande d'asile. Vous pouvez aussi consulter une copie papier des CND dans tout bureau régional de la CISR (Commission de l'immigration et du statut de réfugié du Canada).
+Vous êtes également responsable de vérifier le site Web de la CISR (Commission de l'immigration et du statut de réfugié du Canada) pour y trouver la plus récente version du CND relatif à votre pays d'origine avant l'audience.
+Un lien vers les CND se trouve sur la page d'accueil du site Web de la CISR (Commission de l'immigration et du statut de réfugié du Canada).
+La SPR (Section la protection des réfugiés) peut aussi décider d'utiliser d'autres documents, comme des rapports produits par la Direction des recherches de la CISR (Commission de l'immigration et du statut de réfugié du Canada), des articles des médias ou des rapports d'organisations de défense des droits de la personne. Une copie de tout autre document que la SPR (Section la protection des réfugiés) trouvera utile vous sera envoyée avant la tenue de votre audience.
+Que dois-je prouver pour que ma demande d'asile soit accueillie?
+Vous devez prouver que vous avez qualité de réfugié au sens de la Convention ou celle de personne à protéger.
+Vous êtes considéré un réfugié au sens de la Convention si vous craignez avec raison d'être persécuté dans votre pays d'origine (votre pays de nationalité ou, si vous n'en avez pas, le pays où vous aviez votre résidence habituelle) du fait de votre race, de votre religion, de votre nationalité, de votre appartenance à un groupe social ou de vos opinions politiques.
+Vous êtes considéré une personne à protéger si, par votre renvoi vers votre pays d'origine, vous seriez personnellement exposé au risque d'être soumis à la torture, à une menace à votre vie ou au risque de traitements ou peines cruels et inusités.
+Certaines personnes ne peuvent pas avoir qualité de réfugié (personnes exclues), ce qui signifie qu'elles ne peuvent pas être considérées comme des réfugiés au sens de la Convention ni comme des personnes à protéger. Les personnes exclues comprennent celles qui ont commis un crime grave de droit commun en dehors du Canada, un crime contre la paix, un crime de guerre ou un crime contre l'humanité et les personnes qui se sont rendues coupables d'agissements contraires aux buts et aux principes des Nations Unies.
+Elles comprennent aussi les personnes qui ont vécu dans un pays où elles ont des droits et des obligations semblables à ceux d'un citoyen de ce pays.
+Puis je participer à une séance d'information sur les audiences de la SPR (Section la protection des réfugiés)?
+Oui, les visites organisées dans le cadre du programme Ready sont offertes dans les villes où la SPR (Section la protection des réfugiés) tient des audiences. Les visites sont organisées en collaboration avec des organisations non gouvernementales et durent environ de 60 à 90 minutes. Ces séances d'information gratuites offrent aux demandeurs d'asile :
+la possibilité de visiter une salle d'audience de la SPR (Section la protection des réfugiés);
+des renseignements sur le déroulement de l'audience;
+des renseignements sur la façon de se préparer à l'audience;
+des renseignements sur les personnes qui participeront à l'audience;
+des renseignements sur les échéances obligatoires;
+une occasion de poser des questions sur le processus d'octroi de l'asile.
+Vous trouverez de plus amples renseignements sur les visites organisées dans le cadre du programme Ready sur le site Web de la CISR (COMMISSION DE L'IMMIGRATION ET DU STATUT DE REFUGIE DU CANADA).
+L'audience
+Les audiences durent habituellement une demi-journée et sont tenues à huis clos.
+Si le commissaire de la SPR (Section la protection des réfugiés) ne peut pas être dans la même ville que vous, l'audience peut avoir lieu par vidéoconférence , ce qui vous permettra de voir le commissaire et de lui parler au moyen d'un téléviseur.
+Qui déterminera si ma demande d'asile est accueillie?
+À l'audience, vous présenterez normalement votre demande d'asile à un commissaire de la SPR (Section la protection des réfugiés). Les commissaires de la SPR (Section la protection des réfugiés) ont reçu une formation spéciale sur la protection des réfugiés.
+Un interprète me sera-t-il fourni?
+La SPR (Section la protection des réfugiés) vous fournira gratuitement un interprète pour l'audience. Si vous avez besoin d'un interprète, vous devez mentionner la langue et le dialecte que vous voulez utiliser dans la section « Langue et interprète » de votre formulaire FDA (formulaire Fondement de la demande d'asile). L'interprétation sera faite entre la langue et le dialecte que vous mentionnez et la langue officielle du Canada (le français ou l'anglais) que vous choisissez dans la même section de votre formulaire FDA (formulaire Fondement de la demande d'asile).
+Les interprètes doivent faire en sorte que vos renseignements personnels demeurent confidentiels. Si vous avez de la difficulté à comprendre l'interprète à un moment ou à un autre au cours de l'audience, dites-le immédiatement au commissaire.
+Mes enfants doivent-ils se présenter à l'audience?
+Si vos enfants demandent aussi l'asile et sont âgés de 12 ans ou plus, ils doivent se présenter à l'audience. Les jeunes enfants de moins de 12 ans accompagnés d'un adulte qui présente une demande d’asile ne seront pas tenus de comparaître devant la SPR (Section la protection des réfugiés), à moins que le président de l’audience ne demande leur présence. Lorsqu’un commissaire établit qu'un jeune demandeur d'asile doit assister à l'audience, par exemple, le demandeur d’asile et son représentant désigné en seront informés dès que possible afin que la famille puisse prendre les dispositions nécessaires;
+Habituellement, les jeunes enfants doivent uniquement assister au début de l’audience, pour prouver leur identité et veiller à ce qu’ils soient représentés adéquatement par leurs parents, leur tuteur légal ou tout autre représentant désigné. Par la suite, ils pourront être autorisés à quitter la salle d’audience. Veuillez amener une personne de confiance qui prendra soin de vos enfants dans la salle d’attente en attendant la fin de l’audience.
+Dans certaines situations, les enfants plus âgés devront participer à l’audience. Si vous avez des préoccupations ou des questions concernant la participation de votre enfant à l’audience, communiquez avez la SPR (Section la protection des réfugiés) avant l’audience ou faites part de vos préoccupations au commissaire à l’audience.
+Puis-je faire comparaître des témoins?
+Vous pouvez faire comparaître des témoins à l'audience si vous croyez qu'ils pourront aider votre cause. Toute personne au courant de votre demande d'asile et capable de fournir des renseignements qui aideront le commissaire à rendre sa décision peut agir comme témoin. Vos témoins doivent être prêts à répondre aux questions sur les renseignements qu'ils fournissent à l'audience (ce qui est appelé « témoigner » ou « livrer un témoignage »).
+Au moins dix jours avant l'audience, vous devez donner par écrit à la SPR (Section la protection des réfugiés) les renseignements suivants sur chaque témoin :
+ses coordonnées (adresse, numéro de téléphone et numéro de télécopieur);
+une courte déclaration sur l'objet et le contenu de son témoignage;
+la durée de son témoignage;
+votre lien avec le témoin;
+si vous voulez qu'il témoigne en personne, par vidéoconférence ou par téléphone;
+si le témoin a besoin d'un interprète et, s'il y a lieu, la langue et le dialecte qui seront utilisés.
+Si le témoin est un expert, vous devez aussi donner des renseignements sur ses compétences et inclure un rapport, signé par lui, résumant son témoignage.
+Si vous avez été informé qu'IRCC (Immigration Réfugiés et Citoyenneté Canada) ou l'ASFC (l'Agence des services frontaliers du Canada) participera à l'audience, vous devez remettre une copie écrite des renseignements ci-dessus au représentant d'IRCC (Immigration Réfugiés et Citoyenneté Canada) ou de l'ASFC (l'Agence des services frontaliers du Canada). Vous devez aussi remettre à la SPR (Section la protection des réfugiés) une déclaration écrite mentionnant à quel moment et de quelle façon vous avez envoyé les renseignements sur vos témoins à IRCC (Immigration Réfugiés et Citoyenneté Canada) ou à l'ASFC (l'Agence des services frontaliers du Canada).
+Vous avez la responsabilité de veiller à ce que vos témoins se présentent à l'audience.
+Comment mon audience se déroulera-t-elle?
+Vous effectuerez une déclaration
+Avant de témoigner, vous devrez faire une déclaration, c'est-à-dire promettre que vous direz la vérité.
+Vous témoignerez 23
+Des questions vous seront ensuite posées, d'abord par le commissaire, puis par votre
+conseil. Si IRCC (Immigration Réfugiés et Citoyenneté Canada) ou l'ASFC (l'Agence des services frontaliers du Canada) participe à l'audience, le conseil du ministre vous posera d'abord des questions, puis votre conseil. Si vous n'êtes pas représenté par un conseil, le commissaire pourra vous poser plus de questions et vous donner la possibilité de lui
+mentionner les faits que vous croyez importants.
+Si l'ASFC (l'Agence des services frontaliers du Canada) participe à l'audience parce que
+le ministre affirme que vous ne pouvez pas avoir qualité de réfugié, le conseil du ministre
+vous posera des questions le premier, suivi du commissaire, puis de votre conseil, si vous
+en avez un.
+Vos témoins déposeront leurs témoignages
+Si vous faites comparaître des témoins, ils témoigneront après vous. Tout témoin devra demeurer dans la salle d'attente et n'entrer dans la salle d'audience que lorsque vous aurez fini de témoigner. Les témoins seront alors appelés à répondre aux questions un
+par un.
+Des commentaires (observations) seront formulés relativement à votre cas Après tous les témoignages (le vôtre et celui de vos témoins), le commissaire vous demandera ou demandera à votre conseil d'expliquer pourquoi, selon vous, la preuve démontre que vous avez qualité de réfugié au sens de la Convention ou celle de personne à protéger. Si IRCC (Immigration Réfugiés et Citoyenneté Canada) ou l'ASFC (l'Agence des services frontaliers du Canada) participe à l'audience, le commissaire donnera aussi au conseil du ministre la possibilité de présenter des commentaires sur votre cas.
+Une décision sera rendue
+Le commissaire de la SPR déterminera si vous avez qualité de réfugié au sens de la Convention ou celle de personne à protéger. Il vous exposera de vive voix sa décision et les motifs de sa décision à la fin de l'audience, à moins qu'il ne puisse pas le faire. Dans ce cas, vous recevrez la décision plus tard par la poste.
+Que se passe-t-il une fois la décision rendue?
+Si votre demande d'asile est accueillie
+Si votre demande d'asile est accueillie, la SPR vous enverra un avis de décision écrit. La SPR vous enverra également une explication des motifs pour lesquels votre demande d'asile a été accueillie.
+IRCC (Immigration Réfugiés et Citoyenneté Canada) l'ASFC (l'Agence des services frontaliers du Canada) recevront des copies de la décision, car ces organisations peuvent souhaiter interjeter appel d'une décision favorable à la Section d'appel des réfugiés (SAR) ou demander une autorisation et un contrôle judiciaire à la Cour fédérale.
+À moins que la décision de la SPR fasse l'objet d'un appel et soit annulée par la SPR (Section la protection des réfugiés), ou à moins qu'elle soit examinée et annulée par la Cour fédérale, vous pourrez demander la résidence permanente à IRCC (Immigration Réfugiés et Citoyenneté Canada). Pour obtenir de plus amples renseignements, veuillez consulter le site Web d’IRCC (Immigration Réfugiés et Citoyenneté Canada) à l'adresse suivante : http://www.cic.gc.ca.
+Si votre demande d'asile est rejetée
+Si votre demande d'asile est rejetée, la SPR vous enverra un avis de décision écrit. La SPR vous enverra également une explication des motifs pour lesquels votre demande d'asile a été rejetée.
+L'avis de décision vous précisera si vous pouvez interjeter appel de la décision à la SPR (Section la protection des réfugiés) ou présenter une demande d'autorisation et de contrôle judiciaire à la Cour fédérale.
+La plupart des demandeurs d'asile peuvent interjeter appel à la SPR (Section la protection des réfugiés). Toutefois, vous ne pouvez interjeter appel à la SPR (Section la protection des réfugiés) dans les cas suivants :
+vous êtes un étranger désigné;
+votre demande d'asile a été retirée ou son désistement a été prononcé;
+la SPR a conclu que votre demande d'asile n'a aucun minimum de fondement ou est manifestement infondée;
+vous avez demandé l'asile à une frontière terrestre avec les États-Unis, et votre demande d'asile a été envoyée à la SPR du fait que vous êtes visé par une exception relative à l'Entente sur les tiers pays sûrs;
+le ministre a présenté une demande de constat de perte de l'asile, et la SPR a rendu une décision accueillant ou rejetant cette demande;
+le ministre a présenté une demande d'annulation de la décision ayant accueilli votre demande d'asile, et la SPR a rendu une décision accueillant ou rejetant cette demande;
+votre demande d'asile a été déférée à la CISR (Commission de l'immigration et du statut de réfugié du Canada) avant le 15 décembre 2012.
+Obtenir de l'aide
+Commission de l'immigration et du statut de réfugié du Canada
+Greffes de la Section de la protection des réfugiés
+Site Web : www.cisr-irb.gc.ca
+Bureau régional de l'Est
+Montréal
+Complexe Guy-Favreau
+200, boul. René-Lévesque Ouest Tour Est, bureau 102
+Montréal (Québec) H2Z 1X4
+Tél. : 514-283-7733 ou 1-866-626-8719
+Téléc. : 514-283-0164
+Régions visées
+Québec
+Nouveau-Brunswick
+Nouvelle-Écosse
+Île-du-Prince-Édouard
+Terre-Neuve-et-Labrador
+Nunavut
+Ottawa (Ontario)
+Bureau régional du Centre
+Toronto
+74, rue Victoria, bureau 400
+Toronto (Ontario) M5C 3C7
+Tél. : 416-954-1000
+Téléc. : 416-954-1165
+Régions visées
+Ontario (à l'exception d'Ottawa)
+Bureau régional de l'Ouest
+Vancouver
+300, rue West Georgia, bureau 1600 Vancouver (Colombie-Britannique) V6B 6C9 Tél. : 604-666-5946 ou 1-866-787-7472 Téléc. : 604-666-3043
+Régions visées
+Colombie-Britannique
+Yukon
+Territoires du Nord-Ouest
+Alberta
+Saskatchewan
+Manitoba
+Immigration, Réfugiés et Citoyenneté Canada (IRCC)
+Téléphone : 1-888-242-2100
+Appareil téléscripteur (ATS) : 1-888-576-8502
+Site Web :www.cic.gc.ca
+Agence des services frontaliers du Canada (ASFC)
+Téléphone : 1-800-461-9999
+Appareil téléscripteur (ATS) : 1-866-335-3237
+Site Web : www.asfc-cbsa.gc.ca
+Date de modification :
+2018-08-29

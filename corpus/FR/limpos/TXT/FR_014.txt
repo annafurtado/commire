@@ -1,0 +1,56 @@
+﻿<Header>
+	<title>
+		<tit> Formulaire de recours </tit>
+		<fileName> FR_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Form </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Swiss) </language>
+		<source> https://www.osar.ch/aide.html </source> 
+		<publisher> Organisation Suisse D'aide Aux Réfugiés </publisher>
+		<pubDate> 2009 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Organisation Suisse D'aide Aux Réfugiés </institution>
+	</author>
+</Header>
+Indication: A remettre aux personnes ayant reçu une décision négative exécutoire à l'égard de leur demande d'asile Informations supplémentaires : http://www.fluechtlingshilfe.ch/aide
+Votre demande d'asile a été rejetée par une décision de non-entrée en matière ou une décision négative. Vous n'avez pas fait recours ou bien votre recours a lui aussi été rejeté.
+Cette feuille d'information vous explique vos droits. Elle a été rédigée par l'Organisation suisse d'aide aux réfugiés OSAR, une organisation non gouvernementale qui s'engage pour le respect des droits des requérants d'asile et des réfugiés.
+Procédure d’asile - Votre procédure d’asile est terminée. Les autorités vous ordonnent de quitter la Suisse.
+Vous recevez au centre d’enregistrement un billet de train avec lequel vous pouvez circuler durant une journée (jusqu’à minuit) dans toute la Suisse.
+Statut - Votre séjour en Suisse est maintenant considéré comme illégal. Vous devez quitter votre logement et vous débrouiller par vous-même.
+Conservez avec vous tous les documents concernant votre procédure d’asile jusqu’à votre départ de Suisse.
+Les autorités vous répéteront que vous devez quitter la Suisse.
+Vous n’avez pas le droit de travailler.
+Peut-être serez-vous condamné pour séjour illégal en Suisse.
+Aide d’urgence – êtes-vous sans ressources ?
+Vous avez droit à une aide d’urgence jusqu’à votre départ, même si votre séjour est illégal. Cette aide comprend de la nourriture, un logement, des vêtements et, si nécessaire, des soins médicaux.
+Vous pouvez personnellement demander une aide d’urgence à toute structure officielle d’aide sociale.
+Chaque canton décide comment il entend traiter votre demande.
+Il sera sans doute exigé de vous que vous vous annonciez à la police des étrangers. Celle-ci vérifiera votre identité et relèvera vos empreintes digitales. Peut-être serez-vous immédiatement mis en détention.
+Si vous demandez une aide d’urgence, Il vous sera souvent ordonné de vous rendre dans le canton compétent pour assurer votre départ de Suisse. Ce canton est indiqué sur la dernière page de la décision concernant votre demande d’asile.
+Si les autorités refusent de vous aider, exigez une motivation écrite de ce refus. Vous pouvez faire recours. Adressez-vous à un avocat.
+Détention - Vous risquez d’être mis en détention si vous vous adressez à une autorité !
+En prison, vous avez le droit de contacter un avocat et d’informer vos connaissances ou vos proches. Demandez l’aide des autorités.
+Au plus tard après quatre jours, un juge doit vérifier si votre détention est permise.
+Départ de Suisse - Les autorités suisses attendent de vous que vous retourniez dans votre pays.
+Si vous voulez retourner dans votre pays, annoncez-vous à la police des étrangers.
+Si vous avez besoin de documents officiels pour votre retour, vous devriez vous adresser à votre ambassade. La plupart des pays ont une ambassade à Berne, la capitale de la
+Suisse. Des représentations diplomatiques se trouvent aussi à Genève.
+Demandez aussi aux autorités suisses une aide et des conseils en vue du retour.
+Autres indications - Evitez de commettre des actes de délinquance.
+Informez de votre situation des proches ou des connaissances en Suisse.
+Vous trouvez au verso des informations sur les autorités cantonales compétentes.
+À compléter
+Demande d'aide d'urgence
+Nom : n° N :
+Décision sur l'asile :
+Je suis indigent et me trouve dans une situation de détresse car je n’ai pas les moyens de subvenir par moi-même à mes besoins. Je demande l’octroi d’une aide d’urgence selon l’art. 12 de la Constitution.
+Date, signature :

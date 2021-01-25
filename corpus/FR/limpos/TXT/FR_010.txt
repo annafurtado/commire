@@ -1,0 +1,975 @@
+﻿<Header>
+	<title>
+		<tit> Demande d'asile présentée au Canada </tit>
+		<fileName> FR_010 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Guide </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Canada) </language>
+		<source> https://www.canada.ca/fr/immigration-refugies-citoyennete/services/demande/formulaires-demande-guides/guide-5746-demande-asile-presentee-canada.html </source> 
+		<publisher> Commission de l'immigration et du statut de réfugié du Canada </publisher>
+		<pubDate> 2018 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Commission de l'immigration et du statut de réfugié du Canada </institution>
+	</author>
+</Header>
+Demande d'asile présentée au Canada (IMM 5746)
+Table des matières
+Aperçu
+Avant de présenter votre demande
+Étape 1. Rassemblez les documents
+Étape 2. Remplissez les formulaires requis
+Étape 3. Présentez les formulaires remplis en personne à IRCC
+Étape 4. Passez l'entrevue d'admissibilité
+Et ensuite?
+Avez-vous besoin d'aide?
+Appendice A : Spécifications pour Photos
+Appendice B : « X » dans le champ sexe sur un document d'immigration
+Il ne s'agit pas d'un document juridique. Pour des renseignements de cet ordre, veuillez consulter la Loi sur l'immigration et la protection des réfugiés ou la Loi sur la citoyenneté, selon le cas, ainsi que leurs règlements d'application.
+On peut se procurer une version de ce document adaptée à des besoins particuliers.
+Aperçu
+Trousse de demande
+La présente trousse de demande comprend :
+un guide d'instructions et
+tous les formulaires requis.
+Note : En plus des formulaires faisant partie de cette trousse, vous devrez également remplir le formulaire Fondement de la demande d'asile.
+Le guide d'instructions est un outil qui :
+fournit les renseignements que vous devez connaître avant d'envoyer votre demande à Immigration, Réfugiés et Citoyenneté Canada (IRCC), et qui
+vous aidera à remplir les formulaires et à rassembler les pièces justificatives exigées.
+Note : Renseignements importants au sujet du formulaire Fondement de la demande d'asile et du processus d'octroi de l'asile se retrouvent à la Commission de l'immigration et du statut de réfugié.
+Lisez le guide d'instructions au complet avant de remplir chacun des formulaires.
+Les formulaires contiennent des questions précises qui faciliteront le traitement de votre demande.
+Symboles utilisés dans le guide
+Les symboles suivants sont utilisés dans ce guide pour souligner l'importance de certains renseignements :
+Ce que vous devez faire pour que le traitement de votre demande puisse être effectué.
+Renseignements importants que vous devez connaître afin d'éviter des retards ou d'autres problèmes.
+Où obtenir des renseignements supplémentaires.
+Note :
+Conseils qui vous aideront à remplir cette demande.
+Le processus de demande
+Les instructions fournies dans ce guide sont présentées sous forme d'étapes que vous devez suivre afin de remplir votre demande.
+1. Rassembler les documents
+2. Remplir les formulaires requis
+3. Nous présenter en personne les formulaires remplis
+4. Passer l'entrevue d'admissibilité
+Avant de présenter votre demande
+Qui est admissible à ce que sa demande d'asile soit déférée à la Commission de l'immigration et du statut de réfugié ?
+Le Canada offre l'asile aux personnes qui craignent la persécution si elles retournent dans leur pays d'origine et qui ne veulent ou ne peuvent pas y retourner.
+Les agents qui reçoivent les demandes d'asile déterminent si elles peuvent être déférées à la Commission de l'immigration et du statut de réfugié (CISR), un tribunal administratif indépendant qui prend des décisions relatives à l'immigration et à la protection des réfugiés. La CISR (Commission de l’immigration et du statut de réfugié) décide qui est un réfugié au sens de la Convention ou une personne à protéger.
+Votre demande d'asile pourrait ne pas être déférée à la CISR (Commission de l’immigration et du statut de réfugié) si :
+vous avez déjà le statut de réfugié au sens de la Convention dans un autre pays où vous pouvez retourner;
+vous avez déjà le statut de personne à protéger au Canada;
+vous êtes arrivé au Canada par la frontière canado-américaine;
+vous êtes interdit de territoire au Canada pour raison de sécurité, d'activités criminelles ou de violation des droits de la personne;
+vous avez été déclaré coupable d'un crime grave;
+vous avez déjà présenté une demande d'asile qui ne pouvait pas être déférée à la CISR ( Commission de l’immigration et du statut de réfugié);
+vous avez déjà présenté une demande d'asile qui a été jugée irrecevable par la CISR (Commission de l’immigration et du statut de réfugié) ;
+vous avez déjà présenté une demande d'asile, mais vous vous êtes désisté ou l'avez retirée.
+De plus, les personnes visées par une mesure de renvoi ne peuvent pas demander l'asile.
+Définitions
+Vous trouverez peut-être les définitions suivantes utiles :
+Réfugié au sens de la Convention
+Un réfugié au sens de la Convention est une personne qui se trouve hors de son pays d'origine ou de résidence habituelle et qui ne veut pas y retourner parce qu'elle craint avec raison d'y être persécutée du fait de :
+sa race;
+sa religion;
+ses opinions politiques;
+sa nationalité;
+son appartenance à un groupe social particulier, comme une femme ou une personne ayant une orientation sexuelle différente.
+Personne à protéger
+Une personne à protéger est une personne qui se trouve au Canada et qui craint de rentrer dans son pays d'origine ou de résidence habituelle pour les motifs suivants :
+risque de torture;
+menace à sa vie;
+risque de peines et de traitements cruels et inusités.
+Quand dois-je présenter ma demande?
+Remarque
+Vous pouvez présenter une demande d'asile en tout temps, pourvu que vous ne fassiez pas l'objet d'une mesure de renvoi. Vous devez remplir les formulaires requis et les apporter à un bureau d'IRCC
+Dois-je inclure les membres de ma famille dans ma demande?
+Renseignements importants
+Tous les membres de votre famille doivent être mentionnés dans votre demande, qu'ils soient avec vous au Canada ou non.
+Définitions des membres de la famille
+Les membres de la famille comprennent votre époux/épouse ou conjoint/e de fait, vos enfants à charge et les enfants à charge de vos enfants.
+Époux/épouse
+Le terme époux s'applique aux deux (2) personnes (de sexe opposé ou de même sexe) qui sont légalement mariées. Le mariage doit être reconnu à la fois par les lois du lieu où il a été contracté et par les lois canadiennes.
+Tout mariage par procuration, par facsimilé, par internet ou toute autre forme de mariage où les mariés ne sont pas physiquement présents ne sera plus considéré comme une union maritale en bonne et due forme en vertu de la Loi sur l'immigration et la protection des réfugiés.
+Consultez le Bulletin opérationnel 613 pour de plus amples informations
+Conjoint de fait
+Un conjoint de fait est une personne qui cohabite avec une personne (du même sexe ou du sexe opposé), dans une relation conjugale, et ce depuis au moins un an (1) continu. Une relation conjugale existe lorsqu'il y a un degré important d'engagement entre les deux (2) personnes. Cette relation peut être démontrée au moyen d'une preuve que les conjoints vivent sous le même toit, se soutiennent mutuellement, sur le plan financier et émotif, ont eu des enfants ensemble, ou s'affichent en public comme couple.
+Les conjoints de fait qui ne peuvent vivre ensemble ou être vus ensemble en public, en raison de restrictions d'ordre légal dans leur pays d'origine, ou qui sont séparées pour des raisons indépendantes de leur volonté (par exemple, une guerre civile ou un conflit armé), peuvent être admissibles et doivent être inscrits sur la demande.
+Enfant à charge
+Nous évaluons l'admissibilité de votre enfant à titre de personne à charge en fonction de l'âge qu'il avait à un moment donné précis, appelée « date déterminante ». Il s'agit habituellement de la date à laquelle nous recevons votre demande. Pour déterminer si votre enfant est admissible à titre de personne à charge, nous considérons l'âge de votre enfant à la date déterminante, même si l'âge de votre enfant peut changer pendant le traitement.
+Votre enfant ou l'enfant de votre époux ou conjoint de fait peut être considéré comme un enfant à charge si cet enfant répond aux exigences ci-dessous à la date déterminante :
+Ils ont moins de 22 ans et
+Ils n'ont pas de conjoint ou de conjoint de fait
+Les enfants sont considérés comme des personnes à charge s'ils satisfont à ces deux exigences :
+Ils ont dépendu de leurs parents pour un soutien financier avant l'âge de 22 ans et
+Ils sont incapables de se soutenir financièrement à cause d'une condition physique ou mentale
+À l'exception de l'âge, les personnes à charge doivent continuer à répondre à ces exigences jusqu'à ce que nous ayons fini de traiter votre demande.
+Vous ne savez pas quel type de personne à charge est votre enfant? Vérifier l'admissibilité de votre enfant en répondant à quelques questions.
+Si la date déterminante de votre enfant était le 23 octobre 2017 ou avant cette date, une définition précédente des enfants à charge peut s'appliquer.
+Enfant à charge d'un enfant à charge
+L'enfant à charge d'un enfant à charge peut être le vôtre et ceux de votre époux ou conjoint de fait, s'il y a lieu.
+Note : Pour les demandeurs ayant entamé un processus d'immigration avant le 1er août 2014, veuillez consulter la page Définitions d'enfant à charge avant le 1er août 2014.
+Étape 1. Rassemblez les documents
+Quels sont les documents à présenter?
+Le tableau ci-dessous fournit la liste des documents que vous devez joindre à votre demande. Vous pouvez également utiliser la Liste de contrôle des documents (IMM 5286) qui est incluse dans cette trousse pour ressembler les documents nécessaires.
+Pièces d'identité personnelles (ID)
+Toutes les pièces d'identité et tous les documents de famille du demandeur principal et de tous les membres de sa famille se trouvant au Canada et qui figurent sur la demande d'asile. Ces documents peuvent comprendre des pièces d'identité, des titres de voyage ou d'autres documents que vous avez en votre possession à l'appui de votre demande d'asile, y compris les documents qui ne sont pas authentiques, les documents que vous avez obtenus de façon irrégulière ou illégale ou en donnant des renseignements qui ne sont pas véridiques, et les documents que vous avez utilisés qui ne vous appartiennent pas réellement, le cas échéant.
+Exemples de pièces d'identité personnelles :
+passeport;
+titre de voyage;
+certificat de naissance;
+cartes d'identité;
+acte de baptême;
+attestation d'études comme preuve d'identité;
+certificat de mariage (comme preuve d'une relation);
+carte de membre d'une organisation politique ou sociale.
+Note : si vous ne possédez aucun document prouvant votre identité, il vous sera demandé d'expliquer l'absence de tels documents lors de votre entrevue d'admissibilité. Il est dans votre intérêt de présenter toutes les pièces à l'appui.
+Format : Originaux
+Autres documents à l'appui
+En plus des pièces d'identité et des documents prouvant la relation énumérés ci-dessus, vous pouvez également joindre des documents pour appuyer votre demande d'asile, si de tels documents sont disponibles.
+Voici des exemples de documents que vous pouvez joindre :
+votre dossier scolaire, vos certificats ou diplômes, vos qualifications professionnelles;
+des rapports de police ou des rapports médicaux;
+vos cartes de membre d'un groupe politique, d'un syndicat ou d'un autre groupe;
+vos dossiers professionnels ou d'entreprise;
+des articles de journaux et des rapports sur les conditions dans votre pays en lien avec les droits de la personne, etc.
+Pour en savoir plus, veuillez consulter le Guide du demandeur d'asile de la CISR (Commission de l’immigration et du statut de réfugié).
+Format : Originaux ou photocopies
+Deux (2) photos de chaque personne
+Étape Procédez comme suit
+1 Joignez 2 photographies de vous-même et de chacun des membres de votre famille au Canada qui demandent l'asile.
+2 Inscrivez le nom et la date de naissance de la personne au verso d'une (1) des photos.
+Format : Original
+Traduction des documents
+Si vos documents ne sont pas rédigés en français ou en anglais, vous devez les faire traduire dans la langue officielle (français ou anglais) que vous avez choisie aux fins du traitement de votre demande. Les traductions ainsi que la déclaration du traducteur doivent être fournies avec une copie des documents en question. La déclaration du traducteur doit comprendre les éléments suivants :
+le nom du traducteur;
+la langue dans laquelle le document a été rédigé;
+une déclaration signée par le traducteur attestant de l'exactitude de la traduction.
+Si vous ne fournissez pas vos documents en français ou en anglais, ils ne pourront être utilisés dans le cadre de la procédure devant la CISR (Commission de l'immigration et du statut de réfugié), sauf si un commissaire (les personnes qui entendent les cas et rendent les décisions) donne son aval.
+Pour en savoir plus, veuillez consulter le Guide du demandeur d'asile de la CISR (Commission de l'immigration et du statut de réfugié).
+Exigences médicales
+Si votre demande d'asile peut être déférée à la Commission de l'immigration et du statut de réfugié (CISR), vous et les membres de votre famille devrez subir un examen médical.
+Le bureau où vous faites votre demande d'asile vous fournira les instructions nécessaires afin de passer votre examen médical avec un médecin désigné.
+Note: Les résultats de l'examen médical ne porteront aucun préjudice à votre admissibilité comme demandeur d'asile.
+Étape 2. Remplir les formulaires requis
+Remplir la demande
+Chaque demandeur doit remplir et présenter les formulaires suivants :
+Formulaire de demande générique pour le Canada (IMM 0008) (PDF (Format de document portable), 5,79Ko (Kilo octet)), demandeur principal seulement.
+Personnes à charge additionnelles/Déclaration (IMM 0008DEP) (PDF (Format de document portable), 4,40Ko (Kilo octet)), si vous avez plus de cinq (5) personnes à charge
+Annexe A - Antécédents/Déclaration (IMM 5669) (PDF (Format de document portable), 7,79Ko (Kilo octet)), le demandeur principal, l'époux ou le conjoint de fait et les personnes à charge de 18 ans ou plus qui sont au Canada doivent tous remplir ce formulaire.
+Annexe 12 - Demandeurs d'asile au Canada (IMM 0008-Annexe 12)
+Formulaire Fondement de la demande d'asile, à remplir par chaque membre de a famille au Canada qui demande l'asile (y compris les enfants d'âge mineur).
+Liste de contrôle des documents (IMM 5745) (PDF (Format de document portable), 1,52Ko (Kilo octet))
+Recours aux services d'un représentant (IMM 5476), s'il y a lieu. (PDF (Format de document portable), 6,48Ko (Kilo octet))
+Désignation d'un représentant pour les mineurs accompagnés (CISR)
+Renseignements importants :
+Fournir des renseignements faux et trompeurs dans ces formulaires constitue un délit grave. Les renseignements que vous fournissez dans votre demande peuvent être vérifiés.
+Renseignements complets et exacts
+Renseignements importants :
+Remplissez toutes les sections. Si une section ne s'applique pas à votre situation, vous devez écrire « sans objet » ou « S.O. (sans objet) » Si les formulaires requis sont incomplets, vous ne pourrez pas procéder à l'entrevue avec un agent et votre demande d'asile ne sera pas reçue.
+Si vous avez besoin d'espace supplémentaire pour répondre aux questions d'une section, utilisez des feuilles supplémentaires et inscrivez-y la section, puis joignez cette feuille à votre demande.
+Formulaire de demande générique pour le Canada (IMM 0008)
+Qui doit remplir ce formulaire?
+Ce formulaire doit être rempli par :
+Vous, le demandeur principal.
+Remplir le formulaire
+Remarque
+Vous devez répondre à chacune des questions figurant sur le formulaire de demande, à moins d'indication contraire.
+Téléchargez et remplissez le formulaire sur un ordinateur. Le formulaire de demande générique pour le Canada (IMM 0008) doit être validé par un code à barres 2D.
+Assurez-vous que :
+vous validez correctement vos réponses en remplissant ce formulaire;
+que les codes à barres 2D sont correctement générés
+Si les codes à barres 2D manquent ou ne peuvent être lus par machine pour quelque raison que ce soit, la demande vous sera retournée sans être traitée.
+Vous pouvez aussi sauvegarder le formulaire et le compléter plus tard.
+Remarque : Remplir votre formulaire par voie électronique est plus facile et réduit les risques d'erreurs qui peuvent retarder le traitement de votre demande.
+Vous devez lire et suivre les étapes suivantes afin de remplir le formulaire de demande.
+Détails de la demande
+Question 1
+Dans la liste, sélectionnez le Programme au titre duquel vous présentez votre demande :
+Famille
+Immigration économique
+Réfugié
+Autre
+Question 2
+Dans la liste, sélectionnez la catégorie dans laquelle vous présentez votre demande :
+Si vous avez choisi « Famille » à la question 1, sélectionnez une des options suivantes :
+Époux
+Conjoint de fait
+Partenaire conjugal
+Enfant adopté/à charge
+Enfant à adopter au Canada
+Frère ou sœur/neveu/nièce/petit-fils ou petite-fille/orphelins
+Parents/grands-parents
+Autre membre de la parenté
+Si vous avez choisi « Immigration économique » à la question 1, sélectionnez une des options suivantes :
+Programme des travailleurs qualifiés intermédiaires du Canada atlantique
+Programme des travailleurs hautement qualifiés du Canada atlantique
+Programme des diplômés étrangers du Canada atlantique
+Travailleur qualifié (fédéral)
+Métiers spécialisés (fédéral)
+Travailleur autonome
+Candidat des provinces
+Catégorie de l'expérience canadienne
+Travailleur qualifié sélectionné par le Québec
+Entrepreneur sélectionné par le Québec
+Travailleur autonome sélectionné par le Québec
+Investisseur sélectionné par le Québec
+Programme des aides familiaux résidants (PAFR)
+Démarrage d'entreprise
+Programme de garde d'enfants (ou pour la voie d'accès provisoire pour les aides familiaux)
+Programme des soins aux personnes ayant des besoins médicaux élevés
+Programme pilot de fonds de capital de risque pour les immigrants investisseurs
+Si vous avez choisi « Réfugié » à la question 1, sélectionnez une des options suivantes :
+Au Canada - Demande d'asile
+Au Canada - Personne protégée (pour les réfugiés au sens de la Convention ou les autres personnes protégées qui présentent une demande de résidence permanente à partir du Canada) o Hors Canada - Réfugié (pour les réfugiés au sens de la Convention ou les autres personnes protégées qui présentent une demande de résidence permanente à l'extérieur du Canada)
+Si vous avez choisi « Autre » à la question 1, sélectionnez une des options suivantes :
+Au Canada - Circonstances d'ordre humanitaire
+Catégorie des titulaires de permis
+Question 3
+Entrez le nombre total des membres de votre famille inclus dans votre demande. Ceci comprend, vous-même et tous les autres membres de la famille qu'ils aient l'intention de vous accompagner ou non au Canada.
+Pour les demandeurs d'asile au Canada seulement : Entrez le nombre total de membres de votre famille inclus dans votre demande d'asile qui sont avec vous au Canada.
+Question 4
+Langue de préférence
+Dans la liste, sélectionnez la langue de votre choix pour :
+la correspondance
+une entrevue : si votre langue maternelle ne figure pas dans cette liste, sélectionnez « Autre ».
+une demande d'interprète : vous devez sélectionner « oui » si vous n'avez pas sélectionné l'anglais ou le français pour l'entrevue
+Question 5
+Où prévoyez-vous vivre au Canada?
+Dans la liste, sélectionnez :
+Province/territoire
+Ville/village
+Question 6
+Si vous avez l'intention de vivre au Québec et appliquez sous une catégorie de l'immigration économique, avez-vous reçu votre Certificat de sélection du Québec (CSQ)?
+a. Cochez la case correspondante
+Si vous avez coché « Oui », entrez le numéro de votre CQS (Certificat de Sélection du Québec)
+Si vous avez coché « Non », entrez la date à laquelle vous avez présenté une demande de ÇSQ. (Si vous ne l'avez pas encore fait, veuillez le faire avant de présenter une demande de résidence permanente.)
+Remarque : Si vous ne présentez pas une demande au titre d'un programme d'immigration du Québec, cochez la case « Non » à la question 6a et n'inscrivez rien à la question 6c.
+Données personnelles du demandeur principal
+Le demandeur principal doit répondre aux questions suivantes.
+Question 1
+Entrez votre nom de famille complet, tel qu'il figure dans votre passeport, titre de voyage ou pièce d'identité.
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, indiquez votre nom de famille. Entrez tous vos prénom(s) (premier, deuxième, ou plus) tels qu'ils figurent dans votre passeport, titre de voyage ou pièce d'identité. N'utilisez pas d'initiales.
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, indiquez « Enfant » comme prénom ou laissez le champ du prénom vide.
+Question 2
+Surnom/pseudonyme
+Cochez la case pour préciser si vous avez déjà utilisé un autre nom que celui indiqué à la question 1. Il pourrait s'agir de votre nom de naissance, nom de jeune fille, nom de personne mariée, surnom, etc. Si vous avez coché « Oui », indiquez votre surnom/pseudonyme dans les champs « Nom de famille » et « Prénom(s) ».
+Question 3
+Si vous connaissez votre Identificateur unique de client (IUC) ou numéro d'identification de client (ID Client), entrez-le ici sans espace. Si vous avez déjà présenté une demande de résidence temporaire ou permanente dans le passé, il s'agit d'un numéro à 8 ou 10 chiffres que vous trouverez sur les documents que nous avons déjà envoyés. S'il s'agit de votre première demande chez nous, ou si vous ne connaissez pas votre IUC, laissez cet espace vide.
+Question 4
+Dans la liste, sélectionnez votre sexe (homme, femme ou inconnu).
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, sélectionnez « Inconnu ».
+Question 5
+Entrez votre taille en centimètres ou en pieds et en pouces.
+Question 6
+Dans la liste, sélectionnez la couleur de vos yeux.
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, sélectionnez « Autre ».
+Question 7
+Entrez votre date de naissance. Si votre date de naissance complète est inconnue, veuillez utiliser le signe « * » (astérisque) pour remplir les espaces correspondant à l'année, au mois ou au jour, selon le cas. Par exemple, si vous ne connaissez pas le jour et le mois de votre naissance, vous pourriez inscrire */*/1964.
+Question 8
+Entrez votre lieu de naissance, y compris la ville ou le village, ou le pays de naissance comme indiqué dans votre passeport ou votre document de voyage.
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, indiquez « inconnu » pour la ville ou village et sélectionnez le pays où vous avez l'intention d'adopter un enfant.
+Question 9
+Citoyenneté(s)
+Dans la liste, sélectionnez votre pays de citoyenneté.
+Si vous êtes citoyen de plus d'un pays, indiquez votre deuxième pays de citoyenneté.
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, sélectionnez le pays où vous avez l'intention d'adopter un enfant.
+Question 10
+Pays de résidence actuel
+Dans la liste, sélectionnez :
+le nom de votre pays de résidence actuel. Votre pays de résidence est le pays dans lequel vous habitez, à condition d'y avoir été admis légalement.
+Pour les demandeurs d'asile au Canada seulement :
+Sélectionnez Canada, que vous ayez été admis légalement ou non.
+votre statut d'immigration dans ce pays. Sélectionnez un des statuts suivants :
+Citoyen
+Résident permanent
+Visiteur
+Travailleur
+Étudiant
+Autre
+Personne protégée
+Demandeur d'asile
+Étranger
+Autre : Cette section doit être remplie si vous choisissez « Autre »
+les dates (De - À) correspondant à la période durant laquelle vous vivez dans votre pays de résidence actuel.
+Pour une demande de rétablissement du statut :
+sous « Statut », sélectionnez « Autre »;
+sous « Autre », inscrivez « Perte de statut, rétablissement du statut requis »;
+laissez les champs « De » et « À » vides.
+Remarque : si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, sélectionnez le pays où vous avez l'intention d'adopter un enfant et « Citoyen » comme statut d'immigration.
+Question 11
+Entrez la date de votre dernière entrée au Canada, s'il y a lieu.
+Indiquez le lieu de votre dernière entrée au Canada (exemple : aéroport de Toronto, point d'entrée terrestre de Lacolle, port de Yarmouth, etc.).
+Question 12
+Pays de résidence antérieur(s)
+Cochez la case pour indiquer si vous avez vécu dans un pays autre que votre pays de citoyenneté ou de résidence actuel pendant plus de six (6) mois au cours des cinq (5) dernières années.
+Si vous avez coché « Oui », pour chaque pays, sélectionnez :
+le nom du pays où vous avez vécu
+votre statut d'immigration durant la période où vous étiez dans ce pays :
+Citoyen
+Résident permanent
+Visiteur
+Travailleur
+Étudiant
+Autre
+Personne protégée
+Demandeur d'asile
+Étranger
+Autre : Cette section doit être remplie si vous choisissez « Autre » comme statut.
+les dates (De - À) correspondant à la période durant laquelle vous avez vécu dans ce pays.
+Question 13
+Dans la liste, sélectionnez votre état matrimonial actuel (situation familiale) :
+Célibataire
+Vous n'avez jamais été marié(e) et ne vivez pas en union de fait.
+Conjoint(e) de fait
+Vous avez vécu en couple pendant au moins un (1) an sans interruption.
+Divorcé(e)
+Vous êtes officiellement séparé(e) et avez légalement mis fin à votre mariage.
+Mariage annulé
+Votre mariage est non valable du point de vue de la loi. Il peut aussi s'agir d'une annulation par l'Église catholique en raison du caractère non contraignant de l'union.
+Marié(e)
+Vous vous êtes légalement lié(e) à votre conjoint(e) au cours d'une cérémonie. Votre mariage doit être reconnu légalement dans le pays où il a eu lieu ainsi qu'au Canada.
+Séparé(e) légalement
+Vous êtes marié(e) mais ne vivez plus avec votre conjoint(e).
+Veuf(ve)
+Votre conjoint(e) est décédé(e) et vous ne vous êtes pas remarié(e) et ne vivez pas en union de fait.
+Entrez la date (année, mois, jour) de votre mariage ou du début de votre union de fait actuelle.
+Entrez le(s) nom de famille et le(s) prénom(s) de votre époux(se) ou de votre conjoint(e) de fait.
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, sélectionnez « Célibataire ».
+Question 14
+Cochez la case appropriée pour indiquer si oui ou non vous avez déjà été marié ou si vous avez déjà vécu en union de fait. Si vous avez coché « Oui », fournissez les informations suivantes sur votre époux/conjoint de fait précédent:
+Nom de famille
+Prénom(s)
+Type de relation :
+Conjoint(e) de fait ou
+Marié(e)
+Dates de début et de fin de votre relation précédente (mariage ou union de fait)
+Date de naissance
+Coordonnées
+Question 1
+Entrez votre adresse postale actuelle (où les renseignements seront envoyés) en incluant les informations suivantes :
+Numéro de case ou boîte postale, s'il y a lieu. Si vous n'en indiquez pas, vous devez fournir un numéro de rue (d'immeuble).
+Numéro d'appartement ou d'unité, s'il y a lieu.
+Numéro de rue, s'il y a lieu. Il s'agit du numéro de votre domicile ou immeuble d'habitation. Ce numéro doit être fourni si vous n'avez pas indiqué de numéro de boîte postale.
+Nom de la rue, s'il y a lieu.
+Ville ou village.
+Sélectionnez, dans la liste, le pays associé à votre adresse postale actuelle.
+Province ou état.
+Code postal.
+District, s'il y a lieu.
+Remarque : Toute la correspondance sera envoyée à cette
+adresse, à moins que vous n'indiquiez votre adresse électronique.
+Si vous souhaitez qu'un représentant agisse en votre nom, vous devez indiquer son adresse dans cette section ainsi que dans le formulaire Recours aux services d'un représentant (IMM 5476).
+Pour plus d'informations, consultez la page « Recours aux services d'un représentant » dans le présent guide.
+Question 2
+Cochez la case appropriée pour indiquer si votre adresse de domicile (là où vous habitez) est la même que votre adresse postale. Si vous cochez « Non », entrez les informations suivantes :
+Numéro d'appartement ou d'unité, s'il y a lieu
+Numéro de rue (le numéro de votre domicile ou immeuble d'habitation)
+Nom de rue
+Ville ou village
+Pays
+Province ou état
+Code postal
+District, s'il y a lieu
+Question 3
+Veuillez saisir votre numéro de téléphone en incluant l'indicatif du pays, l'indicatif régional, etc.
+Si vous avez un numéro de poste, indiquez-le sous « Poste ».
+Cochez la case pour indiquer si votre numéro de téléphone est du Canada/des États-Unis ou Autre (tout autre pays).
+Sélectionnez, dans la liste, le type de téléphone associé au numéro de téléphone :
+résidence (maison)
+cellulaire (portable/mobile)
+professionnel (travail)
+Indiquez votre numéro de téléphone en incluant l'indicatif du pays, le code régional, etc. (et cetera)
+Si vous avez un numéro de poste, indiquez-le sous « Poste ».
+Question 4
+Si vous avez un deuxième numéro de téléphone, veuillez l'inscrire en incluant l'indicatif du pays, l'indicatif régional, etc.
+Si vous avez un numéro de poste, indiquez-le sous « Poste ».
+Fournissez un autre numéro de téléphone afin de nous assurer de pouvoir communiquer avec vous pour vous renseigner sur le traitement de votre demande.
+Cochez la case pour nous indiquer si votre deuxième numéro de téléphone est du Canada/des États-Unis ou Autre (tout autre pays).
+Veuillez sélectionner dans la liste le type de téléphone associé au numéro de téléphone :
+Cochez la case pour indiquer si votre autre numéro de téléphone est du Canada/des États-Unis ou Autre (tout autre pays).
+Sélectionnez, dans la liste, le type de téléphone associé au numéro de téléphone :
+résidence (maison)
+cellulaire (portable/mobile)
+professionnel (travail)
+Indiquez votre numéro de téléphone en incluant l'indicatif du pays, régional, etc. (et cetera)
+Si vous avez un numéro de poste, indiquez-le sous « Poste ».
+Question 5
+Si vous avez un numéro de télécopieur, veuillez l'inscrire en incluant l'indicatif du pays, l'indicatif régional, etc.
+Cochez la case pour nous indiquer si le numéro du télécopieur (fax) est du Canada / des États-Unis ou Autre (tout autre pays).
+Question 6
+Si vous avez une adresse de courriel, indiquez-la ici. (p. ex. nom@fournisseur.net)
+Remarque : En indiquant votre adresse électronique, vous autorisez donc IRCC à transmettre des détails sur votre dossier ainsi que vos renseignements personnels à cette adresse électronique.
+Passeport
+Question 1
+Cochez la case pour indiquer si vous avez un passeport ou document de voyage valide. Si vous n'en avez pas ou ne pouvez en obtenir un, vous devez cocher la case « Non ».
+Question 2
+Si vous avez sélectionné « Oui », indiquez le numéro de votre passeport ou document de voyage exactement comme indiqué sur le document. Assurez-vous de ne pas laisser d'espace entre les lettres et/ou les chiffres.
+Question 3
+Sélectionnez, dans la liste, le pays ou le territoire de délivrance de votre passeport ou document de voyage.
+Question 4
+Entrez la date d'émission de votre passeport ou document de voyage.
+Question 5
+Entrez la date d'expiration de votre passeport ou document de voyage.
+Question 6
+Pour ce voyage - sélectionnez Oui ou Non pour nous dire si vous utilisez un passeport délivré par le ministère des Affaires étrangères de Taïwan qui indique votre numéro d'identification personnel.
+Question 7
+Pour ce voyage - sélectionnez Oui ou Non pour nous dire si vous utilisez un passeport national israélien.
+Pièce d'identité nationale
+Question 1
+Cochez la case pour indiquer si vous avez une pièce d'identité nationale valide.
+Question 2
+Si vous avez coché « Oui », indiquez le numéro de votre pièce d'identité nationale exactement comme indiqué sur la pièce d'identité.
+Assurez-vous de ne pas laisser d'espace entre les lettres ou les chiffres.
+Question 3
+Dans la liste, sélectionnez le nom du pays ou territoire qui a émis votre pièce d'identité nationale.
+Question 4
+Entrez la date de délivrance de votre pièce d'identité nationale.
+Question 5
+Entrez la date d'expiration de votre pièce d'identité nationale.
+Scolarité/emploi
+Question 1
+Dans la liste, sélectionnez votre niveau de scolarité le plus élevé que vous avez complété.
+Aucun : Aucune scolarité.
+Secondaire ou moins : Diplôme d'études secondaires obtenu après les études primaires et qui précède les études collégiales, universitaires ou autres.
+Certificat ou diplôme de stage / formation en apprentissage : Certificat ou diplôme obtenu dans un domaine de formation particulier, comme la charpenterie ou la mécanique automobile.
+Certificat/diplôme non universitaire : Formation professionnelle requérant une éducation officielle, mais pas de niveau universitaire (par exemple technicien dentaire ou technicien des sciences de l'ingénierie).
+Postsecondaire - aucun diplôme : Études postsecondaires dans un collège ou une université sans avoir obtenu de diplôme.
+Baccalauréat : Diplôme universitaire décerné par un collège ou une université aux personnes ayant terminé un programme de premier cycle. On peut citer le baccalauréat ès arts, le baccalauréat ès sciences ou le baccalauréat en éducation.
+Études supérieures - aucun diplôme : Études supérieures à un collège ou à une université sans avoir obtenu de grade supérieur (Maîtrise ou Ph.D.).
+Maîtrise : Diplôme universitaire décerné par une école d'études supérieures d'un collège ou d'une université. Il faut d'abord avoir obtenu un baccalauréat pour pouvoir obtenir une maîtrise.
+Doctorat - Ph.D. : Diplôme universitaire le plus élevé, obtenu habituellement après au moins trois (3) ans d'études supérieures et la rédaction d'une thèse. Il faut normalement avoir obtenu une maîtrise pour pouvoir obtenir un doctorat.
+Question 2
+Entrez le nombre total d'années d'études que vous avez terminées, y compris les études primaires et secondaires.
+Question 3
+Entrez votre emploi actuel.
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, indiquez « Inconnu ».
+Question 4
+Entrez votre emploi prévu au Canada.
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, indiquez « Inconnu ».
+Langue
+Question 1
+Cette question n'est pas utilisée aux fins d'évaluation de votre demande. Un des objectifs du Canada en matière d'immigration est de favoriser le développement de collectivités de langues officielles minoritaires au Canada.
+Dans la liste, sélectionnez votre langue maternelle. Cette langue est celle que vous avez apprise à la maison durant votre enfance et que vous comprenez toujours. Si votre langue maternelle ne figure pas dans cette liste, sélectionnez « Autre ».
+Si votre langue maternelle n'est pas le français ou l'anglais, sélectionnez dans la liste la langue que vous utilisez le plus souvent :
+anglais
+français
+aucune
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, sélectionnez la langue maternelle du pays où vous avez l'intention d'adopter un enfant.
+Question 2
+Dans la liste, sélectionnez si vous pouvez communiquer en français ou en anglais :
+anglais
+français
+dans les deux langues
+aucune
+Personne(s) à charge
+Vous devez répondre à chaque question au nom de chacune des personnes à votre charge.
+Pour ajouter une nouvelle personne à charge dans la demande, cliquez sur le bouton « Ajouter une personne à charge », situé au bas de la page.
+Pour enlever une personne à charge de la demande, cliquez sur le bouton « Supprimer la personne à charge ».
+Vous pouvez ajouter jusqu'à cinq (5) personnes à charge sur ce formulaire.
+Si vous avez plus de cinq (5) personnes à charge :
+Afin d'inclure chaque membre additionnel à votre demande, vous devez remplir le formulaire suivant pour chaque membre additionnel de votre famille :
+Personnes à charge additionnelles / Déclaration [IMM 0008DEP] (PDF (Format de document portable), 424,19 Ko (Kilo octet))
+Important
+Vous devez inscrire tous les membres de votre famille dans votre demande de résidence permanente, qu'ils vous accompagnent ou non au Canada. Vous devez aussi fournir des renseignements sur les membres de votre famille dont vous ignorez l'endroit où ils se trouvent (y compris les personnes disparues ou présumées décédées). Si ces membres de votre famille ne sont pas mentionnés sur votre demande, vous ne pourrez pas les parrainer ultérieurement.
+Données personnelles de la personne à charge Questions 1-9
+Les questions 1 à 9 sont identiques à celles que vous avez répondues pour vous-même. Suivez les instructions précédentes pour vous aider à répondre aux questions pour votre(vos) personne(s) à charge.
+Question 10
+Dans la liste, sélectionnez le lien de votre personne à charge par rapport à vous, le demandeur principal :
+Autre
+Beau-petit-fils/petite-fille
+Conjoint(e) de fait
+Enfant
+Enfant adoptif
+Enfant du conjoint
+Époux/épouse
+Petit-fils/fille
+Complétez si vous avez choisi « Autre ».
+Question 11
+Cochez la case pour indiquer si votre personne à charge vous accompagnera au Canada.
+Si vous avez coché « Non », fournissez la raison pour laquelle votre personne à charge ne vous accompagnera pas au Canada.
+Question 12
+Dans la liste, sélectionnez le type de personne à charge :
+Type A
+La personne à charge est âgé de moins de 22 ans et célibataire (elle n'est ni mariée ni conjoint de fait).
+Type B (Important : Ce type de personne à charge dépend uniquement si l'âge de votre enfant était confirmé avant le 1er août 2014)
+La personne à charge est inscrite dans un établissement d'enseignement postsecondaire accrédité par les autorités gouvernementales et y suit des cours à temps plein et dépend du soutien financier d'un parent soit depuis avant l'âge de 22 ans.
+Type C
+La personne à charge est âgée de 22 ans ou plus, dépend, pour l'essentiel, du soutien financier de l'un ou l'autre de ses parents depuis avant la date de ses 22 ans et ne peut subvenir à ses besoins du fait de son état de santé.
+Vous ne savez pas quel type de personne à charge est votre enfant? Vérifier l'admissibilité de votre enfant en répondant à quelques questions.
+Question 13
+Pays de résidence actuel
+Dans la liste, sélectionnez l'information appropriée pour indiquer :
+Le nom du pays de résidence actuel de la personne à votre charge. Le pays de résidence est le pays où une personne habite, à condition d'y avoir été admise légalement.
+Pour les demandeurs d'asile au Canada seulement : sélectionnez
+Canada, que la personne à votre charge y ait été admise légalement ou non.
+Le statut d'immigration de la personne à votre charge dans ce pays (indiquez l'un des statuts suivants) :
+Citoyen
+Résident permanent
+Visiteur
+Travailleur
+Étudiant
+Autre
+Personne protégée
+Demandeur d'asile
+Étranger
+Autre : Vous devez remplir cette section si vous avez indiqué « Autre » comme statut.
+Les dates (De - À) correspondant à la période durant laquelle la personne à votre charge a vécu dans son pays de résidence actuel.
+Pour une demande de rétablissement du statut :
+sous « Statut », sélectionnez « Autre »;
+sous « Autre », inscrivez « Perte de statut, rétablissement du statut requis »;
+laissez les champs « De » et « À » vides.
+Question 14
+Entrez la date de la dernière fois où la personne à votre charge est entrée au Canada.
+Entrez le lieu de sa dernière entrée au Canada (exemples : aéroport de Toronto, poste frontalier de Lacolle, port de Yarmouth).
+Question 15
+Pays de résidence antérieur(s)
+Cochez la case pour indiquer si la personne à votre charge a vécu dans un pays autre que son pays de citoyenneté ou son pays de résidence actuel pendant plus de six (6) mois au cours des cinq (5) dernières années.
+Si vous avez coché « Oui », sélectionnez dans la liste l'information appropriée pour indiquer ce qui suit :
+Le nom du pays dans lequel la personne à votre charge a vécu;
+Son statut d'immigration durant la période où elle résidait dans ce pays :
+Citoyen
+Résident permanent
+Visiteur
+Travailleur
+Étudiant
+Autre
+Personne protégée
+Demandeur d'asile
+Étranger désigné
+Autre : Vous devez remplir cette section si vous avez choisi « Autre » comme statut;
+les dates (De - À) correspondant à la période durant laquelle la personne à votre charge a vécu dans ce pays.
+Question 16
+a. Dans la liste, sélectionnez l'état matrimonial actuel de la personne à votre charge :
+Conjoint(e) de fait
+Célibataire
+Divorcé(e)
+Mariage annulé
+Marié(e)
+Séparé(e) légalement
+Veuf(ve)
+b. Entrez la date (année, mois, jour) du mariage ou du début de l'union de fait de la personne à votre charge.
+Indiquez le ou les noms de famille et prénom de l'époux ou du conjoint de fait actuel de la personne à votre charge.
+Question 17
+Cochez la case appropriée pour indiquer si la personne à votre charge a déjà été mariée ou vécu dans une union de fait. Si vous avez sélectionné « Oui », fournissez les détails suivants sur l'époux ou le conjoint de fait précédent de la personne à votre charge :
+Nom de famille
+Prénom(s)
+Type de relation :
+Conjoint(e) de fait ou
+Marié(e)
+Dates de début et de fin de la relation de la personne à votre charge avec son époux ou conjoint de fait précédent.
+Passeport
+Question 1
+Cochez la case appropriée pour indiquer si la personne à votre charge a un passeport ou un titre de voyage valide. Si vous n'en avez pas ou ne pouvez pas en obtenir un, cochez « Non ».
+Question 2
+Si vous avez sélectionné « Oui », indiquez le numéro de son passeport ou titre de voyage exactement comme indiqué indiqué sur le document. Veillez à ne pas laisser d'espace entre chaque lettre ou chiffre.
+Question 3
+Sélectionnez, dans la liste, le pays ou territoire de délivrance de son passeport ou titre de voyage.
+Question 4
+Entrez la date d'émission de votre passeport ou document de voyage.
+Question 5
+Entrez la date d'expiration de votre passeport ou document de voyage.
+Question 6
+Pour ce voyage - sélectionnez Oui ou Non pour nous dire si vous utilisez un passeport délivré par le ministère des Affaires étrangères de Taïwan qui indique votre numéro d'identification personnel.
+Question 7
+Pour ce voyage - sélectionnez Oui ou Non pour nous dire si vous utilisez un passeport national israélien.
+Pièce d'identité nationale
+Question 1
+Cochez la case appropriée pour indiquer si la personne à votre charge a une pièce d'identité nationale valide.
+Question 2
+Si vous avez coché « Oui », indiquez le numéro de sa pièce d'identité nationale exactement comme indiqué sur le document. Assurez-vous de ne pas laisser d'espace entre chaque lettre ou chiffre.
+Question 3
+Dans la liste, sélectionnez le nom du pays ou territoire qui a délivré sa pièce d'identité.
+Question 4
+Entrez la date de délivrance de sa pièce d'identité.
+Question 5
+Entrez la date d'expiration de sa pièce d'identité.
+Scolarité/Emploi
+Question 1
+Dans la liste, sélectionnez le niveau de scolarité le plus élevé que la personne à votre charge a terminé.
+Aucun : Aucune éducation
+« Secondaire ou moins » : Diplôme d'études secondaires obtenu après les études primaires et qui précède les études collégiales, universitaires ou autres.
+Certificat/diplôme d'une école de métiers/d'apprentissage : Certificat ou diplôme obtenu dans un domaine de formation particulier, comme la charpenterie ou la mécanique automobile. Certificat/diplôme non universitaire : Formation professionnelle requérant une éducation officielle, mais pas de niveau universitaire (par exemple technicien dentaire ou technicien des sciences de l'ingénierie).
+Postsecondaire - aucun diplôme : Études postsecondaires dans un collège ou une université sans avoir obtenu de diplôme. Baccalauréat : Diplôme universitaire décerné par un collège ou une université aux personnes ayant terminé un programme de premier cycle. On peut citer le baccalauréat ès arts, le baccalauréat ès sciences ou le baccalauréat en éducation.
+Études supérieures - aucun diplôme : Études supérieures à un collège ou à une université sans avoir obtenu de grade supérieur (maîtrise ou doctorat).
+Maîtrise : Diplôme universitaire décerné par un service d'enseignement postsecondaire d'un collège ou d'une université. Il faut d'abord avoir obtenu un baccalauréat pour pouvoir obtenir une maîtrise.
+Doctorat - Ph.D. : Diplôme universitaire le plus élevé, obtenu habituellement après au moins trois (3) ans d'études postsecondaires et la rédaction d'une thèse. Il faut normalement avoir obtenu une maîtrise pour pouvoir obtenir un doctorat.
+Question 2
+Entrez le nombre total d'années d'études qu'elle a terminées, y compris les études primaires et secondaires.
+Question 3
+Entrez son emploi actuel.
+Question 4
+Entrez son emploi prévu au Canada.
+Langue
+Question 1
+Cette question ne sert pas aux fins d'évaluation de votre demande. Un des objectifs du Canada en matière d'immigration est de favoriser le développement de collectivités de langues officielles minoritaires au Canada.
+Dans la liste, sélectionnez la langue maternelle de la personne à votre charge. Cette langue est celle qu'elle a apprise à la maison durant son enfance et qu'elle comprend toujours. Si la langue maternelle ne figure pas dans cette liste, sélectionnez « Autre ».
+Si la langue maternelle de la personne à votre charge n'est ni le français ni l'anglais, sélectionnez la langue qu'elle utilise le plus souvent :
+anglais français aucune
+Remarque : Si vous êtes le parent d'un enfant à être adopté au Canada qui n'est pas encore identifié, sélectionnez la langue maternelle du pays où vous avez l'intention d'adopter un enfant.
+Question 2
+Dans la liste, sélectionnez la langue dans laquelle vous pouvez communiquer :
+anglais français dans les deux langues
+aucune
+Question 3
+Cochez Oui ou Non pour indiquer si vous avez fait évaluer vos compétences en anglais ou en français par un organisme d'évaluation approuvé.
+Consentement et déclaration du demandeur
+1. Une fois le formulaire rempli, cliquez sur l'icône « Valider », située en haut ou au bas du formulaire. Des codes à barres (voir l'image ci-dessous) seront alors générés.
+Remarque : Ces codes à barres n'apparaîtront pas si vous avez rempli le formulaire à la main.
+Imprimez toutes les pages de votre formulaire de demande.
+Veuillez lire toutes les déclarations attentivement et :
+Indiquez votre nom dans l'espace fourni.
+Cochez la case pour indiquer si vous acceptez que les renseignements contenus dans cette demande et portant sur l'emploi envisagé, la scolarité et l'expérience de travail soient communiqués aux employeurs éventuels afin de les aider à embaucher des travailleurs.
+Signez (à la main) et datez aux endroits réservés à cette fin.
+En signant, vous certifiez que vous comprenez les questions qui sont posées et que l'information que vous avez fournie est complète, véridique et exacte. Si vous ne signez pas, votre demande vous sera retournée.
+Placez les pages contenant les codes à barres au-dessus de votre demande (formulaires et documents requis) lorsque vous la soumettrez.
+Personnes à charge additionnelles/Déclaration (IMM 0008DEP)
+Qui doit remplir ce formulaire?
+Ce formulaire doit être rempli par :
+Vous, le demandeur principal, au nom de chacune des personnes à votre charge qui n'ont pas été incluses dans le Formulaire de demande générique pour le Canada (IMM 0008).
+Les questions sont identiques à celles auxquelles vous avez répondu pour vous-même et vos autres personnes à charge sur le formulaire IMM 0008.
+Suivez les instructions précédentes pour vous aider à répondre aux questions.
+Consentement et déclaration du demandeur
+Veuillez lire toutes les déclarations attentivement et :
+a. Indiqez le nom de la personne à charge dans l'espace fourni.
+b. Cochez la case pour indiquer si vous acceptez que les renseignements contenus dans cette demande et portant à la personne à charge sur l'emploi envisagé, la scolarité et l'expérience de travail soient communiqués aux employeurs éventuels afin de les aider à embaucher des travailleurs.
+Signez et datez aux endroits réservés à cette fin.
+En signant l'Autorisation de divulguer des renseignements personnels et la déclaration, vous certifiez que la personne à charge comprend les questions qui sont posées et que l'information que vous avez fournie est complète, véridique et exacte. Si vous ne signez pas, votre demande vous sera retournée.
+Remarque : Si vous avez moins de 18 ans, un de vos parents ou tuteur doit signer votre formulaire.
+Annexe A - Antécédents/Déclaration (IMM 5669)
+Ce formulaire doit être rempli par :
+vous, le demandeur principal;
+votre époux ou conjoint de fait (qu'il vous accompagne ou non au Canada) et
+vos enfants à charge âgés de 18 ans ou plus (qu'ils vous accompagnent au Canada ou non).
+Pour les demandeurs d'asile au Canada : Seuls les membres de votre famille inclus dans votre demande d'asile et qui se trouvent au Canada doivent remplir ce formulaire.
+Question 1
+Entrez votre nom de famille au complet tel qu'il figure dans votre passeport, document de voyage ou d'identité.
+Entrez tous vos prénoms (premier, deuxième, ou plus) tels qu'ils figurent dans votre passeport, document de voyage ou d'identité. N'utilisez pas d'initiales.
+Question 2
+Entrez votre nom dans votre langue ou graphie maternelle (s'il y a lieu).
+Par exemple : en caractères arabes, cyrilliques, chinois, coréens, japonais ou en code télégraphique ou commercial chinois.
+Question 3
+Entrez votre date de naissance. Si vous ne connaissez pas votre date de naissance au complet, utilisez le signe « * » (astérisque) pour remplir les espaces correspondant à l'année, au mois ou au jour, selon le détail que vous ignorez. Par exemple, si le jour et le mois de votre naissance vous sont inconnus, vous pourriez inscrire 1964/*/*.
+Question 4
+Donnez des détails personnels concernant votre père, notamment :
+son nom de famille;
+son prénom;
+sa date de naissance;
+sa ville natale;
+son pays natal;
+date du décès (s'il y a lieu).
+Question 5
+Donnez des détails personnels concernant votre mère, notamment :
+son nom de famille;
+son prénom;
+sa date de naissance;
+sa ville natale;
+son pays natal;
+date du décès (s'il y a lieu).
+Question 6
+Répondez à chaque question de la section en cochant la case appropriée. Si vous répondez « Oui » à une ou à plus d'une question, vous devez fournir des explications sur ce qui est arrivé dans l'espace prévue. Si vous avez besoin de plus d'espace, annexez une feuille distincte.
+Quand vous répondez aux questions 7 à 12 :
+N'utilisez PAS d'abréviation.
+Veillez à NE laisser AUCUNE période de temps sans explication.
+Si une question ne s'applique pas à vous, vous devez écrire « S.O. » dans l'espace prévu à cet effet;
+Si vous avez besoin de plus d'espace, annexez une feuille distincte.
+Renseignements importants : Si vous ne rendez pas compte de toutes les périodes, le traitement de votre demande sera retardé.
+Question 7
+Scolarité
+Entrez le nombre d'années de formation officielle que vous avez complétées pour chaque des niveaux d'études.
+Précisez les éléments suivants pour chacun des établissements secondaires ou postsecondaires d'enseignement que vous avez fréquenté :
+durée de la fréquentation de l'établissement;
+nom de l'établissement;
+ville et pays;
+type de certificat ou de diplôme décerné;
+champ d'études.
+Si aucun diplôme n'a été décerné, inscrivez « S/O ». Si vous avez besoin de plus d'espace, annexez une feuille distincte.
+Question 8
+Veuillez préciser vos antécédents personnels depuis l'âge de 18 ans, ou les 10 dernières années, selon la période la plus récente. Commencez par l'information la plus récente.
+Si vous aviez un emploi :
+À la rubrique « Activité », inscrivez votre profession ou le titre de votre poste.
+Assurez-vous de fournir un titre de poste précis.
+Si votre titre n'indique pas clairement en quoi consistait votre emploi, fournissez une brève liste de vos tâches.
+Si vous n'aviez pas d'emploi :
+Donnez des renseignements sur ce que vous faisiez (par exemple : chômage, études, voyage, retraite, en détention, etc.).
+Si vous étiez à l'extérieur de votre pays de nationalité, indiquez votre statut dans le pays où vous étiez.
+Renseignements importants : Veuillez ne pas laisser de périodes de temps sans explications. Si vous ne rendez pas compte de toutes les périodes, le traitement de votre demande sera retardé.
+Question 9 : Appartenance à des organisations
+Indiquez le nom de toutes les associations ou organisations dont vous étiez ou dont vous êtes toujours membre.
+Ceci comprend :
+les organisations politiques,
+les organisations sociales,
+les organisations de jeunes ou d'étudiants,
+les syndicats, et
+les associations professionnelles.
+Si vous n'étiez pas membre d'aucune organisation ni affilié à aucune, n'écrivez pas « sans objet ». Écrivez plutôt « Je n'ai jamais été membre d'une organisation ou association. »
+Question 10
+Indiquez les charges publiques que vous avez occupées par le passé, notamment celles de :
+fonctionnaire;
+juge;
+policier;
+employé d'une agence de service de renseignements; etc. (etcetera)
+N'utilisez pas d'abréviation.
+Veuillez inscrire « Néant » dans cette section si vous n'avez jamais appartenu ou été affilié à une ou plusieurs organisations.
+Incluez :
+le nom du pays et le palier administratif (exemples : national, régional ou municipal);
+le nom du ministère ou de la direction générale pour laquelle vous avez travaillé et
+les activités ou les postes occupés.
+Note : N'utilisez pas d'abréviations.
+Question 11
+Donnez des précisions sur votre service militaire ou paramilitaire (s'il y a lieu), pour chacun des pays dans lesquels vous avez servi dans les forces armées. Si vous n'avez pas fait de service militaire ou paramilitaire, inscrivez « Néant ». Veuillez ne pas laisser de période inexpliquée en fait de temps.
+Question 12
+Entrez toutes les adresses complètes, avec le code postal, où vous avez résidé depuis votre 18e anniversaire ou au cours des 10 dernières années, selon la période la plus récente. N'utilisez pas d'adresses comportant des boîtes postales.
+Autorisation de divulguer des renseignements personnels Déclaration du demandeur
+Veuillez lire toutes les déclarations attentivement. Veuillez signer et dater aux endroits réservés à cette fin. En signant, vous certifiez que vous comprenez les questions qui sont posées et que 'information que vous avez fournie est complète, véridique et exacte. Si vous ne signez pas, votre demande vous sera retournée.
+Note : La dernière section de l'annexe A n'a pas besoin d'être complétée maintenant.
+Annexe 12 - Renseignements supplémentaires - Demandeurs d'asile au Canada (IMM 0008 - Annexe 12)
+Qui doit remplir ce formulaire de demande
+Ce formulaire doit être rempli par :
+Vous, le demandeur principal.
+Note : Vous devrez fournir des renseignements au nom de tout membres de votre famille qui est au Canada et qui présente également une demande d'asile.
+Question 1
+Indiquez votre nom de famille au complet (prénom/nom de famille) tel qu'il figure dans votre passeport, titre de voyage ou pièce d'identité.
+Indiquez tous vos prénoms (premier, deuxième ou plus) tels qu'ils figurent dans votre passeport, titre de voyage ou pièce d'identité. N'utilisez pas d'initiales.
+Question 2
+Indiquez votre date de naissance complète.
+Question 3
+Indiquez votre numéro d'identification unique de client (IUC), numéro d'identification de client (ID Client), si vous le connaissez (numéro à 8 ou 10 chiffres). Autrement, laissez le champ vide. Si c'est la première fois que vous nous présentez une demande, vous n'aurez pas d'IUC (Identification universel de client) ou d'ID Client.
+Question 4
+Dressez la liste de tous les documents, authentiques ou faux, que les membres de votre famille ont en leur possession et qui n'ont pas été inclus dans le Formulaire de demande générique pour le Canada (IMM 0008). Il peut s'agir de pièces d'identité, de titres de voyages ou de tout autre document qu'ils ont en leur possession en ce moment à l'appui de votre demande.
+Note : Il peut s'agir de documents qui ne sont pas authentiques, de documents que vous avez obtenus de manière irrégulière ou illégale ou en fournissant de faux renseignements, et de documents que vous avez utilisés et qui ne vous appartiennent pas.
+Voici des exemples de pièces d'identité :
+passeport
+livret de marin
+permis de conduire
+acte de naissance
+carte électorale
+Veuillez inclure les détails suivants :
+le type de document
+le nom indiqué dans le document
+le pays ou organisme de délivrance répondez « Oui » ou « Non » pour indiquer si ce document est présentement en votre possession
+répondez « Oui » ou « Non » pour indiquer si ce document est un document authentique.
+Question 5
+Dressez la liste de tous les documents, authentiques ou faux, que les membres de votre famille ont en leur possession et qui n'ont pas été inclus dans le Formulaire de demande générique pour le Canada (IMM 0008). Il peut s'agir de pièces d'identité, de titres de voyages ou de tout autre document qu'ils ont en leur possession en ce moment à l'appui de votre demande.
+Note : Il peut s'agir de documents qui ne sont pas authentiques, de documents qu'ils ont obtenus de manière irrégulière ou illégale ou en fournissant de faux renseignements, et de documents qu'ils ont utilisés et qui ne leur appartiennent pas.
+Voici des exemples de pièces d'identité :
+passeport
+livret de marin
+permis de conduire
+acte de naissance
+carte électorale
+Veuillez inclure les détails suivants :
+le type de document
+le nom indiqué dans le document
+le pays ou organisme de délivrance
+répondez « Oui » ou « Non » pour indiquer si ce document est présentement en leur possession
+répondez « Oui » ou « Non » pour indiquer si ce document est un document authentique.
+Question 6
+Si vous ou un membre de votre famille avez eu de l'aide pour vous rendre au Canada, veuillez fournir de l'information sur les personnes qui vous ont aidé, notamment :
+leur nom
+le genre d'aide qu'elles ont fournie (par exemple : elles ont acheté le billet d'avion, ont fourni de faux documents de voyage, vous ont accompagné au Canada, ont franchi la frontière canadienne avec vous, etc.)
+le montant que vous leur avez payé, s'il y a lieu.
+Il peut s'agir d'un agent de voyage, d'un consultant en immigration, etc. Question 7
+Indiquez combien d'argent vous et les membres de votre famille avez en votre possession et en quelle devise (dollars canadiens ou américains, Euros, livres sterling, etc.).
+Question 8 Arrestations et infractions criminelles
+Ajoutez une autre page, si vous avez besoin de plus d'espace pour énumérer vos arrestations, et/ou infractions criminelles, ou pour expliquer les circonstances de votre acquittement, absolution ou réhabilitation. Vous pouvez également joindre des documents à l'appui comme des documents juridiques.
+Cochez « Oui » ou « Non » pour indiquer si vous ou des membres de votre famille avez déjà été recherchés, arrêtés ou détenus par la police, l'armée ou toute autre autorité d'un pays, y compris le Canada.
+Si vous avez répondu « Oui », indiquez aux endroits prévus : le nom de la personne recherchée, arrêtée ou détenue par la police, l'armée ou toute autre autorité (votre nom ou celui de membres de votre famille) par qui cette personne était recherchée, a été arrêtée ou a été détenue dans quel pays
+• la période de détention (du - au) indiquez le motif
+Cochez « Oui » ou « Non » pour indiquer si vous ou des membres de votre famille avez déjà commis, été accusés ou été déclarés coupable d'un crime ou d'une infraction dans un pays, y compris le Canada.
+Si vous avez répondu « Oui » à 8b), indiquez aux endroits prévus les crimes et les infractions, y compris ceux pour lesquels aucune accusation n'a été portée contre vous ou des membres de votre famille; si vous ou des membres de votre famille avez été mis en accusation, veuillez inclure les infractions pour lesquelles il y a eu acquittement, absolution ou réhabilitation.
+Veuillez indiquer aux endroits prévus :
+les détails sur la nature du crime ou de l'infraction
+le lieu du crime
+la date de la mise en accusation
+le résultat ou l'issue et la date du résultat ou de l'issue (déclaration de culpabilité ou acquittement, etc.)
+dans le cas d'une déclaration de culpabilité, veuillez indiquer la peine infligée
+• indiquez la durée de la peine d'emprisonnement purgée (du - au), s'il y a lieu
+Question 9
+Votre voyage au Canada
+Indiquez l'itinéraire précis de votre voyage et de celui des membres de votre famille jusqu'au Canada immédiatement avant la présentation de cette demande d'asile, y compris les pays de transit (par exemple, les escales dans les aéroports).
+Fournissez, entre autres, les détails suivants :
+la date de votre départ (pour chaque étape de votre voyage au Canada)
+la ville et le pays de votre départ
+le(s) mode(s) de transport que vous avez utilisé(s) autres détails de votre voyage
+la date de votre arrivée de la prochaine étape de votre voyage (incluant les points de transit), et
+la ville et le pays de votre arrivée où vous avez voyagé avant de vous rendre au Canada (s'il y a lieu) en terminant avec la ville où vous êtes arrivé au Canada.
+Note : Votre itinéraire ou vos déplacements peuvent s'être étalés sur plusieurs mois ou années, il se peut que vous ayez voyagé dans plusieurs pays, et vous avez pu utiliser divers modes de
+transport (c.-à-d. avion, autobus, bateau, train).
+Question 10
+Pour travailler légalement au Canada, un permis de travail est requis. Un permis d'études est nécessaire pour étudier au niveau postsecondaire (par exemple, un collège ou une université).
+Indiquez si vous, ou l'un des membres de votre famille au Canada, demandez également un permis de travail et / ou d'étude.
+À côté de chaque nom, utilisez les cases à cocher pour indiquer si la personne demande un permis de travail, un permis d'études ou les deux.
+Remarque : si vous êtes ressortissant d'un pays d'origine désigné, vous n'êtes pas éligible pour le traitement automatique des permis de travail. Pour obtenir une liste des pays DCO, voir: https://www.canada.ca/fr/immigration-refugies- citoyennete/services/refugies/presenter-demande-asile- canada/demande/politique-pays-designes.html
+Remarque : aucun permis d'études n'est requis pour les études primaires et secondaires (c'est-à-dire jusqu'à la 12e année)
+Ceux qui se qualifieront recevront leur permis de travail et / ou d'étude une fois qu'IRCC aura reçu les résultats de l'examen médical.
+Autorisation de divulguer des renseignements personnels Déclaration du demandeur
+Remarque : Veuillez lire attentivement toutes les déclarations dans toutes les sections. Veuillez signer et dater aux endroits réservés à cette fin. En signant, vous certifiez que vous comprenez les questions qui sont posées, et que l'information que vous avez fournie est complète, véridique et exacte.
+Recours aux services d'un représentant (IMM 5476)
+Qui peut utiliser ce formulaire?
+Remplir ce formulaire seulement si :
+vous désignez un représentant, vous devez mettre à jour les coordonnées de votre représentant désigné précédemment; ou
+vous annulez la désignation d'un représentant.
+Si vous avez des enfants à charge âgés de 18 ans ou plus, ils doivent remplir leur propre formulaire si un représentant agit également en leur nom.
+Qu'est-ce qu'un représentant?
+Un représentant est une personne qui vous fournit des conseils ou des directives à n'importe quelle étape du processus de la demande, ou lors d'une instance et à qui vous avez accordé la permission d'agir en votre nom auprès de Immigration, Réfugiés et Citoyenneté Canada (IRCC) et de l'Agence des services frontaliers du Canada (ASFC), si vous la désignez comme votre représentant dans ce formulaire.
+Vous n'êtes pas obligé d'engager un représentant. Nous traitons tout le monde de la même manière, qu'ils recourent aux services d'un représentant ou non.
+Lorsque vous désignez un représentant :
+vous autorisez également IRCC et l'ASFC (Agence des services frontaliers du Canada) à communiquer de l'information sur votre dossier à cette personne et non pas à vous; veuillez noter que toute correspondance d'IRCC ou de l'ASFC sera envoyée au représentant et non pas au demandeur.
+votre demande ne fera pas l'objet d'une attention particulière et son traitement ne se fera pas plus rapidement ni davantage en votre faveur;
+le représentant que vous nommez est autorisé à vous représenter uniquement pour les questions de citoyenneté et d'immigration liées à la demande qui accompagne ce formulaire; et vous ne pouvez désigner qu'un (1) représentant pour chaque demande que vous présentez.
+Renseignements importants : Vous devez aviser IRCC si les coordonnées de votre représentant changent ou si vous désignez un nouveau représentant, pour annuler la désignation d'un représentant. Pour en savoir davantage sur la façon de communiquer avec IRCC au sujet des renseignements concernant votre représentant, veuillez consultez la section Avisez IRCC de tout nouveau changement ci- dessous.
+Il existe deux (2) types de représentants.
+Les représentants non rémunérés :
+Les représentants non rémunérés n'exigent pas de frais et ne reçoivent aucun autre type de rétribution ou de compensation ni pour fournir des conseils ou services, ni pour vous représenter auprès d'IRCC ou de l'ASFC.
+Les représentants non rémunérés incluent :
+les amis et membres de la famille qui n'exigent et n'exigeront aucuns frais ou ne recevront aucun autre type de compensation pour leurs conseils et leurs services;
+les organisations qui n'exigent et n'exigeront aucuns frais ou ne recevront aucun autre type de compensation pour fournir des conseils ou une aide en matière de citoyenneté ou d'immigration (telles que les organisations non gouvernementales ou religieuses); les consultants, avocats parajuristes, notaires du Québec et les stagiaires en droit qui sont sous leur supervision qui n'exigent et n'exigeront pas de frais ou ne recevront aucun autre type de compensation pour vous représenter.
+Remarque : Vous n'avez pas à payer quelqu'un pour vous représenter car IRCC traite avec des représentants non rémunérés si ces derniers sont désignés par les clients qu'ils représentent.
+Les représentants rémunérés :
+Les représentants rémunérés exigent des frais ou d'autres types de compensations en échange de services de représentation qu'ils offrent.
+Il est important de savoir que quiconque vous représente ou vous fournit des conseils moyennant rétribution - ou qui vous offre de le faire - en lien avec une instance ou des demandes d'IRCC, enfreint la loi, à moins qu'il soit un représentant autorisé ou qu'il ait un accord ou une disposition spécifique avec le gouvernement du Canada l'autorisant à vous représenter ou à vous donner des conseils. Ceci s'applique à tout conseil ou consultation qui se produit avant ou après qu'une demande de citoyenneté ou d'immigration soit présentée ou avant qu'une instance commence.
+IRCC traitera seulement avec des représentants rémunérés qui sont membres en règle de leur organisme de réglementation. Pour de plus amples renseignements, consultez le lien suivant : Découvrez si votre représentant est autorisé.
+Remarque : Si un représentant est payé ou reçoit une rémunération de la part d'une personne autre que vous, il sera alors considéré comme étant un représentant rémunéré.
+Les représentants autorisés sont : les consultants en immigration qui sont membres en règle du Conseil de réglementation des consultants en immigration du Canada (CRCIC);
+les avocats et les parajuristes qui sont des membres en règle d'un barreau provincial ou territorial du Canada et les étudiants en droit qui sont sous leur supervision;
+les notaires qui sont des membres en règle de la Chambre des notaires du Québec et les étudiants en droit qui sont sous leur supervision.
+Si vous désignez un représentant rémunéré qui n'est pas membre en règle d'un des organismes désignés, votre demande vous sera retournée. Renseignez-vous sur les représentants.
+Information générale
+Désigner un représentant
+Cochez une case pour indiquer si vous désignez un représentant pour le traitement de votre demande. Remplissez les sections A, B et D.
+Annuler l'autorisation accordée au représentant
+Cochez une case pour indiquer que vous désirez retirer l'autorisation accordée à un représentant. Remplissez les sections A, C et D; et
+cochez les deux (2) cases et remplissez toutes les sections pour indiquer que vous désirez simultanément retirer l'autorisation accordée à un représentant et désigner un nouveau représentant.
+Section A - Renseignements sur le demandeur
+Question 1
+Inscrivez votre nom de famille et vos prénoms.
+Question 2
+Inscrivez votre date de naissance.
+Question 3
+Si vous avez déjà présenté votre demande, inscrivez :
+le nom du bureau où la demande a été présentée; et
+le type de demande que vous avez envoyée.
+Question 4
+Inscrivez votre numéro de client ou Identificateur unique de client (IUC) d'IRCC (si vous le connaissez). Si vous n'avez pas eu affaire avec IRCC depuis 1973, vous n'aurez pas d'IUC ou d'ID de client.
+Section B - Désignation d'un représentant
+Question 5
+Inscrivez le nom au complet de votre représentant.
+S'il est membre du Conseil de réglementation des consultants en immigration du Canada (CRCIC), d'un barreau ou de la Chambre des notaires du Québec, indiquez son nom tel qu'il apparaît sur la liste de membres de l'organisme en question.
+Question 6
+Cochez une case pour indiquer si votre représentant sera rémunéré ou non pour ses services.
+Dans l'affirmative, veuillez inscrire le numéro de membre de l'association dont votre représentant est membre en règle, soit :
+du Conseil de réglementation des consultants en immigration du Canada (CRCIC) ou
+d'un barreau provincial ou territorial du Canada ou de la Chambre des notaires du Québec.
+Question 7
+Inscrivez les coordonnées de votre représentant.
+Si vous désignez un étudiant en droit pour vous représenter, veuillez inscrire les coordonnées de son avocat superviseur ainsi que son numéro de membre de l'association dont il est membre en règle.
+Remarque : En indiquant l'adresse électronique de votre représentant, vous autorisez IRCC à transmettre des détails sur votre dossier ainsi que vos renseignements personnels à cette adresse électronique.
+Question 8
+Afin d'indiquer qu'il accepte la responsabilité d'agir en votre nom, votre représentant doit :
+signer la déclaration; et dater la déclaration.
+Section C - Retrait de l'autorisation accordée au représentant
+Question 9
+Veuillez remplir cette section si vous désirez simultanément annuler l'autorisation d'un représentant. Indiquez le nom au complet du représentant.
+Remplissez toutes les sections pour indiquer que vous désirez annuler l'autorisation accordée à un représentant et désigner un nouveau représentant.
+Section D - Votre déclaration
+Question 10
+En signant, vous autorisez IRCC à exécuter votre requête pour vous- même et pour vos enfants à charge âgés de moins de 18 ans.
+Dans le cas d'une demande de parrainage, votre époux ou conjoint de fait n'a pas besoin de remplir une demande distincte. Si votre époux/ épouse ou votre conjoint(e) de fait est inclus(e) dans la requête, il ou elle doit signer dans la case appropriée. Demande d'asile présentée au Canada (IMM 5746) - Canada.ca Communication de renseignements à d'autres personnes Pour autoriser IRCC à communiquer des renseignements sur votre dossier à quelqu'un autre qu'un représentant, vous devrez remplir le formulaire Autorisation de communiquer des renseignements personnels à une personne désignée (IMM 5475) (PDF (Format de document portable), 5,94Ko (Kilo octet)). Le formulaire est aussi disponible auprès des ambassades, des hauts commissariats et des consulats canadiens à l'étranger.
+La personne que vous désignez dans le formulaire (IMM 5475) pourra obtenir des renseignements sur votre dossier, par exemple sur l'état de votre demande. Cependant, elle ne pourra pas agir en votre nom auprès d'IRCC.
+Où envoyer le formulaire
+Demandeurs d'immigration et de citoyenneté
+Si vous n'avez pas encore présenté votre demande d'immigration ou de citoyenneté :
+Veuillez envoyer ce formulaire ainsi que votre demande au bureau indiqué dans le guide de la demande.
+Si vous avez déjà soumis votre demande d'immigration ou de citoyenneté :
+Vous pouvez utiliser ce formulaire Web pour télécharger l'IMM 5476;
+Ou
+Si vous savez quel bureau d'IRCC s'occupe du traitement de votre demande d'immigration ou de citoyenneté, veuillez envoyer le formulaire dûment rempli à l'adresse postale du bureau. Consultez les adresses postales des bureaux d'IRCC.
+Veuillez aviser IRCC de tout changement 
+Vous devez aviser IRCC de tout changement aux renseignements concernant la personne que vous avez autorisée à vous représenter dans votre demande.
+Étape 3. Présenter les formulaires remplis en personne à IRCC
+Signez les formulaires
+Remarque
+La demande peut être signée et datée avant d'être soumise.
+Si vous êtes :
+âgé de 18 ans ou plus, signez et datez dans les cases prévues;
+âgé de moins de 18 ans, votre formulaire doit être signé par l'un de vos parents ou votre tuteur légal.
+Imprimez les formulaires de demande
+Imprimez tous les formulaires requis :
+Formulaire de demande générique pour le Canada (IMM 0008), en incluant le code à barres si vous l'avez complété en ligne Personnes à charge additionnelles/Déclaration (IMM 0008DEP), s'il y a lieu
+Annexe A - Antécédents/Déclaration (IMM 5669), chaque membre de la famille 18 ans ou plus au Canada doit remplir ce formulaire
+Annexe 12 - Demandeurs d'asile au Canada (IMM 0008-Annexe 12), chaque membre de la famille 18 ans ou plus au Canada doit remplir ce formulaire
+Fondement de la demande d'asile, à remplir par chaque membre de la famille au Canada (y compris les enfants d'âge mineur)
+Liste de contrôle des documents (IMM 5745)
+Recours aux services d'un représentant (IMM 5476), s'il y a lieu.
+Où envoyer vos formulaires remplis
+Lorsque vous avez fini de remplir tous les formulaires nécessaires et que vous avez recueilli tous les documents pertinents, pportez-les en personne à un bureau d'IRCC.
+Les demandes envoyées par la poste ou par courriel ne seront pas acceptées.
+Vous devez vous présenter en personne. Nous n'accepterons aucune demande présentée en votre nom par un représentant
+Si vos formulaires sont remplis correctement et qu'ils répondent aux exigences de notre personnel, une rencontre sera organisée pour que vous rencontriez un agent.
+Si nécessaire, nous organiserons votre visite avec un interprète.
+Étape 4 : Passer l'entrevue d'admissibilité
+Entrevue d'admissibilité
+Le but de l'entrevue d'admissibilité est d'évaluer si votre demande d'asile peut être déférée ou non à la Section de la protection des réfugiés (SPR) de la Commission de l'immigration et du statut de réfugié. La Section de la protection des réfugiés ne peut pas examiner une demande d'asile avant qu'elle lui soit déférée par l'agent.
+À l'entrevue, l'agent rend une décision au sujet de la recevabilité de la demande. L'agent n'établira pas le bien-fondé de votre demande d'asile. Toutefois, si vous êtes visé par l'un des critères relatifs à l'irrecevabilité (énumérés à la section « Avant de présenter votre demande » du présent guide), votre demande pourrait être irrecevable aux fins de transfert à la SPR (Section de la protection des réfugiés).
+L'agent passera vos formulaires en revue pour s'assurer que tous les documents sont remplis de façon satisfaisante et vous posera peut-être quelques questions à des fins de clarification. On prendra par ailleurs vos empreintes digitales afin d'effectuer des vérifications de sécurité et des vérifications judiciaires.
+L'agent disposera de trois jours ouvrables pour décider si votre demande d'asile peut être déférée.
+Et ensuite?
+Si l'agent décide que votre demande d'asile peut être déférée à la CISR, on vous remettra une trousse comportant ce qui suit :
+un document confirmant que votre demande d'asile a été déférée à la Section de la protection des réfugiés (SPR) de la CISR en vue d'une audience au cours de laquelle vous établirez le bien-fondé de votre demande d'asile;
+un document de demande d'asile (DDA), qui indique que vous êtes un client du système d'octroi de l'asile du Canada;
+une couverture limitée des soins de santé dans le cadre du Programme fédéral de santé intérimaire;
+le cas échéant, si vous souhaitez obtenir un permis de travail, un permis d'études ou les deux, après confirmation de votre éligibilité et la fin de vos examens médicaux, le ou les permis vous seront envoyés par courrier.
+Note : Nous vous fournirons un feuillet d'information détaillant votre couverture dans le cadre du Programme fédéral de santé intérimaire
+un rapport médical à apporter à un médecin pour qu'il le remplisse, en tant que partie intégrante de votre demande d'asile;
+d'autres documents d'immigration connexes et une liste des conditions.
+Nous transmettrons votre demande d'asile à la CISR. À une date ultérieure, la CISR vous enverra un avis de comparution, qui indiquera la date, l'heure et l'endroit de votre audience à la SPR.
+Mise à jour de vos coordonnées
+Renseignements importants
+Au cours du processus de demande, vous devez nous faire part de tout changement à votre adresse ou à votre numéro de téléphone en cliquant sur Changement d'adresse ou en consultant la section Comment nous joindre à la fin du présent guide.
+Note : Une fois que votre demande d'asile a été déférée à la Commission de l'immigration et du statut de réfugié (CISR), vous devez également aviser la CISR de tout changement dans vos coordonnées. Des instructions sur la façon de faire sont incluses dans la trousse d'information de la CISR.
+Protéger vos renseignements personnels
+Vos renseignements personnels :
+sont accessibles uniquement aux employés d'IRCC et de l'Agence des services frontaliers du Canada (ASFC) qui doivent y avoir accès afin de vous fournir les services pertinents; et ne sont divulgués à aucune autre personne sauf si cela est permis en vertu des dispositions de la Loi sur la protection des renseignements personnels ou du Règlement sur la citoyenneté.
+& Renseignements supplémentaires. Vous pouvez obtenir plus de renseignements concernant la protection de vos renseignements personnels, consultez le Centre d'aide.
+Services en ligne
+Pour plus de renseignements sur nos services, consultez Immigration et Citoyenneté.
+Avez-vous besoin d'aide?
+Si vous avez besoin d'aide, vous pouvez trouver les réponses à vos questions en visitant le Centre d'aide.
+Appendice A Spécifications pour photos
+Notes au demandeur
+I O APPORTEZ CECI CHEZ LE PHOTOGRAPHE
+Les photos requises pour l'immigration sont différentes des photos passeport.
+Assurez-vous de fournir le nombre de photos spécifié dans la Liste de contrôle.
+Notes au photographe
+Les photos doivent :
+montrer une vue de face complète de la tête et des épaules, la figure étant centrée au centre de la photo;
+avoir un arrière-plan blanc uni;
+être identiques (en noir et blanc ou couleur), reproduites à partir du même négatif sans retouches ou exposées en même temps par image composite ou chambre multi-objectifs.
+Les photos doivent :
+mesurer entre 25 mm et 30 mm (1 po et 1 1/5 po) du menton au sommet de la tête;
+avoir 35 mm x 45 mm (1 3/8 po x 1 3/4 po) de dimension finie.
+Appendice B - « X » dans le champ sexe sur un document d'immigration
+Dans l'avenir, nous mettrons en place un « X » dans le champ sexe. Abonnez-vous aux mises à jour par courriel pour changer votre sexe en X (non spécifié). En attendant que cette option soit offerte, vous pouvez demander un document à l'appui (sans frais) indiquant que votre sexe est non spécifié.
+Vous pouvez demander le document à l'appui une fois que vous avez soumis votre formulaire de demande dûment rempli et que vous avez reçu le Document du demandeur d'asile (DDA).
+Découvrez comment faire la demande d'un document à l'appui comportant l'indicateur X.
+A Important
+Si vos pièces d'identité comportent un sexe autre que masculin
+(« M ») ou féminin (« F ») :
+Sur vos formulaires de demande, inscrivez le sexe que vous aimeriez voir apparaître (« M » ou « F ») en attendant que l'option « X » soit offerte.
+Le sexe choisi (« M » ou « F ») sur la demande sera imprimé sur votre DDA.
+Vidéo d'instructions
+Ne gaspillez pas de temps. Envoyez une demande complète
+Découvrez si vous êtes admissible
+Venir au Canada
+Outil « Vivre au Canada »
+Découvrez la vie au Canada et les ressources sur lesquelles vous pouvez compter pour vous établir ici
+Date de modification :
+2019-01-02

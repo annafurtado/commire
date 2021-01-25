@@ -1,0 +1,55 @@
+﻿<Header>
+	<title>
+		<tit> La Trousse d'outils pour le parrainage des réfugiés </tit>
+		<fileName> TOPR_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Canada) </language>
+		<source> https://ccrweb.ca/fr/parrainage-refugies-trousse-outils/accueil </source> 
+		<publisher> Conseil Canadien pour les Réfugiés </publisher>
+		<pubDate> Jan, 2017 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Conseil Canadien pour les Réfugiés </institution>
+	</author>
+</Header>
+La Trousse d'outils pour le parrainage des réfugiés
+Qu'est-ce que la Trousse d'outils pour le parrainage privé de réfugiés?
+Le Conseil canadien pour les réfugiés (CCR) a créé une trousse d'outils de ressources pratiques sur le parrainage privé de réfugiés. Les ressources offriront des informations concises à des groupes de toutes les régions du Canada.
+Voici un aperçu des sujets abordés :
+Informations sur les options de parrainage à travers le pays
+Renseignements au sujet de la préparation d'une demande à la fois pour les parrains et pour les réfugiés
+Ressources pour les parrains et les réfugiés avant et après l'arrivée
+Liens vers des ressources plus développées
+Informations sur les organismes pancanadiens et locaux offrant un soutien aux groupes de parrainage
+Cette ressource s'adresse principalement aux groupes qui parrainent de réfugiés par le biais d’un Groupe de 2 à 5 ou d'un Organisme sans but lucratif (au Québec), ou d'un Groupe de 5 ou un Répondant communautaire (dans le reste du Canada). Cependant, il comprend également beaucoup d'informations pertinentes pour d'autres groupes.
+Sujets abordés par la Trousse d'outils
+Vue d'ensemble
+Le parrainage de réfugiés : notions de base / Différentes options pour parrainer des réfugiés / Trouver un jumelage / Organismes et services
+Préparation d'une demande pour un parrain
+Pour le Québec : Organisme signataire d'une entente-cadre / Groupe de 2 à 5 / Organisme sans but lucratif
+Pour le reste du Canada : Signataire d'une entente de parrainage / Groupe de 5 / Répondant communautaire
+Préparation d'une demande pour un réfugié
+Formulaires d'immigration à remplir par les réfugiés / L'éligibilité et l'admissibilité des réfugiés / Qui peut être inclus dans la demande
+Demandes en cours de traitement
+Soumission d'une demande / Traitement de la demande / L'entrevue / Après l'entrevue / Voyager au Canada
+Autres informations pertinentes
+Trouver un soutien pour l'établissement / Prêt de transport / Réunification familiale / Santé / Carte de résident permanent / Ressources pour les parrains et les réfugiés / Voyager à l'extérieur du Canada / Migration secondaire et la rupture de l'engagement de parrainage
+Joignez-vous à nous !
+Le CCR encourage les groupes de parrainage à s'impliquer au CCR pour œuvrer à la réalisation d'objectifs communs. Voici quelques suggestions de comment vous pouvez collaborer avec le CCR :
+Participer aux réunions et aux webinaires du CCR
+Inscription à la liste de diffusion CCR (liste de courriels)
+Lire les documents d'informations au sujet du parrainage privé des réfugiés rédigés par le CCR
+Se joindre aux campagnes du CCR
+Devenir membre du CCR
+Pour en savoir plus sur les autres façons de s'impliquer, cliquez ici !
+Collaborez-vous avec un Groupe de 2 à 5 ou un Organisme sans but lucratif au Québec, ou un Groupe de 5 ou un Répondant communautaire dans le reste du Canada ? Souhaitez-vous recevoir des communications ponctuelles de la part du CCR pour des initiatives spécifiques au parrainage privé des réfugiés?
+Parrainage privé en 2017
+Pour des informations concernant des limites et des restrictions imposées au parrainage des réfugiés en 2017, incluant la suspension des nouvelles demandes au Québec, voir Le parrainage des réfugiés en 2017.

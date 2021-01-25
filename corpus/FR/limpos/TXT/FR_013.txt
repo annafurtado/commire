@@ -1,0 +1,97 @@
+﻿<Header>
+	<title>
+		<tit> Comment déposer un recours contre une décision de l'Office fédéral des migrations </tit>
+		<fileName> DRDOFM_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Swiss) </language>
+		<source> https://www.osar.ch/publications.html </source> 
+		<publisher> Organisation Suisse D'aide Aux Réfugiés </publisher>
+		<pubDate> 2009 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Organisation Suisse D'aide Aux Réfugiés </institution>
+	</author>
+</Header>
+Comment déposer un recours contre une décision de l'Office fédéral des migrations?
+Avez-vous reçu une décision négative de la part de l'Office fédéral des migrations (ODM)?
+Adressez-vous immédiatement à un avocat ou à un service de consultation juridique à proximité de chez vous, si vous souhaitez vous faire conseiller ou déposer un recours. Agissez sans attendre car les autorités peuvent vous mettre en détention déjà avant la fin du délai de recours. Si vous ne pouvez pas obtenir de conseils juridiques et que vous devez agir immédiatement, ces instructions pourront vous être utiles. Elles ont été rédigées par l'OSAR (www.osar.ch), une organisation non gouvernementale qui défend les intérêts des requérants d'asile et des réfugiés.
+Lisez attentivement ces instructions et suivez les recommandations.
+Ce qu'il faut savoir
++ seulement un recours
+Seulement un recours: normalement, vous ne pouvez déposer qu'un seul recours. Le Tribunal administratif fédéral est compétent pour le traiter. Il est la plus haute instance judiciaire en matière d'asile, et ses décisions sont définitives. Adresse:
+Tribunal administratif fédéral
+Case postale
+CH-9023 St-Gall
+T +41 (0)58 705 26 26, F +41 (0)58 705 29 80
+-> Ne pas laisser passer le délai:
+Prêtez attention aux informations concernant les délais qui figurent sur la dernière page de la décision sous le titre «voies de droit». Vous y apprendrez notamment combien de temps est à votre disposition pour faire recours. Par exemple:
+Votre demande d'asile a été rejetée. Vous avez alors 30 jours pour faire recours contre cette décision. Les samedis, les dimanches et les jours fériés sont compris dans ce délai.
+Vous avez reçu une décision de non-entrée en matière, c'est-à-dire que votre demande d'asile est considérée comme manifestement infondée ou abusive. Vous avez cinq jours ouvrables pour faire recours. Les samedis, les dimanches et les jours fériés ne comptent pas. Attention - exception dans le cas d'un renvoi dans un pays européen : le recours n'a alors pas d'effet suspensif.
+Afin de ne pas perdre de temps, transmettez d'abord votre recours par fax, puis envoyez l'original par courrier.
+Demander son dossier
+Il vous sera plus facile de justifier votre recours si vous disposez de tous les documents sur lesquels l'Office fédéral des migrations (ODM) a fondé sa décision. Adressez par conséquent le plus rapidement possible une demande de consultation de votre dossier à l'Office fédéral des migrations si vous ne l'avez pas déjà reçu automatiquement.
+Pour la demande de consultation de votre dossier, utilisez le modèle A.
+Ecrivez directement sur le modèle, aux endroits marqués du signe ^.
+-> Complétez le modèle point par point:
+1 - Identité et domicile actuels (nom, prénom, date de naissance de toutes les personnes tou-chées par la décision de l’ODM, rue, NPA/localité)
+2 - Lieu et date
+3 - Numéro N (numéro à six chiffres figurant en haut à gauche sur la décision de l’ODM)
+4 - Date de la décision de l’ODM (en haut à gauche sur la décision de l’ODM)
+5 - Signez la lettre
+6 - Envoyez ce formulaire par courrier recommandé à l’adresse de l’Office fédéral des migrations, Quellenweg 6, 3003 Berne-Wabern 
+Vous recevrez quelques jours plus tard les copies des procès-verbaux de vos auditions, ainsi que les éventuelles autres pièces de votre dossier. Normalement, vous ne devez rien payer pour cela.
+Préparer le recours
+-> Etes-vous au bénéfice de l'assistance publique?
+Si c'est le cas, demandez une attestation au service d'assistance compétent. Vous devez joindre cette attestation à votre recours. Faites suivre l'attestation le plus vite possible, si vous ne la recevez qu'après l'échéance du délai de recours.
+-> Faites-vous traduire la décision de l'ODM.
+Identifiez les arguments de l'ODM qui ont conduit au rejet de votre demande d'asile. Dans votre recours, vous prendrez position face à ces arguments.
+-> Procurez-vous les moyens de preuve.
+Vous devez joindre au recours tous les moyens de preuve qui vous seront utiles et que vous n'avez pas encore remis aux autorités suisses (p.ex. certificat médical, mandats d'arrêt, jugements, etc.). Procurez-vous à temps tous les documents nécessaires.
+Rédiger le recours
+Un recours peut être rédigé en français, en allemand ou en italien.
+Peut-être connaissez-vous quelqu'un qui peut vous aider à le rédiger? Vous pouvez aussi utiliser le modèle de recours B.
+Les demandes les plus importantes sont pré-imprimées. Vous devez compléter ce formulaire en fonction de votre situation personnelle.
+Ecrivez directement sur le modèle aux endroits marqués du signe &.
+Utilisez des feuilles supplémentaires si la place à disposition ne suffit pas.
+7 - Lieu et date 
+8 - Identité et domicile actuel (nom, prénom, date de naissance, rue, NPA/localité) de toutes les personnes mentionnées dans la décision de l’ODM 
+9 - Date de la décision de l’ODM (en haut à gauche sur la décision de l’ODM) 
+10 - Numéro N (numéro à six chiffres figurant en haut à gauche sur la décision de l’ODM) 
+11 Ceci est la partie la plus importante du recours. Justifiez suffisamment pourquoi vous n'êtes pas d'accord avec la décision de l'ODM et pourquoi vous souhaitez rester en Suisse. Utilisez des feuilles supplémentaires si la place à disposition ne suffit pas.
+Tenez compte des points suivants:
+Traitez tous les arguments de l'ODM.
+La décision de l'ODM part-elle du principe que vos explications ne sont pas crédibles? Si c'est le cas, utilisez tous les contre- arguments et efforcez-vous d'éclaircir d'éventuelles contradictions ou malentendus.
+Que vous arriverait-il si vous retourniez maintenant dans votre pays d'origine? Expliquez qui vous persécute, c'est-à-dire vous inflige de sérieux préjudices, quand, comment et pourquoi.
+Essayez de prouver que vous êtes persécuté: Joignez tous les moyens de preuve que vous n'avez pas encore remis (p.ex. mandats d'arrêt, jugements, certificats médicaux, coupures de presse, etc.) et expliquez leur signification.
+Concernant les recours avec un délai de 5 jours ouvrables :
+Au cas où vous n'avez aucun document de voyage ou de papier d'identité, expliquez précisément pourquoi.
+Au cas où les autorités devraient vous demander des explications supplémentaires, écrivez lesquelles (par exemple : sur un événement précis, sur la situation politique dans votre pays)
+Dans le cas où l'ODM voudrait vous renvoyer dans un pays tiers dans lequel vous avez résidé auparavant, expliquez pourquoi vous vous y opposez (par exemple : vous avez peur que ce pays tiers vous renvoie directement dans votre pays d'origine, vous avez un proche parent ou une personne de contact en Suisse)
+Renvoi dans les pays de l'Union européenne, la Norvège ou l’Islande; attention - le recours n'a pas d'effet suspensif: Cela signifie que vous serez expulsé malgré le dépôt d'un recours. C'est en règle générale le cas quand un pays européen dans lequel vous avez séjourné est d'accord de vous reprendre. Demandez alors la restitution de l'effet suspensif du recours. Expliquez pourquoi vous redoutez que cet Etat européen n'examine pas les persécutions qui vous menacent dans votre pays d'origine.
+Conformément à la loi suisse sur l’asile, les réfugiés peuvent obtenir l’asile: Article 3 de la loi sur l’asile «Sont des réfugiés les personnes qui, dans leur Etat d’origine ou dans le pays de leur dernière résidence, sont exposées à de sérieux préjudices ou craignent à juste titre de l’être en raison de leur race, de leur religion, de leur nationalité, de leur appartenance à un groupe social déterminé ou de leurs opinions politiques. Sont notamment considérés comme de sérieux préjudices la mise en danger de la vie, de l’intégrité corporelle ou de la liberté, de même que les mesures qui entraînent une pression psychique insupportable. Il y a lieu de tenir compte des motifs de fuite spécifiques aux femmes.»
+12 Si vous n'êtes pas reconnu comme réfugié, vous pouvez être admis en Suisse à titre provisoire (permis F) si votre renvoi n'est pas réalisable. Votre renvoi n'est pas réalisable s'il apparaît inhumain de vous renvoyer dans votre pays d'origine. Ce serait le cas, par exemple, si vous y êtes exposé à un danger concret pour d'autres raisons que celles déjà mentionnées.
+Exposez toutes les autres raisons qui s'opposent, dans votre cas, à un renvoi dans votre pays d'origine. Voici quelques exemples:
+L'application du renvoi est inexigible pour des raisons médicales si le traitement d'une maladie grave ne peut être effectué qu'en Suisse. Expliquez quelles conséquences un renvoi aurait pour vous et joignez un certificat médical récent. Demandez que le Tribunal administratif fédéral ordonne une expertise.
+Votre pays d'origine est en prise à une guerre civile ou à des violences généralisées. Expliquez quelles conséquences un retour aurait pour vous.
+Souvent, l'ODM argumente qu'il existe des possibilités de refuge interne, autrement dit que vous auriez la possibilité de vous établir à un autre endroit de votre pays d'origine, où vous ne seriez pas menacé. Peut-être ne vous est-il pas possible de vous établir à un tel endroit? Les arguments suivants peuvent aller dans ce sens:
+Vous ne pouvez pas survivre à cet endroit pour des raisons économiques (p.ex. parce que vous n'y trouvez pas de travail en raison de votre formation, de votre langue ou de la situation).
+Vous n'avez aucun lien avec cet endroit (p.ex. vous n'y avez jamais vécu ou seulement pendant peu de temps, vous n'en parlez pas la langue, vous n'y avez ni proches ni connaissances, etc.).
+Vous ne pouvez vous établir en raison de votre âge, de votre sexe ou parce que vous avez une famille très nombreuse.
+13. A la dernière page, indiquez tous les moyens de preuve que vous joignez à votre recours. Envoyez les originaux et conservez des copies. Vous devez aussi joindre une copie de la décision de l'ODM. Joignez également l'attestation de votre service d'assistance, si vous dépendez de l'assistance. Photocopiez maintenant deux fois tout le recours.
+14. Signez tous les trois exemplaires. Envoyez deux exemplaires du recours avec tous les moyens de preuve (copie de la décision de l'ODM, attestation du service d'assistance et vos autres moyens de preuve) par courrier recommandé au Tribunal administratif fédéral, case postale, CH-9023 St-Gall. Prenez garde à respecter le délai de recours!
+5. Que se passera-t-il ensuite?
+Vous recevrez un courrier du Tribunal administratif fédéral. Faites-vous traduire la teneur de ce courrier et réagissez si nécessaire. Plusieurs possibilités peuvent se présenter; nous ne mentionnons ci-après que les principales d'entre elles:
+Vous recevez un accusé de réception. Vous pouvez séjourner légalement en Suisse jusqu'à la décision du tribunal. Il se peut cependant que celle-ci vous parvienne après seulement quelques jours.
+Le Tribunal administratif fédéral estime votre recours comme «d'emblée voué à l'échec». Il exige par conséquent une avance de frais et vous fixe un délai de paiement. Si vous ne payez pas l'avance de frais, votre recours ne sera pas examiné. Si vous payez, votre recours sera examiné, mais ses chances de succès sont alors particulièrement minces.
+Le Tribunal administratif fédéral vous fixe un délai pour remédier à des lacunes dans votre recours. Vous devez absolument réagir, sans quoi votre recours ne sera pas examiné.
+Le Tribunal administratif fédéral vous donne la possibilité de vous exprimer par rapport à une nouvelle prise de position de l'ODM. Essayez de réagir!
+Le Tribunal administratif fédéral peut prendre différentes décisions. La décision peut être négative, et vous devez alors quitter la Suisse. Le Tribunal administratif fédéral peut aussi retourner toute l'affaire à l'ODM. La décision peut être positive et la Suisse vous accorde l'asile ou vous admet à titre provisoire.
+La décision du Tribunal administratif fédéral est définitive, un recours au Tribunal fédéral n'étant pas possible. Il est rarement possible de demander une révision ou une reconsidération de la décision. Veuillez vous informer auprès d'un bureau de consultation juridique (http://www.fluechtlingshilfe.ch/aide/adresses-utiles ).

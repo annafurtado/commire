@@ -1,0 +1,821 @@
+﻿<Header>
+  <title>
+    <tit> Guide for asylum seekers </tit>
+    <fileName> EN_024 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Guide </textType>
+    <subcorpus> European Union English </subcorpus>
+  </title>
+  <sourceText>
+    <language> European Union English </language>
+    <source> http://www.ofii.fr/IMG/pdf/Guide du demandeur/Guide_DemandeurdAsile_GB_HD.pdf </source>
+    <publisher> L’Office Français de l’Immigration et de l’Intégration </publisher>
+    <pubDate> 2009 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 12.07.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher>
+    <comments> figures were replaced by tags </comments>
+  </sourceText>
+  <author>
+    <institution> L’Office Français de l’Immigration et de l’Intégration </institution>
+  </author>
+</Header>
+
+Guide for asylum seekers
+information and orientation
+
+"In application of the Act of 11 March 1957 (art. 41) and the French Intellectual Property Code of 1st July 1992, supplemented by the Act of 3 January 1995, any partial or total reproduction of this publication for collective use is strictly forbidden without formal authorisation from the publisher. It should be noted in this regard that the improper and collective use of photocopying endangers the economic equilibrium of the publishing sector."
+© The documentation Francaise - Paris
+2009 DF: 5HC17620
+ISBN: 978-2-11-007724-0
+Graphic design: Michelle Chabaud Photo : PhotoAlto - Christian Zachariasen
+
+TABLE OF CONTENTS
+
+THE VARIOUS FORMS OF PROTECTION
+Refugee status	5
+Subsidiary protection	5
+Stateless persons status	6
+
+RESIDENCE DURING THE ASYLUM	PROCEDURE	7
+Documentation required	10
+Deciding on the state responsible for examining your application for asylum	11
+Acceptance or refusal of residence	13
+
+THE CONDITIONS FOR EXAMINING YOUR APPLICATION FOR ASYLUM	16
+French office for the protection of refugees and stateless persons (OFPRA)	16
+National Right of Asylum Court (CNDA)	21
+Rejection of the application for asylum	27
+
+RE-EXAMINATION	30
+
+STATELESS PERSONS STATUS 32
+
+SOCIAL AID PROVIDED FOR ASYLUM SEEKERS
+Accommodation	34
+Financial assistance - temporary waiting	allowance (ATA)	36
+Access to health care	38
+
+REFUGEES' RIGHTS 40
+Protection in France 40
+Residence in France 40
+Travelling abroad 42
+Residence and protection of close family 42
+Reception and integration 43
+Health care 45
+Social and family services 46
+Naturalisation 46
+
+REPATRIATION ASSISTANCE 47
+Repatriation grant 47
+Assistance for reinsertion in the country of origin 48
+
+SUMMARY OF THE PROCEDURE BY AN ASYLUM SEEKER FOR ASYLUM
+AND RESIDENCE 49
+
+USEFUL ADDRESSES 50
+
+THE VARIOUS FORMS OF PROTECTION
+
+In France, there are three forms of protection: refugee status, subsidiary protection and stateless person status.
+
+REFUGEE STATUS
+Refugee status can be granted on three bases:
+The Geneva Convention on 28 July 1951 on the status of refugees: refugee status is granted to "any person who [...] owing to well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his nationality and is unable, or owing to such fear, is unwilling to avail himself or herself of the protection of that country".
+So-called constitutional asylum, taken from the fourth paragraph of the Preamble of the Constitution of 1946: refugee status is granted to "whoever is persecuted for his or her activities in pursuit of freedom".
+The mandate of the United Nations High Commission for Refugees (HCR), if HCR has acknowledged you as a refugee on the basis of articles 6 and 7 of its statutes.
+
+SUBSIDIARY PROTECTION
+The benefit of subsidiary protection is granted to "any person who does not meet the requirements laid down for refugee status [...] and who has established that he or she is exposed to one of the following serious threats in his or her country of origin:
+a) the death penalty;
+b) torture, inhuman or degrading treatment;
+c) for a civilian, a direct and individual threat against his or her life owing to generalised violence resulting from an internal or international armed conflict".
+The Office français de protection des refugies et apatrides - French Office for the Protection of Refugees and Stateless Persons (OFPRA) can refuse to renew subsidiary protection if the grounds on which it was granted no longer exist.
+
+In France, refugee status and subsidiary protection are granted by OFPRA, under the control of the Cour national de droit d'asile - National Asylum Court (CNDA).
+
+STATELESS PERSONS STATUS
+According to the New York Convention of 28 September 1954 on the status of stateless persons, this can be granted to any person "no state considers its national in accordance with its legislation". This status is different from the other two forms of protection and only concerns persons who do not have any nationality. It does not take risks of persecution into account. An application for this status can be made at the same time as for asylum.
+
+The stateless status is granted by OFPRA, under the control of the administrative courts.
+
+RESIDENCE DURING THE ASYLUM PROCEDURE
+
+In order to make an application for asylum, you must first go to the prefecture to rapidly file an application for acceptance of residence as a refugee. This procedure is obligatory for all those over 14 years of age. If you have a visa, you are advised to go to the prefecture before it expires.
+The prefecture where you should file your application for acceptance of residence as a refugee is, generally speaking, the departmental prefecture in the region's capital.
+Region/department where you are domiciled
+Prefecture competent to accept asylum seekers' application for residence
+ALSACE
+Bas-Rhin
+Strasbourg
+Haut-Rhin
+Colmar
+AQUITAINE
+Gironde
+Dordogne
+Landes
+Lot-et-Garonne
+Pyrenees-Atlantiques
+Bordeaux
+AUVERGNE
+Puy-de-Dome
+Allier
+Cantal Haute-Loire
+Clermont-Ferrand
+BOURGOGNE Cote-d'Or Nievre
+Saone-et-Loire Yonne
+Dijon
+BRETAGNE Ille-et-Vilaine Cotes-d'Armor Finistere Morbihan
+Rennes
+CENTRE Loiret Cher Eure-et-Loir Loir-et-Cher
+Orleans
+CHAMPAGNE-ARDENNE
+Marne
+Ardennes
+Aube
+Haute-Marne
+Chalons-en-Champagne
+CORSE Corse-du-Sud Haute-Corse
+Ajaccio Bastia
+FRANCHE-COMTE
+Doubs
+Jura
+Haute-Saone Territoire de Belfort
+Besangon
+ILE-DE-FRANCE Paris Seine-et-Marne Yvelines Essonne Hauts-de-Seine Seine-Saint-Denis Val-de-Marne Val-d'Oise
+Prefecture de police de Paris Melun
+Versailles
+Evry
+Nanterre
+Bobigny
+Creteil
+Cergy-Pontoise
+LANGUEDOC-ROUSSILLON
+Herault
+Aude
+Gard
+Lozere
+Pyrenees-Orientales
+Montpellier
+LIMOUSIN Haute-Vienne Correze Creuse
+Limoges
+LORRAINE
+Moselle
+Meurthe-et-Moselle Meuse
+Vosges
+Metz
+MIDI-PYRENEES Haute-Garonne Ariege
+Gers
+Hautes-Pyrenees
+Toulouse
+Tarn-et-Garonne
+Aveyron
+Lot
+Tarn
+Montauban
+NORD-PAS-DE-CALAIS Nord
+Pas-de-Calais
+Lille
+BASSE-NORMANDIE Calvados
+Manche
+Orne
+Caen
+HAUTE-NORMANDIE
+Seine-Maritime
+Eure
+Rouen
+PAYS-DE-LA-LOIRE Loire-Atlantique Maine-et-Loire Mayenne
+Sarthe
+Vendee
+Nantes
+PICARDIE Oise Somme Aisne
+Beauvais
+POITOU-CHARENTES
+Vienne
+Charente
+Charente-Maritime
+Deux-Sevres
+Poitiers
+PROVENCE-ALPES-COTE D'AZUR
+Bouches-du-Rhone
+Alpes-de-Haute-Provence
+Hautes-Alpes
+Vaucluse
+Marseille
+Alpes-Maritimes Var
+Nice
+RHONE-ALPES Rhone Ardeche
+Ain
+Loire
+Lyon
+Isere
+Drome
+Haute-Savoie
+Savoie
+Grenoble
+Guadeloupe
+Basse-Terre
+Martinique
+Fort-de-France
+Guyane
+Cayenne
+La Reunion
+Saint-Denis
+Mayotte
+Dzaoudzi
+Saint-Pierre-et-Miquelon
+Saint-Pierre
+Polynesie frangaise
+Papeete
+Nouvelle-Caledonie
+Noumea
+Wallis-et-Futuna
+Mata-Utu
+
+You may apply for asylum even if you have entered France illegally or if you are in an illegal situation on French soil.
+
+If you have applied for stateless status at the same time as refugee status, you should first go to the prefecture so that a decision can be taken on your provisional acceptance to stay as a refugee.
+
+However, if you have only applied for stateless status, a temporary residence permit (APS) will not be issued while your application is being examined. Accordingly, you should go directly to OFPRA without going to the prefecture.
+
+DOCUMENTATION REQUIRED
+To be given permission to stay as an asylum seeker, you should submit a dossier comprising a certain number of documents the list of which you can obtain at the prefecture.
+
+Documents to be submitted:
+A standard form applying for acceptance for residence (available in 18 languages) that you must fill it in French.
+Four identity photos, front view, bareheaded, in 3.5 cm x 4.5 cm format, recent and a very good likeness.
+Information on your civil status and, if need be, that of your spouse and your dependent children.
+Documents or information relating to the conditions under which you entered France and your itinerary since you left your country of origin.
+
+You may apply for asylum even if you do not have a passport, visa or identity documents. You should then make a written declaration with your civil status.
+
+Proof of your place of residence: the prefecture needs your address to send you correspondence regarding your residence in France. If you do not have fixed accommodation, you can use an address belonging to a private person, a hotel or an association approved by the prefecture.
+
+In all cases, the address you give must be within the department or the region where you are making your application for asylum.
+If you change address at any time during the asylum procedure, you must inform the prefecture of this as well as the OFPRA or the CNDA.
+
+DECIDING ON THE STATE RESPONSIBLE FOR EXAMINING YOUR APPLICATION FOR ASYLUM
+
+When you submit your dossier, the prefecture will take your fingerprints to determine if France is the European Union state responsible for examining your asylum application in application of the regulations of the Council of the European Union of 18 February 2003, called Dublin II regulations.
+
+The states which signed the Dublin II convention
+These are the 26 other Member State of the European Union - Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom - and also Switzerland, Iceland and Norway.
+* Denmark is not subject to the Dublin II regulations, but continues to apply the Dublin Convention, signed on 15 June 1990.
+
+In fact, it is possible that another European state will be responsible for examining your application for asylum, for instance:
+If a member of your family has obtained refugee status or made an application for asylum which is being examined in another Member State, on condition that you and this member of your family wish it;
+If another Member State has issued you with a residence permit or a visa that is still valid;
+If it is established that you crossed the external border of another Member State illegally, by land, air or sea;
+If you entered the European Union by initially crossing the borders of a Member State in which you do not need a visa.
+If a European state other than France should examine your asylum application, the prefecture will then approach this state to ask it to
+accept you. The prefecture will give you a document which will allow you to remain in France while waiting for a response from this country. If it agrees, the prefecture may either allow you to make your own way to this country, or have you escorted there by the police. If this country refuses, you will be allowed to stay in France and you can submit your application for asylum which will be examined in accordance with the procedure described below.
+If France is responsible for examining your application for asylum, the procedure will continue under the conditions described below.
+
+ACCEPTANCE OR REFUSAL OF RESIDENCE
+Once your dossier has been submitted, in all cases your application for asylum will be examined by OFPRA. Depending your situation, it will be examined either as a normal procedure when the prefecture has issued a temporary residence permit (APS), or as a priority procedure if the prefecture has not issued you with an APS.
+
+The normal procedure
+In the normal procedure, the prefecture will give you:
+An application form for asylum that you must fill in and send or submit to OFPRA, which at the absolute latest 21 days after the APS has been issued. For example, if your APS was issued on 10 January, you must have submitted or sent your dossier to OFPRA on 31st January at the latest.
+A temporary residence permit (APS) bearing the mention "For the purpose of approaches to OFPRA", valid for one month. This APS will be issued within 15 days following your visit to the prefecture, with your complete dossier and application for residence (see pages 10-11).
+
+When the APS expires, you should give the prefecture the letter from OFPRA registering your application for asylum. If you do not so, the prefecture may refuse to allow you to stay.
+
+On receipt of the OFPRA letter of registration, you should go to the prefecture with this document and a new certificate of address. Within three days after your APS expires, the prefecture will give you an "acknowledgement recording the submission of an application for asylum". This acknowledgement is valid for 3 months and can be renewed during the entire period of the procedure. At the first renewal of this acknowledgement, and on each renewal, you should submit proof of your place of residence.
+The acknowledgement does not allow you to work without authorisation.
+
+The priority procedure
+
+The prefecture can refuse to issue you with an APS and will send your application to OFPRA. It takes such a decision when:
+You have the nationality:
+-of a country in the European Union;
+- or a country for which OFPRA considers that, in general, there is no risk of persecution: Chile, Argentina and Uruguay;
+-of a country on the list of "safe countries of origin". To date, the countries on this list are Benin, Bosnia-Herzegovina, Cap Verde, Croatia, Georgia, Ghana, India, the former Yugoslavian Republic of Macedonia (ARYM), Madagascar, Mali, Mauritius, Mongolia, Senegal, Tanzania and the Ukraine.
+Your presence in France constitutes a serious threat to public order, public safety of the safety of the state;
+Your application is considered as being deliberately fraudulent or is an improper use of asylum procedures (e.g., if you have submitted several applications for asylum under different identities or if you have applied for asylum when you were notified of a removal order or taken in for questioning even though you had been in France for some time).
+
+If you are in one of these situations, the prefecture will give you a decision in writing stating the grounds on which the APS has not been issued as well as the application form for asylum.
+In fact, the refusal to issue you with an APS for the reasons given above does not prevent you from applying to OFPRA through the intermediary of the prefecture. OFPRA will then take a decision within 15 days.
+
+THE CONDITIONS FOR EXAMINING YOUR APPLICATION FOR ASYLUM
+
+The prefecture has given you the application form for asylum.
+
+When you have submitted your application for asylum, you do not have to specify the type of protection you would like to obtain (refugee status or subsidiary protection). This is a single procedure during which your application will be examined first of all by OFPRA from the standpoint of refugee status then, if your situation is not relevant, from the standpoint of subsidiary protection.
+
+If OFPRA refuses to grant you refugee status and the benefit of subsidiary protection, you can lodge an appeal at the National Right of Asylum Court (CNDA). Similarly, you can lodge an appeal at the CNDA if you wish to contest OFPRA's decision to grant you subsidiary protection.
+
+The information given in your application for asylum is confidential.
+Under no circumstances shall the authorities in your own country be given this information, nor be informed of your application.
+
+FRENCH OFFICE FOR THE PROTECTION OF REFUGEES AND STATELESS PERSONS (OFPRA)
+
+To fill in OFPRA form
+You must sign and date your dossier. If you do not do so, OFPRA cannot register it (for a minor, the legal representative must sign it).
+It is obligatory that the dossier be written in French.
+You must enter your address very legibly.
+You must fill in all the sections paying attention:
+- to give exact details of your personal and family situation;
+- describe all the personal reasons which led you to flee your own country and the reasons why you cannot return there;
+- pay attention to the chronological order and ensure the facts are logical;
+- give dates, places and the names of persons.
+You may add to the dossier any element you feel would be useful when your application is examined. If you have any special requests with regard to your hearing, you can tell them to OFPRA.
+
+Documents required by OFPRA
+
+It is obligatory that you provide:
+A photocopy of your valid temporary residence permit issued by the prefecture.
+Two recent identity photos.
+
+If you have them, you must submit:
+The originals of your identity papers (passport, national identity card, birth certificate, etc.).
+Documents to support your account.
+
+Submitting your application
+If your dossier is processed as a normal procedure:
+It is essential to send your complete dossier at the latest on the 21st day after your APS was issued to the following address:
+Office frangais de protection des refugies et apatrides
+201, rue Carnot
+94136 Fontenay-sous-Bois CEDEX
+
+If you run over the 21 -day time limit or if your dossier is incomplete, your application will not be registered by OFPRA. You are advised to send your dossier by registered letter with request for acknowledgement, with your name legibly entered in the section "expediteur" (sender). You can also deposit your dossier at the same address at the reception desk of OFPRA, from Monday to Friday, between 9 a.m. and 3 p.m.
+
+If your dossier is processed as a priority procedure:
+You should deposit your completed and signed, application for asylum at the prefecture within 15 days, in a sealed envelope. The prefecture must not know the elements in your application for asylum which are confidential. When the asylum dossier is received, the prefecture will send it to OFPRA stating that it is a priority.
+Regardless of your situation, keep the proofs of posting and deposit of your correspondence carefully.
+If possible, keep photocopies of your complete dossier (including the OFPRA form) and all the documents you send to OFPRA.
+
+At any point of the procedure, you may send OFPRA additional elements for your dossier. On any letter you send to OFPRA do not forget to show your registration number, which you will find on the letter from OFPRA registering your asylum application.
+
+Proof of registration
+If your dossier is complete and received within the time limits, OFPRA will send you a letter informing you that your application is registered and your application dossier number. This document officially certifies the registration of your application for asylum. In principle, you must receive this letter before your one-month APS expires. However, it is important to keep with you all proofs of having sent your dossier so that, if required, you can show them to the prefecture when your APS expires.
+If your dossier is incomplete when it reaches OFPRA before the 21 day deadline has expired, OFPRA will return it to you requesting any additional information or items. You must return it or hand it into OFPRA as soon as possible with the items requested in order not to exceed the 21 day deadline. If not, OFPRA will not register your application. and your APS will not be renewed.
+
+The interview at OFPRA
+OFPRA will call you for an interview unless:
+The elements in your dossier sent to OFPRA are sufficient to grant you asylum;
+You a national of a country which OFPRA considers, generally speaking, there is no further any risk of persecution;
+The elements in your application are obviously unfounded, in other words, if the reasons you have given bear no relation to the criteria stipulated by the laws on asylum.
+Medical reasons prevent you from attending the interview.
+If you are called to an interview, you must go to OFPRA head office. You will be interviewed by an OFPRA official, called a "protection officer". OFPRA will provide an interpreter for the language that you stated you speak in your asylum application dossier, or which it is reasonable to think that you speak. The interview is confidential. The protection officer will record our statements in a report.
+There is a branch of OFPRA at Basse-Terre (Guadeloupe) which has jurisdiction to deal with applications for asylum submitted in the three American French departments: Guadeloupe, Martinique and Guiana. If you have submitted your application in one of these three departments, you will be called for an interview at Basse-Terre and not in Fontenay-sous-Bois.
+
+If you do not attend this interview, your absence will have unfavourable consequences on your application for asylum. It is therefore essential that you inform OFPRA if you are unable to attend at least 48 hours beforehand, or if you are likely to be late.
+If you have changed your address, it is also essential that you inform OFPRA in writing as soon as possible and, preferably, by registered letter with request for acknowledgement. In fact, OFPRA will inform you of its decision by letter to the last address that you gave them. Keep a copy of the letter informing OFPRA of your change of address as well as the proofs of sending and receipt from the post office.
+
+The OFPRA decision
+The time required for OFPRA to make a decision can vary (15 days for a priority procedure up to several weeks for a normal procedure). OFPRA's long silence does not mean that your application is rejected. If OFPRA cannot take a decision within six months, you will be informed of this by letter. You must therefore be vigilant and check your post frequently.
+
+If your application asylum is successful, you will:
+Either be recognised as a refugee. OFPRA will then send you, by registered letter with request for acknowledgement, the decision to give you refugee status.
+Or given the benefit of subsidiary protection. OFPRA will then send you, by registered letter with acknowledgement of receipt, a decision to grant you the benefit of subsidiary protection.
+
+If your application for asylum is rejected:
+OFPRA will send you a rejection decision written in French and a document translated into a language that it is reasonable to expect that you speak, giving the meaning of this decision. The rejection decision is accompanied by a copy of the report of the interview you had with OFPRA.
+You can appeal against OFPRA's decision to reject your application for asylum before the National Right of Asylum Court (CNDA).
+
+If you do not appeal to the CNDA, you should leave French territory.
+
+NATIONAL RIGHT OF ASYLUM COURT (CNDA)
+The deadline for an appeal
+You have one month from the time you are notified of the rejection by OFPRA to lodge your appeal at the National Right of Asylum Court (CNDA). You can ask the CNDA either to grant protection in the case of rejection by OFPRA, or refugee status in the case that OFPRA has granted subsidiary protection.
+In this case, the CNDA can refuse the status but cannot go back on the decision to grant subsidiary protection.
+The appeal must be sent to the CNDA before the expiry of the one-month deadline. For instance, if you collect OFPRA's rejection decision from the post office on 20 January, your appeal must be sent to the CNDA, by registered letter with request for acknowledgement, on 20 February at the latest, the postmark being proof. If this one-month deadline is exceeded, your appeal will be considered inadmissible, in other words it will be rejected without either a hearing or examination.
+
+If you not at home, the post office will leave an "Av/s de passage du facteur" a notice informing you that the postman has visited and that there is a letter for collection at the post office (the one containing OFPRA decision). The post office will keep this letter for 15 days. After 15 days, if you have not collected this letter, the post office will send it back to OFPRA. In this case, the one month deadline for appeal starts from the date of the "Av/s de passage du facteur" left by the postman (and not the date on which the letter was returned to OFPRA).
+
+The appeal
+First of all, carefully read all the explanations on the back of OFPRA decision to reject the application.
+The appeal must be written in French on plain paper (there is no special form) on which you indicate your surnames, first names, full information about dates of birth, marriage, children, etc., profession and address. You must state that it is an appeal and give the number of OFPRA application dossier.
+You must obligatorily enclose OFPRA's original decision or a copy of it with your appeal.
+You must justify your appeal, in other words, you must explain why you do not agree with the reasons put forward by OFPRA for its rejection or with the reasons which led OFPRA to grant you subsidiary protection and not refugee status. Explain also the reasons why you are unable to return to your own country.
+You should enclose the documents proving your identity, your nationality, and any documents which supplement your account of events.
+For the documents proving your identity and your nationality, it is preferable to enclose a copy of the dossier and to keep the original of your passport or your identity card. This will enable you to collect post sent to you by the CNDA by registered post from the post office. You may submit the originals on the day of the hearing if formally requested to do so in order that the ruling can be made.
+For the documents proving your account of events, it is preferable that you submit the originals to the dossier, keeping a copy of them. These documents may be returned to you on the day of the hearing if you ask for them, or sent to you at a later date by post. The documents proving your account of events must be translated into French. If there is no translation, the CNDA cannot use them. It is not essential that the translation is done by a sworn translator.
+You must sign your appeal. If you are a minor, your legal representative must sign it.
+Carefully keep the proof that you sent and submitted your appeal as well as a copy of it.
+Inform the CNDA of any change of address.
+
+You can provide additional information up to three full days before the hearing. For example, if you are called for a hearing on Friday 10 July, you must use all means to send your additional documents before Monday 6 July inclusive.
+Saturdays, Sundays and public holidays are not included in calculating full days. If you are called to appear on Wednesday 8 July, your additional documents must be received by the CNDA before Thursday 2 July inclusive.
+
+You can ask in writing to have your dossier sent to you.
+
+If your appeal does not show any serious element that could call the reasons for OFPRA's decision into question, the CNDA may rule by order after a rapporteur has examined your dossier, but without calling you to a hearing.
+
+Receipt of appeal
+After you have sent your appeal, the CNDA will send you a document entitled "reçu d’un recours - receipt of appeal” to the address you have indicated. You must present it to the prefecture so that your three- month application acknowledgement (recipisse) can be renewed. Afterwards, in every letter to the CNDA, do not forget to mention your appeal registration number (six figures) which is on your receipt of appeal.
+
+Assistance of a lawyer
+You may be assisted by a lawyer at the CNDA hearing.
+You can request a lawyer under the legal aid system. The costs are then totally or partially paid by the state and the lawyer will not ask for any fees. You must go to the CNDA legal aid office (BAJ - Bureau d'Aide Juridictionnelle) at the following address:
+Cour nationale du droit d'asile
+Bureau de l'aide juridictionnelle
+35, rue Cuvier
+93558 Montreuil-sous-Bois CEDEX
+
+The lawyer's fees can only be paid under legal aid:
+If your income does not exceed a certain limit,
+And if your appeal does not appear to be obviously inadmissible or devoid of any basis.
+You can give the name of a lawyer who has accepted legal aid or ask the CNDA to appoint one. If you have the right to legal aid, you must not pay the lawyer appointed, even if he asks you to do so.
+
+The CNDA hearing
+The CNDA will call you for a hearing to examine your appeal. You will receive this summons by post about three weeks before the date of the hearing. This hearing will be held at the CNDA premises which is in Montreuil-sous-Bois or when the Court's commission is moved within the department or the overseas territory where you have submitted your application.
+The CNDA which examines your appeal is presided over by a magistrate. This is a qualified person appointed by the United Nations High Commission for Refugees (HCR). The court will take a decision on your appeal after having heard a rapporteur, who will present a summary of your asylum application and will propose a solution, after having heard your explanations and those of your lawyer, if you have one.
+The CNDA will provide an interpreter in the language you have indicated you speak on OFPRA form or in a language it is assumed you understand. It is strongly recommended that you attend. If you are unable to attend or are late, you must inform the CNDA. If you cannot attend the hearing, you can ask for a postponement, explaining in writing why you cannot attend. It is the president of the CNDA who alone decides whether it is appropriate to postpone your hearing to a later date.
+The hearing is in public. However, you can ask for it to be held behind closed doors, in other words, to ask for your case to be heard without the public being present.
+
+The CNDA decision
+The CRR informs you of its decision by registered post with acknowledgement of acknowledgement as well as a document translated into a language that it reasonable to expect that you understand, explaining the meaning of this decision.
+The CNDA can:
+Cancel OFPRA's rejection and grant you refugee status or the benefit of subsidiary protection. You will then benefit from the same right as if OFPRA had accepted you under one of the two protections (see page 20).
+Confirm OFPRA's decision and reject your appeal.
+Cancel the OPFRA's decision to grant you subsidiary protection and grant you refugee status.
+A final appeal may be made to the Council of state against the CNDA's decision. It will not re-examine the whole of your application but only certain legal questions. It is a long procedure, requiring a specialised lawyer (but legal aid may be applied for). It does not allow you to extend your stay in France and will not prevent you being returned to your country of origin. You should take advice from an association or a lawyer.
+
+REJECTION OF THE APPLICATION FOR ASYLUM
+
+The consequences on your right to residence
+If OFPRA rejects your application for asylum, you can appeal this decision before the CNDA.
+If your application is treated as a normal procedure and the prefecture has given you an APS, the appeal is suspensive. This means that you cannot be removed from the French territory as long as you have not received notification of the CNDA's decision.
+If your application is treated as a priority procedure and you have not been given an APS, the appeal is not suspensive. This means that you can be subject to a removal measure applicable even if you have made an appeal to the CNDA and even if it has not yet given a ruling.
+If you do not intend to made an appeal to the CNDA, the OFPRA rejection decision will end the validity of your temporary residence permit.
+The CNDA rejection of your application also ends the validity of your temporary residence permit, unless you apply to have your application re-examined under the conditions laid down. (see page 30 - Re-examination).
+
+When your residence permit is no longer valid, you must leave France, unless you fulfil the conditions to be accepted for residence other than on the basis of asylum.
+
+Return to your country of origin
+The prefecture will notify you of a decision to refuse residence together with an obligation to leave the French territory (OQTF). You will then have one month to leave France voluntarily.
+During this month, you may apply for repatriation assistance to help you return to your country. You should then approach the Office franpais de l'immigration et de l'integration (OFII) (French Foreigners’ Immigration and Integration Office) under the conditions described (see page 46).
+At the end of the one-month period, if you have not left the territory, nor asked the OFII for repatriation assistance, nor appealed against the OQTF, you will be in an illegal situation on French territory. The police may then escort you to the border. This removal measure may be accompanied by a removal to an administration detention centre prior to sending you back to your own country.
+The OQTF can be contested before the Administrative Court within one month of its notification date. You can apply to the relevant Administrative Court for legal aid to make this appeal.
+This court has three months to make a ruling unless you are in a detention centre. In this latter case, the judge will rule within 72 hours. The appeal against the OQTF is suspensive. Consequently, you cannot be removed during the month for the appeal and, if the case was referred to the Administrative Court, before it has ruled. You also be the subject of a order from the prefecture to be escorted to the border (APRF) which may be contested within 48 hours before the Administrative Court. The court's decision will be handed down within 72 hours. This appeal is also suspensive.
+
+RE-EXAMINATION
+After your application for asylum has been rejected by the CNDA, you can apply to OFPRA to re-examine your application but only if you have a "new element", that is:
+Subsequent to the date of the CNDA decision or prior to this decision but of which you only learnt after that date,
+Of such a nature as to justify the personal fears of persecution or serious threats that you invoke if you return to your own country.
+You may take advice from an association or a lawyer. You should present yourself at the prefecture once more to ask for an APS. The prefecture will examine your application for an APS as it did for the first application.
+There are two possibilities:
+The prefecture issues you with an APS for 15 days and OFPRA's re-examination form. You then have 8 days to forward your complete application dossier to OFPRA which will register it and decide whether your situation should once more be examined. OFPRA will inform you of its decision.
+The prefecture refuses to issue you with an APS for one of the reasons mentioned (see page 13 - Acceptance or refusal of residence). It will give you the form to complete and a summons to return to the prefecture within 15 days with your complete application dossier and signed in a sealed and closed envelope. The prefecture should not know the elements in your application for re-examination which are confidential. When the re-examination dossier has been received, the prefecture will send it to OFPRA mentioning its priority character. OFPRA will inform you of its decision.
+If OFPRA rejects your application for re-examination, you may make an appeal to the CNDA under the same conditions as those mentioned (see page 21 - The National Right of Asylum Court).
+
+STATELESS PERSONS STATUS
+
+Contrary to the asylum seeker, the foreigner who asks for the status of a stateless person does not have the right to a temporary residence permit while his or her application is being processed.
+
+Consequently, you do not have to go to the prefecture, but have to write directly to OFPRA, indicating your surnames, first names and address and the reasons for your application.
+OFPRA will send you a form to apply for stateless person status. You must complete it and explain the circumstances that led to you not having any nationality.
+The form should be returned to OFPRA by registered post with acknowledgement of receipt.
+You will be called to OFPRA for an interview.
+If you are recognised as a stateless person, the prefecture will issue you and your spouse (if the marriage took place prior to obtaining the status of a stateless person, or if this is not the case, if it took place less than one year previously) and to your children, a temporary residence permit marked "Private and family life". This permit is valid for one year. It is renewable and allows you to work. If you wish to travel, you should go to the prefecture for a stateless persons travel permit.
+OFPRA will give you civil status documents if you cannot obtain them from the country or countries where the events in your civil life occurred.
+If OFPRA refuses your application, you may appeal this decision before the Administrative Court of your place of residence within two months of the date the rejection decision was notified. This appeal is not suspensive which means that you may be the subject of a removal measure (Obligation to leave the French territory or a prefectoral order to be escorted to the border). The removal may be enforced without waiting for the Administrative Court's decision on the appeal applying for OFPRA's rejection to be cancelled.
+
+SOCIAL AID PROVIDED FOR ASYLUM SEEKERS
+The status of asylum seeker gives you access to a certain number of social aids: accommodation, financial assistance, access to healthcare. Financed by the state, they vary according to your administrative situation, your residence permit and its validity. You may obtain more detailed information at the reception and support centres in each region.
+
+ACCOMMODATION
+
+Accommodation in a reception centre for asylum seekers (CADA)
+There are almost 300 reception centres for asylum seekers (CADA), spread over the whole French territory. They are only available to asylum seekers and their direct families. To benefit from this accommodation, you have to have a one-month APS of or a three- month application acknowledgement issued in relation to an application for asylum.
+There are no CADAs in the overseas departments or territories.
+In the CADA you will benefit from administrative support (guidance in the asylum application procedure), social support (health care, children's schooling), financial food aid. It is funded and co-ordinated by the state. In general the reception centres are managed by associations.
+
+The offer of accommodation in a CADA is presented to you by the prefecture of the department where you submitted your application for asylum, when you are accepted for residence. If you refuse this offer, you may not benefit from the temporary waiting allowance (ATA) paid to asylum seekers before they have been accepted in a CADA.
+
+When you have accepted the accommodation offer from the prefecture, you must present your application for admittance to a CADA to the OFII local management or the asylum seekers' reception platforms, generally located in the county towns. If you fail to go to the appointment to examine your application for accommodation, you may not benefit from the ATA.
+Your application for accommodation in a CADA will be examined by the state services according to the number of places available in the department, the region or the whole country.
+
+Accommodation may be offered to you outside the region where you have submitted your application. If you refuse this proposal, you will not be paid the ATA and no other accommodation in a CADA will be offered.
+
+If there are no places available, you will be placed on a waiting list with a view to being offered accommodation in one of these centres later on and you may be directed towards temporary accommodation solutions.
+
+If you are accepted, accommodation in a CADA is for the whole period of your stay, including, if applicable, the period of appeal before the CNDA. If the OFPRA or the CNDA final decision is positive, you should leave the centre within three months, renewable once. If the decision is negative, you must leave the centre within one month.
+
+Emergency accommodation
+If the national system for receiving asylum seekers cannot accommodate you in a CADA, emergency accommodation in a collective structure or a hotel may be offered to you, depending on what is available in the location where you are.
+If no solution can be offered to you, you can dial the freephone number 115, every day and from any public telephone box. By giving your name and where you are, you will be accepted for the night and accommodated in an emergency reception centre. This number is often engaged. Do not hesitate to call it again.
+
+FINANCIAL ASSISTANCE - TEMPORARY WAITING ALLOWANCE (ATA)
+
+As an asylum seeker, you are not authorised to work. However, you may work if your application for asylum is being examined by OFPRA for more than one year or if you have made an appeal to the CNDA.
+On presentation of an employment contract with an employer, you may ask the prefecture for a work permit. This authorisation may be refused particularly based on the employment situation in the region or the sector concerned, unless you apply for a job on one of the lists of occupations called "under pressure".
+
+Asylum seekers who are waiting for accommodation in a CADA may benefit from the temporary welfare allowance (ATA). It may be paid to you if you are resident in an overseas department. On the other hand, the ATA is not paid to persons who have submitted an application in an overseas territory.
+In order to benefit from it, you must have a three-month residence acknowledgement and not have refused the an offer of accommodation in a centre proposed by the prefecture when you were accepted for residence, nor any proposal for accommodation in an CADA. You can also benefit from the ATA if you have been accepted for residence due to having the nationality of one of the "safe origin" countries.
+The application must be made at an employment centre. You should provide a copy of the registration letter from OFPRA as well as a document certifying that you have no resources and that you do not benefit from accommodation in respect of state social assistance.
+The daily amount of the temporary welfare allowance for 2009 is € 10.54 per day, or € 316.20 for a 30-day month. This allowance is paid to each adult not accommodated in a CADA and who has not refused an offer of accommodation, during the entire period of the application for asylum procedure. On the other hand, if your application is finally rejected by OFPRA or the CNDA, these payments will come to an end.
+
+After six months allowance has been paid, you must inform the employment centre of the state of your resources so that the payments can continue. Failing this, payments will not continue.
+
+ACCESS TO HEALTH CARE
+
+Emergency treatment
+While waiting for the social protection offered to asylum seekers with temporary residence permits as part of Universal Health Cover - Couverture maladie Universelle (CMU), you may go to hospitals where there are permanent health care access points - Permanences d'Acces Aux Soins de Sante (PASS). You will be treated by doctors and any medication will be given to you free of charge.
+Furthermore, some associations offer dental, ophthalmological and psychological care access points without your having to have health insurance.
+Depending on where you are living, the Maisons du Departement usually house PMIs (Protection Maternelle et Infantile - mother and child clinics) responsible for regular check-ups for children and for their vaccinations as well as the Planning Centres and Family Education for women (information on contraception and pregnancy check-ups). You can benefit from these services even before you have been affiliated to the CMU.
+
+The Universal Health Cover (CMU)
+As an asylum seeker, you may benefit from the basic and supplementary Universal Health Cover (CMU). This cover is offered from the time you make your asylum application on presentation either of a summons to the prefecture, or a temporary residence permit (APS or application acknowledgement), accompanied by a certificate of domiciliation.
+It will cover you for all medical and hospital expenses for you, your spouse and your children.
+The application for CMU must be made to the social welfare health insurance (CPAM) in your place of residence. The reception centres for asylum seekers or the OFII regional directorates will help you in this procedure for affiliation to the CPAM. You can be assisted in this procedure by an association, a community centre or an inter-communal welfare action centre or the social services in a hospital.
+The rights to the basic CMU cover are permanent. They are valid for one year for the complementary CMU cover. You must therefore apply for the renewal of the complementary cover every year.
+The CPAM may later ask you for additional documents (particularly your three-month application acknowledgement) so that you can be given a definitive number and an electronic health card called the "Carte Vitale".
+
+If you have not been accepted for residence and your application for asylum is being examined as a priority procedure, you can benefit from the state medical assistance (AME) on condition that you can prove three months' residence in France. Your application for the AME must be made to the CPAM or the hospitals' PASS centres.
+
+REFUGEES' RIGHTS
+
+If you are recognised as a refugee or if you are granted subsidiary protection, you may claim various rights and services.
+
+PROTECTION IN FRANCE
+
+From there on, you will be under the protection of the French authorities. Your administrative and legal protection will be ensured by OFPRA. Therefore, it is this administration which will provide you with the civil status documents and administrative documents after reconstituting your civil status.
+
+If you take the initiative of once again approaching your country's diplomatic or consular authorities, OFPRA may withdraw the protection granted.
+
+In the case where subsidiary protection is granted, in certain circumstances, OFPRA can consider that you should contact the consular authorities of your country of origin to obtain civil certificates (birth and marriage certificates) and a passport.
+
+RESIDENCE IN FRANCE
+
+As a refugee, you will have the right to a 10-year residence permit, renewable with full legal right, authorising you to move freely around the French territory.
+On acknowledgement of the letter recognising you are a refugee, you should go to the prefecture in your place of residence which will give
+you an initial application acknowledgement valid for three months, renewable, marked "Recognised as refugee". Then, on presentation of the civil status documents produced and sent by OFPRA, the prefecture will give you another application acknowledgement marked "Has applied for an initial residence permit". This application acknowledgement, valid for three months, will continue to be renewed until the definitive residence permit is issued.
+As a beneficiary of subsidiary protection, you will have the right to a temporary residence permit for one year, renewable, authorising you to freely move around the French territory.
+When you receive the letter recognising the protection, you should go to the prefecture in your place of residence which will give you an initial application acknowledgement valid for three months, renewable, marked "Has applied for an initial residence permit". This application acknowledgement will continue to be renewed until the definitive residence permit is issued. Before your temporary residence permit expires, you should apply to the prefecture to have it renewed. The prefecture will then refer the matter to OFPRA which may refuse to renew your protection if the reasons for which it was granted no longer exist.
+
+The prefecture can refuse to issue you a residence permit if it considers that your presence in France is a threat to public order.
+Under certain conditions, the prefecture may withdraw your residence permit; for example, if you leave the French territory for a period of more than three consecutive years.
+
+TRAVELLING ABROAD
+If you are refugee and you wish to travel outside France, a travel permit valid for two years will be issued to you by applying for it to the prefecture.
+If you are a beneficiary of subsidiary protection and OFPRA considers that you can no long apply to the authorities in your country of origin, you can also obtain a travel permit from the prefecture which is valid for one year.
+
+These travel permits do not authorise you to go to your country of origin. Under no circumstances should you approach your country's diplomatic or consular authorities.
+
+On the other hand, if OFPRA does not consider it necessary to reconstitute your civil status certificates that you can no longer obtain from your country of origin, you may keep your original passport and you use it to travel freely.
+
+RESIDENCE AND PROTECTION OF CLOSE FAMILY
+
+If you are recognised as a refugee, your spouse (if the marriage took place prior to obtaining refugee status or, if this is not the case, if it took place less than one year previously and that cohabitation has not ceased) and your minor children, may legally apply for a 10-year resident permit. Your spouse and your children should apply to the prefecture in your place of residence.
+They may also obtain protection by the French authorities through OFPRA on the basis of a family unit.
+If you benefit from subsidiary protection, your spouse (if the marriage took place prior to obtaining refugee status or, if this is not the case, if it took place less than one year previously and that cohabitation has not ceased) and your minor children, may legally apply for a one- year temporary resident permit. Your spouse and your children should apply to the prefecture in your place of residence.
+Furthermore, if the members of your family still in your country of origin or in another country wish to join you in France, they must apply for a long-term visa to the French embassy or consulate with territorial jurisdiction.
+To obtain advice or assistance in constituting visa application dossiers, you can also apply to the Ministere de l'lmmigration, de l'Integration, de l'Identite nationale et du Developpement solidaire (Ministry of Immigration, Integration, National Identity and Supported Development), at the following address:
+Ministere de l'lmmigration, de l'Integration, de l'Identite nationale et du Developpement solidaire
+Direction de l'immigration
+Sous-direction des visas
+Bureau des familles de refugies
+11, rue de la Maison blanche
+BP 43605 - 44036 Nantes cedex 01
+
+RECEPTION AND INTEGRATION
+
+As a refugee or beneficiary of subsidiary protection, you should sign a reception and integration contract (CAI). A contract between you and the state, its aim is to facilitate your integration into French society.
+Thanks to this contract, you will benefit from:
+civil instruction, in other words, a day's information on French institutions, the values of the Republic, how the state is organised and functions.
+An information session on daily life in France where you will learn about work, schools, social welfare, housing, etc.
+Language instruction, according to your needs. When it has ended, you will sit the initial French diploma (DILF).
+An assessment of professional skills, which in particular will enable you to assess your strengths and your weakness and to define your project for professional insertion in France.
+Social support, according to your needs, by the social service of the OFII or an organisation linked to the social services.
+For further information, contact the regional office of the OFII in the region where you live.
+
+Employment
+If you are recognised as a refugee, you will have free access to the labour market once you have obtained the first application acknowledgement marked "Reconnu refugie - Recognised as a refugee".
+If you are a beneficiary of subsidiary protection, you may also work once you have obtained the first application acknowledgement marked "A demande la delivrance d'un premier titre de sejour - Has applied for an initial residence permit".
+You have the right to an employment contract, which may be temporary (CDD) or permanent (CDI).
+You may register on the list of job seekers with an Employment Centre and benefit from personalised support.
+You may take up your education again.
+
+Certain professions are subject to conditions concerning diplomas or nationality. A resident permit issued in an overseas department or territory does not entitle the holder to work in metropolitan France.
+
+Access to housing
+If you have been living in a reception centre for asylum seekers (CADA) during your asylum procedure, you may remain in this centre after you have obtained your protection for the time required to look for accommodation, which could last up to three months, renewable once, and with the Prefect's agreement.
+As a protected person, you may ask the OFII to benefit from a place in a temporary accommodation centre (CPH). If you meet the conditions for acceptance, you will be housed there for a period of six months, renewable once, and supported in your efforts towards insertion.
+Furthermore, you may apply to have housing in the private sector or in social housing by making an application to the relevant institutions or organisations.
+
+HEALTH CARE
+If you have been accepted for residence during your asylum procedure, you are already affiliated to the basic universal health cover (CMU). You will not need to renew your registration with the social welfare health insurance (CPAM). Nevertheless, you should inform the CPAM in your place of residence of any change in your administrative situation.
+If your application for asylum has been processed as a priority procedure without acceptance for residence, you should undertake 
+the procedures to benefit from the CMU with the CPAM in your place of residence.
+As soon as you have salaried employment, you should contact the CPAM to become affiliated to the basic system for salaried employees.
+
+SOCIAL AND FAMILY SERVICES
+As a protected person, you can obtain various financial allowances by applying to the family allowance office - caisse d'allocations familiales (CAF) or to other investigating organisation in your place of residence.
+If you meet the required conditions, you may then benefit in particular from the active solidarity allowance - revenu de Solidarity active (rSa), family allowances, housing allowance, single parent allowance, young children's reception service or again an allowance for disabled adults.
+
+NATURALISATION
+If you are a refugee, you may apply for French nationality by decree on recognition of refugee status.
+If you are a beneficiary of subsidiary protection, you must be able to prove five years' legal residence in France before applying for naturalisation.
+Furthermore, you should meet various criteria relating to your assimilation into the French community (in particular, knowledge of French) and on your morality.
+The application for naturalisation should be submitted at the prefecture in your place of residence.
+
+REPATRIATION ASSISTANCE
+If your application for asylum is rejected by OFPRA or the CNDA, the prefecture will inform you of the obligation to leave the French territory (OQTF) within one month. During this time, you can chose to return to your own country voluntarily. There are programmes and assistance for this purpose.
+You and your family may benefit from a repatriation assistance programme. It is run by the French immigration and integration office - Office franpais de 1'immigration et de 1'integration (OFII).
+
+REPATRIATION GRANT
+
+Material assistance on departure
+Includes payment of the travelling costs from the town of departure in France to the town of arrival in your country of origin, the cost of 40 kg excess baggage per adult and 10 kg per minor child and the cost of obtaining travel documents.
+
+Financial assistance
+The amount of the financial assistance varies depending on your residence status. It can come to € 2,000 per adult, € 3,500 for a married couple, € 1,000 per minor child up to the third child and € 500 per child after the third.
+
+ASSISTANCE FOR REINSERTION IN THE COUNTRY OF ORIGIN
+In addition to the repatriation grant described above, if you wish to set up an enterprise in your own country, you may also benefit from a grant from the OFII to set up a revenu-generating economic activity,.
+This grant, paid in the repatriation country by organisations approved by OFII, includes a grant for developing and setting up your economic project as well as a grant for starting up the project. This can be up to a maximum of € 7,000.
+
+This enterprise-creation grant presently concerns the following countries: Armenia, Bosnia-Herzegovina, Cameroon, Democratic Republic of Congo, Republic of Guinea, Georgia, Mali, Moldavia, Romania, Senegal and Ukraine.
+N.B: this list is not definitive. Do not hesitate to contact the OFII representation in the region where you are resident for more detailed information.
+
+For more details on assistance and grants which may be available to you for repatriation, at any time you may ask for an appointment with a representative of the OFII in your region of residence.
+
+
+SUMMARY OF THE PROCEDURE BY AN ASYLUM SEEKER FOR ASYLUM AND RESIDENCE 
+
+<figure>
+
+USEFUL ADDRESSES
+
+NATIONAL ADDRESSES
+(the list is not exhaustive)
+
+Ministere de l'immigration, de l'intégration, de l'identite nationale et du developpement solidaire
+(Ministry of Immigration, Integration, National Identity and Supported Development)
+101, rue de Grenelle
+75323 PARIS CEDEX 07
+Tel. : 01 77 72 61 00
+Fax : 01 77 72 61 20
+http://www.immigration.gouv.fr
+
+OFPRA - Office français de protection des réfugiés et apatrides (French Office for the Protection of Refugees and Stateless Persons) 201, rue Carnot
+94136 FONTENAY-SOUS-BOIS CEDEX
+Tel.:01 5868 10 10
+Fax : 01 58 68 18 99
+http://www.ofpra.gouv.fr
+
+CNDA - Cour nationale du droit d'asile
+(National Right of Asylum Court)
+35, rue Cuvier
+93558 MONTREUIL-SOUS-BOIS CEDEX
+Tel.:01 48 104000
+Fax:01 48 18 41 97
+http://www.commission-refugies.fr
+
+HCR - Haut Commissariat des Nations Unies pour les réfugiés
+(United Nations High Commission for Refugees)
+9, rue Kepler
+75116 PARIS
+Tel. : 01 44 43 48 58
+Fax:01 40 70 07 39
+http://www.unhcr.org
+
+OFII - Office français de l'immigration et de l'intégration
+(French Office for Immigration and Integration)
+44, rue Bargue
+75015 PARIS
+Tel. : 01 53 69 53 70
+Fax: 0153 69 53 69
+http://www.ofii.fr
+
+ACAT - Association des chrétiens pour l'abolition de la torture (Christian Association for the Abolition of Torture)
+7, rue Georges-Lardennois
+75019 PARIS
+Tel. : 01 40 40 42 43
+Fax: 0140 40 42 44
+http://www.acatfrance.fr
+
+Act Up
+45, rue Sedaine 75011 PARIS
+Tel.:01 4806 1389
+Fax : 01 48 06 16 74
+http://www.actupparis.org
+
+Amnesty International
+76, boulevard de la Villette 75019 PARIS
+Tel.:01 533865 16
+Fax : 01 53 38 55 00
+http://www.amnesty.fr
+
+Association Primo-Levi
+107, avenue Parmentier 75011 PARIS
+Tel.:01 43 140850
+Fax:01 43 14 08 28 http://www.primolevi.asso.fr
+
+APSR - Association d'accueil aux médecins et personnels de sante réfugiés en France
+(Association for the reception of refugee doctors and health-care personnel in France)
+Hopital Sainte-Anne
+1, rue Cabanis
+75014 PARIS
+Tel. : 01 45 65 87 50
+Fax: 0153 80 28 19
+http://www.apsr.asso.fr
+
+CAEIR - Comite d'aide exceptionnelle aux intellectuels réfugiés
+(Committee for Exceptional Help for Refugee Intellectuals) 43, rue Cambronne
+75015 PARIS
+Tel. : 01 43 06 93 02
+Fax: 0143 06 57 04
+
+CASP - Centre d'action sociale protestant
+(Protestant Social Action Centre) 20, rue Santerre
+75012 PARIS
+Tel. : 01 53 33 87 50
+Fax: 0143 44 95 33
+http://www.casp.asso.fr
+
+CIMADE - Service aecuménique d'entraide
+(Ecumenical Mutual Aide Service)
+64, rue Clisson
+75013 PARIS
+Tel.:01 44 186050
+Fax : 01 45 56 08 59
+http://www.cimade.org
+
+COMEDE - Comité médical pour les exiles (Medical Committee for Exiles)
+Hopital Bicetre
+78, rue du General-Leclerc BP 31
+94272 LE KREMLIN-BICETRE
+Tel. : 01 45 21 38 40
+Fax : 01 45 21 38 41
+http://www.comede.org
+
+Croix-Rouge française (French Red Cross)
+1, place Henry-Dunant
+75008 PARIS
+Tel.: 01 44 43 11 00
+Fax : 01 44 43 11 69
+http://www.croix-rouge.fr
+
+FASTI - Fédération des associations de soutien aux travailleurs immigres
+(Federation of Support Associations for Immigrant Workers)
+58, rue des Amandiers
+75020 PARIS
+Tel.: 01 58 53 58 53
+Fax:0158 53 58 43
+http://www.fasti.org
+
+Forum réfugiés (Refugees' Forum)
+28, rue de la Baisse
+BP 1054
+69612 VILLEURBANNE CEDEX
+Tel.: 04 72 97 05 80
+Fax:04 72 97 05 81
+http://www.forumrefugies.org
+
+FTDA - France Terre d'asile (France Land of Asylum)
+24, rue Marc-Seguin
+75018 PARIS
+Tel.: 01 53 04 39 99
+Fax:01 53 04 02 40
+http://www.france-terre-asile.org
+
+GAS - Groupe Accueil Solidarité (Support Reception Group)
+17, place Maurice-Thorez
+94800 VILLEJUIF
+Tel. : 01 42 11 07 95
+Fax: 01 42 11 09 91
+http://pagesperso-orange.fr/gas.asso
+
+GISTI - Groupe d'information et de soutien des immigrés
+(Information and Support for Immigrants Group)
+3, villa Marces
+75011 PARIS
+Tel.:01 43 14 60 66
+Fax:01 43 14 60 69
+http://www.gisti.org
+
+LDH - Ligue des droits de l'homme
+(Human Rights League)
+138, rue Marcadet
+75018 PARIS
+Tel.: 01 56 55 51 00
+Fax:01 56 55 51 21
+http://www.ldh-france.org
+
+MRAP - Mouvement contre le racisme et pour l'amitié entre les peuples
+(Movement against racism and for friendship among peoples)
+43, boulevard Magenta
+75010 PARIS
+Tel.: 01 53 38 99 99
+Fax:01 40 40 90 98
+http://www.mrap.asso.fr
+
+Secours catholique
+(Catholic Action)
+23, boulevard de la Commanderie
+75019 PARIS
+Tel.:01 48 39 10 92
+Fax: 0148 33 79 70 http://www.secours-catholique.asso.fr
+
+SNPM - Service national de la pastorale des migrants
+(National Service of Migrants' Pastoral)
+269 bis, rue du faubourg Saint-Antoine
+75011 PARIS
+Tel.: 01 43 72 47 21
+Fax:0146 59 04 89
+http://www.eglisemigrations.org

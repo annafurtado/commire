@@ -1,0 +1,396 @@
+﻿<Header>
+  <title>
+    <tit> Guide for asylum seekers in Québec wishing to obtain Québec government services </tit>
+    <fileName> EN_005 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Guide </textType>
+    <subcorpus> Original Canadian English </subcorpus>
+  </title>
+  <sourceText>
+    <language> Canadian English </language>
+    <source> http://services.immigration-quebec.gouv.qc.ca/publications/en/divers/Guide-asylum-seekers.pdf </source> 
+    <publisher> Immigration and Refugee Board of Canada </publisher>
+    <pubDate> 2018 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 21.06.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher> 
+    <comments> This is an online page </comments>
+  </sourceText>
+  <author>
+    <institution> Canadian Government </institution>
+  </author>
+</Header>
+
+
+Checklist
+This checklist is primarily intended for refugee claimants settled in Montréal. For contact information on offices located outside Montréal, call Services Québec at 1 877 644-4545 (toll free).
+
+EMERGENCY SHELTER
+
+CIUSSS du Centre-Ouest-de-l'lle-de-Montréal	514 484-7878 # 5
+Programme régional d'accueil et d'intégration des demandeurs d'asile (PRAIDA - régional reception and intégration program for refugee claimants)
+3725, rue Saint-Denis, Montréal (Québec)
+Sherbrooke Metro station
+Monday to Friday, from 9 a.m. to 5 p.m.
+With or without an appointment
+
+YMCA Residence	514 932-5353
+4039, rue Tupper, Westmount
+Montréal (Québec)
+Atwater Metro station
+Monday to Friday (after 5 p.m.)
+Saturday and Sunday (24 hours)
+
+LEGAL AID AND LAWYERS
+Community Legal Centre of Montréal	514 849-3671
+Legal aid, immigration lawyers
+440, boulevard Rene-Levesque Ouest, Suite 1001
+Montréal (Québec)
+Square-Victoria-OACI Metro station
+Referral service of the Barreau de Montréal	514 866-2490
+Monday to Friday, from 9 a.m. to 4 p.m.
+This organization will suggest a lawyer who you can contact.
+
+FINANCIAL ASSISTANCE
+Centre specialise des demandeurs d'asile, des garants defaillants et des services aux parraines	514 872-8838
+Income support, Island of Montréal
+Afterwards
+287, rue Notre-Dame Ouest
+Montréal (Québec)
+Square-Victoria-OACI Metro station
+Monday, Tuesday, Thursday and Friday, from 8:30 a.m. to 4:30 p.m.
+Wednesday from 10 a.m. to 4:30 p.m.
+
+FRENCH LANGUAGE COURSES
+Ministère de l'immigration,	514 864-9191
+de la Diversité et de l'Inclusion	1 877 864-9191 (toll free)
+Referral for part-time courses
+
+Ministère de l'Education et de	418 643-7095
+l'Enseignement superieur	1 866 747-6626 (toll free)
+Adult education centres (Centres d'education des adultes)
+
+SCHOOL
+Ministère de l'Education et de	418 643-7095
+l'Enseignement superieur	1 866 747-6626 (toll free)
+School enrolment (children)
+
+SOCIAL INSURANCE NUMBER
+Information in French	1 800 808-6352 (toll free)
+Information in English	1 800 206-7218 (toll free)
+
+IMMIGRATION
+Ministère de l'immigration,	514 864-9191
+de la Diversité et de l'inclusion	1 877 864-9191 (toll free)
+Registration for an information session for refugee claimants (information in English)
+
+Immigration, Refugees and Citizenship Canada	1 888 242-2100
+Work permit, study permit, Interim Federal	(toll free)
+Health Program, change of address, information
+
+Immigration and Refugee Board	514 283-7733
+Change of address, status of file	Fax: 514 283-0164
+200, boulevard Rene-Levesque Ouest
+Complexe Guy-Favreau,
+Montréal (Québec)
+Place-d'Armes Metro station
+
+JUSTICE AND RIGHTS
+Commission des normes, de l'equite de la Santé et de la securite du travail 1 844 838-0808 (toll free)
+Working conditions, workplace accidents and occupational illnesses, etc.	1 800 265-1414 (toll free)
+Régie du logement	514 873-2245
+Lease	1 800 263-2245 (toll free)
+
+HEALTH CARE AND SOCIAL SERVICES
+Emergency (police, fire and ambulance)	911
+CIUSSS du Centre-Ouest-de-l'lle-de-Montréal 514 484-7878 # 5 Programme régional d'accueil et d'intégration des demandeurs d'asile (PRAIDA - régional reception and intégration program for refugee claimants)
+Services pertaining to health care, shelter, social services, family assistance, unaccompanied minors, etc.
+3725, rue Saint-Denis, Montréal (Québec)
+Sherbrooke Metro station
+Monday to Friday, from 9 a.m. to 5 p.m.
+With or without an appointment
+Information and Referral Centre of Greater Montréal 514 527-1375
+Clothing, food, violence, etc.
+Info-Santé	811
+Telephone consultation on health and social services matters
+
+RESIDENTIAL SERVICES
+Hydro-Québec (electricity)	514 385-7252
+Gaz Métropolitain (natural gas)	514 598-3222
+
+GOVERNMENT SERVICES
+Services Québec	514 644-4545
+Information on Québec government services 1 877 644-4545 (toll free)
+Service Canada	1 800 622-6232 (toll free)
+Information on federal government services
+
+TRANSPORTATION
+Société de transport de Montréal (bus, subway)	514 786-4636
+Agence métropolitaine de transport (trains)	514 287-8726
+Réseau de transport de Longueuil	450 463-0131
+Société de transport de Laval	450 688-6520
+Société de l'assurance automobile du Québec	514 873-7620
+Driver's licence, highway code, etc.	1 800 361-7620 (toll free)
+
+OTHER SERVICES
+Revenu Québec	514 864-6299
+General information	1 800 267-6299 (toll free)
+
+Canada Revenue Agency	1 800 959-7383 (toll free)
+Canadian Society of Immigration Consultants	1 866 308-2742 (toll free)
+
+Guide for asylum seekers in Québec wishing to obtain Québec government services
+
+Important - Register for an information session by calling 514 271-3533
+
+AN INFORMATION SESSION FOR YOU!
+
+You are living in Québec while your application for asylum is being reviewed. The Government of Québec offers various services related to accommodation, financial assistance, health care and schooling for your children.
+
+To obtain information on these services and practical advice on life in Québec, register for an information session given by La Maisonnee, a partner organization of the Ministère de l'immigration, de la Diversité et de l'inclusion.
+
+The sessions are given in French, Spanish and English.
+Call 514 271-3533 for information.
+Being informed is important! This document will serve as a checklist.
+
+THE COMMON VALUES OF Québec SOCIETY
+Like many other societies, Québec has adopted values that establish ways of living together, behaving in society and making collective decisions. Knowing and respecting these values will make your life easier.
+In Québec:
+Speaking French is a necessity;
+Women and men have the same rights;
+Political and religious powers are separate;
+The exercise of human rights and freedoms must respect the rights and freedoms of others and the general well-being.
+
+Québec is:
+a free and democratic society;
+a society based on the rule of law;
+a society enriched by its diversity.
+
+To learn more, consult the site www.immigration-Québec.gouv.qc.ca/common-values
+
+TEMPORARY AND EMERGENCY SHELTER
+You may be given temporary shelter upon arrival in Québec. This service is offered following a psychosocial assessment that takes into account your financial situation and social network (family members, friends and acquaintances). To request shelter, visit or call the:
+CIUSSS du Centre-Ouest-de-l'ile-de-Montréal
+Regional reception and integration program for asylum seekers
+3725, rue Saint-Denis, Montréal (Québec)
+Tel.: 514 484-7878 # 5
+Sherbrooke Metro station
+Monday to Friday from 9 a.m. to 5 p.m. with or without an appointment
+If you arrive in Québec outside the opening hours of the CIUSSS
+du Centre-Ouest-de-l'ile-de-Montréal, please go directly to:
+YMCA Residence
+4039, rue Tupper, Westmount (Québec)
+Telephone: 514 932-5353
+Atwater Metro Station
+Monday to Friday (after 5 p.m.)
+Saturday and Sunday (24 hours)
+
+
+ASSISTANCE IN FINDING HOUSING
+Several organizations can assist you with finding housing that suits your situation and budget. You can contact them with confidence. Here is the contact information for the 14 organizations:
+
+Accueil aux immigrants de l'Est de Montréal
+5960, rue Jean-Talon Est,
+bureau 209
+Montréal (Québec) H1S 1M2
+Tel.: 514 723-4939
+
+Accueil liaison pour arrivants (ALPA)
+2030, boulevard Pie-IX
+Montréal (Québec) H1V 2C8
+Tel.: 514 255-3900
+
+Bureau de la communauté haïtienne de Montréal (BCHM)
+6970, rue Marquette
+Montréal (Québec) H2E 2C7
+Tel.: 514 725-9508
+
+Carrefour d’aide aux nouveaux arrivants (CANA)
+10780, rue Laverdure
+Montréal (Québec) H3L 2L9
+Tel.: 514 382-0735
+
+Carrefour de liaison et d’aide multiethnique (CLAM)
+7290, Hutchison, 2e étage
+Montréal (Québec) H3N 1Z1
+Tel.: 514 271-8207
+
+Carrefour d’intercultures de Laval
+1536, boulevard Curé-Labelle
+Laval (Québec) H7V 2W2
+Tel.: 450 686-0554
+
+Centre social d’aide aux immigrants (CSAI)
+6201, rue Laurendeau,
+Montréal (Québec) H4E 2X8
+Tel.: 514 932-2953
+
+Centre des femmes de Montréal
+3585, rue Saint-Urbain
+Montréal (Québec) H2X 2N6
+Tel.: 514 842-5613
+
+Carrefour Le Moutier
+99, place Charles-Le Moyne
+Longueuil (Québec) J4K 4Y9
+Tel.: 450 679-7111
+
+Centre communautaire multiethnique de Montréal-Nord
+11121, avenue Salk, bureau 15
+Montréal-Nord (Québec) H1G 4Y3
+Tel.: 514 329-5044
+
+L’Entre Parents de Montréal-Nord
+4828, boulevard Gouin Est
+Montréal-Nord,
+Québec H1H 1G4
+Tel.: 514 329-1233
+
+La Maisonnée
+6865, avenue Christophe-Colomb
+Montréal (Québec) H2S 2H3
+Tel.: 514 271-3533
+
+La Maison d’Haïti
+3245, avenue Emile-Journault
+Montréal (Québec) H1Z 0B1
+Tel.: 514 326-3022
+
+Regroupement des organismes du Montréal ethnique pour le logement (ROMEL)
+6555, chemin de la Côte-des-Neiges
+Montréal (Québec) H3S 2A6
+Tel.: 514 341-1057, ext. 200
+
+FINANCIAL ASSISTANCE
+If you are without financial resources, you are eligible for financial assistance from the Ministère du Travail, de l'Emploi et de la Solidarité sociale. If you are living in the Greater Montréal area, please go to the:
+
+Centre spécialisé des demandeurs d’asile, des garants defaillants et des services aux parrainés
+For a first request
+1 004, rue St-Antoine Ouest, Montréal (Québec) H3C 3R7
+Tel.: 514 872-8838
+Bonaventure Metro station
+
+Afterwards
+287, rue Notre-Dame Ouest, Montréal (Québec) H2Y1T8
+Tel.: 514 872-8838
+Square-Victoria-OACI Metro station
+
+If you live outside the Greater Montréal area, contact the local employment centre inyour region. To find the local employment centre in your region, call Services Québec at 1 877 644-4545 (toll free).
+
+You can also contact the Centre de communication avec la clientèle at 514 873-4000 or 1 877 767-8773 (toll free)
+
+Important - As part of your application, you must submit your Refugee Protection Claimant Documentfmm Immigration, Refugees and Citizenship Canada and the document Interim Federal Health Certificate of Eligibility.
+
+THE SERVICES OF A LAWYER AND LEGAL AID
+If you require the services of a lawyer, you can contact one of the following organizations:
+
+Community Legal Centre of Montréal
+Legal aid office (immigration law)
+440, boulevard Rene-Levesque Ouest, Suite 1001,
+Montréal (Québec) H2Z1Z6
+Tel: 514 849-3671
+Fax: 514 849-5004
+
+Referral Service of the Barreau de Montréal
+Tel.: 514 866-2490
+Monday to Friday, from 9 a.m. to 4 p.m.
+This organization will suggest a lawyer who you can contact.
+
+Useful information - Depending on your financial situation, you may be eligible for the services of a lawyer free of charge. Contact the Community Legal Centre of Montréal or your lawyer.
+
+THE SERVICES OF A CONSULTANT
+If you use the services of a consultant, make sure that the consultant is an authorized person [1]. In Québec, a person authorized to represent you can be a lawyer who is a member of the Barreau du Québec or a notary who is a member of the Chambre des notaires du Québec. Ask to see the person’s membership card.
+
+You may also retain the services of a member in good standing of the Immigration Consultants of Canada Regulatory Council. Refer to www.iccrc-crcic.ca for the list of members.
+
+Important - If you use the services of a consultant who is not a lawyer who is a member of the Barreau du Québec, his or her fees will not be reimbursed.
+
+SCHOOLS AND FRENCH LANGUAGE COURSES
+School for children
+You can register your children for school. Access is free for pre-schoolers (5 years of age), elementary school children, (6 to 12 years of age) and secondary school children (12 to 18 years of age). Some schools offer preschool education to 4-year-old children.
+For information on registering your child for school, you can contact the Ministère de I ’Education et de I’Enseignement superieur at 418 643-7095 or at 1 866 747-6626 (toll free) or consult the website at www.education.gouv.qc.ca.
+
+Important - You must submit your Refugee Protection Claimant Document issued by Immigration, Refugees and Citizenship Canada.
+
+School for adults
+If you are over 18 years of age and wish to study, you must:
+pay the tuition fees charged for international students;
+obtain a Québec Acceptance Certificate (Certificat d’acceptation du Québec) issued by the Ministère de l’immigration, de la Diversité et de l'inclusion. For more information, call 514 864-9191 or 1 877 864-9191 (toll free).
+obtain a study permit issued by Immigration, Refugees and Citizenship Canada. For information, call 1 888 242-2100 (toll free).
+
+French language courses for adults
+It is not necessary to obtain a study permit or a Québec Acceptance Certificate (Certificat d’acceptation du Québec) in order to take French language courses. The courses are free of charge but registration fees may apply.
+To obtain the contact information for partner organizations of the Ministère de l'immigration, de la Diversité et de l'inclusion that offer part-time French courses, call 514 864-9191 or 1 877 864-9191 (toll free)
+To find a partner organization that offers French courses, visit the following address: www.Frenchspellssuccess.gouv.qc.ca and click on the registration schedule.
+To obtain the contact information for adult education centres that offer full-time and part-time French courses, call the Ministère de I ’Education et de I’Enseignement superieur at 418 643-7095 or 1 866 747-6626 (toll free).
+
+HEALTH CARE AND SOCIAL SERVICES
+Some health care services and prescription drugs are covered by the Interim Federal Health Program or the lRégie de l’assurance maladie du Québec.
+To access these services and medications, you must present certain documents.
+If you are receiving last-resort financial assistance, you always need to show the doctor or pharmacist:
+your Carnet de réclamation (claim card) issued by the Ministère du Travail, de l'Emploi et de la Solidarité sociale;
+your Refugee Protection Claimant Document or
+your Interim Federal Health Program Certificate issued by Immigration, Refugees and Citizenship Canada or the Canada Border Services Agency.
+If you are not receiving last-resort financial assistance (because you work, for example), you must obtain the temporary document entitled Confirmation de votre couverture pour les médicaments d’ordonnance fournis au Québec (confirmation of your coverage for prescription drugs provided in Québec).
+To learn the procedure to follow to obtain this confirmation, call the general information line of the Régie de l’assurance maladie du Québec at 1 800 561-9749 (toll free).
+
+Subsequently, you must always show the doctor or pharmacist:
+your Confirmation de votre couverture pour les médicaments d’ordonnance fournis au Québec (confirmation of your coverage for prescription drugs provided in Québec);
+your Refugee Protection Claimant Document or your Interim Federal Health Program Certificate
+
+Where to receive health care
+
+If you have health problems related to your situation as a refugee claimant, you can access the Programme régional d’accueil et d’intégration des demandeurs d’asile (régional refugee claimant reception and intégration program) of the CIUSSS du Centre-Ouest-de-I’Tle-de-Montréal. You can go to the CIUSSS with or without an appointment.
+
+The Info-Santé service gives you access by telephone to a health care professional for non-emergency problems. It is available 24/7 and can answer routine health care questions or refer you to the appropriate resource in the health and social services network. Call 811 from anywhere in Québec.
+When an urgent health problem arises, you must go to an emergency department (medical clinic, hospital) as quickly as possible or dial 911 to obtain help (police, ambulance, fire department).
+
+SETTLING OUTSIDE MONTRÉAL
+If you settle outside the greater Montréal area, you can have access to the following services, which are also offered in Montréal:
+
+Financial assistance
+The nearest local employment centre
+
+Free services of a lawyer
+The legal aid office in your city
+
+Enrolling a child in school or registering for French language courses in an adult education centre
+Ministère de l’Éducation et de l’Enseignement superieur
+To find the service points in your region, call Services Québec at 1 877 644-4545 (toll free) or visit the site www.gouv.qc.ca/portail/Québec/servicesQuébec.
+
+Registration for part-time French language courses
+Partner organizations of the Ministère de l’immigration, de la Diversité et de l’Inclusion
+
+Help in finding a place to live in Laval and Longueuil
+Contact one of these two organizations:
+
+LAVAL
+Carrefour d’intercultures de Laval
+Tel.: 450 686-0554
+
+LONGUEUIL
+Carrefour le Moutier
+Tel.: 450 679-7111
+
+THE PROTECTION OF PERSONAL INFORMATION
+
+Your personal information is confidential and may not be disclosed without your consent. However, the Ministère de l’immigration, de la Diversité et de l'inclusion may, without your consent:
+
+communicate personal information to Canadian immigration authorities and Québec public agencies if doing so is necessary to enforce a Québec statute;
+
+be authorized to disclose personal information to Canadian immigration authorities or to public Québec organizations if this disclosure is necessary in the exercise of their powers, the implementation of a program that they manage, or in providing services that are offered by the Ministère, in particular for identification purposes, or when the disclosure is clearly made for your benefit or for your safety in emergency situations.
+
+The Ministère may, under provisions in the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1), transm it certain personal information concerning you to government departments and bodies. Specifically, such information may concern your address or information on your legal status as a refugee claimant in Québec that will enable them to ascertain whether you are still eligible for certain government services.
+
+Access to this information is strictly limited to those individuals authorized to examine it pursuant to the Act.
+
+To learn what information about you is in the Ministère’s possession, you must send a written request to the ministerial official responsible for the protection of personal information, at the following address:
+
+Secrétariat général
+Ministère de l’immigration, de la Diversité et de l'inclusion
+500, Boulevard Rene-Levesque Ouest
+Montréal (Québec) H2Z1W7
+
+
+[I] New federal regulatory provisions stipulate that anyone who represents for remuneration a person before the Immigration and Refugee Board of Canada (IRB), Refugees and Citizenship Canada, or the Canada Border Services Agency (CBSA) must be an authorized representative.

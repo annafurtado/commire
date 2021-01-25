@@ -1,0 +1,926 @@
+﻿<Header>
+  <title>
+    <tit> TENT AUSTRALIAN EMPLOYERS' GUIDE TO HIRING REFUGEES</tit>
+    <fileName> EN_015 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Manual </textType>
+    <subcorpus> Original Australian English </subcorpus>
+  </title>
+  <sourceText>
+    <language> Australian English </language>
+    <source> https://www.tent.org/wp-content/uploads/2019/02/Tent_Australia_V6.pdf </source> 
+    <publisher> The Tent Partnership for Refugees </publisher>
+    <pubDate> February, 2019 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 28.06.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher> 
+    <comments> tables containing only numbers were replaced by a tag </comments>
+  </sourceText>
+  <author>
+    <institution> The Tent Partnership for Refugees (NGO) </institution>
+  </author>
+</Header>
+
+TENT
+AUSTRALIAN EMPLOYERS' GUIDE TO HIRING REFUGEES
+
+ABOUT THE TENT PARTNERSHIP FOR REFUGEES
+
+Tent is mobilizing the private sector to improve the lives and livelihoods of the more than 25 million men, women, and children who have been forcibly displaced from their home countries.
+As traditional actors struggle to cope with the global refugee crisis - with everincreasing numbers of refugees, displaced for longer periods of time - it is clear that businesses have a more important role than ever before.
+Tent works closely with businesses to help them identify and understand opportunities to help refugees.
+Learn more at tent.org
+
+ABOUT THE FRIENDLY NATION INITIATIVE
+
+Leadership is about having the courage to take the first step and recognise when we must set an example for others.
+The Friendly Nation Initiative is a strategy of the Migration Council of Australia that mobilises Australian businesses to provide employment, mentoring, internship, and work experience opportunities to refugees. Employment is a crucial step in the process of settling in Australia. Through work, refugees become self-reliant and empowered to build a future for themselves and their families.
+The support provided by the Friendly Nation Initiative includes a national community of practice to give employers a support network of like-minded people, to discuss, develop and share best practice in refugee employment. We make available to employers the information, tools and resources they need to successfully welcome and integrate refugees into their workforces.
+The Friendly Nation Initiative recognises that every business is unique and needs a tailored and business- focused approach. We provide expert advice to employers and work with a network of refugee employment services to find the right people for the right positions and ensure ongoing support for both employees and the employer.
+The business world has many ways to contribute and commit to assistance. This network is the start of a process that recognises the responsibility Australian business leaders have, alongside government and community leaders, to tackle this global crisis.
+The Australian Industry Group is a proud supporter of this initiative. Together, we are working to improve the refugee employment infrastructure in Australia.
+The Migration Council of Australia is a national independent, non-partisan and not-for-profit body that aims to promote greater understanding of the productive benefits of migration, and foster partnerships between corporate Australia, the community sector and government. The Migration Council works with a range of community and business stakeholders, to promote access to systems and services by migrants and refugees
+Learn more at www.fni.org.au
+
+ACKNOWLEDGEMENTS
+
+This guide was a collaboration between the Tent Partnership for Refugees and the Friendly Nation Initiative. We thank the following employers for generously sharing their collective experiences and wisdom with our team to inform the advice in this toolkit:
+ABC, Accenture, Allianz, ANZ, Bank of Australia, Bread and Butter Project, Chobani Australia, Coles (Liverpool), Commonwealth Bank of Australia, Department of Health & Human Services (Victoria), Earth Harvesting, Ericsson, Holiday Inn (Darling Harbour), CPB Contractors and John Holland Joint Venture, Cross Yarra Partnership (Lendlease), MC Herd, Meat Processors Group, National Farmers Federation, Outlook, South32, Spotless, Telstra, Westpac, Woolworths.
+We also thank the many organisations and individuals from the community and government sectors in all the States and Territories for their assistance in the preparation of this guide. Special thanks to Access Community Services, AMES Australia, APM, Asylum Seekers Centre, Asylum Seekers Resource Centre, AtWorkAustralia, Australian Migrant Resource Centre, Australian Multicultural Community Services, Brotherhood of St Laurence, Career Seekers, Centre for Policy Development, CORE Community Services, Department of Economic Development, Jobs, Transport and Resources (Vic), Department of Education and Training (Commonwealth), Department of Industry (NSW), Department of Jobs and Small Business (Commonwealth), Department of Social Services (Commonwealth), Diversitat, Great Lakes Agency for Peace and Development, Host International, Melaleuca Refugee Centre, Metro Assist, Metropolitan Migrant Resource Centre, MDA, Multicultural Employment Service, Multicultural NSW, Navitas, Australian Red Cross, Refugee Talent, Settlement Services International, Southern Migrant & Refugee Centre, Talent Beyond Boundaries, and Dr Betina Szudlarek from the University of Sydney Business School.
+
+CONTENTS
+
+INTRODUCTION
+FACTS ABOUT REFUGEES
+Who are refugees?
+Australia's Humanitarian Programme
+Demographics
+Support provided to refugees when they arrive in Australia
+IS THERE A LEVEL PLAYING FIELD FOR REFUGEE JOB SEEKERS?
+WHY HIRE REFUGEES?
+Data for your business case
+HOW TO FIND AND HIRE REFUGEES
+Where refugees live in Australia
+Who can help you find refugee job seekers?
+How do I check a refugee applicant's right to work?
+
+TIPS AND ADVICE FOR SUCCESSFUL RECRUITMENT AND RETENTION
+Approaches to consider
+Practical matters to work through before you start
+Establishing a specialised refugee recruitment pathway
+Tips for working effectively with community sector organisations
+Tips for selecting the best candidate
+Preparing for day one
+Ongoing support
+Keeping up support for the program
+CONCLUSION
+
+APPENDICES
+APPENDIX 1:
+Organisations providing humanitarian settlement program services	46
+APPENDIX 2:
+Publications and resources to help make the business case for employing refugees	50
+APPENDIX 3:
+International labour mobility
+APPENDIX 4:
+Refugees by local government area of resettlement between 1 January 2008 and 31 December 2017	56
+APPENDIX 5:
+Organisations providing employment matching services, internship and work experience
+programs, and organisations providing government English programs
+APPENDIX 6:
+Recruiting skilled refugees from overseas
+APPENDIX 7:
+Most common types of visas granted to refugees
+APPENDIX 8:
+Government wage subsidies and employment programs
+APPENDIX 9:
+Other resources and information
+
+INTRODUCTION
+
+SINCE THE END OF THE SECOND WORLD WAR, AUSTRALIA
+HAS WELCOMED MORE THAN 840,000 PEOPLE [1] FROM AROUND THE WORLD FLEEING WAR, CONFLICT, AND PERSECUTION.
+
+Australia has consistently ranked among the top three permanent resettlement countries, playing a crucial role in international efforts to provide protection and offer people the opportunity to rebuild their lives and make a positive contribution to the country.
+Australia has benefited immeasurably from the contributions of people who arrived as refugees, across all aspects of society: business (Frank Lowy, Richard Pratt, Tan Le, Huy Truong), the arts (Ahn Do, Judy Cassab, Henry Szeps), science (Sir Gustav Nossal, Dr Karl Kruszelnicki), sport (Majak Daw, Les Murray) medicine (Dr Munjed Al Muderis), and the law (James Spigelman, Deng Thiak Adut),2 to give a few examples.In the year 2000, five of Australia's eight billionaires were people whose families had originally come to the country as refugees.3
+The Australian Employers' Guide to Hiring Refugees is a practical toolkit intended to help employers who are interested in hiring refugees but don't know where to start. To ensure that it would be both actionable and pragmatic, employers who have already welcomed refugees into their workforce made a significant contribution to its development. The guide contains essential information about the logistics and practicality of hiring refugees in Australia and guidance on how to design and implement refugee employment programs to be maximally successful for employers and refugees alike.
+Companies can show leadership, meet their responsibility to be good corporate citizens and send an important message by making a public commitment to proactively include refugee employees in their workforce. Some organisations have established refugee employment programs to find and encourage people from a refugee background to apply. There are no legal barriers (in Commonwealth or State anti-discrimination laws) to providing employment opportunities to refugees in this way.
+
+FACTS ABOUT REFUGEES
+
+WHO ARE REFUGEES?
+
+Under international law, a refugee is an individual who is unable to return to his or her home country due to a well- founded fear of persecution based on race, religion, nationality, political opinion, or social group. Currently, there are an estimated 68.5 million people worldwide forced from their homes. Among them there are 25.4 million people recognised as refugees, with half of them being children.4
+The term asylum seeker describes a person who has applied for protection as a refugee and is waiting for a determination.
+A migrant is someone who voluntarily chooses to move to another country, commonly for work, family or to study.
+The majority of refugees live in countries bordering the one from which they fled. Only a tiny fraction of refugees are eligible for resettlement in third countries, such as Australia. These are typically individuals (and often their families) who have particular needs or vulnerabilities in their country of asylum and cannot return to their country of origin. These needs may include legal and/or physical protection needs, medical needs, or the lack of a foreseeable alternative durable solution. Vulnerable groups include survivors of violence and/or torture, women and girls at risk, and children and adolescents at risk.5 In 2017, only 102,800 refugees were resettled worldwide (less than 0.2 percent of the global refugee population).6
+
+AUSTRALIA'S HUMANITARIAN PROGRAMME
+
+Australia's Humanitarian Programme includes offshore resettlement (for refugees outside Australia) and onshore protection (for those already in Australia):
+The offshore programme offers protection to people in desperate situations overseas, including those living in refugee camps and trapped in protracted refugee situations. It also enables refugees and people who are in refugee-like situations overseas to reunite with their family in Australia.7
+The onshore programme gives protection to people already in Australia who seek protection and are found to be refugees.
+In 2017-18, Australia accepted 16,250 people through the humanitarian programme.8 Over the previous two financial years, Australia accepted 39,523 people, which included a one-time commitment to resettle an additional 12,000 people fleeing the conflict in Syria and Iraq.9 Australia plans to maintain a target of 18,750 places each year from 201819 and thereafter.10
+All humanitarian entrants granted a visa under the offshore or onshore programmes have undergone strict health, character, and national security checks. This is consistent with the requirements to be met by all applicants for an Australian permanent visa. 8 9 10 11
+
+APPLYING FOR PROTECTION AFTER ARRIVAL IN AUSTRALIA
+
+People who arrived in Australia with a non-humanitarian visa (such as a tourist visa, student visa, or temporary work visa) are allowed to apply to Australia for asylum under international law. Australia is obliged to process the application and determine whether or not the person is a refugee. Under current Australian law, a person who has applied for refugee status in this way can be granted a permanent protection visa.
+People who arrived in Australia without a valid visa (for example, those who travelled on a boat) similarly have a right to apply for protection as a refugee, and Australia has an obligation to make a determination. However, anybody found to be a refugee may only be granted a temporary protection visa under current Australian law.
+People are commonly granted a bridging visa permitting them to stay in Australia for the period between the time they applied for protection as a refugee and the time that application is finally determined.
+
+DEMOGRAPHICS
+In 2016, of the approximately 215,000 refugees who had found sanctuary in Australia in the 16 years between 2000 and 2016:12
+81 percent were of working age (15 to 64 years of age) and 15 percent were children;
+54 percent were men;
+66 percent spoke English well or very well;
+and 9 percent had a Bachelor's degree or post-graduate qualification.13
+Since the inception of Australia's humanitarian resettlement programmes in 1947, refugees' countries of origin have mirrored the major conflicts and crises across the world. This means that people who have been refugees come from all over the world, following war, conflict and turmoil in Europe, Central and South America, the Middle East, Asia, and Africa.
+
+In recent years, the Middle East and South West Asia have been key focus regions due to conflict in Afghanistan, Syria, and Iraq.14 This is reflected in Figure A below, which shows the top countries of birth for people who arrived through the offshore programme in the years 2015-17, including the 12,000 places for people displaced by conflict in Syria and Iraq.15
+FIGURE A: TOP 11 COUNTRIES OF BIRTH FOR PEOPLE GRANTED AN OFFSHORE HUMANITARIAN VISA TO SETTLE IN AUSTRALIA, WHO ARRIVED BETWEEN 1 JULY 2015 AND 30 JUNE 2017.
+<figure>
+Source: Department of Home Affairs, Humanitarian Program statistics for 2015-17.
+
+SUPPORT PROVIDED TO REFUGEES WHEN THEY ARRIVE IN AUSTRALIA The Commonwealth government funds various non-governmental organisations to provide services to humanitarian entrants for up to 18 months after their arrival in Australia, under the Humanitarian Settlement Program. See Appendix 1. This program is intended to build skills and knowledge for social and economic wellbeing. Support is provided on a needs basis, and can include help with housing, physical and mental health and well-being, managing money, community participation and networking, family functioning and social support, justice, language services, education and training, and employment.16 As refugees have the right to work in Australia, they are also provided with support to find employment or a pathway to employment.
+
+IS THERE A LEVEL PLAYING FIELD FOR REFUGEE JOB SEEKERS?
+
+PEOPLE WHO COME TO AUSTRALIA AS REFUGEES ARE MOTIVATED TO WORK AND BUILD A NEW LIFE, BUT FOR A RANGE OF REASONS ARE NOT SECURING JOBS AT SIMILAR RATES TO OTHER JOB SEEKERS.
+
+For the past 15 years, the average unemployment rate in Australia has been less than 6.5 percent17 and the average labour force participation rate has been higher than 63 percent.18 By comparison, of the people who were given sanctuary in Australia as refugees between 2000 and 2016, 38 percent were employed, 10 percent were unemployed and 50 percent were not in the labour force at all.19 This is despite 81 percent of them being between 15 and 64 years old.20
+The work refugees are able to find is largely insecure. A survey of around 2,400 newly arrived refugees found that, of those able to find work in the first 21/2 years after arrival, 43 percent were in casual employment, compared to 25 percent in permanent jobs.21
+Refugees face structural barriers when trying to enter the labour market that make them less competitive in a standard recruitment process. Some of the challenges are similar to those faced by other migrants. Others are exacerbated for refugees because they haven't had the time to prepare for their migration, so they may not possess items like written evidence of prior education and experience.22
+
+The major barriers to refugees breaking into the job market are:
+People who have recently arrived don't have personal or social networks to link them to available jobs, or their networks are small.
+Applications are rejected at the first stage because the applicant doesn't have local Australian work experience or former employers to vouch for them.
+People's trade skills, professional and tertiary qualifications, and previous work experience, are usually not recognised in Australia.
+No one can learn a new language overnight, and a lot of jobs require basic proficiency in spoken English. Even those who can speak fluent English may have poor literacy skills.
+Common ways of finding available jobs in Australia (for example, online recruitment sites) are unfamiliar and some people have low levels of proficiency with information technology.
+Standard Australian recruitment practices - resumes, interviews, aptitude tests - are often unfamiliar to people from other countries.
+Unconscious bias can manifest in standard recruitment processes and networking activities (for example, in relation to people with non-Western names, and/or who speak accented English, whose body language doesn't fit within Western norms).
+Because of these barriers, some candidates may well be the most experienced or competent person for a particular job, but they are not able to present themselves in a competitive way when standard recruitment practices are used, and the employer will not have the opportunity to give them a fair assessment.
+
+RECOGNITION OF OVERSEAS SKILLS AND QUALIFICATIONS
+
+A proportion of refugees who have arrived in Australia since 2015 are highly qualified and skilled but can't work in their fields of expertise because their skills and qualifications are not recognised by professional licensing and certification bodies.
+The process of recognition is complicated and expensive, and many don't know how to go about it.
+It can be difficult to provide evidence of prior education and experience. Some refugees have fled their home without relevant documents, have problems having certificates re-issued by institutions in countries where conflict continues, or can't verify that the documents they do have are genuine.
+A survey of around 2,400 newly arrived refugees showed that, in the first 21/2 years after arrival, only one in every five people who sought to have their overseas university, trade, or technical qualification recognised in Australia received full recognition.
+(Department of Social Services, Building a New Life in Australia: Longitudinal Study of Humanitarian Migrants, Findings from the first three waves (December 2017))
+
+WHY HIRE REFUGEES?
+
+HIRING REFUGEES IS A SMART BUSINESS CHOICE FOR AUSTRALIAN EMPLOYERS.
+
+THE REFUGEE EXPERIENCE DEVELOPS RESILIENCE, COURAGE AND ADAPTABILITY
+
+The experience of surviving a refugee's journey can be an indicator of a level of courage and resilience that constitute beneficial traits in an employee. These experiences also develop a person's problem-solving skills and adaptability to change.
+Like many other migrants, refugees are fluent in more than one language. This demonstrates a learning agility that can enable them to succeed at work, and in some workplaces, they may even be able to leverage their language capacities directly - for example, to communicate with customers or clients who share their native language.
+REFUGEE EMPLOYEES ARE MOTIVATED TO WORK HARD AND STAY LONGER
+Employees who have been refugees have higher retention and lower absenteeism rates. In a recent survey of 26 American companies, 73 percent reported lower turnover for refugee staff.23 They are dedicated and enthusiastic workers.
+
+REFUGEE EMPLOYEES CAN ADDRESS SKILLS SHORTAGES
+Refugee employees have skills that match skills shortages in certain established and growing industries.
+
+REFUGEE APPLICANTS ARE A SOURCE OF TALENT
+
+Some refugees have years of work experience in their home countries but struggle to find jobs in Australia commensurate with that experience. In giving an over-qualified person an entry level position, the business's decision to invest in developing an employee who has the capability to move successfully into a more senior position will reap rewards relatively quickly.
+“Some people who come into our entry level roles are really intelligent and highly qualified, but they just want a foot in the door. It's a good soft entry and we have opportunities for people who want to move into management roles given their capabilities.”
+CEO, OUTLOOK
+
+CULTURAL KNOWLEDGE BRINGS A COMPETITIVE ADVANTAGE
+Australia is a multicultural nation, with people originally from over 190 countries.
+Having refugees as part of the workforce provides cultural and linguistic links to the community, creates connections and improves understanding of customer needs and how to meet them.
+Businesses that employ customer-service staff that reflect the cultural background of, and speak the same language as the customers, are more attractive.
+All these factors can give your organisation a competitive advantage by enabling the delivery of better services and penetration into new and emerging markets.
+“Having employees from diverse cultural backgrounds means we deliver better health services to the community. We have more expertise and understanding of people's needs.”
+HEAD OF DIVERSITY AND INCLUSION, VICTORIAN DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+“There is a benefit in having people in our branches that represent the communities in which they work.
+An employee in one of our branches has people queuing out the door to be served by him.”
+SENIOR MANAGER, INCLUSION PROGRAMS, ANZ
+“A small but growing number of employees have reported that they are able to penetrate ‘Language Other Than English” markets more effectively and in turn exceed market share targets of those sectors.” NATIONAL MANAGER, BUSINESS DEVELOPMENT, TELSTRA
+
+INCLUDING REFUGEES IN YOUR WORKFORCE LEADS TO BETTER PERFORMANCE AND HIGHER STAFF MORALE, THROUGH:
+
+Diversity and inclusion
+Diversity of thought has been shown to benefit businesses in their decision-making. Studies have shown that inclusive workforces and teams perform better and are more likely to innovate.24
+Refugees add to this diversity by offering expertise and perspectives (unique to people who have lived through a refugee journey) to solve business problems.
+Enhancing staff pride and loyalty
+Staff who are involved in recruiting and supporting refugee employees personally benefit from having an opportunity to help someone build a new life.
+Staff who work with refugee colleagues experience personal growth and empathy from gaining a better understanding of their life experiences.
+Staff who feel these personal benefits are proud of working at the organisation, increasing retention and attracting other people with similar values to work there. Studies have shown that 75-85 percent of millennials consider a company's social/environmental commitments when deciding where to work; and are more loyal to a company that helps them support those issues.25
+“Running social responsibility programs gives busy people who want to make a difference the chance to do it as part of their day job.”
+INDIGENOUS CAREERS AND DIVERSITY PROGRAMS MANAGER, WESTPAC
+
+“We feel proud of our ability to make a difference to people who've been forced from their homeland.” DIVERSITY AND SUSTAINABILITY MANAGER, ALLIANZ
+
+“We are motivated to provide an opportunity to improve the circumstances of individuals.” RECRUITING SENIOR MANAGER, ACCENTURE
+
+ALIGNMENT WITH CORPORATE VALUES
+Taking practical steps to include refugees in the workforce aligns with corporate values such as diversity, inclusiveness, social responsibility, contributing to community and social harmony.
+Some businesses responded to the wishes of their customers to increase their social contribution. Others take the view that because the refugee is a pressing global issue, businesses have a responsibility to respond.
+
+PRACTICAL AND LOGISTICAL BENEFITS
+For entry level jobs in some industries, specifically recruiting from a refugee job seeker cohort is one way to reduce the human resources effort involved. For some industries, going to the wider labour market attracts a high number of applications that require significant resources to process.
+
+DATA FOR YOUR BUSINESS CASE
+Every organisation that has committed to hiring refugees has needed to make an initial investment to manage the change required. However, the return on investment in terms of staff retention, productivity and positive business outcomes is real and measurable.
+Sourcing this kind of data about your organisation and the market it serves may be useful in making a business case:
+Demographic data about the community the business serves, including languages spoken, birthplaces, and cultural backgrounds.
+The Australian Bureau of Statistics provides data by geographic location: http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/Census?OpenDocument&ref=topBar
+You can also find free online demographic information about local government areas on the .id website: https://home.id.com.au/demographic-resources/.
+Workforce-related data - to what extent does your current workforce demographically reflect your customers? If there is a significant mismatch, hiring refugee employees may be the solution. What are your current levels of staff wellbeing, absenteeism and retention rates? A refugee hiring program that gives non-refugee employees a chance to get involved could boost these figures.
+Market-related data about your customers' values, needs and expectations, which can help with identifying opportunities to improve your organisation's reputation. What are your competitors doing? Cite other organisations successfully hiring refugees and any benefits they've reported.
+Appendix 2 lists publications and resources that may be useful in making your business case.
+
+HELPING REFUGEES INTO WORK THROUGH INTERNATIONAL SUPPLY CHAINS
+Most of the world's 25.4 million refugees have sought safety in a country neighbouring their country of origin. For example, Turkey, to the north of Syria, hosts 3.5 million refugees - more than any other country in the world.
+The Global Compact on Refugees encourages governments and the private sector to develop ways to open up international labour mobility pathways for refugees. Companies that use international supply chains have an opportunity to support refugees into work by preferencing refugee-owned or refugee-employing companies into their supply chains, or incentivising existing suppliers to employ refugees.
+Please see Appendix 3 for more information about international mobility pathways for refugees.
+
+HOW TO FIND AND HIRE REFUGEES
+
+WHERE REFUGEES LIVE IN AUSTRALIA
+When humanitarian entrants arrive in Australia, the government's policy is to settle them close to any family or friends already living here. Otherwise, and where possible, the government settles people in one of 19 regional locations across Australia that provide appropriate supports, such as reasonable housing, education, and employment prospects.26
+As Figure B below shows, between 2008 and 2017, a third of refugees initially settled in NSW, another third in Victoria, and most others settled in Queensland and South or Western Australia.
+
+Appendix 4 lists local government areas around Australia, in alphabetical order under each State/Territory, where humanitarian entrants have settled between 2008 and 2017.
+FIGURE B: HUMANITARIAN ENTRANTS BY STATE WITH A DATE OF SETTLEMENT BETWEEN 01 JANUARY 2008 AND 31 DECEMBER 2017
+AUSTRALIAN CAPITAL TERRITORY 1%
+
+Source: Department of Social Services data provided to the Friendly Nation Initiative, Migration Council of Australia.
+
+WHO CAN HELP YOU FIND REFUGEE JOB SEEKERS?
+There are various organisations in each State, and some that provide services nationally, that can work with employers looking for refugee job seekers to give them the opportunity to apply for jobs. They have expertise in supporting refugee clients looking for work, and many offer pre-employment and postplacement support for new employees and host teams. Some specialise in placing refugees who are fluent in English, are highly skilled and qualified, and commonly have extensive work experience in their field of expertise. Please see the list in Appendix 5 to find an organisation that could help you.
+Refugees who receive Centrelink payments are also supported by a range of Commonwealth government-funded employment services. For example, jobactive providers provide free and generalised employment services to help people to find work. Refugees with disabilities are supported by a Disability Employment Services (DES) provider. To find an organisation that may be able to help you, see: https://jobsearch.gov.au/serviceproviders.
+
+FINDING SKILLED WORKERS FROM OVERSEAS
+It is increasingly possible for employers to remotely recruit and employ refugees currently living in countries neighbouring conflict zones - such as Turkey, Pakistan, Lebanon, Iran, Ethiopia, Jordan, and Kenya. There are millions of working-age refugees living in these host countries, many with skills and talents that are in high demand in Australia.
+Some Australian companies are participating in innovative programs that work alongside Australia's skilled migration program to help match skilled refugees with employers looking for additional sources of skilled labour. Companies in other countries have explored opportunities to hire refugees to work remotely. A number of multinational companies with operations in those countries with high numbers of refugees have taken steps to hire more refugees into their workforces.
+Please see Appendix 6 for more information.
+
+HOW DO I CHECK A REFUGEE APPLICANT'S RIGHT TO WORK?
+People granted a protection visa because they have been recognised to be a refugee generally have the right to work in Australia, whether the visa is permanent or temporary. There are different classes of protection visas. The most common ones are listed in Appendix 7. A person on a temporary protection visa generally has permission to work in Australia during the period of the visa, which is usually 3-5 years.
+Some people whose claims for protection are in the process of being assessed may be on a bridging visa, which allows them to remain in Australia while they await the outcome. Many people with a bridging visa have the legal right to work, depending on the conditions attached. The time it takes for a claim to be assessed varies. Some people have been on a bridging visa for over 6 years.
+Please see Appendix 7 for further details.
+
+USING VISA ENTITLEMENT VERIFICATION ONLINE (VEVO)
+To verify the conditions on a person's visa, including work authorisation, use the Visa Entitlement Verification Online (VEVO). The service is free and available 24 hours a day, seven days a week.
+Many people seeking asylum are issued photo identification known as an ‘immicard', a small plastic card not unlike a driver's licence. A person's passport or immicard details are needed to request a VEVO check.
+https://www.homeaffairs.gov.au/busi/visas-and-migration/visa-entitlement-verification-online-(vevo)
+
+TIPS AND ADVICE FOR SUCCESSFUL RECRUITMENT AND RETENTION
+
+EMPLOYERS SHOULD THINK OF HIRING REFUGEES AS A MEANS OF STRENGTHENING THEIR BUSINESS, NOT CHARITY. ALTHOUGH EMPLOYING A REFUGEE COULD BE DESCRIBED AS ‘GIVING SOMEONE A JOB', IT IS NOT THE SAME AS DONATING GOODS OR SERVICES TO A PERSON IN NEED.
+
+Entering into an employment relationship is complex and has serious implications for both the refugee employee and the employer. Expectations of the different parties, organisational culture, communication structures and systems, and the personalities of the people involved can all present challenges. Although these factors are present with all new employees, experience shows they are often amplified in relation to people who have undertaken a refugee journey.
+No matter which approach you adopt when undertaking your refugee hiring efforts, there is likely to be an element of organisational change required. Support needs to be provided for new refugee employees, as well as for the manager and team with which they will be working. Before you start, carefully consider the resources needed to drive and successfully implement any necessary changes, and decide if you need to bring in expertise from outside your organisation.
+For employers that are hesitant to dive in with a full refugee hiring program, consider a hiring trial or pilot programme to start. Find a supportive manager looking to fill a vacancy, or willing to give someone work experience or an internship, who will work with you to welcome the first refugee into your workplace. Finding ways to minimise the impact on the budget and head count of a participating business cost centre can make the prospect more attractive.
+26 Department of Social Services, Settlement Services for Humanitarian Entrants, Where do humanitarian entrants settle? https://www.dss.gov.au/settlement-and-multicultural-affairs/publications/settlement-services-for-humanitarian-entrants#where_do_refugees, viewed 18 June 2018.
+
+APPROACHES TO CONSIDER
+
+Employers can consider a number of different approaches to including refugees in their workforce.
+WORK EXPERIENCE
+TRAINEESHIPS, APPRENTICESHIPS, INTERNSHIPS, WORK PLACEMENTS
+CHANGE, ADAPT OR SUPPLEMENT YOUR STANDARD RECRUITMENT 
+PRACTICES TO BE MORE INCLUSIVE OF REFUGEES
+LEVELLING THE PLAYING FIELD FOR REFUGEES
+
+WORK EXPERIENCE
+This might suit you if:
+your main objective is to give refugee job seekers an opportunity to gain Australian work experience, learn about local work culture and your industry, develop a network, and adjust to working life;
+you already run work experience programs; and
+you are a small to medium business with limited capacity to commit resources to making more substantial changes to your recruitment practices.
+
+WHO CAN HELP YOU
+Look in Appendix 5 for organisations in your State that:
+
+Recruit for and run work experience programs with an employer partner
+Deliver government language programs linked to work experience (SLPET)
+
+TRAINING OPPORTUNITIES/TEMPORARY WORK PLACEMENTS
+
+This might suit you if:
+your main objective is to give refugee applicants a pathway to a permanent job (within your organisation or somewhere else) by giving them an opportunity to first demonstrate their abilities on the job;
+you already run traineeships, apprenticeships, internships or work placements; and
+you are a medium to large organisation with su ffi cient ongoing turnover of staff to be able to place a candidate against a real position in your head count / establishment.
+
+ADAPT YOUR RECRUITMENT PRACTICES
+This might suit you if:
+you are looking for a reliable ongoing source of labour, skills or specialised industry talent; and
+you want to employ people living and receiving services in your local community (or the local community of your customer-facing offices/ branches).
+Some changes you could make:
+Educate hiring managers of the options they have of recruiting through a pathway that proactively sources labour from a pool of refugee candidates; and/or
+establish a specialised recruitment program to proactively find refugee job seekers and support them to apply.
+
+WHO CAN HELP YOU
+Look in Appendix 5 for organisations in your State that recruit for and run refugee traineeships, apprenticeships, internship or work placement programs for an employer partner.
+
+WHO CAN HELP YOU
+
+Look in Appendix 5 for organisations in your State or local area that provide employment matching services and have expertise in managing issues that can affect staff from a refugee background.
+
+PRACTICAL MATTERS TO WORK THROUGH BEFORE YOU START
+GOALS AND RESOURCES
+
+Define the expectations and assess the commitment of your senior leaders to this change.
+Determine what you want to achieve and define what success look like.
+Roles and responsibilities: Decide who will run the program, and which team will they work in (for example, human resources, diversity and inclusion). Determine whether or not responsibilities will be shared, and by whom.
+Identify community sector organisations to partner with and determine how much will they cost. (Some employers partner with only one or two organisations, to limit the time required to maintain the relationships.)
+Approve a program budget and/or establish sta ff volunteer structures.
+
+RECRUITMENT POLICIES, PROCESSES AND PRACTICES
+
+Determine how your organisation manages head count / establishment numbers / FTEs. If you are bringing on board someone temporarily (for example, for an internship), figure out how it will work in practice.
+Understand the criteria a person must meet to be eligible to work for your organisation (for example, type of visa, work rights, background and security checks).
+Map out any changes that will need to be made to your organisation's usual process for filling job vacancies. How might the standard processes be adapted or supplemented to identify vacancies suitable for refugee job seekers, proactively seek out these applicants, and support them to apply?
+Look in Appendix 9 for resources and information that may be useful when you're assessing your current practices and developing a plan of action.
+
+WHAT OTHER EMPLOYERS DO
+Answer requests from managers to fill vacancies through a refugee employment pathway, as they arise.
+Run a set number of refugee intakes each year, and seek expressions of interest from managers who can o ff er job vacancies open at that time.
+Set up a refugee employment program with the assistance of an expert community sector organisation.
+“We set aside certain types of roles - cleaning, catering, trades - and ask community partners to put forward candidates. We're not looking for particular qualifications; a good attitude is more important. We train them on the job.”
+
+NATIONAL WORKFORCE PLANNING OFFICER, SPOTLESS
+
+ENLISTING THE SUPPORT OF KEY STAFF WITHIN YOUR ORGANISATION
+
+Having support and commitment from your leaders and key members of staff is vital to successfully manage this change. Having a senior champion to drive the change can make a huge difference. You may also need staff volunteers to form a support network to make it easier for new employees to integrate into the workforce - after all, they are not only adjusting to a new routine, work environment, and new colleagues, but also to life in a different country with a different culture.
+
+Keys to success
+Communicate proactively with your workforce and clearly articulate what the change is, the reasons for it and the benefits to the organisation. Prepare answers to forthright questions from employees who may express resistance.
+Find one or two supportive managers who are willing to welcome a refugee employee into their team.
+Generate a pool of volunteer mentors and buddies. Find staff who speak languages other than English, have personal experience of a migrant or refugee journey, or participate in diversity and inclusion-related activities. Use existing employee groups to recruit champions who can create a network of advocates for change.
+“Look for host managers and teams with a growth mindset.”
+DIVERSITY AND SUSTAINABILITY MANAGER, ALLIANZ
+
+ESTABLISHING A SPECIALISED REFUGEE RECRUITMENT PATHWAY
+Establish a process through which hiring managers can identify positions, on an ad hoc basis, that can be filled through a specialised recruitment process for refugees. Choose positions that will give refugee employees the best chance of success. For example, consider a role requiring skills that can be taught on the job, so long as the new hire has personal attributes that suit the role.
+Advertise job vacancies through refugee community networks (including word-of-mouth), community language radio, newspapers and social media portals (such as the Connections Australia app). Translations of information about the job vacancies and your organisation into community languages in your local area, or languages of the groups you'd like to encourage to apply, may help.
+Partner with community sector organisations with expertise in supporting refugees to help you recruit refugee candidates. If you join their existing program, make sure it works with how your organisation operates. You could also develop your own program, with community sector support.
+Follow a process to assess a candidate's suitability for the job or placement that is tailored for refugees (see tips below).
+“We established a service provider network, of 40 organisations working with people experiencing disadvantage. When a vacancy comes up, we ask each organisation to put forward their best 3 candidates and we assess them through a social inclusion process.”
+SOCIAL PROCUREMENT AND INCLUSION MANAGER, CPB CONTRACTORS AND JOHN HOLLAND JOINT VENTURE
+
+TIPS FOR WORKING EFFECTIVELY WITH COMMUNITY SECTOR ORGANISATIONS
+Relationships built on trust and shared values are vital.
+Ensure the organisation's approach is to understand your operational needs and provide services to help you recruit the best candidates, not that they are asking you for charity.
+If you're looking for local workers, a local community sector organisation will probably be more suitable. If you're looking for professional talent, an organisation with State-wide, national or international reach may allow you to cast your net wider.
+Meet with more than one organisation to understand what they offer and assess if they have the capabilities to meet your needs and priorities. Assess their capacity to support you in navigating the complex cultural and personal issues that refugee employees can experience. Be clear about timeframes in which you expect services to be delivered.
+Start with a pilot program, to assess whether the organisation delivers on its promises, before making any long-term commitments to partnering with them.
+
+DID YOU KNOW?
+Some community sector organisations are social enterprises that charge employers a fee to enable them to be financially self-sustainable. Others receive government or charitable funding, and do not charge fees.
+“Using a community partner is more cost effective than doing our own pre-vetting.” CEO, OUTLOOK
+The Commonwealth government and some State governments provide wage subsidies and other forms of financial support for employing eligible refugee job seekers. See Appendix 8 for information about these measures and about government-funded employment programs for people including refugees.
+
+TIPS FOR SELECTING THE BEST CANDIDATE
+
+MEETING THE BUSINESS NEED: PICKING THE PERSON BEST SUITED FOR THE JOB
+The key to success is recruiting the person who has the best chance of succeeding in that job.
+Retain those parts of your standard recruitment process that are focussed on assessing someone's behaviour, attributes and potential to do the job.
+Use an expert community sector organisation to pre-screen and provide a short-list of refugee applicants for the roles you are looking to fill.
+Manage expectations about the nature of the work. Consider providing a workplace tour as part of the recruitment process, to ensure each candidate understands what the job entails.
+Test for any technical skills that are a pre-requisite for doing the job (for example, numeracy, computer skills, experience operating heavy machinery, or business level written English).
+
+CONDUCTING RISK ASSESSMENTS AND BACKGROUND CHECKS
+Conduct your standard risk assessments and background checks like you would for any other prospective employee. However, talk to the job applicant about any risks that contacting organisations in their home country may pose for their safety or the safety of family who remain in that country.
+The Commonwealth government conducts an international police check as part of a person's visa application, but you may need to organise a police check for the time the person has lived in Australia.
+Be aware that when background checks require cooperation from other countries, there may be delays and/or other obstacles to obtaining the information required.
+
+TAILORING THE RECRUITMENT PROCESS: MAKING IT FAIRER FOR REFUGEES
+Keep an open mind and be flexible when assessing CVs. Look for a candidate's potential and transferable skills. Consider whether gaps in experience can be managed. Evaluate if overseas work history or qualifications could be an indication of relevant skills and experience. Do not reject a person for an entry level job solely because they appear ‘overqualified'.
+Identify jobs which could be suitable for a person with certain personal qualities, such as a growth mindset, adaptability, a positive attitude, resilience, a willingness to learn, and having a genuine interest in working in your industry.
+As the level of English a candidate requires to articulate their personal qualities and experience may be higher than the level of English required to perform the role itself, consider using an interpreter if there are language barriers during the evaluation process.
+Educate interviewers to be aware of their unconscious biases and give them tools and information to overcome these (for example, have more diversity on interview panels).
+Help candidates learn, prepare and practice their interview skills. Work through social behavioural cues such as eye contact and shaking hands. Explain to hiring managers or other evaluators within your organisation that refugee candidates may not always adhere to certain norms - especially those concerning body language - and that this is a sign of cultural differences, not disrespect.
+Consider adapting the physical setting for the interview to help the candidate feel more comfortable (for example, consider whether or not to have a table in between the interviewer and interviewee or meet the candidate in a different environment).
+“I spend a lot of time preparing candidates for the interview. I teach them how to shake hands. We practice until they get it right.”
+TALENT AND INCLUSION MANAGER, ANZ
+
+PREPARING FOR DAY ONE
+The first day on the job is daunting for anyone. When you are preparing to welcome someone who has come from a refugee background, people in the host team may feel nervous as well. Extra preparation and support can benefit everyone involved.
+“Some refugees move from the city to work with us. We help them with relocation, to find a house, and organise someone to drive them to work if they don't have a car. We also support our employees' families with school enrolment and connecting them to local services.”
+RECRUITMENT COORDINATOR, MEAT PROCESSORS GROUP
+
+PREPARING THE NEW EMPLOYEE
+Providing a new employee with as much pre-employment support as you can will help them adjust more successfully to the workplace. A refugee employee needs to learn not only the requirements of the new job, but also new ways of interacting with people in different levels of the hierarchy and different expectations of acceptable conduct than they may be used to. Expert community sector organisations can provide pre-employment / job readiness training for refugees.
+Call a few days before the first day to touch base and give the new employee the opportunity to ask questions. Make it clear to them that it's acceptable and even encouraged to ask questions.
+Set up a “warm up day” where they can meet management, the team and tour the workplace before the first day.
+Support the new employee with the logistics of getting to work and preparing themselves for a work day (for example, is there a fridge where they can store their packed lunch).
+Help them with the paperwork. (Community sector organisations can be particularly useful here).
+Make sure the new employee understands key information about WHS, work rights, how and when they receive their pay, by organising written translations or bringing in someone to translate.
+Organise a supportive and enthusiastic person to be the new employee's mentor or buddy. Sometimes, and if possible, it can be helpful if the buddy is someone from the same cultural background or who speaks the same language.
+Provide them with extra support for any standard induction processes, as these may be unfamiliar.
+“We find a lot of our refugee employees don't have access to a vehicle but we have a bus stop right outside our plant.”
+RECRUITMENT & LEARNING & DEVELOPMENT SPECIALIST, CHOBANI
+
+PREPARE THE TEAM WHO WILL BE WORKING WITH THE NEW EMPLOYEE
+Giving host teams and managers information and guidance empowers them to confidently welcome a new colleague into their team. Managers may need to adapt their management style and expectations, taking into consideration the fact that their new refugee team members likely have a lot more to learn and adjust to than other new hires.
+Many organisations provide structured pre-placement training to management and host teams. Expert community sector organisations can help give you information about the circumstances that cause people to become refugees, address stereotypes, and counter myths and misconceptions about the legality of people's claims for protection.
+When you talk to the new employee, be conscious of the words you use and in particular, avoid using jargon, acronyms, metaphors or colloquialisms.
+If you are having trouble communicating, speak slower, not louder.
+Check for understanding by asking open questions, for example, “What time will your shift start tomorrow?” instead of “Do you know what time you start tomorrow?”.
+Be aware that body language and social behaviours like eye contact and shaking hands can be culturally specific and may not have the same meaning for different people. For example, in some cultures, a handshake between a man and a woman can be considered rude.
+Exercise caution before asking about the new employee's refugee experience or their family, as this could cause them distress.
+Remember to brief sta ff in corporate support groups such as payroll and IT, learning and development, so they can prepare to tailor their support.
+
+ONGOING SUPPORT
+The challenges and scenarios that arise with refugee employees may be different from other employees, but the solutions lie in clear, supportive and empathetic management practices focussed on employee well-being.
+“Some of our employees have experienced quite traumatic events in their life. The trauma is often sitting below the surface and it can take an event to bring it out; taking managers by surprise. We help our managers understand this can happen and give them the tools to work through it.”
+CEO, OUTLOOK
+
+SUPPORTING AN EMPLOYEE WITH HIDDEN VULNERABILITIES
+Having a job in itself can improve a person's mental well-being. However, past trauma and continuing mental health issues can manifest themselves at work. Refugee employees may also have a lot going on in their lives outside work (for example, they may still have family members in danger in their homeland). But they may not feel comfortable communicating about their personal needs, as this may have been unacceptable in their previous workplaces.
+Make sure host managers are aware of these potential stressors.
+Clearly communicate to the employee who they can talk to, who they can ask for help, and what role those people are expected to play. Choose colleagues with the right qualities to be a supportive mentor and/or placement supervisor.
+Touch base regularly (once a week/fortnight) with the manager and employee.
+Give expert support to managers on how to handle situations when they arise. Community sector organisations can help with this.
+Connect employees with counselling services specialising in supporting refugees dealing with trauma.
+Help with personal issues a ff ecting the employee, such as housing, transport issues, and familiarity with their new home. As with other employees, provide flexible working arrangements to help people with family responsibilities.
+Embrace the cultural diversity of your workforce. Attend community events and celebrations. Organise celebrations at work. This can help employees feel more welcome and give them a sense of belonging and acceptance.
+
+NAVIGATING CULTURAL ISSUES AND WORKPLACE EXPECTATIONS
+Workplaces are idiosyncratic and run according to a set of rules and norms. Some of these have their foundation in norms and customs of the wider society, but others are particular to each workplace. For some refugees, this will be their very first job. Others will be used to working in workplaces with very different norms. Misunderstandings and feelings of disorientation are to be expected. Here are some ways other organisations have managed these issues.
+Set clear expectations, and ensure clear information is provided about your workplace's cultural norms and processes (for example, the accepted way to address a person in a more senior position; expectations around punctuality in arriving at work; the extent to which a supervisor expects the employee to show initiative in completing day-to-day tasks; and how much notice to give for leave).
+Give simple instructions for individual tasks, breaking things down step by step. Test for understanding by asking employees to explain to you what they have understood from your conversation.
+To ensure the employee fully understands the instructions and information you are giving them, write them down, and consider organising written translations or someone to translate.
+Give timely feedback on tasks, to give the employee certainty and guidance around how they are doing in the job.
+Broaden managers' knowledge of cultural, religious and community activities that might be personally important to employees. An annual calendar of cultural holidays can help managers anticipate when people may prefer to take leave. For example: https://www.harmony.gov.au/events/calendar/
+Ensure clear communication where disagreement or conflict arises, for example, where the employee appears to be having performance issues or experiencing discrimination from a colleague. Follow established procedures and ask for help from expert community sector organisations, to ensure appropriate consideration is given to any cultural factors at play.
+Ask, don't assume. People's individual needs will di ff er, even if they are from the same country, religion or language group. Ask the employee if there are any sensitivities around placing them in a team with other people from the same country or from the opposite sex, and if there are, work with them to find a compromise that is acceptable to all parties. Issues can arise from different social norms and expectations around the roles of, and interactions between, men and women. Issues can also arise in relation to the formality of interactions with more senior staff, and how acceptable it is to show initiative.
+Have regular and clear communication around practical issues so that they can be addressed proactively. For example, adjust your uniform policies to accommodate cultural norms around appropriate clothing. If an employee considers direct eye contact to be disrespectful, place them in a role where this won't cause misunderstanding.
+
+LEARNING AND DEVELOPMENT
+There are a number of things organisations do to help refugee employees integrate, improve their English and upskill.
+Encourage employees to practice their spoken English in the workplace.
+Offer formal or informal lessons in spoken or written English, tailored for your industry.
+Consider o ff ering support such as study leave if an employee wants to study to re-qualify in their field of expertise.
+Encourage managers and colleagues to create networking groups that include refugee employees.
+If an employee is with you in a temporary position or placement, help them improve their CV, write job applications, practice their interview skills, and show them where and how to find available jobs. If the chances of them requalifying in their field of expertise is low, help them identify which skills could be transferable and what other career paths may be realistic.
+“A person in my team could speak enough English to talk to others face-to-face, but found it much harder to communicate when we had audio and video conferences with team members in other locations.”
+NATIONAL MANAGER, BUSINESS DEVELOPMENT, TELSTRA
+
+KEEPING UP SUPPORT FOR THE PROGRAM
+Success builds on success, but only if others in your organisation know about it. Here are some things that organisations are doing to promote and increase the numbers of refugee employees joining their workforce.
+Embed personal commitment of senior leaders by arranging for them to personally meet and hear the stories of successful refugee recruits willing to share their experiences.
+Collect data on progress and achievements of refugee employees, case studies and testimonials, conversion outcomes (to permanent employment if the employee was hired temporarily), and qualitative feedback about the program.
+Have successful refugee employees share their stories, and report data showing positive outcomes, to demonstrate the value and benefit of having refugees in the workforce.
+Use your volunteer network, and people who have worked successfully alongside refugee colleagues and personally benefited from this experience, to champion the cause.
+“There's a lot of people who want to do something to help. Some were refugees who came to Australia 30 years ago but people don't necessarily know their story. I want to mobilise as many people as possible to spread the word.”
+INDIGENOUS CAREERS AND DIVERSITY PROGRAMS MANAGER, WESTPAC
+
+
+CONCLUSION
+
+EMPLOYMENT IS A VITAL PART OF REFUGEES BECOMING SELF-RELIANT AND BUILDING A FUTURE FOR THEMSELVES AND THEIR FAMILIES. ALONG WITH ECONOMIC SECURITY, A JOB CREATES FEELINGS OF BELONGING, BEING VALUED AND RECOGNISED AS AN INDIVIDUAL. PEOPLE ARE PROUD TO CONTRIBUTE TO THE SOCIETY THAT HAS GIVEN THEM FREEDOM AND SAFETY.
+
+Hiring and integrating refugees strengthens and enriches the welcoming community and brings a myriad of economic benefits. Refugees contribute as workers (in a range of jobs), entrepreneurs, consumers, taxpayers, volunteers and investors. The International Monetary Fund calculates that investment in supporting refugees brings a return more than 1.8 times the initial investment within five years.27 Modelling in Australia shows that a 10 percent improvement in labour market outcomes is worth $175 million to refugees in income and $65 million to the government in reduced welfare expenditures and increased tax revenue over 10 years.28
+Employers have a significant role to play in improved labour market outcomes for refugees. Leading Australian employers around the country have already recognised the benefits to their operations and the broader societal role they can play in supporting people into a safe and productive future within a new and welcoming community. You can join them in changing what your ‘business as usual' looks like to successfully welcome and integrate refugees into your workforce.
+
+APPENDICES
+
+APPENDIX 1:
+Organisations providing humanitarian settlement program services
+APPENDIX 2:
+Publications and resources to help make the business case for employing refugees
+APPENDIX 3:
+International labour mobility
+APPENDIX 4:
+Refugees by local government area (within each State) with a date of settlement between 1 January 2008 and 31 December 2017
+APPENDIX 5:
+Organisations providing employment matching services, internship and work experience programs, and organisations providing government English programs
+APPENDIX 6:
+Recruiting skilled refugees from overseas
+APPENDIX 7:
+Most common types of visas granted to refugees
+APPENDIX 8:
+Government wage subsidies and employment programs
+APPENDIX 9:
+Other resources and information
+
+APPENDIX 1:
+ORGANISATIONS PROVIDING HUMANITARIAN SETTLEMENT PROGRAM SERVICES
+
+The following organisations provide services under the humanitarian settlement program (HSP) in the different regions. In some locations, HSP services are provided by other organisations subcontracted to the primary organisations. Up-to-date lists of organisations and locations are available from the Commonwealth Department of Social Services (DSS) website.29
+
+<table>
+
+APPENDIX 2:
+PUBLICATIONS AND RESOURCES TO HELP MAKE THE BUSINESS CASE FOR EMPLOYING REFUGEES
+
+1. Migration Council of Australia, Discover Diversity community service announcements (3-minute videos of employers explaining the benefits of diversity).
+http://migrationcouncil.org.au/discover-diversity/
+2. Australian Human Rights Commission and Deloitte, ‘Missing out: The business case for customer diversity', February 2017
+43 page report: https://www.humanrights.gov.au/sites/default/files/document/publication/20170227_Missingout_Customer%20 Diversity.pdf
+3. Diversity Council Australia, ‘Inclusion at Work Index 2017-2018: The state of inclusion in the Australian workforce' (November 2017)
+Infographic (2 pages): https://www.dca.org.au/sites/default/files/dca-suncorp_inclusionwork_index_infographic_final.pdf
+Full report (24 pages): https://www.dca.org.au/sites/default/files/dca-suncorp_inclusionwork_index_synopsis_final.pdf
+Website: https://www.dca.org.au/research/project/inclusion-index
+4. Tent Partnership for Refugees and Fiscal Policy Institute, ‘Refugees as Employees: Good retention, strong recruitment', May 2018
+46 page report: https://www.tent.org/wp-content/uploads/2018/05/TENT_FPI-Refugees-as-Employees-Report.pdf
+5. Tent Partnership for Refugees, ‘Refugees Work: A humanitarian investment that yields economic dividends', May 2016
+75 page report: https://www.tent.org/wp-content/uploads/2016/05/Tent-Open-RefugeesWork_VFINAL-singlepages.pdf For more reports from Tent, go to https://www.tent.org/resources/
+6. Migration Council of Australia, The Economic Impact of Migration, 2015 http://migrationcouncil.org.au/wp-content/uploads/2016/06/2015_EIOM.pdf
+7. CGU Small Business Insurance, Migrant Small Business Report www.cgu.com.au/migrantsmallbusiness
+8. Cone Communications
+2016 Cone Communications Employee Engagement Study: https://static1.squarespace.com/static/56b4a7472b8dde3df5b7013f/t/574ecdb6c2ea51f1375422a9/1464782269 963/2016+Cone+Communications+Employee+Engagement+Study+Report.pdf
+2016 Cone Communications Millennial Employee Engagement Study: https://static1.squarespace.com/static/56b4a7472b8dde3df5b7013f/t/5819e8b303596e3016ca0d9c/147809298124 3/2016+Cone+Communications+Millennial+Employee+Engagement+Study_Press+Release+and+Fact+Sheet.pdf
+
+BACKGROUND INFORMATION ABOUT THE AUSTRALIAN REFUGEE SETTLEMENT FRAMEWORK
+1. Australian Department of Social Services, The Settlement Journey Infographic (1 page): https://www.dss.gov.au/sites/default/files/documents/03_2018/the_settlement_journey_green-accessible_0.pdf
+2. Australian Government, Snapshots from Oz: Key features of Australian settlement policies, programs and services available for humanitarian entrants (2017)
+57 page report: https://www.dss.gov.au/sites/default/files/documents/12_2016/snapshots_from_oz_0.pdf
+3. Australian Department of Social Services, Building a New Life in Australia (BNLA): A Longitudinal Study of Humanitarian Migrants, Findings from the first three waves (December 2017)
+The BNLA is a longitudinal study that follows the settlement of 1,509 humanitarian migrant families (2,399 individuals in total) who arrived in Australia or had their permanent visas granted in the six months between May and December 2013. The study follows participants as they settle into life in Australia and aims to increase the knowledge around the factors that support successful settlement and those that hinder it.
+Infographic (4 pages): https://www.dss.gov.au/sites/default/files/documents/03_2018/17805_dss_-_bnla_infographic-a4-final.pdf 113 page report: https://www.dss.gov.au/sites/default/files/documents/11_2017/17385_dss_-_bnla_report-web-v2.pdf
+
+APPENDIX 3: INTERNATIONAL LABOUR MOBILITY
+
+THE GLOBAL COMPACT ON REFUGEES INTENDS TO PROVIDE A BASIS FOR PREDICTABLE AND EQUITABLE BURDEN- AND RESPONSIBILITYSHARING AMONG ALL UNITED NATIONS MEMBER STATES, TOGETHER WITH OTHER STAKEHOLDERS IN THE INTERNATIONAL COMMUNITY.
+
+The Compact discusses complementary pathways for admission to third countries, as another way of offering protection to refugees. These include providing educational opportunities, through grants of scholarships and student visas, and labour mobility opportunities, including through the identification of refugees with skills that are needed in third countries.
+For more information, see: https://reliefweb.int/sites/reliefweb.int/files/resources/5b3295167.pdf
+The Tent Partnership for Refugees is a coalition of over 80 companies making efforts to support refugees around the world. Tent works with businesses to develop and implement concrete commitments to support refugees, especially by hiring refugees, integrating them into supply chains, investing in refugees, and delivering services to them. Tent has the knowledge and expertise about countries with high refugee populations to help businesses identify supply chain opportunities that can support refugee employment.
+For more information, see: http://www.tent.org
+Host International and Refugee Talent are working together to provide a digital platform to match skilled refugees with companies operating in New Zealand and Asia looking for additional sources of skilled labour.
+For more information, see: https://www.hostinternational.org.au/refugee-employment
+and https://refugeetalent.com/ and https://refugeetalent.co.nz/
+
+APPENDIX 4: REFUGEES BY LOCAL GOVERNMENT AREA OF RESETTLEMENT
+
+REFUGEES BY LOCAL GOVERNMENT AREA (WITHIN EACH STATE) WITH A DATE OF SETTLEMENT BETWEEN 1 JANUARY 2008 AND 31 DECEMBER 2017 [30]
+
+<table>
+
+APPENDIX 5:
+ORGANISATIONS PROVIDING EMPLOYMENT MATCHING SERVICES, INTERNSHIP AND WORK EXPERIENCE PROGRAMS, AND ORGANISATIONS PROVIDING GOVERNMENT ENGLISH PROGRAMS
+
+AUSTRALIA-WIDE
+Refugee Talent
+National and International
+Australia:
+https://refugeetalent.com/
+Nationwide digital employment matching service (Australian and New Zealand)
+info@refugeetalent.com
+0417 700 505
+International work (matching refugee job seekers in Turkey and Jordan with employers in Australia)
+New Zealand: https://refugeetalent.co.nz/info@refugeetalent.co.nz
+
+Friendly Nation Initiative
+www.fni.org.au
+Support for employers to develop and implement refugee employment strategies and programs.
+selena.choo@migrationcouncil.org.au
+0447 697 016
+
+Community Corporate
+https://www.communitycorporate.com.au/
+Employment matching service
+info@communitycorporate.com.au
+Work experience programs
+0481 387 743
+
+AMES Australia
+Victoria, South Australia, Tasmania
+https://www.ames.net.au/hire-staff/free-tailored- recruitment-service
+
+Employment matching service
+Work experience programs
+(in Melbourne)
+https://www.ames.net.au/contact-us
+13 AMES (13 2637)
+
+Jesuit Social Services
+National
+https://jss.org.au/what-we-do/education-training-and- employment/corporate-diversity-partnerships/
+Corporate Diversity Partnerships
+info@corporatediversity.org.au
+6-12 month full-time paid work placements
+(03) 9421 7600
+
+Career Seekers
+Sydney, Melbourne, Brisbane, Adelaide
+http://www.careerseekers.org.au/
+3-month paid internships for:
+info@careerseekers.org.au
+0447 456 643 (mid-career professionals)
+Mid-career professionals
+University students
+0429 932 479 (students)
+
+Marist180
+Sydney, Melbourne, Brisbane
+https://marist180.org.au/marist180-social-inclusion/
+cald-employment/
+
+APM Employment Services
+https://www.apm.net.au/employers/employment-services
+National jobactive and Disability Employment Service provider
+apm4jobs@apm.net.au
+1800 276 276
+https://www.ssi.org.au/services/refugee-employment-sup- port-program
+resp@ssi.org.au
+employment@ssi.org.au
+(02) 8713-9366
+https://asylumseekerscentre.org.au/employment/
+employment@asylumseekerscentre.org.au
+(02) 9078 1921
+http://metroassist.org.au/our-services/employment-sup- port.htm
+skillmeproject@metroassist.org.au
+(02) 9789 3744
+https://www.stfrancis.org.au/house-of-welcome/employ- ment/empowered-to-work
+leonie.dyer@employmentproject.org.au
+(02) 9727 9290
+www.mes.org.au/
+info@mes.org.au
+(02) 6100 4611
+(02) 4803 9042
+
+VICTORIA
+
+Southern Migrant & Refugee Centre
+https://smrc.org.au/career-development-guidance/
+Education and Employment Pathways Career Development
+Job readiness programs
+smrc@smrc.org.au
+(03) 9767 1900
+
+AMES Australia
+https://www.ames.net.au/hire-staff/free-tailored-recruit-
+Including the Melbourne Career Pathways Pilot
+ment-service
+Employment matching service
+https://www.ames.net.au/contact-us
+Work experience programs
+13 AMES (13 2637)
+Melbourne Career Pathways Advisors:
+JaghuriG@ames.net.au
+03 8791 2467
+WanI@ames.net.au
+03 9926 401
+The Bridge Incorporated
+https://www.thebridgeinc.org.au/
+Employment matching service
+samaral@thebridgeinc.org.au
+PFaauli@thebridgeinc.org.au
+(03) 8710 8888
+Australian Multicultural Community Services
+https://www.amcservices.org.au/
+Employment matching service
+rohan@amcservices.org.au
+(03) 9689 9170
+Baptcare
+https://www.baptcare.org.au/services/housing/accommo-
+Sanctuary's Working It Out Project
+dation-for-people-seeking-asylum
+Employment matching service
+sanctuary@baptcare.org.au
+13 22 78
+Westgate Community Initiative Group
+http://www.wcig.org.au/
+Employment matching service
+ruthc@wcig.org.au
+(03) 9311 9411
+0423 236 754
+
+Diversitat
+Geelong
+https://diversitat.org.au/services/community-services/em- ployment/
+Employment matching service
+employment@diversitat.org.au
+(03) 5221 6044
+Loddon Campaspe Multicultural Services
+Bendigo
+http://www.lcms.org.au/community-programs/employ- ment/
+Employment matching service
+s.phan@lcms.org.au
+r.vincent@lcms.org.au
+(03) 5441 6644
+AFL Sportsready
+https://aflsportsready.com.au/traineeship/
+12-24 month traineeships for young people
+recruitmentservices@aflsportsready.com.au
+(03) 8413 3500
+
+QUEENSLAND
+Multicultural Development Australia
+https://mdaltd.org.au/work-and-welcome/
+Work & WelcomeTM program
+welcome@mdaltd.org.au
+Youth Transition Support Program
+(07) 3337 5400
+Skilling Queenslanders for Work Mentoring programs
+Toowoomba Career Pathways Advisors: sueh@mdaltd.org.au
+Toowoomba Career
+Pathways Pilot
+0412 151 828
+Employment matching service
+kellyb@mdaltd.org.au
+Work experience programs
+0481 264 155
+Access Community Services Ltd
+Logan
+Employment matching service
+https://www.accesscommunity.org.au/employment_ training
+(07) 3412 9999
+
+SOUTH AUSTRALIA
+AMES Australia
+Employment matching service
+Australian Migrant Resource Centre
+https://www.ames.net.au/hire-staff/free-tailored-recruit- ment-service
+https://www.ames.net.au/contact-us
+13 AMES (13 2637)
+https://amrc.org.au/training-and-employment admin@amrc.org.au
+08 8217 9544
+WESTERN AUSTRALIA
+Kaleidoscope
+Employment matching service
+AtWork Australia
+Perth Career Pathways Pilot
+Employment matching service
+Work experience programs
+Communicare
+A Global Workforce
+https://www.kaleidoscopeinitiative.com.au/ kaleidoscope@stirling.wa.gov.au
+(08) 9205 8335
+https://www.atworkaustralia.com.au/what-we-do-2/
+CareerPathways@atworkaustralia.com.au
+1300 656 358
+https://www.communicare.org.au/Employment-Ser- vices/A-Global-Workforce/Information-for-Employers
+https://www.ames.net.au/hire-staff/free-tailored-recruit- ment-service
+https://www.ames.net.au/contact-us
+13 AMES (13 2637)
+http://www.catholiccaretas.org.au/multicultural/?rq=em- ployment
+www.safehavenhub.org.au
+safehavenhub@aohtas.org.au
+Safe Haven Hub Statewide: 1300938081
+Hobart (03) 6278 1660
+Launceston (03) 6332 0600
+CPP: marina.ladaniwskyj@aohtas.org.au
+For both Hobart and Launceston, contact
+(03)62781660
+Employers can advertise vacancies for free at: www.mes.org.au/content/employers www.mes.org.au/ info@mes.org.au
+(02) 6100 4611 http://www.navitas-english.com.au/settlement-program/
+career-pathway-pilot-program/
+CPP@navitas.com
+(02) 8234 1490
+
+OTHER ORGANISATIONS PROVIDING COMMONWEALTH-FUNDED EMPLOYMENT PROGRAMS
+The Commonwealth government funds a range of employment programs that newly-arrived refugees can access, including jobactive, the Disability Employment Service, Transition to Work and ParentsNext.
+See Appendix 8 for more details.
+To find organisations in your location that deliver these programs, see: https://jobsearch.gov.au/serviceproviders.
+ENGLISH PROGRAMS WITH A WORK EXPERIENCE COMPONENT
+The Commonwealth government funds the Settlement Language Pathways to Employment and Training (SLPET) program, which is part of the Adult Migrant English Program (AMEP). A component of the SLPET is work experience.
+If you can offer work experience to a job seeker, organisations delivering the SLPET program may be able to help you find someone for the placement.
+To find organisations in your State that deliver these programs, see: https://www.education.gov.au/adult-migrant-english-program-service-providers
+For more information about the program, see: https://docs.education.gov.au/system/files/doc/other/amep_factsheet_-_updated_31_july_2018.pdf
+
+APPENDIX 6:
+RECRUITING SKILLED REFUGEES FROM OVERSEAS
+Australian employers can consider connecting with refugee support organisations working in countries where they currently recruit for skilled migrant labour, to see if any opportunities can be extended to refugees with those skills.
+Employers can also participate in the following initiatives, which aim to give refugees a complementary pathway to safety in Australia by finding opportunities to work here.
+
+COMMUNITY SUPPORT PROGRAM
+This Commonwealth government programme was created in 2016 and allows communities, businesses, families and individuals to propose humanitarian applicants with employment prospects and to support the new arrival in their settlement journey. Applications are submitted through an Approved Proposing Organisation (APO). The refugee's Australian supporters are responsible for funding their visa application process and the first 12 months of settlement in Australia.31
+For more information, including a list of APOs, see: https://www.homeaffairs.gov.au/Refugeeandhumanitarian/Documents/csp-faq.pdf
+
+TALENT BEYOND BOUNDARIES
+Talent Beyond Boundaries (TBB) is a not-for-profit organisation connecting refugees to international job opportunities, opening labour mobility as a complementary solution to traditional refugee resettlement. TBB has registered 10,000 skilled refugees living in Jordan and Lebanon in a Talent Catalog. These job seekers are skilled professionals who had successful careers before they fled their homes. TBB is running a pilot program in Australia with a group of major employers and Refugee Talent. The pilot involves the remote recruitment of talented refugees to fill skills gaps in Australia.
+For more information, see: http://talentbeyondboundaries.org/ and https://refugeetalent.com/
+
+APPENDIX 7:
+MOST COMMON TYPES OF VISAS GRANTED TO REFUGEES PERMANENT PROTECTION VISAS
+Refugee visa (subclass 200)
+This visa is for people who are subject to persecution in their home country and are in need of resettlement. The majority of applicants considered under this category are identified by the UNHCR and referred to the Australian Government for resettlement consideration.
+In-Country special humanitarian programme visa (subclass 201)
+This visa offers resettlement to people who have suffered persecution in their country of nationality or usual residence and who have not been able to seek refuge elsewhere. It is for those living in their home country and subject to persecution there.
+Global special humanitarian programme visa (subclass 202)
+The Special Humanitarian Programme (SHP) visa is for people who, while not being refugees, are subject to substantial discrimination and human rights abuses in their home country. People who wish to be considered for a SHP visa must be proposed for entry by an Australian citizen or permanent resident over the age of 18, an eligible New Zealand citizen or an organisation operating in Australia.
+Emergency rescue visa (subclass 203)
+The visa offers an accelerated processing arrangement for people who satisfy refugee criteria and whose lives or freedom depend on urgent resettlement. It is for those subject to persecution in their home country and assessed to be in a situation such that delays due to normal processing could put their life or freedom in danger.
+Woman at risk visa (subclass 204)
+This visa is for female applicants, and their dependents who are subject to persecution or are of concern to the UNHCR, are living outside their home country without the protection of a male relative and are in danger of victimisation, harassment or serious abuse because of their gender. The majority of applicants who are considered under this category are identified and referred to the Australian Government by the UNHCR.
+Protection visa (subclass 866)
+This visa allows a person who arrived in Australia on a valid visa, and engaged Australia's protection obligations, to live in Australia permanently.
+TEMPORARY PROTECTION VISAS
+Temporary Protection Visa (TPV) (subclass 785)
+This visa allows a person who arrived in Australia without a valid visa, and engaged Australia's protection obligations (including if they are found to be a refugee), to stay in Australia temporarily, up to three years. People have the right to work, and can access Medicare and Centrelink benefits. The government can grant subsequent TPVs to people, on application, if the person is determined to be in need of protection for another three years.
+Safe Haven Enterprise Visa (SHEV) (subclass 790)
+This visa allows a person who arrived in Australia without a valid visa and engaged Australia's protection obligations (including if they are found to be a refugee), to stay in Australia temporarily, up to five years. If they or a member of their family intends to work and/or study in regional Australia, they may be eligible to apply for a permanent visa following the expiry of the SHEV. Regional Australia is defined as including all of South Australia, Tasmania, the ACT and Northern Territory (including the capital cities).
+See: http://www.homeaffairs.gov.au/Refugeeandhumanitarian/Documents/regional-australia-postcodes.pdf
+BRIDGING VISAS
+BVA (subclass 010), BVB (subclass 020), BVC (subclass 030), BVD (subclass 040), BVE (subclass 050 and subclass 051)
+Bridging visas are temporary visas provided to non-citizens (including people claiming asylum) that allow them to remain lawfully in Australia while their visa application is being considered, during the judicial review process, or in preparation for leaving Australia.
+BVD explicitly prohibits the visa holder to work. Whether a person on another bridging visa is allowed to work will depend on the visa conditions. The most common conditions relating to work are conditions 8101, 8102, 8103, and 8104.
+Condition 8101 does not allow the person to work.
+Condition 8102 allows the person to work in relation to a course of study or training.
+Condition 8103 allows the person to seek the government's permission to receive a salary in Australia.
+Condition 8104 allows the person to work for 40 hours a fortnight or less.
+For more information, please refer to the Department of Home Affairs website: https://www.homeaffairs.gov.au/trav/refu
+
+APPENDIX 8:
+GOVERNMENT WAGE SUBSIDIES AND EMPLOYMENT PROGRAMS WAGE SUBSIDIES
+The Commonwealth government offers a number of wage subsidies for employing certain categories of new staff. Apprenticeships and traineeships are also eligible to attract a wage subsidy.
+A ‘long term unemployed' wage subsidy of up to $6,500 could be available for hiring a refugee worker who has been registered with an employment services provider for more than 12 months. A $10,000 wage subsidy may be available if they are young job seekers aged 15 to 24. A ‘Restart' wage subsidy of up to $10,000 could be available for hiring a refugee worker who is 50 years and over and who has been receiving income support for 12 months or more.
+For more information, see: https://docs.iobs.qov.au/svstem/flles/doc/other/waqe_subsidies_to_support_australian_businesses.pdf
+In Queensland, a component of the State government's Skilling Queenslanders for Work is WorkStart incentives, offerinq private sector emplovers a once-off pavment of $10,000 for emplovinq a Queenslander in a traineeship or apprenticeship.
+For more information, see: https://training.qld.gov.au/site/community-orgs/Documents/funded/sqw/work-start-factsheet.pdf
+COMMONWEALTH SERVICES
+Refugee iob seekers can access a number of Commonwealth government employment services, including the following. For information about current Commonwealth government employment services, see: https://www.jobs.gov.au/growing/i-want-hire-staff
+jobactive
+The jobactive program provides tailored end-to-end recruitment services at no cost to the employer. These include providing screened and job-ready candidates, pre-employment training and post-placement support. Providers may be able to cover some of the costs related to starting and maintaining a job, such as uniforms, work-related equipment, the cost of licences and relocation costs.
+For more information, see:
+https://jobsearch.gov.au/
+Disability Employment Services (DES)
+DES providers provide employment services to help people with a disability to find and maintain work. This includes assisting employers to put in place practices that support an employee with a disability in the workplace, and postplacement support for a year.
+For more information, see: https://www.dss.gov.au/our-responsibilities/disability-and-carers/programmes-services/disability-employment-services
+Transition to Work
+This service supports young people to understand and develop the skills, attitudes and behaviours employers expect in the workplace. Providers can offer employers a youth bonus wage subsidy of $10,000 over 6 months, and postplacement support to ensure new employees are settling in and meeting employer expectations.
+For more information, see: https://www.jobs.gov.au/transition-work
+Career Pathways Pilot for Refugees
+This program aims to support refugees who have professional or trade skills or qualifications, and can communicate well in English, to find employment opportunities which match their skills. A number of community sector organisations deliver this program and are included in the list in Appendix 5. For more information, see: https://www.dss.gov.au/settlement-services/programs-policy/settlement-services/career-pathways-pilot-for- humanitarian-entrants
+Harvest Labour Services
+This connects workers with employers in harvesting areas around Australia. Access to these services is not limited to people receiving income support payments.
+For more information, see: https://www.jobs.gov.au/harvest-labour-services
+STATE PROGRAMS
+NSW
+The NSW government funds the Refugee Employment Support Program, for refugees in Western Sydney and Illawarra. For more information, see: https://www.training.nsw.gov.au/programs_services/funded_other/resp/index.html
+Victoria
+The Victorian government funds Jobs Victoria, providing tailored services to support and connect job seekers,
+including those from a refugee background, and employers. For more information, see: https://jobs.vic.gov.au/looking-for-staff/how-we-can-help-your-business
+Queensland
+The Queensland government's Skilling Queenslanders for Work initiative funds training and support for unemployed and underemployed people, including refugees. For more information, see: https://training.qld.gov.au/training/incentives/sqw
+Western Australia
+The Kaleidoscope Initiative project, funded by the Western Australian government and supported by the City of Stirling and the Toronto Region Immigrant Employment Council, aims to harness the economic benefits of a diverse cultural population by helping newcomers to Australia secure employment in their field of expertise and support employers to benefit from this diverse workforce. For more information, see: https://www.kaleidoscopeinitiative.com.au/our-initiatives/
+Tasmania
+The Safe Haven Hub, a service funded by the Tasmanian government, provides support to former refugees, migrants and asylum seekers to find employment and training opportunities suited to their career goals, skills and qualifications. It has a particular focus on working to fill labour shortages, particularly in growth areas of the Tasmanian economy. It is being delivered by CatholicCare Tasmania. For more information see: www.safehavenhub.org.au
+Northern Territory
+The Northern Territory government has funded a one-year pilot program called “Culture: Diversity from the Inside Out”, aimed at helping migrants and refugees secure employment or work experience through a one-on-one case management approach with job seekers. It is being delivered by Melaleuca Refugee Centre.
+APPENDIX 9:
+OTHER RESOURCES AND INFORMATION
+The Cultural Atlas
+This contains information about the history and society of countries around the world, including culture and etiquette. This information can help you better understand the backgrounds and needs of people from those communities.
+For more information, see: https://culturalatlas.sbs.com.au/
+SBS radio settlement guide
+SBS radio settlement guide has podcasts, in almost 30 community languages, that discuss life and issues that affect people settling in Australia.
+For more information, see: https://www.sbs.com.au/radio/settlement-guide
+Assessing cultural diversity
+This is a self-assessment tool to help organisations measure their progress in workplace cultural diversity: https://culturaldiversity.humanrights.gov.au/
+Australian Red Cross Community Conversations
+The Australia Red Cross can help you host a Community Conversations event in your workplace. Community Conversations are a safe space to learn about forced migration and the experiences of refugees and people seeking asylum when looking for work in Australia. They can let you know what you can do to help support cultural diversity in your work place and influence social cohesion in the community. The information provided in these talks are neutral and unbiased. This way, participants can make their own conclusions about the circumstances asylum seekers have come from and the situations they now face in Australia.
+For more information, see: https://www.redcross.org.au/get-involved/learn/school-resources/in-search-of-safety
+
+REPORTS ON HOW TO IMPROVE REFUGEE EMPLOYMENT OUTCOMES
+1. UNHCR and OECD, ‘Engaging with Employers in the Hiring of Refugees: A 10-point multi-stakeholder action plan for employers, refugees, governments and civil society' (2018)
+39 page report: https://reliefweb.int/report/world/engaging-employers-hiring-refugees-10-point-multi-stakeholder-action-plan- employers
+2. Employer Guide to Hiring Newcomers: Information and Resources (Greater Toronto Area, Canada) (June 2016) 21 page report:
+http://www.hireimmigrants.ca/wp-content/uploads/Employer_Guide_to_Hiring_Newcomers.pdf
+3. Syrian Refugees Jobs Agenda: Kick Starting Employer Action (January 2017)
+Includes background information about recent arrivals to Canada from Syria.
+27 page report:
+http://www.hireimmigrants.ca/wp-content/uploads/FINAL-Syrian_Roundtable_-Kick-Starter.pdf
+
+Endnotes
+
+1	Department of Immigration and Border Protection, Australia's Humanitarian Programme 2017-18, Discussion paper, p.7.
+2	Impact, The refugees who changed history, 17 January 2014, http://amesnews.com.au/latest-articles/refugees-changed-history/
+Roads to Refuge, Refugee Settlement, Refugee Contributions, http://www.roads-to-refuge.com.au/settlement/settlement-contributions.html
+3	According to the Business Review Weekly: see Refugee Council of Australia, Economic, Civic and Social contributions of refugees and humanitarian entrants, a literature review, February 2010 https://www.refugeecouncil.org.au/docs/resources/Contributions_of_refugees.pdf
+4	United Nations High Commissioner for Refugees (UNHCR), Figures at a glance, Statistical Yearbooks, 19 June 2018, http://www.unhcr.org/en-au/figures-at-a-glance.html, viewed 2 October 2018.
+5	UNHCR, Resettlement Data, January - July 2018, http://www.unhcr.org/en-au/resettlement-data.html, viewed 2 October 2018.
+6	UNHCR, Global Trends: Forced Displacement in 2017, 25 June 2018, http://www.unhcr.org/en-au/statistics/unhcrstats/5b27be547/unhcr-global-trends-2017.html, viewed 2 October 2018.
+7	Department of Home Affairs, Australia's Humanitarian Programme 2018-19, Discussion paper, p.3.
+8	Department of Home A ff airs, Annual report 2017-18 (Appendix A), p. 220,
+https://www.homea ff airs.gov.au/reports-and-pubs/files/2017-18/01-annual-report-2017-18.pdf, viewed 17 November 2018.
+9	Ibid.
+10	Department of Immigration and Border Protection, Annual report 2016-17, pp.72-74,
+https://www.homea ff airs.gov.au/reports-and-publications/reports/annual-reports, viewed 13 December 2018.
+11	Department of Social Services, Settlement Services for Humanitarian Entrants, What checks do humanitarian entrants undergo before arriving in Australia? https://www.dss.gov.au/settlement-and-multicultural-a ff airs/publications/settlement-services-for-humanitarian-entrants, viewed 18 June 2018.
+12	Australian Bureau of Statistics, Australian Census and Migrants Integrated Dataset, Australia, 2016. This dataset comprises migrants whose arrival date pertaining to their permanent visa was between 1 January 2000 and 9 August 2016. It was created by linking the ABS 2016 census data with permanent migrant settlement data from DSS. http://abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/3417.0Main%20Features22016?opendocument&tabname=Summary&prodno=3417.0&issue= 2016&num=&view=, viewed 24 September 2018.
+13	Friendly Nation Initiative's analysis of data in Australian Bureau of Statistics, Australian Census and Migrants Integrated Dataset, Australia, 2016 (Table 5 Level of highest non-school qualification by visa stream and sex, permanent migrants 15 years and over), http://abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3417.02016?OpenDocument, viewed 24 September 2018.
+14	Department of Home Affairs, Australia's Humanitarian Programme 2018-19, Discussion paper, p.10.
+15	Department of Home Affairs, 2016-17 and 2015-16 Humanitarian Program Outcomes.
+16	Department of Social Services, Settlement Services for Humanitarian Entrants, What support do humanitarian entrants receive when they arrive in Australia? https://www.dss.gov.au/settlement-and-multicultural-affairs/publications/settlement-services-for-humanitarian-entrants#what_support_refugees, viewed 18 June 2018.
+17	https://tradingeconomics.com/australia/unemployment-rate?embed, viewed 15 August 2018.
+18	https://tradingeconomics.com/australia/labor-force-participation-rate, viewed 15 August 2018.
+19	Australian Bureau of Statistics, Australian Census and Migrants Integrated Dataset (ACMID), Australia, 2016, Table 11 (Labour force status by visa stream, age and sex, permanent migrants 15 years and over). This dataset comprises migrants whose arrival date pertaining to their permanent visa was between 1 January 2000 and 9 August 2016. It was created by linking the Australian Bureau of Statistics 2016 Australian Census of Population and Housing and permanent migrant settlement data from the Department of Social Services. http://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/3417.0Main%20 Features22016?opendocument&tabname=Summary&prodno=3417.0&issue=2016&num=&view=, viewed 24 September 2018.
+20	Australian Bureau of Statistics, ACMID, Australia, 2016, Table 1 (Selected characteristics by visa stream, permanent migrants). http://www.abs.gov.au/AUSSTATS/ abs@.nsf/Latestproducts/3417.0Main%20Features22016?opendocument&tabname=Summary&prodno=3417.0&issue=2016&num=&view= , viewed 24 September 2018.
+21	Department of Social Services, Building a New Life in Australia (BNLA): A Longitudinal Study of Humanitarian Migrants, Findings from the first three waves (December 2017), Table 7.1, p. 40.
+22	Lee, E. S., Szkudlarek, B. A., Nguyen, D. C., & Nardon, L. (2018, July). Refugee workforce integration: an interdisciplinary literature review. In Academy of Management Proceedings (Vol. 2018, No. 1, p. 15575). Briarcli ff Manor, NY 10510: Academy of Management, p. 26.
+24 Diversity Council of Australia, Inclusion@Work: Mapping the State of Inclusion in the Australia Workforce, https://www.dca.org.au/sites/default/files/dca-suncorp_inclusionwork_index_infographic_final.pdf
+25 Cone Communications Study of 1,020 Millenials (2016). https://static1.squarespace.com/static/56b4a7472b8dde3df5b7013f/t/5819e8b303596e3016ca0d9c/14780 92981243/2016+Cone+Communications+Millennial+Employee+Engagement+Study_Press+Release+and+Fact+Sheet.pdf
+26 Department of Social Services, Settlement Services for Humanitarian Entrants, Where do humanitarian entrants settle? https://www.dss.gov.au/settlement-and-multicultural-affairs/publications/settlement-services-for-humanitarian-entrants#where_do_refugees, viewed 18 June 2018.
+27	IMF Staff Discussion Note, ‘The Refugee Surge in Europe: Economic Challenges', January 2016, SDN/16/02, https://www.imf.org/external/pubs/ft/sdn/2016/sdn1602.pdf
+28	Centre for Policy Development, ‘Settling Better report: Reforming refugee employment and settlement services' (February 2017), https://cpd.org.au/2017/02/settlingbetter/
+29	Department of Social Services, Settlement services, Humanitarian Settlement Program - Service Provider Locations, accessed 18 June 2018, https://www.dss.gov.au/our-responsibilities/settlement-services/programs-policy/settlement-services/settlement-services-locator
+30 Data received from the Department of Social Services
+Note: This data shows the location where humanitarian entrants settled on arrival in Australia. While some people may move to live in other locations, this data gives some indication of the number of potential refugee job seekers living in each local government area. Only areas with at least 100 humanitarian entrants are represented.
+31 Department of Human Services, Community Support Programme - establishment - Budget 2017-18, accessed 18 June 2018,
+https://www.humanservices.gov.au/organisations/about-us/budget/budget-2017-18/migrants-refugees-and-visitors/community-support-programme-establishment

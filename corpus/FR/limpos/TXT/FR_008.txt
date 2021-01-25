@@ -1,0 +1,52 @@
+﻿<Header>
+	<title>
+		<tit>  Réfugiés: un petit guide pour leur faciliter la compréhension de notre société et une brochure avec des conseils pour leur enseigner notre alphabet </tit>
+		<fileName> RPGB_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Guide  </textType>
+		<subcorpus> Original French  </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (Luxembourg) </language>
+		<source> https://www.asti.lu/wp-content/uploads/2017/07/communique_petit_guide_methodologie_021216.pdf </source> 
+		<publisher> ASTI </publisher>
+		<pubDate> Dec, 2016 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Association de Soutien aux Travailleurs Immigrés (ASTI) </institution>
+	</author>
+</Header>
+Réfugiés: un petit guide pour leur faciliter la compréhension de notre société et une brochure avec des conseils pour leur enseigner notre alphabet
+Après la parution du dictionnaire élémentaire Français/Arabe/Luxembourgeois, voici deux nouvelles productions de l'ASTI, réalisées avec le soutien de l'Oeuvre Nationale de Secours Grande-Duchesse Charlotte (appel à projets Mateneen). L'objectif de l'ASTI est de donner aux réfugiés, dès leur arrivée, des outils qui leur permettront de se retrouver dans la société luxembourgeoise qui les accueille, de communiquer avec les gens qu'ils rencontrent, et de faciliter l'accès à l'emploi. Apprendre les langues du pays est primordial, cependant il faut aussi comprendre la société d'accueil.
+Lëtzebuerg. Petit guide pour comprendre le pays qui vous accueille
+(auteurs : Christiane Tonnar-Meyer et Siggy Koenig)
+Objectif : fournir des informations utiles sur la vie quotidienne au Luxembourg. Ce petit guide met l'accent sur des manières d'être et d'agir qui sont courantes ici, et que nous aimerions qu'un nouvel arrivant venant d'un autre horizon culturel apprenne à connaître, à respecter et à reprendre à son compte. En effet, c'est un pas important s'il veut retrouver une nouvelle vie dans notre pays - ce qui sera sans doute le cas pour un grand nombre d'entre eux qui, avant longtemps, ne pourront pas retourner dans leur pays déchiré par la guerre civile ou religieuse.
+En montrant comment nous vivons, quelles sont les bases de la cohabitation entre habitants d'origines très diverses, et en expliquant pourquoi il en est ainsi, on évite non seulement des malentendus, mais on rassure et on laisse entrevoir des possibilités d'adhésion.
+La brochure est rédigée en 4 langues : arabe, français, anglais et farsi (persan), avec parfois des mots supplémentaires en dari (langue parlée en Afghanistan qui est très proche du farsi).
+Attention : la lecture se fera dans le sens de l'écriture arabe et farsi, c.-à-d. en commençant par ce qui est, pour nous, la dernière page !
+Démarche et contenu : l'idée de ce petit guide est inspirée du « Refugeeguide, Eine kleine Orientierungshilfe für das Leben in Deutschland », édité en Allemagne.
+Evidemment il a fallu l'adapter à nos spécificités et, avant de le rédiger, les auteurs ont cherché à connaître la perception que peuvent avoir des réfugiés venus essentiellement de Syrie, d'Irak et d'Afghanistan, de nos manières d'être ainsi que des recommandations qu'ils jugent importantes. Car certaines choses qui sont évidentes chez nous, ne le sont nullement dans leurs pays d'origine.
+Il en est ressorti un petit ouvrage reprenant les situations, les comportements quotidiens auxquels un réfugié se voit confronté ici et qui, parfois, peuvent le laisser perplexe.
+Cela commence par une information sur nos gestes les plus simples, se saluer, se serrer la main, témoigner de la sympathie, etc.
+Dans un autre chapitre, il est précisé ce que signifie l'émancipation de la femme, qu'elle vote, qu'elle étudie et qu'elle exerce une profession dans la plupart des cas. On y trouve aussi p.ex. des précisions sur la vie de famille, sur la place des religions dans notre société, sur la tolérance, sur la liberté d'expression et sur notre culture de la discussion et du consensus. La loi - qui est la même pour tous - est citée à plusieurs reprises, soulignant l'importance que nous y attachons.
+Finalement on y trouve quelques recommandations qui ne se veulent pas moralisantes, mais utiles : faire ses achats, participer au recyclage des déchets, s'habiller de manière à la fois libre et adéquate, s'adresser à la police lorsqu'on est menacé- recommandation importante pour des personnes qui viennent de pays où la police était souvent du côté de l'oppresseur.
+Ce petit guide va sans doute alimenter des interrogations et des discussions, tant du côté des réfugiés que des lecteurs luxembourgeois. Tant mieux ! Dans les cours de langue, dans les rencontres entre réfugiés et habitants du Luxembourg, les uns pourront poser leurs questions et les autres répondront ou donneront leur opinion. L'important est que l'échange culturel - un pont de plus - ait lieu, et qu'il se déroule de la façon consensuelle décrite dans cette brochure. 
+Initiation à l'alphabet latin pour réfugiés arabophones. Quelques conseils pratiques
+(auteur : Siggy Koenig)
+Ce document s'adresse à un public plus restreint, à savoir les personnes - notamment les bénévoles - qui donnent des cours aux arabophones. Il se veut donner quelques conseils pratiques, fruits des expériences que nous avons faites avec les cours d'alphabétisation et de préparation à l'apprentissage de la langue française que l'ASTI organise depuis l'année passée.
+D'ordinaire au Luxembourg, les participants aux cours de langue connaissent notre alphabet et parlent une langue avec des mots, des phrases structurées de manière plus ou moins analogue à ceux des langues romanes et germaniques. Pour l'arabe, cela est tout à fait différent : l'écriture, la prononciation, la suite des mots et leur fonction dans la phrase diffèrent, et si l'on veut prodiguer un enseignement tant soit peu efficace, il est nécessaire de tenir compte de ces différences (ex. en arabe, les verbes avoir et être n'existent pas !).
+Le document ne se veut pas être une méthode, il évoque quelques aspects auxquels il faut être attentif dans la progression des lettres et des mots à apprendre, dans le rythme auquel on enseigne, dans la motivation des personnes qu'on a devant soi.
+Comment se procurer ces documents ?
+Les deux brochures, « Lëtzebuerg : Petit guide pour comprendre le pays qui vous accueille » et « Initiation à l'alphabet latin pour réfugiés arabophones : Quelques conseils pratiques » peuvent être commandées auprès du secrétariat de l'ASTI.
+Contact
+Ranjit Neuman
+ASTI asbl.
+10-12 rue Auguste Laval L- 1922 Luxembourg
+Mail : ranjit.neuman@asti.lu
+Tél : 43 83 33 -1
+www.asti.lu
+L'ASTI a une longue tradition de mettre les outils qu'elle a développés gratuitement à disposition des personnes intéressées. Ceux qui apprécieront l'utilité de ces publications pourront soutenir les efforts de l'ASTI en faveur de l'intégration des réfugiés en faisant un don sur le compte CCPL IBAN LU44 1111 0652 9615 0000.

@@ -1,0 +1,1268 @@
+﻿<Header>
+	<title>
+		<tit> GUIDE DE LA DEMANDEUSE ET DU DEMANDEUR D'ASILE À PARIS </tit>
+		<fileName> GDDAP_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Booklet </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (France) </language>
+		<source> https://guideasile.wordpress.com </source> 
+		<publisher> L'association WATIZAT </publisher>
+		<pubDate> 2019 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+		<comments> Attachments were discarded because they contained addresses and images </comments>
+	</sourceText>
+	<author>
+		<institution> L'association WATIZAT </institution>
+	</author>
+</Header>
+GUIDE DE LA DEMANDEUSE ET DU DEMANDEUR D'ASILE À PARIS
+MARS 2019
+L'ASILE, QU'EST CE QUE C'EST ? 
+DEMANDER L'ASILE c'est demander la protection d'un pays parce que l'on est en danger et que l'on a subi des persécutions ou été victime de menaces graves dans son pays d'origine.
+LA PROCÉDURE DE DEMANDE D'ASILE permet de déterminer si vous pouvez obtenir le statut de réfugié.
+LE STATUT DE RÉFUGIÉ ou la PROTECTION SUBSIDIAIRE permet à la personne qui l'obtient d'être protégée par l'Etat français :
+• elle a le droit de vivre sur le territoire français
+• d'obtenir des papiers, de travailler
+• de demander à faire venir sa famille dans le cadre de la réunification familiale. 
+COMMENT UTILISER LE GUIDE :
+Les encadrés ROSES indiquent les adresses et informations pour les mineurs isolés (-18 ans)
+LA PAGE DE DROITE : 
+indique comment naviguer à travers les différents chapitres du guide
+Adresse postale 
+Adresse mail 
+Horaires 
+Information 
+Numéro de téléphone 
+Métro  
+SOMMAIRE 
+1 Les adresses utiles
+page 6 <— Arrivée à Paris
+page 8 <— Aide juridique gratuite
+page 10 <— Se soigner
+page 14 <— Manger
+page 15 <— Refuges de jour
+page 16 <— Bibliothèques
+page 16 <— S'habiller
+page 17 <— Se laver
+page 18 <— Apprendre le français
+2 Bon à savoir
+page 21 - En cas d'arrestation
+page 24 - Ouvrir un compte en banque
+page 24 - Se déplacer
+page 26 - WIFI gratuit
+page 26 - Téléphone
+page 26 - Eau potable
+3 Les démarches
+Demander l'asile en France
+page 28 - demander l'asile en France
+page 38 - Faire appel
+page 42 - Faire sa demande de réexamen
+page 44 - Si vous êtes reconnu refugé
+Vos droits sociaux
+page 46 - Domiciliation
+page 47 - Allocations
+page 48 - Accès à la santé
+page 50 - Accès au logement
+page 50 - Scolarisation des enfants
+page 50 - Accès à l'emploi
+4 Autres informations utiles
+page 52 - Associations
+page 54 - Groupes et pages Facebook
+page 56 - Acronymes (mots utiles)
+page 58 - Plan du métro
+NUMÉROS DE TÉLÉPHONE D'URGENCE (GRATUIT)
+18 - POMPIERS
+Signaler une situation dangereuse 
+(accident, incendie, personne malade...)
+17 - POLICE SECOURS / GENDARMERIE
+Appeler en cas d'agression pour obtenir de l'aide
+115 - SAMU SOCIAL
+Obtenir un hébergement d'urgence pour une nuit ou quelques jours. Vous pouvez appeler 24 heures sur 24 mais l'attente au téléphone peut être de 2h ou plus.
+Plus vous appellerez, plus vous aurez de chance d'obtenir une place pour être hébergé.
+Demandez à parler à un interprète dans votre langue. 
+Adresses utiles
+page 6 - Arrivée à Paris
+page 8 - Aide juridique gratuite
+page 10 - Se soigner
+page 14 - Manger
+page 15 - Refuges de jour
+page 16 - Bibliothèques
+page 16 - S'habiller
+page 17 - Se laver
+page 18 - Apprendre le français
+ARRIVÉE À PARIS
+POUR LES ADULTES (+ 18 ANS)
+VOUS ÊTES SEUL, EN COUPLE OU EN FAMILLE
+Pour demander l'asile en arrivant à Paris, appelez ce numéro pour obtenir un rendez-vous :
+numéro Ofii : 01 42 500 900 
+Lundi - Vendredi : 9h - 15h30 - NUMÉRO PAYANT ! 
+Attendre les options de langues proposées pour choisir la vôtre.
+ACCUEILS DE JOUR 
+Pour obtenir un HEBERGEMENT ou si vous ne pouvez pas téléphoner, allez à l'un des 3 “ACCUEILS DE JOUR”
+Ils offrent : 
+Refuge de jour, douches, repas, WIFI, appel gratuit pour le numéro de l'Ofii et aide pour votre procédure. 
+Pensez à arriver avant l'ouverture (9h) : le nombre de place est très limité.
+ACCUEIL DE JOUR PARIS CENTRE 1 (hommes) 
+1, boulevard du Palais - 75004 Paris 
+Cité (ligne 4 ) 
+Lundi au vendredi 9h - 16h 
+ACCUEIL DE JOUR PARIS SUD (hommes) 
+82 avenue Denfert-Rochereau - 75014 Paris 
+Raspail (ligne 4 ou 6) 
+Lundi au vendredi 9h - 16h 
+ACCUEIL DE JOUR BASTILLE 
+(femmes, couples, familles) 
+3 rue des Lesdiguières - 75004 Paris 
+Bastille (ligne 1, 5, 8)
+Tous les jours 10h - 19h
+
+HÉBERGEMENT 
+Vous pouvez obtenir une place d'hébergement par l'accueil de jour : 10 à 30 personnes sont emmenées tous les jours en bus depuis l'accueil de jour vers un centre d’hébergement temporaire (appelé Centre d’Accueil et d’Examen des Situations : CAES). Vous devrez certainement venir plusieurs jours de suite en accueil de jour avant d'être envoyé en CAES (hébergement). 
+Ces centres sont en principe pour les personnes qui : 
+- n'ont pas commencé leur demande d’asile 
+- sont déjà passées par la préfecture et ont obtenu leur attestation de demande d’asile (récépissé) 
+Attention : si vous avez déjà eu un hébergement grâce à l'Ofii, ou si vous n’avez plus droit à l’hébergement, il est probable que l’on vous refuse un nouvel hébergement mais vous pouvez quand même essayer.
+POUR LES MINEURS ISOLÉS (-18 ANS)
+1. Quand vous arrivez à Paris, allez dans un de ces 3 centres d'évaluation. Pas de rendez-vous nécessaire.
+Dans les jours qui suivent, vous devez recevoir la réponse du centre d’évaluation. Tout refus doit être notifié par une feuille indiquant les raisons du refus. Vous devez impérativement conserver cette feuille pour la suite des démarches.
+DEMIE (à Paris)
+A 5, Rue du Moulin Joly, 75011 Paris
+Couronnes (ligne 2)
+01 58 30 14 50
+Lundi, mardi, jeudi, vendredi 9h-17h / Mercredi 11h-17h (VENIR TRES TÔT)
+PEMIE (à Bobigny)
+1-15 rue Benoît Frachon, 93000 Bobigny 
+Bobigny-Pantin Raymond Queneau (ligne 5) 
+01 82 46 81 42
+Lundi-Vendredi 9h-12h30 / 13h30-17h Fermé le Jeudi après-midi
+PEOMIE (à Créteil)
+6 rue Albert Einstein, 94000 Créteil
+Créteil-l'Echat (ligne 8)
+01 42 07 09 02
+Lundi au Vendredi 9h30-17h30
+2. OBTENIR LA PROTECTION DE L’AIDE SOCIALE À L’ENFANCE (ASE) 
+L’Etat a l’obligation légale de prendre en charge les mineurs isolés qui sont sur son territoire. L’Aide Sociale à l’Enfance (ASE) est chargée d’héberger et de protéger les mineurs isolés en France. 
+Avant cela, l'Etat doit vous reconnaître comme mineur. La procédure de reconnaissance peut prendre du temps.
+3. L'ENTRETIEN D'ÉVALUATION 
+Pour faire évaluer votre minorité, vous pouvez vous présenter à la police qui vous emmènera vers un centre d’évaluation ou aller directement dans un tel centre. 
+Vous aurez généralement un premier entretien rapide, et peut-être une place d’hébergement en attendant un deuxième rendez-vous. 
+Le second entretien sera plus long et portera sur votre identité, pays, famille, histoire, scolarité et trajet jusqu’en France.
+4. EN CAS DE REFUS
+Pour contester la décision il faut faire une saisine auprès du juge pour enfants pour une 2ème évaluation. Demander le soutien d'associations comme l'Adjie ou d'avocats à l'Antenne des Mineurs (voir page 8)
+Durant l'instruction vous ne serez pas pris en charge par l'Etat : il sera difficile d'obtenir un hébergement. Rapprochez-vous des points de distribution et des associations qui aident les mineurs isolés (voir MSF, Les midi du Mie, SAJE page 14-15).
+Médecins Sans Frontières (MSF) a un accueil de jour réservé aux mineurs. Elle assure l'orientation, le suivi psychologique et possiblement un hébergement à long terme. (voir page 15)
+5. DEMANDE D'ASILE POUR MINEURS
+Demander à être reconnu mineur et pris en charge auprès de l'ASE n'empêche pas de demander l'asile.
+La procédure est la même que pour un adulte. Vous devez être représenté par un administrateur ad hoc (AAH) pour faire et déposer votre demande. Il s'occupera de vous représenter et vous aidera dans vos démarches.
+L'AAH n'a pas forcément une bonne connaissance de la procédure de demande d'asile : il faut demander de l'aide à des associations spécialisées (voir page 8-9).
+Remarque : En tant que mineur, vous ne pouvez pas bénéficier de l'allocation pour demandeur d'asile (ADA). Seule l'ASE peut héberger des mineurs isolés. Vous ne pouvez pas être hébergé dans les mêmes centres d'hébergement que les adultes. 
+Permanence d'assistance juridique pour les mineurs isolés.
+Aide et conseils dans vos procédures
+SI VOUS AVEZ BESOIN D'AIDE POUR : 
+PROCÉDURE ASILE
+PROCÉDURE DUBLIN 
+CARTE DE SÉJOUR
+PERMANENCES TÉLÉPHONIQUES
+MINEURS ISOLÉS 
+(-18 ANS) 
+ADJIE 
+Permanence d’assistance juridique pour les mineurs isolés. 
+49ter avenue de Flandre, 75019 Paris 
+7 Riquet (ligne 7) contact@adjie.fr 
+Lundi 18h-22h, Samedi 9h-14h. 
+Venir 2 heures avant l'ouverture et noter son nom sur la liste 
+ANTENNE DES MINEURS 
+GRATUIT. Avocats pour les mineurs ayant été refusés par le DEMIE et qui souhaitent saisir le juge. 29-45 Avenue de la Porte de Clichy 
+75017 Paris 
+13 Porte de Clichy (ligne 13)
+Mardi et Vendredi 9h30-12h30, 
+Jeudi 14h-17h
+ADULTES
+CEDRE
+Permanence juridique sur la demande d'asile, spécialisée sur la procédure Dublin et les retour après transfert Dublin.
+23, boulevard de la Commanderie, 75019 Paris / 01 48 39 10 92
+Porte de la Villette (ligne 7 / tram 3b)
+Lundi, Mardi, Jeudi- 9h-17h
+Information sur la procédure Dublin :
+Lundi et mardi à 9h. (Arriver avant 8h30)
+LA CIMADE PARIS BATIGNOLLES
+46 boulevard des Batignolles, Paris
+Rome (ligne 2) 01 40 08 05 34
+Demandeurs d'asile et réfugiés : Mardi de 9h à 12h. Venir à 8h !
+Carte de séjour : Mercredi et jeudi
+9h30-11h30 et 14h30-16h30
+Permanence téléphonique : lundi de 14h30 à 17h30 et mercredi de 9h30 à 12h30.
+LA CIMADE PARIS LUXEMBOURG
+58, Rue Madame, 75006 Paris
+Saint-Placide (ligne 4) ou Rennes (ligne 12) ou Luxembourg (RER)
+01 42 22 75 77
+Demandeurs d'asile et réfugiés :
+Mardi avant 10h, Pas de procédure Dublin
+Carte de séjour :
+Mercredi 9h-12h, Jeudi 15h-18h / 19h-20h
+A.P.T.M
+239 rue de Bercy, 75012 Paris
+Lundi au Jeudi 9h30-12h et 14h-17h,
+Vendredi 9h30-12h
+BAAM
+Aide juridique aux demandeurs d'asile - aide à l'écriture du récit pour le dossier, recours CNDA, Dublin. (Pas d'OQTF)
+2 Place Baudoyer, 75004 Paris 
+Hôtel de Ville (ligne 1)
+Mercredi et Vendredi 17h-20h
+CLINIQUE JURIDIQUE
+Préparation entretien Ofpra, aide à l'écriture du récit, aide pour le recours CNDA
+6 passage Ramey, 75018 Paris
+Marcadet Poissonniers (ligne 4 ou 12)
+Samedi 10h-12h
+asile.cliniquejuridiqueefb@gmail.com
+MRAP COMITÉ LOCAL 19/20
+Renseignements, orientation et suivi - Pas de procédure Dublin
+43 boulevard de Magenta, 75010 Paris
+Château d'Eau (ligne G)
+Gare de l’Est (ligne 4/5/7 ou RER E)
+accueil@mrap.fr / 01 53 38 99 99
+Accueil et permanence téléphonique : Du Lundi au Vendredi 10h-12h30
+PERMANENCE INTERASSOCIATIVE (ATMF, Domasile, Cimade, GISTI)
+Uniquement pour les urgences Dublin et OQTF
+10 rue Affre, 75018 Paris
+La Chapelle (ligne 2)
+RER C B Gare du Nord) / 01 42 55 91 82
+Lundi 14h-18h
+ASSOCIATION ASILE
+Rédaction récit, préparation entretien Ofpra, Aide pour la CNDA, ADA et sécurité sociale. Pas de recours Dublin, ni réexamen
+65 rue des Haies, 75020 Paris
+Avron (ligne 2) / Porte Montreuil (Tram3b)
+Sur rendez-vous : 07 67 04 43 83
+contact@asile-en-france.org
+Sans rendez-vous : Vendredi 10h-12h
+LIGUE DES DROITS DE L'HOMME
+Centre social et culturel Rosa Parks
+219 Boulevard Macdonald, 75019 Paris
+Rosa Parks (RER E, Tramway 3b)
+Mardi 15h-20h
+Permanence téléphonique : Conseils
+01 56 55 50 10
+Lundi au vendredi 10h-13h
+SCIENCES-PO REFUGEE HELP ● 
+Aide au récit et à l'entretien OFPRA 
+Maison des Inititatives Etudiantes 
+50 rue des Tournelles 75003 Paris
+Bastille (ligne 1 /5 /8)
+Jeudi : 17h-19h
+GISTI
+Permanence téléphonique : Conseils
+01 43 14 60 66 / militants@gisti.org
+Lundi au Vendredi 15h-18h et aussi de 10h à 12h le Mercredi et Vendredi
+LA CIMADE BELLEVILLE
+25 rue Fessart, 75019 Paris
+Jourdain (ligne 11) / 8 01 42 45 65 07
+Carte de séjour
+Lundi avant 10h30 et Mardi 14h-21h
+FASTI
+Pour sans papiers - Carte de séjour
+58 rue des Amandiers 75020 Paris
+Ménimontant (ligne 2)
+Mardi : 14h-17h et Jeudi 14h-17h
+Permanences LGBT
+(Lesbiennes, gays, bisexuels, transgenres)
+BAAM PERMANENCE LGBT 
+sur rendez-vous
+“Les Grands Voisins” 74 Avenue Denfert- Rochereau, 75014 Paris- Résidence Colombani (en face du bâtiment Pierre Petit)
+Denfert-Rochereau (ligne 4 ou 6)
+baam.lgbt@gmail.com
+Mardi 18h-20h
+ARDHIS 
+Association pour la Reconnaissance des Droits des personnes Homosexuelles et transsexuelles à l'Immigration et au Séjour
+63 rue Beaubourg, 75003 Paris
+Rambuteau (ligne 11) / 01 43 57 21 47
+contact@ardhis.org 
+Réunion sur l'asile le 2ème samedi du mois à 10h30
+SE SOIGNER
+Les PASS (HÔPITAUX)
+Permanences gratuites d'accès aux soins de santé (se présenter le plus tôt possible). Consultations d'assistance sociale et médicale sans couverture maladie-
+Être accompagné d'un francophone peut aider.
+MINEURS (-18 ANS)
+ATTENTION, pour les consultations pour mineurs, il faut une LETTRE D'ORIENTATION D'UN MÉDECIN avant de se rendre à l'hôpital (sauf urgence). Si vous n'avez pas de médecin, vous pouvez aussi vous rendre à la clinique mobile de MDM pour essayer d'obtenir cette lettre (voir page 13)
+ Il faut souvent prendre rendez-vous
+HÔPITAL ROBERT-DEBRÉ
+ Consultations pour mineurs et femmes enceintes
+Sans rendez-vous
+A48 boulevard Sérurier, 75019 Paris 
+Pré Saint-Gervais (ligne 7 BIS)
+01 40 03 24 94
+Lundi au vendredi 9h-12h et 14h-16h.
+Fermé le mardi matin et le mercredi après-midi
+Accès par la zone "Point Vert"
+HÔPITAL ARMAND-TROUSSEAU
+ Consultations pour mineurs
+26 avenue du Docteur Arnold-Netter, 75012 Paris
+Bel-Air/Picpus (ligne 6)
+01 44 73 69 09 (Service des urgences pédiatriques médico-chirurgicales)
+01 44 73 68 75 (Médecin régulateur des urgences enfants)
+01 44 73 68 39 - 01 44 73 62 62 (Service social)
+Sur rendez-vous sauf urgences : urgences ouvertes toute la journée.
+Appeler le service social pour prendre rendez- vous avec assistante sociale et docteur
+MEDECINS DU MONDE
+Mineurs non accompagnés
+15 Boulevard de Picpus, 75012 Paris
+ Bel Air (ligne 6)
+01 43 14 81 84
+Mercredi 14h15-17h00 sans rendez-vous (Consultation médico-psycho-sociale)
+ADULTES
+HÔTEL-DIEU
+Consultations de médecine générale pour adultes sans rendez-vous.
+1 place du Parvis Notre-Dame, 75004 Paris  Saint-Michel/Cité (ligne 4 / RER B)
+Service social : 01 42 34 88 98 ou 01 42 34 80 77
+Du Lundi au Vendredi. Venir à 7h
+HÔPITAL BICHAT - CLAUDE- BERNARD
+Urgences uniquement : sans rendez-vous 46 rue Henri-Huchard, 75018 Paris
+Porte de Saint-Ouen (ligne 13)
+01 40 25 80 80
+24h/7j
+Prise de rendez-vous si besoin et sur avis du médecin et de l'assistance sociale
+HÔPITAL SAINT-LOUIS
+ Consultations de médecine générale et dermatologie pour adultes
+1 avenue Claude-Vellefaux, 75010 Paris  Colonel Fabien (ligne 2)
+01 42 49 91 30
+Il est possible de prendre rendez-vous si besoin du Lundi au Vendredi 8h30-16h30 par téléphone.
+Sans rendez-vous : Venir tôt, vers 6h30.
+HÔPITAUX LARIBOISIÈRE ET FERNAND-WIDAL
+Consultations de médecine générale sur Rendez-vous pour adultes (venir très tôt) Demander Consultation Arc-en-ciel
+2 rue Ambroise-Paré, 75010 Paris
+Gare du Nord (ligne 5 et 4 et RER B)
+01 49 95 65 65- 01 49 95 81 24
+Du lundi au Vendredi 8h-16h30
+HÔPITAL SAINT-ANTOINE
+184 rue du Faubourg Saint-Antoine,
+75012, Paris (Polyclinique)
+Consultations en dermatologie
+Sans rendez-vous
+Faidherbe- Chaligny (ligne 8 ) ou
+Nation (ligne 2 )
+lundi au vendredi. 8h-17h Venir très tôt.
+CENTRE HOSPITALIER DE SAINT-DENIS
+Consultations en médecine générale et dentaire.
+Sur rendez-vous par téléphone
+2 rue du Dr Pierre Delafontaine,
+93200 Saint-Denis
+Basilique de Saint-Denis (ligne 13)
+01 42 35 60 00 (Consultation)
+01 42 36 61 21 - 01 42 35 60 25 (Service social)
+Se rendre au service social de l'hôpital 2h avant l'heure du rendez-vous.
+HÔPITAL BICÊTRE
+Consultations pour adultes (Polyclinique- Porte 39)
+Sur rendez-vous par téléphone (tous les jours de 8h à 18h).
+78 rue du Général Leclerc, 94043 Le Kremlin-Bicêtre
+Le Kremlin-Bicêtre (ligne 7)
+01 45 21 73 30
+Service social : 01 45 21 30 91 
+CENTRES MÉDICO-SOCIAUX
+CENTRE MÉDICO-SOCIAL BELLEVILLE
+218 rue de Belleville, 75020 Paris
+Télégraphe ou Place des Fêtes (ligne 11 ) 
+01 40 33 52 00 
+Prendre rendez-vous le lundi matin par téléphone
+Médecine générale : Sur rendez-vous le lundi, mardi, mercredi 9h-12h 
+Dépistage sans rendez-vous du lundi au vendredi à 9h ou 13h30 
+Possibilité de prendre rendez-vous avec le service social
+LES CENTRES PSYCHOLOGIQUES 
+LE CENTRE MINKOWSKA
+Sur rendez-vous - Uniquement sur recommandation de l'assistante sociale ou d'un médecin traitant. (2 à 3 mois d'attente)
+12 rue Jacquemont, 75017 Paris
+La Fourche (ligne 13)
+Consultations psychiatriques et psychologiques - GRATUIT
+01 53 06 84 84
+Pour prendre rendez-vous : contacter l'accueil ouvert du lundi au vendredi de 9h15 à 13h et de 14h à 18h.
+CENTRE PRIMO LEVI
+Personnes ayant été victimes de torture ou de violence politique dans leur pays d'origine. Sur rendez-vous - GRATUIT (2 à 3 mois d'attente)
+107 avenue Parmentier, 75011 Paris (sous le porche, à droite, 2ème étage)
+République (ligne 3 /5 /8 / 9)
+Lundi au Vendredi de 9h30-13h
+Permanence téléphonique
+Lundi, mercredi et vendredi de 14h à 17h.
+01 43 14 88 50
+LES ASSOCIATIONS MÉDICALES
+MÉDECINS DU MONDE
+Centre d'accueil, d'orientation et d'accompagnement (CAOA)
+Sans rendez-vous : consultations sociales et médicales
+Avec rendez-vous : consultations psy et juridique
+15 bd de Picpus, 75012 Paris
+Bel Air (ligne 6)
+Lundi, Mardi, Jeudi, Vendredi : il faut se présenter à 8h pile et prendre un ticket.
+01 43 14 81 81
+MEDECINS DU MONDE (CASO)
+ Centre d'accueil, de soins et d'orientation (CASO)
+8/10 rue des Blés, 93210 Saint-Denis
+La Plaine-Stade de France (RER B) et Front Populaire (ligne 12)
+01 55 93 19 31
+Sans rendez-vous :
+Lundi, mardi, jeudi 9h-13h et 14h-17h, Vendredi 9h-13h. Venir très tôt.
+CLINIQUE MOBILE
+Lundi et mercredi 13h30-17h
+Porte de la Chapelle (ligne 12)
+Vendredi 13h30-17h30
+Porte d'Aubervilliers (tram 3b)
+LE BUS DENTAIRE 
+Soins dentaires d'urgence.
+Adultes uniquement.
+06 80 00 94 21 : Appeler pour conseils
+Planning sur le site internet.
+www.busdentaire.fr
+PERMANENCES TELEPHONIQUES
+COMEDE - COMITÉ POUR LA SANTÉ DES EXILES
+Soutien et conseils pour les soins médicaux. Expertise en droit des étrangers.
+01 45 21 38 93
+Du lundi au jeudi, 14h30-17h30
+CIMADE- COMEDE
+Soutien et expertise sur les questions de droit au séjour pour raison médicale, d'accès aux soins et de prestations sociales liées à l'état de santé des étrangers résidant en Ile-de-France
+01 43 52 69 55
+Mercredi, 9h30-12h30 et 15h-17h30
+Vendredi, 9h30-12h30 
+MANGER
+LE MATIN
+P'TIT DEJ' SOLIDAIRES
+Jardin d'Eole, 75019 Paris
+Entrée rue d'Aubervilliers devant la rue du Maroc
+Stalingrad (ligne 2 et 5) 
+Tous les matins, vers 8h30
+L'ARMÉE DU SALUT
+devant le 27 Boulevard Ney, 75018 Paris Porte de la Chapelle (ligne 12)
+Tous les matins à partir de 8h30
+LE MATIN ET LE MIDI
+LES MIDIS DU M.I.E (MINEURS) Petit-déjeuner
+Lundi, Mardi, Mercredi : 10h30-12h
+Rue du Moulin Joly  Couronnes (ligne 2)
+Midi
+Jeudi et Vendredi : 12h Samedi et Dimanche 12h30 A Jardin de la rue Pali-Kao  
+Couronnes (ligne 2)
+LE SAJE (MINEURS)
+Lundi, Mardi, Mercredi, Vendredi : 13h-16h
+Angle rue du Moulin Joly-rue de la Fontaine au roi  Couronnes (ligne 2)
+RESTOS DU COEUR / L'UN ET LAUTRE 7-15 avenue Porte de la Villette, 75019
+Porte de la Villette (ligne 7)
+Tous les jours 11h-13h
+LE SOIR
+REFETTORIO PARIS
+Foyer de la Madeleine (dans la crypte de l'église : entrée sur le côté droit de l'église)
+Madeleine (ligne 8/ 12 /14)
+Restaurant gratuit- Sur inscription via association-
+Du Lundi au Vendredi : Se présenter entre 18h30 et 19h30 pour se renseigner.
+L'ARMÉE DU SALUT
+11 rue Léon Jouhaux, 75010 Paris
+République (ligne 5)
+Tous les soirs 18h-20h
+LA GAMELLE DE JAURES
+Jardin Anaïs Nin, 75019
+RER E Rosa Parks ou Porte dAubervilliers tram3b
+Lundi à 20h
+LA CHORBA / L'UN ET L'AUTRE
+7-15 avenue Porte de la Villette, 75019 Paris
+Porte de la Villette (Ligne 7)
+Tous les jours 17h30-20h
+UNE CHORBA POUR TOUS
+Jaurès (ligne 2 / 5 / 7 BIS), 75019 Paris
+Du Lundi au Vendredi à partir de 17h
+RESTOS DU COEUR
+Jardin Anaïs Nin
+RER E Rosa Parks ou Porte d’Aubervilliers tram3b
+Du mardi au vendredi à 20h
+LE GANG DE LA POPOTE
+Place Pajol 75018  Marx Dormoy (ligne 12)
+Tous les mercredis à 19h30
+COLLECTE 75
+Jardin Anaïs Nin, 75019
+RER E Rosa Parks ou Porte dAubervilliers tram3b 
+Tous les dimanches à 19h
+REFUGES DE JOUR
+ACCUEILS DE JOUR (ASSOCIATIONS)
+ GRATUIT - Se reposer et accès à différentes formes de soutien selon le lieu (boissons chaudes, recharger votre téléphone, wifi, conseils, etc.)
+MINEURS (-18 ANS)
+CENTRE D'ACCUEIL DE JOUR POUR MINEURS (MSF)
+101 bis avenue Jean Lolive 93500 Pantin
+Église de Pantin / Hoche (ligne 5)
+Lundi au Vendredi : de 9h à 19h
+Appeler avant de venir : 01 40 21 29 29
+FAMILLES
+ESI FAMILLES
+2/4 rue Georges Pitard, 75015
+Pernety 13 s 01 44 19 83 12
+Du Lundi au Vendredi de 10h à 13h (et l'après-midi si rendez-vous pris le matin)
+ADULTES
+AUTREMONDE
+30 rue de la Mare, 75020 Paris
+Couronnes (ligne 2 ), Pyrénées (ligne 11 ) O Mercredi et Vendredi 14h-17h30,
+Dimanche 15h-18h
+CAMRES
+11 Passage de Dubaï, 75010 Paris
+Gare de l'Est (ligne 4 /5 /7)
+Lundi et mercredi 9h-12h15 et 13h45- 16h45 / Mardi 9h30-12h15/ Jeudi 9h30- 12h15 et 13h45-16h45 / Vendredi 9h-12h15
+LA MAISON DU PARTAGE 
+32 rue Bouret, 75019 Paris 
+Bolivar (ligne 7  BIS) 
+Jaurès (ligne 2 / 5 /  7 BIS)
+Lundi au Dimanche 9h-12h30 et 14h-17h
+Fermé le Samedi / 01 53 38 41 30
+AGORA (EMMAUS)
+32 rue Bourbonnais, 75001 Paris
+Châtelet (ligne 4 / 7 / 11 / 14 / 1 ou RER B)
+Lundi, Mardi, Mercredi, Vendredi 9h-12h et l'après-midi sur rendez-vous,
+Jeudi de 14h-16h
+ESI SAINT-MARTIN
+face au 31 bd Saint-Martin, 75003 Paris
+République (ligne 11 /5 /8 /3 / 9)
+Lundi au Vendredi 9h-12h30 et 14h-16h30 et les 9, 10, 23 et 24 mars 2019. Venir à 8h !
+MAISON DANS LA RUE - BICHAT
+Hommes et femmes seules
+35 rue Bichat, 75010  Goncourt (ligne 11) 
+Lundi, mardi, jeudi, vendredi 9h-12h30 et 13h30-17h / Mercredi 9h-12h30
+MAISON DANS LA RUE
+18 rue Picpus,  Nation (ligne 2)
+Lundi, Mardi, Jeudi, Vendredi 8h-12h et 14h-17h, Mercredi 14h-17h
+FEMMES
+HALTE FEMMES
+16-18 passage Raguinot, 75012 Paris
+Gare de Lyon (ligne 1 /14)
+Lundi au Vendredi 8h30-12h30,
+Mardi et Mercredi 13h30-20h
+Dimanche et Jours fériés 9h-16h
+HALTE AIDE AUX FEMMES BATTUES
+17 rue Mendelssohn, 75020 Paris
+Porte de Montreuil (ligne 9)
+Lundi 9h30-12h et 13h-17h, Mardi, Mercredi, Vendredi 13h-17h30 
+BIBLIOTHÈQUES
+BIBLIOTHÈQUE GOUTTE D'OR
+2 rue Fleury, 75018 Paris
+Barbès-Rochechouart (ligne 4 ) O Mardi, Jeudi, Vendredi : 13h-19h
+Mercredi, Samedi : 10h-18h
+BIBLIOTHÈQUE MAURICE GENEVOIX
+19 rue Tristan Tzara, 75018 Paris  Marx Dormoy (ligne 12)
+Mardi, Jeudi, Vendredi : 14h-18 Mercredi et Samedi : 10h-18h
+BIBLIOTHÈQUE HERGÉ 
+2 rue du Département, 75019 Paris 
+Stalingrad / La Chapelle (ligne 2) 
+Mardi, Jeudi, Vendredi : 13h-18h30 Mercredi et Samedi : 10h-18h
+BIBLIOTHÈQUE CLAUDE LÉVI-STRAUSS 
+41 avenue de Flandre, 75019 Paris 
+Riquet (ligne 7) 
+Mardi, Jeudi et Vendredi 13h-19h 
+Mercredi 10h-19h et Samedi 10h-18h 
+BIBLIOTHÈQUE VACLAV HAVEL 
+26 esplanade Nathalie Sarraute, 75018 Paris 
+Marx Dormoy (ligne 12) ou La Chapelle (ligne 2) 
+Du Mardi au Vendredi : 14h-19h 
+Samedi : 10h-18h
+MÉDIATHÈQUE FRANCOISE SAGAN 
+8 rue Léon Schwartzenberg, 75010 Paris 
+Gare de l'Est (ligne 4/ 5/7) 
+Mardi au Vendredi 13h-19h 
+Samedi 10h-18h, Dimanche 13h-18h
+MÉDIATHÈQUE DON QUICHOTTE
+ 120 avenue du président Wilson, 93210 Saint-Denis
+Front Populaire (ligne 12)
+Mardi 15h-20h, Mercredi et Vendredi 13h-18h, Jeudi 15h-18h, Samedi 10h-18h
+BIBLIOTHÈQUE DES SCIENCES ET DE L'INDUSTRIE
+Cité des sciences et de l'industrie
+30, avenue Corentin-Cariou, 75019 Paris  Porte de la Villette (ligne 7)
+Mardi au Dimanche : 12h-18h45
+S'HABILLER
+VESTIAIRE DE L’ÉGLISE 
+SAINT-BERNARD 
+Distribution de vêtements et produits d’hygiène - GRATUIT 
+12 Rue Saint-Bruno, 75018 Paris 
+Château Rouge (ligne 4) 
+Barbès Rochechouart (ligne 4 / 2) 
+La Chapelle (ligne 2 et RER B) 
+Samedi et Dimanche à partir de 8h30
+SE LAVER
+ - GRATUIT -
+Cabine individuelle - Venir avec serviette et savon
+BAINS-DOUCHES OBERKAMPF 
+Accessible aux personnes en situation de handicap 
+42 rue Oberkampf, 75011 Paris 
+Oberkampf (ligne 5) 
+Du lundi au samedi 7h30-13h, dimanche 8h-12h30, fermeture le jeudi
+BAINS-DOUCHES BIDASSOA 
+27 rue de la Bidassoa, 75020 Paris 
+Gambetta (ligne 3) 
+Du Mardi au Samedi 12h-18h
+BAINS-DOUCHES NEY 
+Accessible aux personnes en situation de handicap 
+134 boulevard Ney, 75018 Paris 
+Porte de Clignancourt (ligne 4) 
+Lundi, mardi, mercredi, vendredi, samedi 7h30-13h / Dimanche 8h-12h30. 
+BAINS-DOUCHES PETITOT 
+1 rue Petitot, 75019 Paris 
+Place des Fêtes (ligne 11) 
+Du Mardi au Samedi : 12h-18h
+BAINS-DOUCHES DES HAIES 
+27 rue des Haies, 75020 Paris 
+Buzenval (ligne 9) 
+Du mardi au samedi : 7h30 -13h, Dimanche : 8h-12h30 
+BAINS-DOUCHES PYRÉNÉES 
+296 rue des Pyrénées, 75020 Paris 
+Gambetta (ligne 3)
+Lundi, mardi, jeudi, vendredi, samedi : 7h30-13h, / Dimanche : 8h-12h30
+LA MAISON DU PARTAGE
+Gel douche, shampoing, serviettes et rasoirs fournis. / Petit-déjeuner compris
+Venir la veille pour prendre un rendez-vous 
+32 rue Bouret, 75019 Paris 
+Bolivar (ligne 7 BIS) 
+Du lundi au vendredi de 9h00 à 12h30 et de 14h à 16h30. Un vendredi sur deux et un dimanche sur deux.
+BAINS-DOUCHES ROUVET 
+1 rue Rouvet, 75019 Paris 
+Corentin Cariou (ligne 7) 
+Mardi au Samedi 7h30-13h 
+Dimanche 8h-12h30 
+BAINS-DOUCHES MEAUX 
+18 rue de Meaux, 75019 Paris 
+Colonel Fabien (ligne 2) 
+Tous les jours sauf mercredi : 7h30-13h Dimanche 8h-12h30 
+BAINS-DOUCHES LES AMIRAUX 
+6 rue Hermann-Lachapelle, 75018 Paris 
+Simplon (ligne 4) 
+Mardi au Samedi 12h-18h 
+LES DEUX-PONTS 
+8 rue des Deux Ponts, 75004 Paris 
+Pont-Marie (ligne 7) 
+Lundi, mardi, mercredi, vendredi : 7h30-17h30 
+Samedi 8h-17h / Dimanche 8h-11h 
+LA MAISON DANS LA RUE (BICHAT) 
+35 rue Bichat, 75010 Paris 
+Goncourt (ligne 11 ) 01 40 18 04 41 
+Lundi au vendredi : 9h à 17h (fermé le mercredi après-midi) 
+Venir la veille pour prendre un rendez-vous
+APPRENDRE LE FRANÇAIS SANS INSCRIPTION 
+BIBLIOTHÈQUE COURONNES
+En priorité pour les mineurs
+66 rue des Couronnes, 75020 Paris  Couronnes (ligne 2)
+Jeudi et Vendredi de 10h à 12h
+BPI - BIBLIOTHÈQUE PUBLIQUE D'INFORMATION
+Centre Pompidou, entrée rue Beaubourg 
+Au 2ème étage de la bibliothèque
+Rambuteau (ligne 11) ou Hôtel de Ville (ligne 11 / 1) 
+1. Apprentissage du français seul et gratuitement. Méthodes interactives audiovidéo adaptées aux langues d'origine 
+Ouvert de 12h à 22h (lundi-mercredi- jeudi-vendredi) et de 11h à 22h (samedi- dimanche- jours fériés), fermé le mardi.
+2. Ateliers de conversation gratuits sans inscription préalable. Arriver 20 min avant. Places limitées (6 personnes par cours). 
+Niveau grand débutant : Vendredi 13h 
+Niveau intermédiaire : Vendredi 14h, 16h, 18h
+AUTREMONDE
+30 rue de la Mare S 01 43 14 77 85  Couronnes (2 ) et Pyrénées (11 )
+1. Gratuit : Appeler pour horaires 
+2. Plusieurs autres programmes d'apprentissage sur le long terme dont des ateliers à visée professionnelle : s'inscrire le plus vite possible par téléphone ou sur place.
+COURS DE STALINGRAD
+Place de la Rotonde, 75019 Paris Sur les escaliers, à côté de la fontaine  Stalingrad /La Chapelle (ligne 2)  
+Tous les jours 18h30-19h30
+LA FÉMIS
+6 rue Francoeur, 75018 Paris
+Dans les classes de l'école
+Lamarck (ligne 12), Jules Joffrin (ligne 12), Chateau Rouge (ligne 4)
+Lundi et vendredi de 18h à 20h
+SUR INSCRIPTION
+ATOUTS COURS
+60€ l' année - S'inscrire sur place
+3 fois 2 heures par semaine pendant un an
+72 rue Philippe de Girard, 75018, Paris
+La Chapelle (ligne 2), Marx Dormoy (ligne 12)
+ESSOR
+07 81 86 79 15 ou 06 51 82 31 92
+60€ l' année - S'inscrire sur place 
+Accueil : mardi 10h-18h, mercredi, jeudi, vendredi 14h-18h
+15 Passage Ramey, 75018, Paris
+Marcadet-Poissonniers (ligne 4 ou 12)
+LES COURS DE FRANÇAIS DU BAAM (“BIENVENUE CHEZ TOI”)
+GRATUIT - SANS RENDEZ-VOUS - TOUS NIVEAUX
+Niveaux
+Alpha / écriture = lecture et écriture 
+A1/A2 = débutants
+B1/B2 = intermédiaires
+BON À SAVOIR
+page 21 – En cas d’arrestation
+page 24 – Ouvrir un compte en banque
+page 24 – Se déplacer
+page 26 – WIFI gratuit
+page 26 – Téléphone
+page 26 – Eau potable
+EN CAS D’ARRESTATION
+En tant que demandeur d'asile ou sans- contrôle d'identité dans la rue, dans le métro, dans une gare mais aussi à la préfecture lors d'une convocation ou dans votre centre d'hébergement, et d'être arrêté par la police.
+Ce document a pour but de vous expliquer comment faire pour réduire au minimum les risques d'une arrestation et/ou pour essayer de vous sortir du centre de rétention si vous êtes arrêté.
+Les documents et informations à avoir sur vous :
+Ne jamais avoir son passeport sur soi, gardez des copies dans plusieurs endroits sûrs et ne donnez jamais votre passeport.
+Ayez toujours ces documents sur vous (ou avec une personne de confiance qui pourra vous les apporter rapidement) :
+• Le reçu du dépôt de votre dossier si vous avez un dossier en cours (attestation de demande d'asile (récépissé), dossier et/ ou convocation en préfecture, requête ou demande d'aide juridictionnelle en cours au tribunal administratif, etc.)
+• Votre attestation de domiciliation ou d'hébergement si vous êtes hébergé (photocopie)
+• Vos certificats médicaux, ordonnances récentes si vous avez un suivi médical et les coordonnées de votre médecin (photocopie)
+• Tout document lié à votre situation familiale en France (ex : certificat de scolarité de votre enfant, acte de mariage, etc.)
+• Une carte téléphonique et/ou un téléphone portable sans appareil photo
+• Les coordonnées téléphoniques d'une personne de confiance ou membre d'une association à prévenir IMMEDIATEMENT si vous êtes arrêté ou placé en rétention
+• Les coordonnées d'un avocat.
+VOS DROITS AU COMMISSARIAT
+Ne signez pas de documents si vous ne comprenez pas ce qui y est écrit. Demandez à parler à un interprète !
+• À partir de l'heure de votre arrestation, vous pouvez être retenu 4 heures maximum dans le cadre d'un contrôle d'identité. Vous pouvez aussi être retenu dans le cadre d'une «retenue administrative» pour une durée maximum de 24 heures si la police a besoin de plus de temps pour vérifier votre statut. Si vous avez été arrêté parce que vous avez commis une infraction, vous pouvez être retenu 24 heures dans le cadre d'une garde à vue.
+Vous avez 4 droits essentiels dont l'utilisation peut vous permettre de sortir du commissariat, de ne pas être transféré au centre de rétention ou d'être libéré :
+• Demandez un interprète (langue rare si vous en parlez une) : précisez bien le dialecte dans lequel vous souhaitez être entendu. Exemple : arabe soudanais, kurde sorani, ...
+• Demandez à voir un médecin
+• Demandez à voir votre avocat ou un avocat commis d'office (gratuit)
+• Demandez à prévenir par téléphone une personne de confiance ou une association que vous avez été arrêté et où vous êtes retenu. Il sera alors plus facile pour eux de vous apporter de l'aide.
+Il est recommandé de répondre le plus exactement possible aux questions de la police sur votre situation personnelle ; ces réponses serviront à examiner votre situation. Vous n'êtes cependant pas obligé de répondre à une question si vous ne le voulez pas. 
+Après votre passage au commissariat, deux possibilités :
+1. VOUS ÊTES LIBÉRÉ
+Vous pouvez sortir du commissariat avec une OQTF (Obligation de Quitter le Territoire Français) ou une décision de transfert Dublin ou une remise Schengen. Toutes ces décisions visent à vous expulser. Ces décisions sont généralement à contester dans les 48 heures à partir de l'heure où vous avez signé le document et qu'il vous a été remis.
+Quand vous êtes libéré il ne faut donc pas attendre et contacter très vite une association qui puisse faire le point avec vous sur les documents qui vous ont été donnés et vous orienter. Si vous avez été insulté, maltraité, frappé par la police, vous pouvez porter plainte. Si vous avez été frappé, vous pouvez aller voir un médecin pour faire un certificat médical. Prenez contact avec une association et un avocat pour vous aider dans ces démarches.
+2. VOUS ÊTES TRANSFÉRÉ VERS UN CENTRE DE RÉTENTION ADMINISTRATIVE (CRA)
+A l'issue de la retenue ou garde à vue au commissariat, vous pouvez être placé en Centre de Rétention Administrative (CRA) et risquez d'être expulsé : soit vers votre pays d'origine, soit vers le pays responsable de votre demande d'asile (procédure Dublin) ou le pays qui vous a accordé la protection (remise Schengen).
+CONTESTATION DE LA DÉCISION D'EXPULSION ET DU PLACEMENT EN RÉTENTION
+Dès votre arrivée au CRA, prenez immédiatement contact avec l’association présente dans le CRA (ASSFAM-Groupe SOS, Forum Réfugiés, France terre d’asile, La Cimade, ou Ordre de Malte) qui vous aidera à faire les recours contre la rétention et contre la décision d’expulsion (OQTF, transfert Dublin, …). Elle pourra vous informer pendant toute la durée de la rétention de l’avancée de vos démarches.
+En cas d’absence de l’association (week-end, jours fériés...), prenez contact avec une association à l’extérieur (P. 8-9) ou votre avocat dans le cas où vous en avez un, afin de pouvoir déposer ce recours en temps et en heure. Rappelez-vous que vous avez seulement 48 heures pour déposer un recours contre la décision d’expulsion. 
+Contestation du placement en rétention :
+Devant le Juge des Libertés (JLD), qui décide au bout de 48h de prolonger ou non la rétention (prolongations possibles : 28 jours + 15 jours + 15 jours + 15 jours). Si l’association est absente et que vous n’avez pas d’avocat, n’oubliez pas que vous avez le droit de faire un recours contre la décision d’expulsion (OQTF, …) et contre la rétention auprès de la police (demandez le greffe) ; les policiers ne sont pas coopératifs sur ce point et vous diront d’attendre le retour de l’association, mais il ne faut pas les écouter : c’est votre droit d’envoyer ce recours, insistez auprès du greffe de la police pour pouvoir le faire. 
+En tout la rétention ne peut pas durer plus de 90 jours.
+Dès votre arrivée au CRA, prenez immédiatement contact avec l'association présente dans le CRA (ASSFAM-Groupe SOS, Forum Réfugiés, France terre d'asile, La Cimade, ou Ordre de Malte) qui vous aidera à faire les recours contre la rétention et contre la décision d'expulsion (OQTF, transfert Dublin, ...). Elle pourra vous informer pendant toute la durée de la rétention de l'avancée de vos démarches.
+En cas d'absence de l'association (week¬end, jours fériés...), prenez contact avec une association à l'extérieur (P. 8-9) ou votre avocat dans le cas où vous en avez un, afin de pouvoir déposer ce recours en temps et en heure. Rappelez-vous que vous avez seulement 48 heures pour déposer un recours contre la décision d'expulsion.
+Contestation du placement en rétention :
+Devant le Juge des Libertés (JLD), qui décide au bout de 48h de prolonger ou non la rétention (prolongations possibles : 28 jours + 15 jours + 15 jours + 15 jours). Si l'association est absente et que vous n'avez pas d'avocat, n'oubliez pas que vous avez le droit de faire un recours contre la décision d'expulsion (OQTF, ...) et contre la rétention auprès de la police (demandez le greffe) ; les policiers ne sont pas coopératifs sur ce point et vous diront d'attendre le retour de l'association, mais il ne faut pas les écouter : c'est votre droit d'envoyer ce recours, insistez auprès du greffe de la police pour pouvoir le faire.
+En tout la rétention ne peut pas durer plus de 90 jours.
+Recours contre la décision d'expulsion (OQTF, transfert Dublin, ...)
+Dans les 48 heures après la délivrance de la décision, devant le Tribunal Administratif.
+Il faut être très réactif et vraiment faire le recours avant les 48 heures. Après, ce sera trop tard et vous aurez laissé passer vos meilleures chances de libération.
+VOS DROITS EN RETENTION
+• Prévenez IMMEDIATEMENT des personnes de confiance de l'évolution de la situation (prolongation de la rétention, etc.). Tout le temps de votre rétention, vous pouvez téléphoner (votre portable ou les cabines publiques du centre).
+ATTENTION : les téléphones portables pouvant prendre des photos seront confisqués au début de votre placement en rétention. Il peut donc être utile d'avoir sur soi un portable sans appareil photo. Si vous n'en avez pas, vous pouvez aller voir le bureau de l'Ofii au CRA, ils peuvent vous vendre des portables sans caméras et/ou des cartes téléphoniques.
+• Vous avez le droit de recevoir la visite de vos amis, proches ou de membres d'une association (renseignez-vous auprès de l'association ou de la police pour connaître les horaires de visite). Les personnes qui vous rendent visite doivent être en situation régulière et présenter une pièce d'identité à l'entrée. Leur venue est libre, il n'y a pas besoin de prendre de rendez-vous. Ils peuvent notamment vous ramener des biens (vêtements, nourriture non périssable comme des gâteaux et des sodas ...), des documents et de l'argent. Gardez des contacts avec l'extérieur.
+• Ne restez pas isolé, gardez un lien avec votre entourage et les associations que vous connaissez pour qu'ils puissent s'organiser à l'extérieur et vous aider à obtenir votre libération. 
+IMPORTANT : Si vous n’avez pas donné votre passeport à la police lors du contrôle d’identité, pour vous expulser, l'Etat français a normalement besoin d'obtenir un laissez-passer de la part des autorités consulaires de votre pays (sauf dans quelques cas particuliers). Si vous refusez de voir un représentant de l'autorité consulaire, il sera plus difficile d’obtenir un laissez-passer et votre expulsion deviendra plus compliquée. 
+ATTENTION, dans ce cas il faut savoir que vous serez potentiellement condamnable à une courte peine de prison (1 à 4 mois, même après un seul refus de voir le consulat). Cependant, c'est l'une de vos meilleures chances de ne pas être expulsé vers votre pays d'origine. Si vous êtes déféré (garde à vue puis audience au tribunal) parce que vous avez refusé de voir votre consulat, essayez d’en informer au plus vite vos contacts à l’extérieur. 
+IMPORTANT : si vous êtes condamné à une courte peine de prison, vous 
+risquez d’être enfermé de nouveau au CRA à votre sortie de prison. La durée maximale de votre rétention pourra à nouveau être de 90 jours.
+OUVRIR UN COMPTE EN BANQUE
+Vous pouvez ouvrir un livret A à la La Banque Postale
+VOUS AVEZ BESOIN DE :
+• Attestation de demandeur d'asile (récépissé),
+• Attestation de domiciliation,
+• Un dépôt minimum de 1.50 € le jour de l'ouverture.
+Ce compte vous permet de recevoir l'ADA (Allocation de Demandeur d'Asile) (voir page 47) et de déposer votre argent.
+La carte de retrait qui vous permet de prendre l'argent sur votre compte n'est utilisable qu'avec les distributeurs de la Banque Postale.
+SE DEPLACER
+Cityma P pe r est une application sur téléphone mobile gratuite pour se déplacer dans Paris et calculer son itinéraire à l'avance pour ne pas se perdre.
+Le Métro fonctionne dans Paris et sa proche banlieue.
+Le RER est un réseau de trains qui permet de se déplacer entre Paris et le reste de la région
+parisienne.
+TICKETS
+Le Ticket t+ (2€) permet de faire un seul trajet en métro et RER (on peut prendre plusieurs lignes mais une fois sorti du métro, le ticket n'est plus valable). On peut réutiliser le même ticket pendant 1h30 pour changer de bus.
+• Les tickets coûtent plus chers quand on les achète dans le bus.
+• Ils sont moins chers à la vente dans le métro.
+• C'est moins cher d'acheter les tickets en carnet de 10.
+En région Ile-de-France, les bénéficiaires de la CMU complémentaire (voir page 49) peuvent bénéficier d'un tarif préférentiel sur le Pass Navigo (forfait Solidarité transport) correspondant à une réduction de 75% (17,50€ par mois au lieu de 70€).
+MARCHE À SUIVRE
+1. Demander un Pass Navigo dans une agence RATP (dans la plupart des stations de métro, aux guichets de vente). La délivrance du Pass Navigo est gratuite et obligatoire. Si l'agent de la RATP refuse de vous la délivrer, essayez dans une autre agence.
+2. Faire une première demande en ligne : ( http://www.solidaritetransport.fr/first- request/online/home). Vous aurez besoin de votre numéro de Pass Navigo et de votre attestation de CMU-C.
+3. L'Agence Solidarité Transport doit vous envoyer un courrier dans les 3 semaines suivant la demande en ligne, vous informant que vous pouvez charger votre Pass Navigo dans les bornes situées à l'intérieur des stations de métro.
+4. Si l'Agence ne vous envoie pas de courrier, vous pouvez l'appeler au 0 800 948 999 (appel gratuit, du lundi au vendredi de 9h à 18h).
+CE QU'IL FAUT SAVOIR
+L'entrée du métro est signalée par un grand M jaune
+Chaque ligne a une couleur différente qui permet de se repérer à l'intérieur des stations.
+La direction de la ligne est indiquée par le nom de la dernière station (terminus).
+Les différentes directions et correspondances sont clairement affichées dans les stations sur des panneaux bleus et blancs sur les quais et dans les couloirs.
+ATTENTION : Certa ines stations ont plusieurs sorties, il faut donc faire attention aux numéros et aux noms des sorties.
+A NOTER AUSSI QUE:
+Des plans du réseau des transports en commun, de toutes tailles, vous seront remis gratuitement aux guichets des stations, ainsi que dans les différents points d'accueil de l'Office du Tourisme de Paris. De grands plans sont aussi affichés sur les quais et à l'entrée des stations.
+Le métro fonctionne tous les jours, y compris les jours fériés, entre environ 5h30 et 0h30, et jusqu'à 2h du matin les vendredis et samedis.
+Si vous n'êtes pas bénéficiaire de la CMU-C (CMU-complémentaire), vous pouvez acheter un Pass Navigo Découverte à 5€ dans les guichets du métro. Pensez à coller une photo dessus et à le recharger.
+WIFI
+Il est possible d'accéder au wifi gratuit pendant 2 heures dans la plupart des lieux publics à Paris en suivant la marche à suivre :
+1. Choisissez le réseau nommé PARIS_WI-FI_ (généralement suivi d'un numéro)
+2. Ouvrez votre navigateur et remplissez le formulaire qui apparaît. La session est renouvelable à la fin des 2 heures en répétant le même processus. Le wifi des fast-food est accessible depuis l'extérieur du bâtiment (McDonald's, KFC, Burger King, Starbucks...), ainsi que dans les gares et les stations essence.
+Attention !
+Dans les gares (surtout Gare de l'Est et Gare du Nord) la présence policière est élevée, vous risquez un contrôle d'identité. Ayez toujours vos papiers sur vous.
+TELEPHONE
+ACHETER UN TELEPHONE
+Vous pouvez trouver des téléphones portables à 10€ dans des grands magasins comme la Fnac
+CHARGER VOTRE TELEPHONE
+Les abribus de Paris sont équipés d'une prise USB, sur le côté de la cloison lumineuse près de l'endroit où sont affichés les plans de la ligne de bus.
+EAU POTABLE
+Il est possible de trouver de l'eau potable à plusieurs endroits à Paris :
+• Aux robinets d'eau potable derrière et dans les TOILETTES PUBLIQUES.
+• Aux FONTAINES PUBLIQUES "WALLACES" . Elles sont vert foncé et ressemblent à des statues.
+A EAU NON POTABLE: indiquée par signe «EAU NON POTABLE» ou «NE PAS BOIRE».
+DÉMARCHES
+page 28 – Demander l’asile en France
+page 38 – Faire appel
+page 42 – Faire sa demande de réexamen
+page 44 – Si vous êtes reconnu réfugié
+Vos droits sociaux
+page 46 – Domiciliation
+page 47 – Allocations
+page 48 – Accès à la santé
+page 50 – Accès au logement
+page 50 – Scolarisation des enfants
+page 50 – Accès à l’emploi
+Demander l'asile en France en 4 étapes
+La loi du 10 septembre 2018 apporte plusieurs modifications dans la procédure de demande d’asile. 
+Toutes les informations ci-dessous tiennent comptent de ces Les 4 étapes de la demande d'asile sont :
+1ère étape - Rendez-vous à la SPADA - pages 29
+2ème étape - Rendez-vous à la préfecture - page 30
+3ème étape- Les différentes procédures - page 32
+4ème étape - Le dossier et l'entretien OFPRA - page 34
+Les mineurs isolés
+(moins de 18 ans)
+Rendez vous au DEMIE (voir page 7) pour tenter de faire reconnaître votre minorité et votre isolement.
+Cela vous donnera le droit à la protection par l'Aide Sociale à l'Enfance jusqu'à 18 ans (hébergement, scolarisation, soins).
+Vous avez tout de même le droit de faire une demande d'asile et pouvez donc prendre rendez-vous dans une SPADA. Cependant, les mineurs qui souhaitent demander l'asile sont soumis à une procédure spécifique, il est conseillé de demander l'aide d'une association (voir page 7 et 8-9)
+
+1ère étape - Rendez-vous à la SPADA
+Demander l’asile en France est un processus long et complexe. Les délais d’attente pour s’enregistrer en préfecture sont de plusieurs jours. De plus, pour les personnes placées en procédure Dublin (voir page 33), il ne sera pas possible de déposer directement votre demande d'asile, ce délai s’allonge d’un minimum de 6 mois.
+Dès que vous arrivez en France vous devez vous rendre dans une Structure de Premier Accueil des Demandeurs d'Asile (SPADA, ex-PADA). Ces structures sont les points de premier accueil de tous les demandeurs d'asile. Vous devez vous y rendre le plus tôt possible pour commencer votre demande d'asile.
+À Paris et en Ile-de-France, il est obligatoire d'appeler ce numéro pour prendre rendez-vous en SPADA : 01 42 500 900
+Vous pouvez appeler du lundi au vendredi de 9h à 15h30 (Vous ne pouvez plus vous rendre directement sur place.)
+Si vous rencontrez des difficultés pour joindre ce numéro, gardez précieusement l'historique des appels sur votre téléphone. Cela peut être utile de prouver que vous avez essayé plusieurs fois d'obtenir le rendez-vous.
+Quand vous appelez, attendez les options de langues, pour choisir la vôtre.
+Il existe une SPADA par département (Paris, Créteil, Cergy etc.). Même si vous appelez à Paris, vous recevrez peut-être un rendez-vous dans un autre département de la région Ile-de-France. A la fin de votre appel, vous recevrez un SMS de confirmation avec la date, l'heure et l'adresse du rendez-vous en SPADA.
+POUR LES FAMILLES, présentez-vous avec TOUS LES MEMBRES DE LA FAMILLE, y compris ceux qui ont déjà obtenu une autorisation de séjour.
+Dans la SPADA, VOUS allez rencontrer quelqu'un qui va :
+1. Vous donner des informations sur l'asile en France et vous poser des questions concernant :
+• Votre état-civil (c'est-à-dire nom, prénom, âge, situation familiale)
+• Les dates du départ de votre pays et d'arrivée en France. Attention, si vous dites que vous êtes entré en France depuis plus de 90 jours, vous serez placé en “procédure accélérée”, qui vous est défavorable.
+• L'itinéraire que vous avez emprunté pour arriver en France
+• La langue que vous souhaitez utiliser pendant toute votre procédure d'asile
+2. Saisir ces informations dans le système informatique afin qu'elles soient transmises à la préfecture. Si vous donnez de fausses informations et que la préfecture s'en
+rend compte, vous risquez d'être placé en procédure accélérée, qui vous est défavorable.
+3. Vous remettre une convocation pour vous rendre au guichet unique (GUDA) à la préfecture pour enregistrer votre demande d'asile.
+
+2ème étape - Rendez-vous à la préfecture
+Sur la convocation au guichet unique, toutes les informations sont indiquées : l'adresse de la préfecture, la date et l'heure de votre rendez-vous.
+Il faut y aller à l'heure ! Si vous êtes en retard, vous ne serez pas reçu.
+Prévoir d'y passer au moins la demi- journée, voire toute la journée.
+Au guichet unique, vous devez vous présenter d'abord au guichet de la préfecture et ensuite au guichet de l'Ofii.
+Plusieurs documents vont vous être remis par la préfecture et par l'Ofii, NE PERDEZ PAS CES DOCUMENTS. Prenez- les en photo, faites des photocopies et gardez-en une copie (papier ou numérique) dans plusieurs endroits.
+Au guichet unique (GUDA) :
+1) La préfecture enregistrera votre demande d'asile.
+2) Ensuite l'Ofii évaluera votre vulnérabilité pendant un entretien (situation d'hébergement et problèmes médicaux).
+Que faire quand j'arrive au guichet unique (GUDA) ?
+1. Aller au guichet de la préfecture
+Un officier chargé d'enregistrer votre demande d'asile va :
+• prendre vos empreintes digitales,
+• vérifier si vous n'avez pas déjà demandé l'asile en France ou dans un autre pays de l'Union Européenne,
+• vous remettre un guide des procédures dans votre langue maternelle,
+• vous demander de préciser la langue dans laquelle vous souhaitez être entendu pendant toute la procédure (votre langue maternelle ou si elle n'est pas disponible, une autre langue dont vous avez une connaissance suffisante). Il sera ensuite très difficile de demander à changer de langue mais vous avez le droit de demander à vous exprimer en français à tout moment.
+• Vous donner une attestation de demande d'asile (récépissé) vous informant de la procédure dans laquelle votre demande d'asile sera examinée : Procédure normale, procédure accélérée ou procédure Dublin (pages 32-33)
+A Il est très important que vous compreniez la différence entre ces trois procédures car dans chaque procédure la demande sera examinée différemment, en termes de délais mais aussi en termes de qualité d'examen de dossier, particulièrement lors de votre recours auprès de la CNDA !
+ 2. Puis aller au guichet de l'Ofii
+C'est quoi l' OFII ? (Office Français d'Immigration et d'Intégration)
+L'Offi est une administration sous la tutelle du Ministère de l'Intérieur. Elle est en charge du premier accueil des demandeurs d'asile en France pendant l'examen de la demande d'asile (financement des structures d'accueil des demandeurs d'asile - SPADA). Il gère le dispositif national d'accueil (hébergement pour demandeurs d'asile, allocation)
+Un agent de l'Ofii va :
+• vous poser des questions sur votre situation personnelle. C'est à lui que vous devez indiquer si vous avez des besoins spécifiques (si vous êtes handicapé, enceinte, malade, si vous avez besoin de voir un psychologue...).
+• vous donner un formulaire appelé « Offre de prise en charge au titre du dispositif national d'accueil ». Cela vous permettera d'obtenir un hébergement et une allocation financière (ADA).
+Pour avoir l'aide proposée par l'Ofii, vous devez signer le formulaire en cochant la case OUI J'ACCEPTE DE BÉNÉFICIER DES CONDITIONS MATÉRIELLES D'ACCUEIL (en bas à droite du formulaire).
+Vous ne pouvez pas bénéficier de l'allocation financière (ADA) mais ne pas demander un hébergement. C'est un “package” : soit vous demandez à bénéficier d'un hébergement et de l'allocation financière, soit vous ne pourrez bénéficier de rien.
+Depuis la nouvelle loi asile, l'Ofii peut vous proposer une orientation vers une région spécifique autre que celle où vous avez déposé votre demande d'asile. Si vous refusez de vous y rendre, vous n'aurez pas droit à l'hébergement ni à l'allocation (ADA). L'Ofii devra vous donner un billet de transport et l'adresse de la SPADA ou de l'hébergement auquel vous devrez vous présenter dans les 5 jours. Il vous est demandé de rester dans cette région pendant toute votre procédure d'asile.
+3. Domiciliation en SPADA
+Après le rendez-vous en Guichet unique, il vous faudra retourner à la SPADA pour vous y faire domicilier.
+C'est quoi la domiciliation ?
+C'est une adresse postale à laquelle vous pouvez recevoir votre courrier, ce n'est pas nécessairement un hébergement à proprement parler. Cette adresse permet à l'OFPRA et à la CNDA de vous contacter. Elle prendra fin à partir du moment où votre procédure prend fin.
+La SPADA est l'association qui vous a donné le rendez-vous en Guichet unique. A partir du moment où cette association vous donne une adresse, vous avez aussi le droit d'y bénéficier d'un accompagnement social et juridique : accès à l'assurance maladie, demande d'hébergement d'urgence, réduction transport, suivi de votre procédure d'asile, etc. 
+3ème étape - Les procédures d'asile
+1. PROCÉDURE NORMALE Votre demande d'asile sera examinée par l'Office Français de Protection des Réfugiés et Apatrides (OFPRA) sans disposition particulière. Vous bénéficiez de droits sociaux accordés aux demandeurs d'asile (sécurité sociale, etc.), ainsi que des aides si vous avez répondu « Oui » au formulaire de l'Ofii (Allocation/hébergement).
+Au guichet unique, la préfecture vous a remis un dossier OFPRA . Il est très important de bien remplir ce dossier : lisez attentivement les conseils page 35 et demandez de l'aide à une association spécialisée (voir p.8-9).
+Vous devez le remplir et l'envoyer en vous rendant à la Poste avec tous les documents demandés dans un délai de 21 jours.
+Si votre dossier est complet, l'OFPRA vous envoie une lettre d'enregistrement.
+Cette lettre vous permettra de renouveler votre attestation de demande d'asile pour une durée de 9 mois.
+ATTENTION : Il faut souvent plusieurs jours pour renouveler votre attestation de demande d'asile (récépissé), pensez à vous présenter à la préfecture quelques jours avant la date d'expiration, avec une attestation de domiciliation récente, pour être certain de ne pas rencontrer de problème. Si votre attestation de demande d'asile n'est plus valable, vous pouvez être arrêté lors d'un contrôle d'identité (voir page 21).
+2. PROCÉDURE ACCÉLÉRÉE Les délais d'examen de votre dossier seront réduits, et selon le motif de placement en procédure accélérée, les conditions matérielles d'accueil (hébergement + allocation financière) peuvent vous être refusées.
+La préfecture peut décider de placer un demandeur d'asile en procédure accélérée pour les raisons suivantes :
+•si vous refusez la prise d'empreintes ou si vos empreintes ne sont pas lisibles
+• si vous avez dissimulé des informations sur votre trajet ou sur votre identité
+• si vous avez reçu une obligation de quitter le territoire français (OQTF)
+• si vous avez déjà fait une demande d'asile et que vous faites un réexamen (voir page 42),
+•si vous avez fait votre demande plus de 90 jours après votre arrivée en France, sans justifier ce délai, car cela est considéré par la préfecture comme un signe que vous n'avez pas un besoin urgent d'être pris en charge par un autre Etat que le vôtre.
+• si vous avez la nationalité d'un des pays suivants, considérés comme sûrs: Albanie, Arménie, Bénin, Bosnie- Herzégovine, Cap-Vert, Ghana, Géorgie, Inde, Kosovo, Macédoine, Maurice, Moldavie, Mongolie, Monténégro, Sénégal, Serbie.
+La procédure accélérée vous permet tout de même de faire une demande d'asile mais cela se fera dans un temps plus court, avec des garanties de procédure plus limitées, notamment lors du recours à la CNDA. Cette procédure ne vous est pas favorable.
+La préfecture doit vous remettre un document qui explique pourquoi elle vous place en procédure accélérée. Demandez- le si elle ne vous le donne pas.
+Au guichet unique, la préfecture vous a remis un dossier OFPRA . Il est très important de bien remplir ce dossier : lisez attentivement les conseils page 35 et demandez de l'aide à une association spécialisée (voir pages 8-9).
+Les personnes en procédure accélérée doivent ajouter dans leur dossier la notice d'information de la préfecture précisant les motifs de placement en procédure accélérée.
+Pour le renouvellement de votre attestation de demande d'asile (récépissé), suivre les mêmes conseils que pour les personnes en procédure normale.
+Si vous pensez que votre demande doit être examinée en procédure normale parce que vous êtes en désaccord sur le motif de placement ou en raison d'une vulnérabilité particulière, vous pouvez demander le changement de procédure.
+Il faut indiquer à l'OFPRA (dans votre récit ou lors de l'entretien) pourquoi vous pensez que vous n'auriez pas dû être placé en procédure accélérée. L'OFPRA a la possibilité de vous placer en procédure normale. Si l'OFPRA ne le fait pas, vous pouvez exposer vos arguments à la CNDA.
+3. PROCÉDURE DUBLIN
+Si la préfecture vous place en procédure Dublin, cela veut dire que vos empreintes ont été retrouvées dans un autre pays européen, ou que vous avez obtenu un visa d'un autre pays d'Europe. La préfecture ne peut donc pas vous enregistrer en tant que demandeur d'asile en France. Elle demandera à ce pays de vous reprendre pour examiner votre demande d'asile.
+En attendant la réponse du pays responsable, vous aurez le droit de rester en France et bénéficierez des conditions matérielles d'accueil des demandeurs d'asile, comme l'allocation pour le demandeur d'asile (ADA), l'assurance maladie (PUMA), etc.
+Il est possible de faire un recours pour demander à ce que la France soit responsable de votre demande d'asile et à ne pas être transféré. Les chances de gagner ce type de recours dépendent de votre situation individuelle (santé, famille, pays par lesquels vous êtes passés, etc.) mais sont généralement très faibles. Attention : si vous perdez votre recours, le temps d'attente avant de pouvoir enregistrer votre demande d'asile en France va s'allonger de plusieurs mois.
+Si vous n'avez pas été transféré dans le pays où l'on a pris vos empreintes dans les 6 à 18 mois qui suivent votre enregistrement en préfecture, la France sera normalement en charge de votre demande d'asile. Attention, chaque situation Dublin est différente, ce qui a marché pour une personne ne marchera pas forcément pour vous.
+Dans tous les cas, rendez vous dans une permanence juridique le plus vite possible (voir pages 8 et 9) pour y obtenir plus d'informations sur la procédure Dublin et votre situation personnelle (voir page 8- 9).
+4ème étape - Le dossier et l'entretien de l'OFPRA
+C'est quoi l'OFPRA ?
+L'Office Français de Protection des Réfugiés et Apatrides (OFPRA) est un établissement public, chargé de l'application des textes français et des conventions européennes et internationales, relatifs à la reconnaissance des qualités de réfugié ou d'apatride, et de l'admission à la protection subsidiaire.
+Il examine la demande d'asile et prend la décision d'accorder à la personne la protection internationale ou de rejeter la demande. Sa décision peut être contestée auprès de la Cour nationale du droit d'asile (CNDA)
+Quand vous vous préparez pour votre passage à l'OFPRA, il y a deux choses importantes : le dossier et l'entretien.
+1. Le dossier OFPRA vous a été donné par la préfecture lors de votre passage au guichet unique. Il est unique. Vous devez le remplir en écrivant votre histoire en français et en donnant toutes les informations vous concernant.
+2. L'entretien à l'OFPRA est le moment le plus important de votre parcours de demandeur d'asile. Vous pourrez expliquer directement à un représentant de l'OFPRA les raisons de votre départ et vos craintes en cas de retour dans votre pays.
+La décision de l'OFPRA concernant votre demande d'asile repose sur ces deux éléments, lisez bien les informations sur la constitution de votre dossier ainsi que sur la préparation de l'entretien.
+1. LE DOSSIER OFPRA
+Vous devez envoyer le dossier de votre demande d'asile à l'OFPRA dans un délai de 21 jours !
+A travers votre récit, il faut réussir à convaincre l'OFPRA que votre vie est vraiment en danger dans votre pays et que vous ne pouvez y retourner sans craindre des persécutions, la torture ou la mort. Pour cela, nous vous recommandons fortement de faire appel à l'aide d'une association spécialisée ou d'un avocat pour écrire votre récit.
+CONSEIL : prenez en photo tous vos documents dans votre téléphone, prenez contact avec une association pour faire des photocopies du dossier complet, c'est très important d'avoir une copie de ces documents.
+• Comment remplir le dossier OFPRA ?
+1. Il doit être rempli en français.
+2. Il doit être signé par le demandeur d'asile.
+3. Il doit comporter :
+• 2 photos d'identité au format officiel.
+• la photocopie de l'attestation de demandeur d'asile (récépissé).
+• l'original de votre passeport, de votre carte d'identité ou tout autre document d'état civil si vous en avez.
+4. Il doit être rempli avec vos informations personnelles ainsi que celles de votre famille (nom, prénom, date et lieu de naissance, etc.).
+5. Il doit préciser la langue dans laquelle vous souhaitez être entendu pendant l'entretien.
+6. Il doit contenir votre récit en français avec toutes les raisons pour lesquelles vous avez quitté votre pays pour demander l'asile en France. Le récit écrit est le premier moyen pour faire connaître vos craintes, dans leur contexte et en détail.
+Il faut donc y apporter des informations précises et cohérentes. Il doit contenir les noms des personnes et des lieux que vous citez, ainsi que les dates dans le calendrier de votre pays.
+Si vous disposez de preuves matérielles pour appuyer votre récit et attester des persécutions que vous avez subies (photos, papiers d'identité, etc.), ajoutez-les à votre dossier.
+Nous vous déconseillons d'ajouter des événements que vous n'avez pas vécu et de payer des compatriotes ou des personnes non professionnelles pour la traduction de votre récit : cela pourrait nuire à la crédibilité de votre demande d'asile. Les associations peuvent vous aider à écrire votre récit en français gratuitement.
+S'il y a des erreurs dans votre dossier ou votre récit, vous pourrez demander à les corriger lors de l'entretien.
+• J'ai besoin d'aide pour remplir mon dossier
+Vous pouvez demander à la SPADA* de vous aider pour remplir le dossier et rédiger votre récit en français.
+(*La SPADA est l'organisation qui vous donne une adresse postale si vous n'avez pas de logement).
+D'autres associations peuvent vous aider pour votre dossier OFPRA (voir pages 8-9). Même si vous êtes aidé par une association ou par un avocat, lisez attentivement les informations données dans ce guide concernant le dossier OFPRA : ce qui est écrit dans votre dossier OFPRA est important pour la suite de vos démarches.
+• Comment et quand l'envoyer ?
+Le dossier doit être envoyé à l'OFPRA dans un délai de 21 jours après votre passage à la préfecture, à l'adresse suivante :
+OFPRA 201, Rue Carnot 94120 Fontenay-sous-Bois
+À envoyer en lettre recommandée avec accusé de réception.
+Cela vous permettra de prouver que vous avez bien envoyé votre dossier s'il est perdu. Si vous décidez de déposer votre dossier directement à l'OFPRA, vous n'aurez pas immédiatement de preuve de dépôt du dossier.
+Il est conseillé au demandeur d'asile de conserver les photocopies de l'ensemble de son dossier (formulaire, récit et documents joints) ainsi que la preuve de la bonne réception du dossier par l'OFPRA. 
+2. L'ENTRETIEN L'entretien à l'OFPRA est le moment le plus important de votre parcours de demande d'asile. Vous recevrez la convocation par courrier, le plus souvent en même temps que la lettre d'enregistrement de votre demande d'asile : vérifiez chaque semaine si vous avez reçu du courrier à votre lieu de domiciliation ! La date, l'heure ainsi que les conditions dans lesquelles l'entretien va se dérouler seront indiquées dans la lettre. Vous devez vous présenter à l'heure le jour de votre entretien et ne pas prendre de billet retour trop tôt.
+Depuis la nouvelle loi asile, l'OFPRA peut également vous avertir de la date de votre entretien par e-mail et par SMS. Si vous avez fourni ces informations à l'administration, pensez à consulter régulièrement vos e-mails et votre téléphone.
+• Qui sera présent à l'entretien ?
+Ces personnes sont soumises à la neutralité et à la confidentialité :
+• Un officier de protection, qui travaille pour l'OFPRA. Son titre n'a rien à voir avec la police.
+• Un interprète si vous ne parlez pas français. Vérifiez que cet interprète parle la même langue que vous. Si vous ne le comprenez pas ou si vous pensez qu'il n'est pas neutre, vous devez le signaler à l'officier de protection.
+Si vous en faites la demande, un représentant associatif ou un avocat (spécialement autorisé) peut aussi être présent. C'est un témoin silencieux durant l'entretien. Il peut formuler des observations seulement à la fin de celui-ci.
+• Comment se déroule l'entretien
+Au cours de l'entretien, l'officier de protection de l'OFPRA pose des questions sur la base des informations données dans votre dossier OFPRA mais ce sont vos déclarations lors de l'entretien qui auront le plus de poids pour la décision finale.
+1. La première partie de l'entretien porte sur votre état civil : l'officier de protection vous pose des questions pour vérifier votre identité et votre situation familiale. Il est important de confirmer l'état civil de votre famille (orthographe) et de n'oublier personne.
+2. La deuxième partie de l'entretien porte sur votre histoire et vos craintes personnelles et vous permet de raconter les événements qui vous ont conduit à quitter votre pays. Des précisions vous seront ensuite demandées sur les circonstances de ces événements (dates, lieux etc.). Vos réponses doivent être le plus détaillées possible et insister sur ce qui vous est arrivé personnellement.
+3. A la fin de l'entretien, vous devrez expliquer quelles sont vos craintes actuelles et indiquer ce qui pourrait vous arriver en cas de retour dans votre pays.
+Un entretien dure généralement 1H30, mais il peut durer de 45 minutes à plusieurs heures. Vous avez le droit de demander à faire une pause pour boire ou aller aux toilettes.
+• Comment me préparer?
+L'entretien est confidentiel : vous pourrez donc vous exprimer librement.
+Il est important de répondre de manière naturelle et le plus spontanément possible. N'apprenez par cœur votre récit ; essayez de détailler ce que vous avez vécu en essayant de vous rappeler de l'ordre chronologique des événements, des dates, des lieux, des noms des personnes et de leur fonction- c'est-à-dire de tous les détails qui permettront à l'officier de protection de bien comprendre votre histoire.
+Il ne faut jamais mentir : si vous ne savez pas quelque chose ou que vous avez oublié, dites-le. Si vous ne comprenez pas la question posée ou si vous pensez ne pas avoir été compris, n'hésitez pas à le dire à l'officier de protection.
+Si vous souffrez de pertes de mémoire, que vous faites souvent des cauchemars et que le rappel des événements est trop douloureux pour vous, il est important de prévenir l'officier de protection au cours de l'entretien pour qu'il comprenne votre situation. Vous souffrez peut-être d'un syndrome de stress post¬traumatique, il peut être utile d'aller voir un médecin pour en parler et obtenir un certificat médical à remettre à l'OFPRA (voir page 12 et 13)
+• Quand et comment est ce que je reçois la réponse?
+L'OFPRA rend sa décision dans un délai moyen de 3 à 4 mois. Parfois, la décision peut prendre plus de temps que prévu. Dans ce cas l'OFPRA va vous envoyer un courrier pour vous prévenir qu'il ne pourra probablement pas décider de votre cas dans les délais prévus. Il est possible d'être convoqué à un deuxième entretien.
+La décision finale vous sera envoyée par lettre recommandée à votre adresse. Il est donc très important de vérifier votre courrier au moins une fois par semaine. Le facteur laisse un « Avis de passage » dans votre centre de domiciliation. Avec cet avis de passage et votre attestation de demande d'asile vous pouvez récupérer votre lettre recommandée pendant 15 jours à la Poste.
+Depuis la nouvelle loi asile, l'OFPRA peut également vous communiquer la décision par voie électronique. Si vous avez fourni votre adresse e-mail à l'administration, pensez à consulter régulièrement vos emails. La date à laquelle vous êtes notifié de votre décision est importante pour calculer le délai de recours.
+• Que faire quand j'ai reçu la décision de l'OFPRA ?
+L'OFPRA va décider si la France doit vous protéger : il peut accorder le statut de réfugié ou la protection subsidiaire ; il peut aussi rejeter votre demande.
+1. Si l'OFPRA vous reconnaît la qualité de réfugié : Vous avez le droit d'obtenir de la préfecture une carte de résident de 10 ans renouvelable.
+2. Si l'OFPRA vous accorde la protection subsidiaire : Vous aurez droit à une carte de séjour de 4 ans, puis une carte de résident de 10 ans renouvelable. Il est possible de faire appel de la décision de l'OFPRA en vue d'essayer d'obtenir le statut de réfugié (voir pages suivantes). Cet appel ne remet pas en cause l'obtention de la procédure subsidiaire.
+Si vous obtenez le statut de réfugié ou la protection subsidiaire : lire pages 44, 45 pour connaître les prochaines démarches.
+3. Si l'OFPRA rejette votre demande : Vous pouvez faire un recours auprès de la Cour Nationale du Droit dAsile (CNDA) (voir page 38) A Depuis la nouvelle loi asile,certaines personnes en PROCEDURE ACCELEREE (Réexamen, pays d'origine sûr, etc.) n'ont plus le droit au séjour après une décision de rejet de l'OFPRA.
+Elles peuvent être renvoyées dans leur pays d'origine même pendant la période de recours à la CNDA. Dans ce cas, rendez-vous immédiatement dans une permanence juridique pour demander l'aide d'une association spécialisée ou d'un avocat (voir p.8-9) 
+Faire appel de la décision de l'OFPRA
+Si l'OFPRA a rejeté votre demande d'asile, vous pouvez faire un recours à la Cour nationale du droit d'asile (CNDA) pour contester la décision de l'OFPRA.
+Comment faire un recours à la CNDA ?
+Le recours doit être présenté sous la forme d'une lettre, qui peut être accompagnée de documents, et qui doit être écrite en français. Dans cette lettre on doit trouver certains éléments importants :
+• Votre état-civil et des informations vous concernant (nom, prénom, date et lieu de naissance, nationalité, adresse)
+• Des arguments pour contrer les points de la décision de l'OFPRA que vous contestez. Vous devez bien exposer la ou les raisons pour lesquelles vous pensez que l'OFPRA a pris la mauvaise décision sur votre dossier.
+C'est quoi la CNDA ?
+La Cour Nationale du Droit d'Asile est une juridiction administrative. Elle examine les recours formés contre les décisions de l'OFPRA. Après un examen approfondi des arguments des parties (l'OFPRA et le demandeur d'asile), elle prend sa décision.
+Elle peut annuler le rejet de l'OFPRA et accorder le statut de réfugié ou la protection subsidiaire. Elle peut aussi rejeter le recours. Dans ce cas, l'asile en France est refusé au demandeur.
+1. Avocat gratuit
+Attention, les délais pour demander l'assistance gratuite d'un avocat sont très courts : vous devez faire une demande dans les 15 jours après le retrait de la décision OFPRA. Depuis la nouvelle loi asile, il n'est plus possible de demander l'aide juridictionnelle après ce délai de 15 jours, vous devrez alors vous défendre seul ou avec un avocat payant. Ce n'est pas conseillé.
+Si vous avez demandé l'aide juridictionnelle, votre avocat vous accompagnera alors dans toutes les démarches liées au recours (il reçoit une copie de vos courriers).
+Deux manières de faire une demande d'avocat :
+• Demander l'aide de la SPADA ou d'une d'association spécialisée Vous devez vous rendre à la SPADA ou dans une permanence juridique pour obtenir de l'aide (voir p.8-9)
+• Demander l'aide juridictionnelle par vous-même
+Ecrire une lettre signée de votre main, en précisant bien votre état civil, le numéro de votre dossier OFPRA et d'y joindre la copie de la décision de l'OFPRA.
+Il faut envoyer ces documents en courrier recommandé avec accusé de réception à l'adresse suivante :
+Cour nationale du droit d'asile - Bureau d'aide juridictionnelle 35 rue Cuvier, 93558 Montreuil Cedex
+Ou par fax au 01 48 18 43 11
+Ou en déposant vous-même sur place votre lettre.
+Vous pouvez également trouver vous- même un avocat qui accepte l'aide juridictionnelle. Il ou elle devra envoyer une lettre à la CNDA pour les informer qu'il/elle prend votre dossier.
+Si vous demandez un avocat gratuit dans les 15 jours après avoir reçu votre lettre de rejet de l'OFPRA, le délai d'un mois pour le dépôt du recours sera interrompu, jusqu'à ce que l'on vous accorde un avocat.
+Vous allez recevoir rapidement (15 jours environ) deux lettres :
+• une lettre d'enregistrement de votre demande
+• une lettre d'acceptation de votre demande et indiquant le nom et l'adresse de votre avocat.
+A partir du moment où vous recevez cette lettre, votre avocat dispose de peu de temps pour faire le recours. Il a besoin de vous rencontrer et d'écouter votre histoire afin de préparer les arguments contre la décision de l'OFRPA.
+Contactez-le rapidement ! Les avocats sont souvent très occupés, mais n'hésitez pas à demander un rendez-vous avec lui/elle. Si vous n'arrivez pas à prendre un rendez-vous avec votre avocat, vous pouvez demander l'aide d'une association. (voir pages 8- 9) 
+2. Avocat payant
+Si vous voulez prendre un avocat privé de votre choix pour vous défendre devant la CNDA, vous devez le trouver vous-même et payer ses honoraires.
+A l'aide de votre avocat, vous devez envoyer votre recours à la CNDA dans le délai d'un mois suivant la notification de rejet de votre demande d'asile par l'OFPRA.
+Si vous n'arrivez pas à prendre un rendez- vous avec l'avocat que vous avez payé, vous pouvez demander l'aide d'une association. (voir pages 8 et 9)
+3. Faire recours sans avocat
+Ce n'est pas recommandé.
+Vous devez défendre votre dossier à la CNDA sans l'aide d'un avocat.
+Si vous souhaitez faire seul votre recours et défendre votre dossier, lisez les informations données précédemment pour connaître les éléments importants d'un recours.
+Que se passe-t-il après le dépôt de mon recours ?
+C'est la CNDA qui instruit votre demande.
+• Vous recevrez d'abord une lettre d'enregistrement du recours à la CNDA qui prouve que votre recours est bien enregistré.
+• Ensuite vous recevrez une convocation à la CNDA pour une audience publique.
+Si votre recours ne présente pas d'arguments pertinents pour contester la décision de l'OFPRA, une décision de rejet peut être prise par ordonnance, c'est- à-dire sans examen approfondi, et sans audience.
+L'audience se déroule dans les locaux de la CNDA (35 rue Cuvier, 93100 Montreuil, en région parisienne).
+Il est important que vous y alliez. Sachez que les audiences sont publiques. Vous pouvez donc si vous le souhaitez assister à des audiences d'autres personnes, pour voir comment cela se passe avant que vous soyez vous-même convoqué.
+Lors de l'audience, vous vous trouverez face à une formation de jugement composée de trois personnes.
+A vos côtés, seront assis votre avocat (à droite) et votre interprète (à gauche).
+Si vous êtes en procédure accélérée, vous n'aurez pas trois personnes en face de vous, mais une seule : un juge unique.
+Le jour de votre audience, vous pouvez demander (par le biais de votre avocat) à être entendu à huit-clos - c'est-à-dire sans public.
+L'audience se déroule comme suit :
+1. Le rapporteur expose votre cas ;
+2. Le ou les juges vous posent des questions directement pour comprendre votre histoire. Cette phase est très importante, car les juges cherchent la vérité et doivent être convaincus de la réalité de vos craintes. Pour cela vous devez répondre le plus naturellement et spontanément possible à leurs questions, tout en apportant les détails et les circonstances demandés. (Voir conseils pour l'entretien OFPRA). A ce moment ne comptez que sur vous, et non sur votre avocat, qui ne connait pas aussi bien les événements que vous avez personnellement vécus ;
+3. enfin, votre avocat pendra la parole pour plaider votre demande d'asile en insistant sur les points les plus importants de votre histoire et pour critiquer la décision de l'OFPRA.
+Environ trois semaines après l'audience, la CNDA vous envoie sa décision par lettre recommandée. La décision sera également affichée à la CNDA. La date d'affichage vous est communiquée le jour de l'audience.
+Que faire quand j'ai reçu la décision de la CNDA ?
+La décision finale vous sera envoyée par lettre recommandée à votre adresse.
+Il est donc très important de vérifier chaque semaine si vous avez reçu du courrier à votre lieu de domiciliation.
+La CNDA peut soit décider d'annuler la décision de l'OFPRA, c'est-à-dire qu'elle vous accorde le statut de réfugié ou la « protection subsidiaire », soit elle peut refuser votre demande d'asile.
+• Si vous obtenez le statut de réfugié ou la protection subsidiaire : lire les informations pages 44-45, qui vous expliquent comment procéder pour les premières démarches.
+• Si la CNDA refuse de vous accorder la protection, très peu de choses sont encore possibles :
+- Un recours devant le conseil d'Etat est possible mais les conditions sont très strictes : il s'agit d'un recours qui concerne uniquement les problèmes liés à la procédure et non pas le contenu de votre dossier.
+- Un réexamen de votre demande d'asile est possible mais il faut pour cela disposer d'éléments nouveaux. (Voir page 42)
+Si la CNDA refuse de vous accorder l'asile, cela signifie que vous n'avez plus droit au séjour sur le territoire français. Vous pouvez vous faire arrêter et être renvoyé dans votre pays. Rendez-vous en permanence juridique pour demander des conseils et lisez bien la page « en cas d'arrestation » pour connaître vos droits (pages 21-23). 
+Faire sa demande de réexamen
+Si vous êtes alerté de nouveaux événements qui concernent votre sécurité dans votre pays, il est possible de demander le réexamen de votre demande d’asile à l’OFPRA. Il n’existe pas de délai pour lancer ce réexamen. Seule compte l’existence de nouveaux événements qui confirment les menaces à votre encontre en cas de retour dans votre pays.
+Soyez attentif à ce qui est considéré comme un élément nouveau. 
+Si vous déposez une demande de réexamen avec un dossier qui ne correspond pas aux critères décrits ci-dessous, votre demande sera rejetée sans entretien.
+Qu'est-ce qu'un fait nouveau ?
+Il s'agit d'un événement qui indique que vous pouvez toujours craindre des persécutions ou des menaces graves c'est- à-dire que ces craintes sont actuelles.
+Le fait est nouveau s'il est intervenu après le rejet définitif de votre précédente demande d'asile.
+Le fait est donc nouveau s'il s'est passé :
+• Après la date de la décision de la Cour nationale du droit d'asile (CNDA)
+• Après la date de la décision de l'OFPRA (dans le cas où vous n'aviez pas formé de recours devant la CNDA).
+• Ou si vous démontrez que vous ignoriez l'événement à la date du rejet ou que vous n'aviez pas la possibilité de les présenter lors de votre première demande.
+Voici quelques exemples d'événements considérés comme fait nouveau s'ils n'ont pas déjà été évoqués devant l'OFPRA ou la CNDA :
+• L'évolution de la situation politique et/ ou sécuritaire du pays si celle-ci a une incidence sur votre situation personnelle.
+• La reconnaissance d'une protection d'un proche dont les craintes de persécutions sont liées à votre situation.
+Une preuve nouvelle n'est pas un fait nouveau.
+La demande de réexamen n'est pas acceptée si vous rapportez un élément qui ne fait que confirmer vos déclarations orales ou écrites de la précédente demande.
+Exemples :
+• L'attestation d'affiliation à un parti politique n'est qu'une preuve nouvelle si vous aviez déjà évoqué votre appartenance à ce parti politique.
+• De même, un article de journal ou la lettre d'un avocat qui attestent de faits déjà révélés lors de la précédente demande sont considérés comme de simples preuves confirmant des faits antérieurs.
+Sachez qu'un élément nouveau n'est pas obligatoirement un document écrit.
+Il peut s'agir d'un événement que vous pouvez faire valoir par simples déclarations. Dans ce cas, il faudra être très précis dans votre récit (dates, lieux, noms de personnes, etc.), pour permettre de retracer l'événement.
+IMPORTANT A SAVOIR
+Ce n'est pas parce que l'élément est considéré comme « nouveau » que vous obtiendrez automatiquement une protection. Ne versez aucun document à votre dossier sans expliquer comment vous l'avez obtenu et pourquoi vous ne l'avez pas présenté lors de de votre première demande d'asile. Il faut savoir que même si certains documents rapportent un fait nouveau, les demandes de réexamen sont très souvent rejetées par l'OFPRA et la CNDA parce qu'ils doutent de leur authenticité.
+Comment faire une demande de réexamen ?
+La demande de réexamen est gérée, comme pour la première demande, par l'OFPRA et la CNDA.
+En premier lieu, vous devez donc vous présenter à la SPADA pour obtenir un rendez-vous en préfecture et y déposer votre demande de réexamen. Normalement, vous devez vous rendre dans la SPADA du département de la préfecture où vous aviez fait votre première demande d'asile.
+En Ile-de-France, il faut appeler le numéro unique de l'Ofii (01 42 500 900) et préciser que vous souhaitez faire une demande de réexamen.
+A la préfecture, on vous remet une attestation de demande d'asile et un dossier de demande de réexamen (rose). Une demande de réexamen est forcément placée en procédure accélérée. Les délais d'examen du dossier seront donc assez courts.
+Il vaut mieux écrire votre récit avec les faits nouveaux et demander conseil à une association avant d'aller à la préfecture. Vous aurez seulement 8 jours pour envoyer votre dossier à l'OFPRA.
+Si votre demande de réexamen est déclarée irrecevable par l'OFPRA, vous pouvez faire un recours devant la CNDA pour contester cette décision. Si votre demande a été considérée comme recevable, mais après examen, a été rejetée par l'OFPRA, vous pouvez, comme lors de votre première demande, faire un recours auprès de la CNDA (voir p. 38). 
+Si vous êtes reconnu réfugié
+Pour plus d’informations vous pouvez consulter en ligne « le guide du réfugié » traduit en anglais, russe et arabe : https://leguidedurefugie.com/
+Si l'OFPRA ou la CNDA vous a accordé le statut de réfugié, la « protection subsidiaire » ou la qualité d'apatride, cela signifie que :
+- vous êtes protégé par la France,
+- vous allez obtenir un permis de résidence, -bénéficier de beaucoup de droits qui sont accordés aux Français.
+Dès la réception de la décision, vous devez vous rendre en préfecture avec une attestation de domiciliation et la décision pour y obtenir un récepissé. Le récépissé est un document provisoire qui atteste de la « reconnaissance de protection internationale » et vous permet de commencer à effectuer vos démarches en attendant votre carte de résident.
+Si vous êtes domicilié en SPADA (ex- PADA), signalez-vous aux équipes pour qu’on vous aide dans vos premières démarches. Vous avez le droit de bénéficier d’un accompagnement de 6 mois à compter de la date de réception de la décision vous accordant la protection.
+Quels sont mes droits ?
+• L'OFPRA va vous délivrer des documents d'état-civil, c'est-à-dire qu'ils vont établir des documents à votre nom qui seront reconnus par les administrations françaises (acte de naissance, acte de mariage, ...). Cela se justifie par le fait que vous n'avez plus le droit d'entrer en contact avec l'administration de votre pays d'origine sous peine de vous voir retirer la protection. Ces documents d'état-civil vous permettront d'obtenir la carte de séjour délivrée par la préfecture.
+• Vous avez le droit d'obtenir un titre de voyage qui vous permettra de voyager à l'étranger sauf dans votre pays d'origine.
+• Vous pouvez entamer une procédure de réunification familiale pour faire venir les membres de votre famille (Attention : c'est une procédure qui peut être assez longue et qui répond à des critères précis)
+• Dès la réception de la décision de l'OFPRA ou de la CNDA vous pouvez ouvrir vos droits pour bénéficier des prestations sociales et familiales (RSA, demande de logement social, etc.)
+• Vous avez le droit de travailler en France.
+Ces premières démarches peuvent sembler un peu compliquées mais vous pouvez obtenir de l'aide auprès de différentes organisations :
+• La structure de premier accueil des demandeurs d'asile (SPADA) ou le centre d'hébergement auprès duquel vous étiez domicilié pendant votre demande d'asile. Ils ont le devoir de vous aider dans l'ouverture de vos droits, la recherche d'une nouvelle adresse et d'un logement.
+• Le centre communal d'action sociale (CCAS) de la ville dans laquelle vous êtes domicilié/hébergé. Vous pouvez demander à obtenir un rendez-vous avec un^e assistante social-e pour être aidé dans vos démarches auprès de la CAF et de Pôle Emploi et pour déposer un dossier de demande de logement social.
+• Une permanence juridique pour les réfugiés (voir page 8-9) 
+Vos droits sociaux
+Domiciliation
+Obtenir une domiciliation en France est une étape incontournable pour bénéficier de vos droits sociaux. La domiciliation est une adresse postale à laquelle vous pouvez recevoir votre courrier de la part de l'administration française, ce n'est pas nécessairement un hébergement à proprement parler.
+• Pour les demandeurs d'asile
+Lorsque vous commencez votre procédure de demande d'asile en France, la SPADA en charge de votre accompagnement social et juridique doit vous domicilier sur demande de l'Ofii. Dès votre passage en guichet unique (GUDA) un rendez-vous pour obtenir votre adresse de domiciliation vous sera remis. Ce dispositif n'est accessible qu'aux demandeurs d'asile.
+Attention, seule une domiciliation agréée par la préfecture est acceptée pour renouveler l'attestation de demande d'asile, c'est-à-dire une domiciliation :
+• En SPADA
+• Du centre d'hébergement où vous résidez
+• Ou l'adresse de votre propre domicile, seulement si vous ou l'un de vos proches (parents, frère et sœur) est locataire. Une attestation d'hébergement d'un ami ne sera pas acceptée.
+Si vous n'avez pas ou plus d'adresse, rendez- vous à l'Ofii de votre département pour demander à être orienté vers la SPADA concernée.
+● Pour les réfugiés
+Depuis la nouvelle loi asile, les personnes qui obtiennent la protection internationale (statut de réfugié, protection subsidiaire ou statut d'apatride) ont le droit de rester domiciliées et de bénéficier d'un accompagnement à la SPADA pendant 6 mois après réception de la décision.
+Cependant, il vous sera demandé de chercher rapidement une nouvelle adresse de domiciliation pour anticiper la fermeture de celle de la SPADA.
+Vous pouvez vous rendre au Centre communal d'action sociale (CCAS) de la ville où vous résidez depuis plus de 3 mois et y bénéficier des services d'un·e assitant·e social·e. Sinon, vous pouvez également vous rendre dans une association (voir ci-dessous).
+• Pour les autres situations
+Si vous êtes sans-papiers, ou dans une situation particulière, vous pouvez vous rendre dans une association pour y obtenir de l'aide et éventuellement vous y faire domicilier. Cette adresse vous permettra d'effectuer vos démarches. Si cette association ne peut pas vous domicilier, elle pourra vous donner des conseils en fonction de votre situation individuelle pour vous aider à vous faire domicilier auprès d'une organisation adaptée.
+Dom'asile - Cimade
+18 bis boulevard Arago, 75013 Paris
+Gobelins (ligne 7)
+Lundi de 17h à 19h Samedi de 11h à 13h
+Dom'asile - Foyer Grenelle
+17 rue de l'Avre 75015 Paris
+La Motte-Piquet-Grenelle (ligne 6 / 8) 
+Mardi et Mercredi à 9h30
+Dom'asile - Cedre - Secours Catholique
+(Pour les personnes ayant le statut de réfugié)
+23 boulevard de la Commanderie,
+75019 Paris / Porte de la Villette (ligne 7) 
+Lundi, Mardi et Jeudi : de 8h30 à 17h.
+Allocations
+En tant que demandeur d'asile, une aide vous sera proposée par l'Ofii au moment de votre passage au guichet unique : cette aide comprend un hébergement et une allocation mensuelle. Elle s'appelle : l'offre de prise en charge au titre du dispositif national d'accueil.
+Pour en bénéficier, vous devez signer le formulaire donné par l'Ofii en disant que vous acceptez les conditions matérielles d'accueil.
+• Si vous acceptez et que l'Ofii vous propose un hébergement, ou que vous indiquez être hébergé gratuitement, vous recevez une aide financière de 6.80 €/jour.
+• Si vous acceptez cette proposition, et que vous n'avez pas d'hébergement, vous aurez le droit à une aide financière de 7,40€ /jour qui s'ajoute aux 6,80€.
+• Si vous avez un mari, une femme ou des enfants avec vous en France, un montant additionnel de 3,40€ par personne par jour vous sera donné.
+L'Ofii doit vous remettre une carte de retrait ADA, faite spécifiquement pour les demandeurs d'asile. Cette carte vous permet de recevoir votre allocation chaque mois.
+Vous ne pouvez faire que 5 retraits par mois avec cette carte. Il est important donc de verser l'allocation sur votre livret A, pour ne plus être limité par les retraits. Vous pouvez demander à l'Ofii que l'allocation soit versée directement sur votre compte en banque, appelé livret A. Pour savoir comment ouvrir un compte en banque : voir page 24.
+Vous recevrez votre allocation ADA au début de chaque mois pendant toute la période de votre procédure de demande d'asile.
+En cas de perte ou de vol de votre carte de retrait ADA, appelez ce numéro pour faire opposition (pour que la carte ne fonctionne plus) : 0811 041 041
+En cas de problème : si vous ne recevez pas l'ADA ou que vous ne la recevez plus, rendez-vous en SPADA ou dans une permanence juridique pour y obtenir de l'aide. Vous pouvez aussi vous rendre directement auprès de l'Ofii de votre département car l'Ofii qui est en charge de cette allocation. 
+Accès à la Santé
+Les soins d'urgence
+En attendant de bénéficier de la protection sociale offerte aux demandeurs d'asile via l'affiliation à l'assurance maladie, vous pouvez vous rendre dans les Permanences d'Accès aux Soins de Santé (PASS) situées dans les hôpitaux. (voir pages 10 - 11) Vous serez pris en charge par des médecins et des médicaments vous seront délivrés gratuitement.
+Par ailleurs, certaines associations proposent des permanences d'accès aux soins dentaires, ophtalmologiques ou psychologiques sans qu'il soit nécessaire d'être assuré social.
+En fonction de votre lieu d'hébergement, les Maisons du Département abritent souvent des services de protection maternelle et infantile (PMI) chargés du suivi régulier des enfants et de leur vaccination, et des centres de planification et éducation familiale à destination des femmes (information sur la contraception et suivi des maternités). Vous pouvez bénéficier de ces services avant même votre affiliation à la PUMA (ancienne CMU).
+La protection universelle maladie (PUMA - ancienne CMU)
+En tant que demandeur d'asile présent depuis au moins 3 mois sur le territoire français, vous pouvez bénéficier de l'affiliation à l'assurance maladie via la Protection universelle maladie de base (PUMA) et complémentaire (CMU-C) dès l'enregistrement de votre demande d'asile sur présentation de l'attestation de demande d'asile (récépissé) qui vous aura été remise au guichet unique, accompagnée d'une attestation de domiciliation.
+Elle vous permet d'être pris en charge gratuitement pour tous vos frais médicaux et hospitaliers pour vous-même, votre conjoint et vos enfants.
+Pour bénéficier de la PUMA (ancienne CMU), vous devez en faire la demande auprès de la Caisse primaire d'assurance maladie (CPAM) ou dans une Structure d'Accueil des Demandeurs d'Asile (SPADA) de votre lieu de résidence. Vous pouvez vous faire aider pour effectuer cette démarche par la structure dans laquelle vous êtes hébergé ou la structure chargée de vous accompagner pendant l'examen de votre demande d'asile ou bien encore par certaines associations, par un centre communal ou intercommunal d'action sociale ou par le service social d'un hôpital (voir pages 10-11)
+Vous devez néanmoins être en mesure de prouver la régularité de votre séjour en présentant :
+• soit une preuve de rendez-vous ou une convocation de la préfecture,
+• soit une attestation de demande d'asile (récépissé) de l'OFPRA, accompagnée d'une attestation de domiciliation.
+Les droits à la PUMA sont effectués sans délais. Ils sont valables un an pour la CMU complémentaire (CMU-C). Il est donc nécessaire de demander chaque année le renouvellement des droits à la CMU complémentaire (CMU-C).
+Auparavant, la CPAM pouvait vous attribuer un numéro définitif de Sécurité sociale et éditer une carte de santé électronique appelée « carte Vitale ». Aujourd'hui, la carte vitale n'est attribuée qu'aux personnes qui obtiennent le statut de réfugié ou la protection subsidiaire.
+L'Aide Médicale d'Etat
+L'AME donne droit à la prise en charge à 100% des soins médicaux et hospitaliers, dans la limite des tarifs de la sécurité sociale. Pas besoin d'avancer les frais.
+Conditions d'obtention de l'AME :
+• Condition de résidence irrégulière (ne pas avoir de titre de séjour, ni de récépissé de demande, ni de document attestant que vous êtes en train de faire des démarches pour obtenir un titre de séjour)
+• Condition de résidence stable (résider en France depuis plus de trois mois de manière ininterrompue) - Condition de ressources (elles ne doivent pas dépasser un certain seuil).
+Dossier de demande :
+Il faut remplir le formulaire cerfa n°11573*05.
+Le formulaire contient une notice indiquant les documents à fournir en fonction de la situation. Le dossier est à déposer ou à envoyer à la caisse primaire d'assurance maladie (CPAM) de son lieu de résidence, ou auprès de l'un des organismes suivants : organisme d'assurance maladie, centre communal ou intercommunal d'action sociale (CCAS) de son lieu de résidence, services sanitaires et sociaux du département, association agréée, établissement de santé.
+Ces organismes peuvent aider à la constitution du dossier. Ils doivent le transmettre à la CPAM, avec l'accord de la personne faisant la demande, dans un délai de 8 jours.
+La CPAM doit informer de sa décision dans un délai de deux mois. Si la demande est acceptée, la personne peut récupérer sa carte d'admission à l'AME valable un an à compter du dépôt de la demande (le renouvellement n'est pas automatique, il faut reconstituer le dossier initial deux mois avant l'échéance de la carte). 
+Accès au logement
+Au moment de l'enregistrement de votre demande, vous recevez de l'Ofii une offre de prise en charge qui vous permet en théorie d'obtenir une place dans un centre d'hébergement (CADA, CAO, PRAHDA, etc.). Il faut savoir que ce dispositif étant saturé, tous les demandeurs d'asile ne sont pas hébergés..
+Pour les autres, la principale solution est d'appeler le 115 (numéro d'urgence) chaque jour, en espérant avoir un toit pour une nuit. Il faut l'appeler plusieurs fois avant 6h du matin, heure à laquelle le service commence à répondre aux appels et à demander de rappeler à une certaine heure. Encore une fois, le dispositif est saturé et ne garantit pas d'avoir quelque part où dormir.
+À défaut de prise en charge dans un centre d'hébergement, et sous réserve d'avoir accepté l'offre de prise en charge, le demandeur d'asile peut en tout cas bénéficier d'une allocation.
+Si vous êtes en demande d'asile et que vous n'avez jamais bénéficié d'un hébergement, vous pouvez vous rendre dans un ACCUEIL DE JOUR pour les femme seules, couples, familles ou les hommes isolés pour obtenir une place d'hébergement (voir page 6).
+Scolarisation des enfants
+En France, l'accès à l'école est un droit pour les enfants de moins de 16 ans quels que soient le statut et le type d'hébergement des parents. L'école est gratuite et on ne peut pas en refuser l'accès à vos enfants. Il faut s'adresser à la mairie de son lieu d'hébergement et contacter une permanence juridique en cas de problème (voir pages 8-9).
+Accès à l’emploi
+En tant que demandeur d'asile et à partir du 1er mars 2019, il ne vous est possible de commencer à travailler que 6 mois après l'enregistrement de votre demande d'asile à l'OFPRA uniquement si vous êtes toujours sans réponse de l'OFPRA. Vous devez faire une demande auprès de la préfecture pour obtenir une autorisation de travailler. Il faudra présenter un contrat de travail, une promesse d'embauche, etc.
+L'autorisation de travail n'est valable que pendant la durée de validité de votre attestation de demande d'asile (récépissé). Cette autorisation de travail peut être renouvelée pendant toute la période d'attente de la décision de l'OFPRA.
+AUTRES INFORMATIONS UTILES
+page 52 - Associations
+page 54 - Groupes et pages Facebook
+page 56 - Acronymes (mots utiles)
+page 58 - Plan du métro
+Au cours de votre parcours de demande d'asile, vous pouvez rencontrer ces organisations, associations et collectifs
+ORGANISATIONS MANDATÉES
+Ces associations sont payées par K Etat pour l'aider à mettre en œuvre sa politique.
+LACROIX ROUGE
+Association mandatée par la Ville de Paris pour la gestion du DEMIE (point d'accueil pour les mineurs isolés = moins de 18 ans) et de plusieurs centres d'hébergement. Organise des maraudes.
+EMMAÜS
+En charge de plusieurs centres d'accueil, particulièrement pour les femmes et les familles.
+FRANCE TERRE D'ASILE (FTDA)
+Association mandatée par l'Etat pour la gestion de la SPADA de Paris (boulevard Ney, dans les locaux de la Préfecture). Organise des maraudes.
+ORGANISATIONS NON MANDATÉES
+Ces organisations ont leurs propres objectifs et ne sont pas soumises aux directives de l'Etat. Elles agissent en faveur des personnes exilées.
+BUREAU D'ACCUEIL ET D'ACCOMPAGNEMENT DES MIGRANTS (BAAM)
+Permanence d'assistance juridique aux demandeurs d'asile, aide à la rédaction de récit OFPRA, traduction, cours de français : www.baamasso.org
+Facebook : BAAM
+LACHAPELLE DEBOUT !
+Collectif militant. Présence en Centre de rétention administratif (CRA), défense des droits et libertés des exilés, actions de soutien pour exilés, sans-papiers et populations nomades.
+collectif.lachapelle.debout@gmail.com 
+https://blogs.mediapart.fr/la-chapelle- en-lutte/blog
+Facebook : Collectif La Chapelle Debout
+LA CUISINE DES MIGRANTS
+Distribution de repas chauds Facebook : La Cuisine des Migrants
+MÉDECINS DU MONDE
+Association humanitaire d'aide médicale.
+MÉDECINS SANS FRONTIÈRE
+Association humanitaire d'aide médicale.
+KÂLÎ
+Accompagnement aux femmes étrangères subissant, ou ayant subi, une situation de violences et/ou de vulnérabilité en raison de leur sexe.
+association.kali@gmail.com
+http://associationkali.org/ 
+Facebook : KÂLÎ
+LA GAMELLE DE JAURES
+Association organisant des maraudes de matériel et de nourriture.
+PARIS D'EXIL
+Anciennement Collectif Parisien de Soutien aux Exilé.e.s. Association militante.
+Soutien matériel, conseils, accès aux droits, orientations vers des structures plus spécialisées ainsi que suivi et accompagnements pour les procédures légales et les questions de santé.
+www.parisdexil.org
+Facebook : Paris d'Exil- Collectif parisien de soutien aux exilé.e.s
+PARIS REFUGEE GROUND SUPPORT
+Association anglaise. Maraudes de matériel
+Facebook : Paris Refugee Ground Support
+SAJE (Soutien et accompagnement des jeunes en exil)
+Accueil des mineurs isolés. Soutien matériel (repas, produits de première nécessité, soins...), conseils dans les démarches de reconnaissance de la minorité, orientation et suivi.
+info@saje.paris
+Facebook : Saje (Soutien et accompagnement des jeunes en exil).
+SCIENCES PO REFUGEE HELP
+Association d'étudiants créée en août 2015. Soutien matériel, conseils juridiques, orientations, cours de français, activités socioculturelles, impressions...
+Facebook : Sciences Po Refugee Help
+www.refugeehelp.fr
+SOLIDARITHÉ
+Maraudes de boissons chaudes et distribution d'informations
+Facebook : Solida rithé
+SOLIDARITÉ MIGRANTS WILSON
+Distributions de petits-déjeuners et, occasionnellement, de paniers repas Facebook : Solidarité Migrants Wilson
+TIMMY
+Association constituée depuis fin 2015 pour le soutien et le suivi des mineurs isolés étrangers (MIE).
+UTOPIA 56
+Hébergement d'urgence pour les femmes, les familles et hébergement au long terme pour mineurs isolés.
+Présence tous les soirs à Porte d'Aubervilliers (Jardin Anaïs Nin à 19 h)
+utopia56.paris@gmail.com
+Groupe facebook : Utopia Paris et Ile de France
+www.utopia56.com
+Certains voisins solidaires organisent également des maraudes pour apporter de l'information, du matériel, de la nourriture, et répondre aux besoins des éxilés qui dorment dehors. 
+GROUPES/PAGES FACEBOOK
+(pour s'informer ou demander de l'aide) : 
+BIENVENUE AUX RÉFUGIÉ-E-S
+Page sur l'accueil et la dénonciation de la répression des personnes étrangères qui viennent d'arriver en Europe.
+COMITÉ DE SOUTIEN DES MIGRANTS DE LACHAPELLE
+Cette page a été créée pour donner des informations sur la lutte des réfugié.e.s à Paris et pour organiser les soutiens.
+RÉFUGIÉS DE LA CHAPELLE EN LUTTE 
+« En soutien aux réfugiés du quartier de la Chapelle (Paris 18°), victimes des illégalismes d'Etat, pourchassés et harcelés par les forces du désordre ».
+SOUTIENS AUX EXILÉS DE GDE ET STALINGRAD
+Groupe facebook de "centralisation" des informations et des demandes de soutiens (cours de français, orientation, information, traduction, impressions ...)
+STUDIES IN FRANCE FOR REFUGEES
+Groupe facebook de partage d'informations, d'expériences et de questions concernant la reprise des études en France pour les réfugiés et demandeurs d'asile.
+PLATEFORME D'AIDE AUX RÉFUGIÉS EN FRANCE
+« Ce groupe Facebook se veut être une plateforme d'aide. Chacun d'entre nous peut proposer aide, logement, biens matériels, nourriture, vêtements. Dans chaque ville et village de France nous pouvons agir. N'hésitons plus ! » 
+Notes 
+ACRONYMES (MOTS UTILES)
+ADA - Allocation pour demandeur d'asile
+L'ADA est une aide financière qui peut être versée aux personnes majeures en possession de l'attestation de demandeur d'asile (récépissé).
+AME - Aide Médicale d'État
+L'AME permet aux étrangers en situation irrégulière de bénéficier d'un accès gratuit aux soins.
+ASE - Aide Sociale à l'Enfance
+CAES - Centre d'accueil et d'examen des situations
+Les CAES sont des centres d'hébergement temporaire pour demandeurs d'asile. Ils permettent d'obtenir un hébergement partout en France en fonction de la situation administrative.
+CADA - Centre d'accueil des demandeurs d'asile
+Le CADA est un centre d'hébergement pour demandeurs d'asile avec un accompagnement juridique et social.
+CAO - Centre d'Accueil et d'Orientation
+Le CAO est un lieu d'hébergement pour demandeurs d'asile.
+PUMA - Protection Universelle Maladie
+(anciennement CMU- Couverture Maladie Universelle)
+La PUMA permet aux personnes avec un titre de séjour de bénéficier d'un accès gratuit aux soins.
+CNDA - Cour Nationale du Droit d'Asile
+La CNDA est le tribunal devant lequel il est possible de faire appel de la décision de l'OFPRA (recours).
+CPAM - Caisse Primaire d'Assurance Maladie
+La CPAM assure les remboursements des frais de santé.
+DEMIE- Dispositif d'Évaluation des Mineurs Isolés Etrangers Géré par la Croix-Rouge, il assure l'accueil, l'évaluation et l'orientation des jeunes étrangers. Son rôle est de déterminer s'ils sont réellement mineurs et s'ils peuvent bénéficier d'un hébergement au titre de la protection de l'enfance.
+GUDA - Guichet unique en charge de l'accueil des primo-arrivants C'est un lieu où sont réunis les services de la préfecture et de l'Ofii. La préfecture doit enregistrer la demande d'asile. L'Ofii reçoit la personne en entretien et peut lui proposer un hébergement et une allocation.
+Ofii - Office Français de l'Immigration et de l'Intégration L'Ofii est un service de l'Etat en charge d'attribuer l'allocation et l'hébergement aux demandeurs d'asile, d'aider à l'insertion des réfugiés et à l'aide au retour.
+OFPRA - Office Français de Protection des Réfugiés et Apatrides
+L'OFPRA est un service de l'Etat en charge d'attribuer ou de refuser le statut de réfugié aux demandeurs d'asile.
+OQTF - Obligation de quitter le territoire français
+L'OQTF est une mesure administrative d'expulsion des étrangers. En cas de refus de délivrance de titre de séjour ou de séjour irrégulier, elle vous oblige à quitter la France par vos propres moyens dans un délai de 30 jours ou sans délai dans des situations plus limitées. Un recours est possible.
+PASS - Permanence d'accès aux soins de santé
+La PASS est le lieu dans chaque hôpital qui permet d'avoir accès à une consultation médicale gratuite même si l'on n'a pas de papiers.
+RSA - Revenu de solidarité active
+Le RSA est une aide financière avec l'obligation de chercher un emploi ou de définir et suivre un projet professionnel visant à améliorer sa situation financière.
+SPADA - (anciennement PADA) Structure de Pré-Accueil des Demandeurs d'Asile
+La structure accueille les demandeurs d'asile avant leur passage au guichet unique (GUDA) et les accompagne dans leurs démarches administratives (dossier OFPRA). 
+Le guide est édité, coordonné et mis à jour par L'association WATIZAT (loi 1901)
+Le guide est mis à jour tous les mois et disponible dans les langues suivantes : 
+Français
+Anglais
+Arabe (littéral)
+Nous remercions les traductrices et traducteurs bénévoles, pour la plupart exilées eux/elles-mêmes, ainsi que les imprimeurs solidaires qui ont permis de faire exister ce guide et de le rendre multilingue.
+Ce guide est mis à jour tous les mois
+Téléchargez la dernière version sur votre téléphone !
+www.guideasile.wordpress.com
+contactez nous : contact@watizat.org
+N'hésitez pas à imprimer et distribuer ce guide aux personnes qui auraient besoin d'information.
+Ce guide a été réalisé bénévolement. 
+vers un centre d'évaluation ou aller directement dans un tel centre.

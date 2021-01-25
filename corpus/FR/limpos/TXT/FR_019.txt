@@ -1,0 +1,241 @@
+﻿<Header>
+	<title>
+		<tit> Guide du Réfugié </tit>
+		<fileName> GR_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Document </textType>
+		<subcorpus> Original French </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (France) </language>
+		<source> http://www.cidadevirtual.pt/cpr/integra/guia_fr.html </source> 
+		<publisher> Conselho de Integração de Refugiados com Apoio da Comissão Europeia </publisher>
+		<pubDate> 2009 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Commission de l'immigration et du statut de réfugié du Canada </institution>
+	</author>
+</Header>
+GUIDE DU RÉFUGIÉ 
+TABLE DES MATIÈRES:
+Information Générale
+Logement et Habitation
+Soins
+Emploi et Formation Professionnelle
+Éducation
+Revenu Minimum Garanti
+Bibliographie
+INFORMATION GÉNÉRALE
+Les personnes qui désirent demander asile au Portugal, doivent présenter leur demande auprès des autorités ou du Service d'Étrangers et Frontières - Division dans un délai de 8 jours après le moment d'arrivée.
+Après la décision d'admission ou non-admission de la demande d'asile - qui peut se prolonger - les demandeurs d'asile sont porteurs d'une Déclaration de Demande d'Asile, délivrée par le SEF.
+La Déclaration de Demande d'Asile :
+est un récépissé constatant que son titulaire a déposé une Demande d'Asile ;
+n'accorde pas le droit de résidence ;
+n'est pas une pièce d'identité ;
+est valable pendant 20 jours; passé ce délai elle sera retirée.
+La Procédure de détermination du statut de réfugié (lorsque la demande est présentée en territoire national).
+Le SEF doit décider sur l'admission ou non-admission de la demande dans un délai de 20 jours et ensuite chaque cas individuel sera examiné attentivement;
+Si la décision du Directeur du SEF est négative, le demandeur d'asile dispose de 5 jours pour demander au Commissaire National aux Réfugiés le réexamen de la décision. Ce dernier aura 48 heures pour décider;
+Si, encore une fois, la décision de non-admission se confirme, les demandeurs d'asile disposent de 8 jours pour faire appel de la décision auprès du tribunal administratif compétent 
+L'admission de la demande
+Lorsque la demande est considérée recevable, cela ne signifie pas que le statut a été octroyé, mais qu'elle remplit les conditions pour être examinée.
+Lorsque la demande est admise, une Autorisation de Résidence Provisoire sera délivrée qui: 
+-A la durée de deux mois, renouvelables pour des périodes de 30 jours jusqu'à la décision finale.
+-Permettra:
+de travailler
+de fréquenter des cours de formation professionnelle
+d'étudier
+de demander un n° d'identification fiscale «Cartâo de Contribuinte»
+En tant que personnes en quête d'asile, elles ont droit à l'assistance juridique gratuite et bénéficient d'aide sociale d'urgence du Conseil Portugais pour les Réfugiés «Conselho Português para os Refugiados»-(CPR), en collaboration avec d'autres organisations de coopération humanitaire.
+Les cas vulnérables, c'est à dire:
+femmes non accompagnées ou avec des enfants mineurs à charge;
+handicapés ou malades;
+mineurs;
+personnes âgées.
+sont aidés par le « Serviço de Emergência Social» de «Santa Casa da Misericordia» de Lisbonne.
+ATTENTION:
+Les demandes d'asile présentées à la frontière sont soumises à une procédure plus simple. Il est important qu'après leur déposition auprès des autorités des frontières, les demandeurs d'asile contactent le CPR dans le plus bref délai possible. De même, ces organismes devront être contactés chaque fois qu'ils seront notifiés d'un document/décision sur leur dossier.
+Tous les documents à signer par les demandeurs d'asile doivent être traduits dans une langue qu'ils puissent comprendre.
+Si la demande est admise, c'est à dire, l'examen de la demande est accepté, le demandeur sera titulaire d'une Autorisation de Résidence Provisoire. En tant que titulaire de ce document, il recevra l'assistance juridique du CPR, mais l'aide sociale sera accordée par la Sécurité Sociale. Il bénéficiera de ces avantages jusqu'au moment où il trouvera un travail rémunéré et pour une période maximale de 4 mois (sauf dans des situations très particulières)
+Après l'instruction, la demande peut être:
+Acceptée et le demandeur reçoit le statut de Réfugié ou, alors, une Autorisation de Résidence pour raisons humanitaires. L'Autorisation de Résidence atteste la résidence légale d'un étranger au Portugal. Elle est renouvelable chaque année pendant une période de 5 ans.
+Refusée - et dans ce cas il faut s'adresser au Service Juridique du CPR afin qu'il puisse accorder une assistance judiciaire et faire appel auprès du tribunal administratif compétent («Supremo Tribunal Administrativo - STA») dans un délai de 20 jours.
+LOGEMENT ET HABITATION
+Lorsqu'un demandeur d'asile arrive au Portugal, le problème le plus urgent c'est le logement.
+Comment résoudre la question d'hébergement d'urgence au moment de l'arrivée dans le pays:
+Conselho Português para os Refugiados
+- Les demandeurs d'asile pourront être hébergés au Centre d'Accueil du CPR pendant un mois en attendant la décision sur l'admission de leur demande;
+«Divisâo de Emergência Social» de «Santa Casa da Misericordia» de Lisbonne
+- Appui à des cas vulnérables;
+et logement provisoire en attendant la décision des autorités sur la demande d'asile:
+Centre d'Hébergement de «Exército de Salvaçâo»
+- Centre d'hébergement réservé aux sans-abri.
+En plus de ces options il est possible de rechercher une chambre à louer ou de partager un appartement.
+Louer une chambre ou partager un appartement ce n'est pas la même chose que louer une maison.
+Dans la première situation les personnes s'installent dans la maison de quelqu'un qui est le propriétaire et cède une partie de la maison moyennant une certaine somme d' argent. Les conditions sont établies par un accord verbal ou écrit entre le propriétaire («senhorio») et le locataire. Dans cette situation, généralement le locataire est responsable du paiement mensuel préétabli et de la manutention de l'espace qui lui a été cédé.
+La location d'une maison engage plus de responsabilités.
+Tout d'abord, la location d'une maison est faite par un contrat écrit, dans lequel le bailleur «dono da casa» accorde au locataire l'utilisation temporaire de la maison moyennant une compensation: le loyer.
+Le bailleur délivre un reçu probatoire du paiement de chaque mois de loyer.
+Le contrat est signé par le bailleur, le locataire et les garants. Les garants sont une ou plusieurs personnes, connues du locataire, qui servent de garantie d'accomplissement des obligations du locataire et qui sont responsables en cas de défaillance du locataire.
+Presque toujours, il faut verser encore conjointement avec le paiement du premier mois de loyer un mois d'avance - le mois de caution - qui sera restitué lorsque le locataire quittera le logement.
+Il faut que le locataire prouve son revenu et témoigne être en condition de supporter les frais.
+Dès la location de la maison, le locataire est responsable du paiement :
+du loyer (montant mensuel à payer par l'utilisation de l'espace);
+de l'eau;
+de l'électricité;
+du gaz;
+Et d'autres frais en rapport avec son séjour dans la demeure.
+Pour avoir de l'eau, de l'électricité et du gaz, il faut faire un contrat avec les entités responsables de leur distribution.
+Eau - EPAL à Lisbonne, Services Municipalisés du lieu de résidence ;
+Électricité - LTE à Lisbonne
+Gaz - LTE (si gaz de ville)
+Téléphone - Portugal Telecom
+Comment et où rechercher une maison?
+En consultant les petites annonces des journaux quotidiens et des journaux spécialisés ;
+En consultant les renseignements sur des locations dans la région de Lisbonne et des environs affichés à l'Association de Propriétaires de Lisbonne.
+Essayez de répondre aux annonces faisant référence à «de particular a particular» (de particulier à particulier) ce qui est plus sûr car les propriétaires parlent directement avec les locataires.
+ATTENTION : Avant de prendre un engagement vous devez toujours visiter le logement. Quelques agences immobilières exigent le paiement d'un montant initial ou mensuel en contrepartie de faire voir la maison. Cette situation n'est pas légitime.
+La location est faite dans les mêmes conditions que celles des nationaux.
+Droits et Obligations du locataire
+Le locataire doit payer le loyer chaque mois le jour convenu, le plus souvent entre le 1er et le 8 ème jour du mois ;
+Le loyer augmente chaque année selon un pourcentage établi par le Gouvernement. Le bailleur doit notifier le locataire du montant référant à l'augmentation annuelle, par lettre, 30 jours à l'avance ;
+La sous-location est défendue, sauf avec l'accord du bailleur ;
+En cas de résiliation du contrat par le bailleur avant le terme convenu, il doit dédommager le locataire ;
+Vous ne devez pas faire de réparations sans le communiquer au bailleur ;
+Maintenir le logement dans le même état d'entretien que vous l'avez trouvé ;
+Le bailleur peut mettre fin au contrat à défaut de paiement du loyer à la date et endroit convenus ;
+Le locataire ne peut pas affecter l'endroit loué dans le but différent du convenu dans le contrat.
+Pour acquisition (achat) d'une maison :
+Il est possible d'avoir recours à des Coopératives de Construction et d'Habitation dont les immeubles ont un prix inférieur à leur valeur commerciale. Pour avoir accès à ces logements il faut cotiser une mensualité symbolique comme associé de la coopérative.
+Lorsque les immeubles sont bâtis, il faut poser sa candidature et la sélection sera faite selon les ressources des intéressés pour endosser les frais.
+ATTENTION : Les délais sont longs.
+SANTÉ
+Les demandeurs d'asile, les apatrides et les réfugiés, indépendamment de posséder l'Autorisation de Résidence (provisoire ou non) bénéficient de soins médicaux et médicamenteux dans les mêmes conditions que la population portugaise.
+Cela veut dire qu'ils ont droit :
+à s'inscrire aux Centres Médicaux de la Sécurité Sociale «Centros de Saùde» du lieu de résidence ;
+avoir recours aux Services d'Assistance Permanente;
+avoir recours aux services d'urgence des hôpitaux.
+Comment fonctionnent les «Centros de Saude»?
+Ils sont répartis par zones. Les personnes doivent s'adresser à celui de leur lieu de résidence.
+Pour faire l'inscription:
+Il faut demander à la préfecture «Junta de Freguesia» une attestation certifiant votre domicile «Atestado de Residência» dans ce lieu.
+Pour obtenir cette attestation il faut 2 témoins qui résident également dans la même zone, qui attestent cette information et qui peuvent être des voisins ou des personnes connues, ou alors le propriétaire de votre hôtel ou des magasins où vous êtes client.
+Lorsque la «Junta de Freguesia» délivre l'attestation de domicile, il faut s'adresser au «Centre de Saùde» pour demander l'inscription à un médecin de famille de votre choix ou bien le disponible.
+Le «Centro de Saùde» du lieu de résidence délivre une carte d'usager qu'il faut toujours présenter afin de prendre une consultation ou des examens médicaux à toutes les unités de Santé Publique «Saùde Pùblica». L'accès aux consultations dans les «Centros de Saùde», aux examens médicaux aussi bien que le recours aux services d'urgence des hôpitaux est accordé moyennant le paiement d'un montant, le ticket modérateur
+.
+Seront dispensés de cette taxe:
+les enfants jusqu'à 12 ans;
+les femmes enceintes;
+les chômeurs inscrits dans les Centres d'Emploi et leurs dépendants;
+les personnes dont les ressources sont insuffisants et qui sont bénéficiaires d'une allocation accordée par une institution officielle.
+(1) Consultations d'urgence dans les hôpitaux centraux: 1 000$00; consultations d'urgence dans les hôpitaux du district: 600$00; consultations d'urgence dans les services permanents: 400$00; consultations d'urgence dans les «Centros de Saùde»: 400$00; consultations de routine dans les «Centros de Saùde»: 300$00; - tickets modérateurs de 1998.
+ATTENTION : Les «Centros de Saude» servent un très large groupe d'usagers. Un certain délai d'attente pour la consultation est normal.
+EMPLOI ET FORMATION PROFESSIONNELLE
+Emploi
+Avant l'octroi de l'Autorisation de Résidence Provisoire le demandeur d'asile n'a pas accès au travail, n' est pas autorisé à exercer une activité professionnelle ou à suivre une formation professionnelle.
+C'est seulement après la délivrance de l'Autorisation de Résidence qu'un étranger est considéré en pleines conditions de résider au Portugal et peut exercer une profession.
+Cependant les conditions d'accès à l'emploi des réfugiés ne sont pas les mêmes que celles des citoyens nationaux.
+Pour un étranger avoir accès à l'emploi, il faut que:
+Le contrat soit établi obligatoirement par écrit;
+Le travailleur
+présente un document attestant que sa situation est réglée.
+L'employeur
+adresse une copie du contrat de travail à «Instituto de Desenvolvimento e Inspecçâo das Condiçôes de Trabalho - IDICT» et celui-ci aura un délai de 30 jours pour vérifier s'il est conforme à la loi ;
+immatricule le travailleur dans son tableau de personnel ;
+dans un délai de 15 jours, informe par écrit l'IDICT de la date du début et de la fin du contrat. Il faut encore indiquer la nationalité, la catégorie professionnelle et les fonctions du travailleur et la date d'entrée en vigueur du contrat.
+L'exercice de l'activité professionnelle
+Un étranger résident bénéficie des mêmes droits, dans l'exercice du travail, que les nationaux qui travaillent dans le même endroit et dans les mêmes circonstances.
+Comment rechercher du travail?
+Il faut consulter les petites annonces d'offre d'emploi dans les journaux ou bien procurer l'aide d'organisations et d'institutions comme l'Institut pour l'Emploi et la Formation Professionnelle «Instituto de Emprego e Formaçâo Profissional - IEFP», ou alors celle des entreprises de travail temporaire ou des clubs d'emploi.
+l'Instituto de Emprego e Formaçâo Profissional - IEFP
+L'IEFP dispose de Centres d'Emploi installés dans tout le pays:
+Inscription
+Le candidat doit contacter le Centre d'Emploi de l'IEFP de son lieu de résidence.
+Peut s'inscrire
+qui possède l'Autorisation de Résidence,
+Pour le premier emploi;
+En situation de chômage
+Les Centres d'Emploi et de Formation Professionnelle accordent de l'aide à ceux qui sont:
+À la recherche d'un premier emploi;
+Dans l'orientation et dans les cours de formation professionnelle ;
+Et à ceux qui ont déjà une profession mais qui ont besoin d'améliorer leur aptitude, ces Centres offrent une re-qualification professionnelle.
+Entreprises de Travail Temporaire
+Les entreprises de travail temporaire sont des sociétés qui fonctionnent comme intermédiaires entre la demande et la recherche d'emploi.
+Ces entreprises ont la désignation de travail temporaire parce que les contrats de travail ont une durée limitée dès l'embauche. Cette durée n'excède pas une période de 12 mois.
+Comment faire?
+Les candidats doivent s'adresser à ces entreprises et s'inscrire comme professionnels d'un certain métier (par exemple: menuisiers).
+Pour l'inscription il faut présenter:
+Les pièces d'identité personnelle;
+Les Diplômes de formation professionnelle et académique;
+L'Autorisation de résidence.
+L'inscription est gratuite et sera maintenue en archive pour une période indéterminée.
+Le candidat doit mettre à jour son dossier.
+Le candidat est autorisé à avoir d'autres emplois pendant la période où il est sans travail par l'intermédiaire de l'entreprise de travail temporaire.
+Clubs d'Emploi
+Les Clubs d'Emploi fonctionnent dans l'Instituto de Emprego e Formaçâo Profissional et dans d'autres associations de Solidarité Sociale et visent à aider l'intégration des candidats dans leur vie professionnelle.
+Lorsqu'on commence une activité professionnelle, on reçoit un montant mensuel - le salaire.
+Il est fixé un plafond minimum - le salaire minimum national - au-dessous duquel l'employeur ne peut pas embaucher (2).
+Contributions et impôts
+Tous les citoyens, sauf exceptions prévues par la Loi, doivent déduire de leur salaire pour les Finances et la Sécurité Sociale.
+Dès qu'un citoyen commence une activité professionnelle pour la première fois il doit s'adresser au Département de son lieu de résidence du Ministère des Finances. Lors de son immatriculation il doit également demander un n° d'identification fiscale «Cartâo de Contribuinte».
+À la fin de chaque année civile, tous les citoyens doivent présenter les dépenses et les revenus dans un Département des Finances, pour que l'impôt sur le revenu de singuliers (IRS) soit calculé.
+Ils doivent encore informer la Sécurité Sociale sur le début de l'exercice d'une activité professionnelle car, afin de jouir des bénéfices, il faut déduire un petit pourcentage de leur salaire.
+PTE 58.900 - 1998
+Formation Professionnelle
+Si les candidats ne sont pas préparés pour l'exercice d'une activité professionnelle, les Centres offrent:
+Préparation pour exercer une activité professionnelle ;
+Mode d'améliorer les aptitudes acquises - re-qualification professionnelle.
+Où cela se fait?
+La formation professionnelle est donnée dans des écoles de formation professionnelle, des Centres d'Emploi de l'IEFP, dans quelques entreprises de travail temporaire, dans des associations de Solidarité Sociale et d'autres entreprises orientées vers la formation.
+ÉDUCATION
+En ce qui concerne l'accès à l'enseignement on doit distinguer:
+Les situations d' individus en âge scolaire;
+Les situations des adultes qui:
+-désirent compléter la scolarité obligatoire ;
+-désirent suivre les études ou exercer une activité professionnelle;
+-désirent voir reconnue la formation acquise dans le pays d'origine.
+La scolarité obligatoire au Portugal correspond à la 9ème année de scolarité.
+Les demandeurs d'asile en âge scolaire et avec l'Autorisation de Résidence Provisoire peuvent fréquenter la scolarité obligatoire dans les mêmes conditions que celles des citoyens nationaux.
+Au cas où ils soient titulaires de certificats de scolarité délivrés par leur pays d'origine, ils devront faire demande d'équivalence de diplômes afin d'être intégrés dans le Système Éducatif.
+Au cas où ils ne disposent pas des certificats éxigés, il faudra s'adresser au Département d'Éducation Élémentaire («DEB») ou au Département de l'Enseignement Secondaire («DES»), selon leur niveau d'études et demander la réalisation d'un test diagnostic, afin d'être intégrés dans le Système d'Enseignement portugais.
+L'apprentissage de la langue portugaise est très importante. Sans connaître la langue il est impossible d'étudier et il est plus difficile de trouver du travail.
+Des cours de portugais pour étrangers peuvent être suivis au CPR (gratuits) et aussi dans quelques Universités, Instituts et Centres de Langues (payants).
+La demande d'équivalence
+La demande peut être faite dans les conditions suivantes:
+poursuivre des études;
+occuper un poste dans l'administration publique;
+finalités militaires;
+suivre des cours de l'enseignement par unités capitalisables «Ensino Recorrente»;
+exercer une activité professionnelle;
+d'autres objectifs;
+La décision de concession des équivalences appartient au Ministère de l'Éducation et à l'Établissement d'Enseignement visé.
+Equivalences de diplômes
+Lorsqu'on demande des équivalences de diplômes de l'Enseignement Supérieur, la décision sera prise par l'Institution d'Enseignement Supérieur. Seulement les établissements de l'Enseignement Supérieur Public sont autorisés à octroyer des équivalences de diplômes.
+La demande ne peut être faite qu'une fois et dans un seul établissement d'enseignement.
+Les documents présentés doivent être certifiés (...) par l'ambassade ou le consulat du Portugal dans la région, ou par l’ambassade ou le consulat du pays étranger au Portugal (3) (...).
+En ce qui concerne les adultes désirant suivre l'Enseignement par Unités Capitalisables «Ensino Recorrente», que ce soit l'alphabétisation, la scolarité obligatoire ou la poursuite d'études (10ème,11ème et 12ème années) il existe deux options:
+l'enseignement public
+l'enseignement privé
+Dans les deux cas et pour obtention de certificat il faut avoir une Autorisation de Résidence.
+Dans l'ensignement privé il existe la possibilité de suivre l'enseignement par unités capitalisables «Ensino Recorrente», soit en régime régulier, soit en régime nocturne.
+Pour d'autres renseignements, il faut s'adresser au Centre d'Information et de Relations Publiques du Ministère de l'Éducation (CIREP).
+Tout citoyen étranger, résidant légalement au Portugal, a accès à l'Enseignement Supérieur dans les mêmes conditions que celles des citoyens nationaux.
+Revenu Minimum Garanti (R.M.G.)
+Tout étranger résidant légalement au Portugal a le droit de demander le R.M.G., en présentant une photocopie de son Autorisation de Résidence.
+Le R.M.G. doit être demandé dans les Centres Régionaux de Securité Sociale.
+Le R.M.G. est une allocation qui intègre un programme d'action sociale visant l'appui des familles au niveau de l'emploi, de la santé, de l'éducation, de l'habitation et de la justice.
+Loi n° 219/97, article 7, n° 3
+BIBLIOGRAPHIE
+CIMADE (Coord.), Guide Pratique du réfugié, s/ed., Décembre, s/l, 1994 
+COMISSÂO NACIONAL do RENDIMENTO GARANTIDO, Guia de Recursos para Apoio aos Programas de Inserçao, s/l, s/d,
+COMITE de LIAISON et d'ACTION des ETRANGERS, Vivre au Luxembourg - Guide d'accueil, Ed. CLAE, Luxembourg, 1997
+CONSELHO PORTUGUÊS para os REFUGIADOS, O asilo em Portugal, Ed. Conselho Português para os Refugiados, Lisboa, 1994, 2 vols.
+INSTITUTO DE GESTÂO E ALIENAÇÂO DO PATRIMONIO, Manual de Habitaçâo, Ed. IGAPHE, Lisboa, 1995
+MAIRIE DE PARIS, Paris pour l'insertion -Guide Pratique, Paris, 1995
+S/A, Vivre en Belgique, l'accueil des demandeurs d'asile, des réfugiés et des étrangers - Guide, s/l, Ed. Ciré, 1995
+UFFICIO RELAZIONE PUBLICHE CONSIGLIO ITALIANO per i REFUGIATI, Refugiado, Ed. Ufficio Relazione Publiche Consiglio Italiano, Roma, s/d,
+WORLD UNIVERSITY SERVICE (UK), Refugee and Training Handbook, Londres, Ed. World University Service, s/d, 1994

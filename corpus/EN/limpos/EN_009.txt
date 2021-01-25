@@ -1,0 +1,145 @@
+﻿<Header>
+  <title>
+    <tit> Supporting the Mental Health of Refugees to Canada</tit>
+    <fileName> EN_009 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Manual </textType>
+    <subcorpus> Original Canadian English </subcorpus>
+  </title>
+  <sourceText>
+    <language> Canadian English </language>
+    <source> https://www.mentalhealthcommission.ca/sites/default/files/2016-01-25_refugee_mental_health_backgrounder_0.pdf </source> 
+    <publisher> Mental Health Commission of Canada </publisher>
+    <pubDate> January, 2016 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 28.06.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher> 
+    <comments> </comments>
+  </sourceText>
+  <author>
+    <institution> Speacialists consulting the Mental Health Commission of Canada </institution>
+  </author>
+</Header>
+
+Mental Health Commission of Canada
+Commision de la santé mentale du Canada
+
+Supporting the Mental Health of Refugees to Canada
+Mental Health Commission of Canada
+
+Prepared by:
+Dr. Branka Agic, Dr. Kwame McKenzie, Andrew Tuck and Michael Antwi on behalf of the Mental Health Commission of Canada
+
+January 2016
+
+mentalhealthcommission.ca
+
+Mental Health Commission of Canada
+Commision de la santé mentale du Canada
+
+TABLE OF CONTENTS
+
+INTRODUCTION 	 3
+KEY MESSAGES 	4
+BACKGROUND 	4
+CANADA'S MENTAL HEALTH RESPONSE 	6
+MENTAL HEALTH PROBLEMS AND ILLNESSESS 	8
+CONCLUSION 	10
+APPENDIX A: ADDITIONAL RESOURCES	11
+
+Mental Health Commission of Canada
+Commision de la santé mentale du Canada
+
+INTRODUCTION
+Canada's mental health response for incoming refugees should focus on fostering people's wellness and recognizing the tremendous resilience of refugee populations. To do this, special attention needs to be paid to the unique needs of individual refugees - their experiences of trauma, loss, separation from family and friends, their hopes and goals for the future. By drawing on a recovery approach, working across sectors to develop comprehensive, coordinated and accessible services and supports, and looking at the social determinants of health, Canada can promote wellness while decreasing the impacts of potential mental health problems.
+The Mental Health Commission of Canada is in a unique position to provide organizations working towards a coordinated response for incoming refugees with evidence-informed information and best practices for a coordinated mental health response. Beginning in 2008 with its Diversity Task Group, MHCC has led research and promoted mental health equity for immigrant, refugee, ethno-cultural and racialized (IRER) groups. In the spring of 2016, MHCC will be releasing the Case for Diversity, which aims to provide provinces, regions, and territories with the information they need to reduce disparities in risk factors and access to mental health services for diverse communities. The project's finalized document will present up-to-date information on the demography of diversity in Canada; the latest research on the mental health of immigrants, refugees, racialized and ethno-cultural groups; promising practices in Canada and internationally that improve access and outcomes; and an economic analysis of the potential impact of producing more culturally capable services.
+In light of Canada's commitment to resettle 25,000 Syrian refugees, the Case for Diversity research team reviewed their accumulated research to create a background document specific to refugee mental health. With this information and its capacity as a convener and collaborator, MHCC is exploring opportunities to work with stakeholders to further a national dialogue around a coordinated response.
+
+KEY MESSAGES
+Canada is well positioned to provide incoming Syrian refugees with support for good mental health;
+There is a strong evidence base that can be drawn upon to guide mental health service interventions for refugees; however for many communities and practitioners, there are gaps in knowledge about what tools and resources exist; and
+A political and institutional strategy (supported by investment) is needed to develop a linked and coordinated response.
+
+BACKGROUND
+Canada has a long history of opening its borders to refugees and is in a good position to support the mental health of incoming Syrian refugees because it has the right people, knowledge, and integrated systems. With committed leadership, some strategic alignment of services, and a few extra resources, Canada will be able to provide refugees with appropriate access to services and supports.
+Canada's response to the Syrian refugee crisis needs to promote mental health and prevent mental health problems, while offering early, appropriate interventions for the minority of people who develop mental illness. It should build on the work of: the Canadian Task Force on Mental Health Issues Affecting Immigrants and Refugees; 1 the work of the Mental Health Commission of Canada (MHCC) in Changing Directions, Changing Lives: The Mental Health Strategy for Canada (Strategy), which noted the need to improve our response to Canada's diverse populations as one of six strategic directions; 2 and the insights of MHCC's The Case for Diversity.3
+The following brief outlines the MHCC's work on immigrant and refugee mental health to date, summarizes current evidence and promising practices for refugee mental health, and advances recommendations for how the MHCC can support the arrival and integration of Syrian refugees to Canada.
+
+MHCC ON DIVERSITY
+In 2008, the Mental Health Commission of Canada's Services Systems Advisory Committee established a Diversity Task Group to examine mental health service improvement for immigrant, refugee, ethnocultural, and racialized (IRER) groups in Canada. Improving mental health services for immigrant, refugee, ethno-cultural and racialized groups: Issues and options for service improvement4 made 16 recommendations for improved planning, services, and involvement of communities. It suggests three elements needed for the development of more appropriate services for refugees. The first is to designate responsibility of these services to a specific person linked to provincial government or a delegated health services organization. It is important that this person be supported with data and information to create a viable plan that should be made in consultation with people with lived experience and their relatives and communities. The need for a plan cannot be understated. It may be necessary to re-train some providers. Clearer links between providers, better cross-sectoral knowledge, and specific pathways for referral are needed. Any local plan should be evaluated and information on its suitability and effectiveness should be part of a feedback loop to ensure quality. The Issues and Options report led to an agreement that developing equitable services for diverse populations should be at the heart of the national framework5 and the Strategy.
+Strategic Direction 4 from the Strategy aims to “Reduce disparities in risk factors and access to mental health services and strengthen the response to the needs of diverse communities and Northerners.” Furthermore, it recommends that mental health plans in all jurisdictions be developed and implemented to address the mental health needs of immigrants, refugees, ethno-cultural and racialized populations.6 
+The MHCC has been active in trying to advance the development of such changes with projects like The Case for Diversity.7 This project provides an update on the demography in Canada, an update of Canadian literature published since 2009, a review of promising practices in Canada and internationally, and an economic analysis of the potential impact of producing more culturally-capable mental health services.
+
+CANADA'S MENTAL HEALTH RESPONSE
+Mental health is everyone's business. Canada's mental health response should focus on wellness, paying special attention to the social determinants of health which build on the resilience of refugee groups. This has the added benefit of decreasing the number of people who develop mental health problems.
+The way groups are welcomed into a country; where they live; whether they can work; if they are considered residents; and their access to education, training, and initiatives fostering social inclusion (e.g. language classes and resettlement services) are fundamental factors in promoting mental health.
+The shape of the plan set by Canada's federal government will have a major influence on the psychological well-being of new refugees. There are several factors that increase mental health problems, such as internment, unclear resident status, poor housing, multiple moves, poor access to jobs and education, and poor social support. Plans which are sensitive to these needs will promote wellness and decrease mental health problems.
+Understanding the importance of well-being, psychological coping strategies, and social capital is important for building and fostering resilience (see figure 1).8 These key factors can be effective interventions for wellness if offered alongside education and awareness about psychological well-being, the need for connecting with family and friends, staying active, continuing to learn, being mindful, and giving back to a community (figure 1). 9
+At a group level, social inclusion and pathways to feeling part of the greater society are important. Key elements of Canada's response need to embody empathy, reassurance, community support, and a focus on reducing secondary trauma by, for instance, limiting the use of Immigration Holding Centres (IHC).
+We know that refugees detained in IHCs in Canada report higher rates of mental health problems. 10 The UNHCR has raised a concern about the use of immigration detention, particularly of children and is addressing these practices through its Global Strategy - Beyond Detention 2014-2019. Canada is also in the process of developing the National Action Plan for the Implementation of the Global Strategy.
+These ideas are not new and we need to build on our history. A national task force was established in the mid-1980s to investigate the mental health of immigrants and refugees. Their findings were released in the 1988 report After the Door Has Been Opened. 11 A thorough literature review was conducted in addition to presentations and written submissions from respondents across Canada. The Task Force concluded that while moving from one country and culture to another inevitably entails stress, it does not necessarily have to threaten mental health. The mental health of immigrants and refugees becomes a concern primarily when additional risk factors combine with the stress of migration.
+
+After the Door Has Been Opened suggested three principles...
+
+1. To meet the mental health needs of Canada's migrants, riskinducing factors must be mitigated and remedial services made universally accessible.
+2. The steps required to prevent and treat emotional distress in immigrants and refugees involve the persons with whom migrants come into contact as much as they do the migrants themselves. Sensitizing Canadians — immigration officers, settlement workers, teachers, neighbours, health and mental health personnel — to the ways in which culture can affect encounters between themselves and newcomers helps eliminate major sources of distress for migrants and facilitates effective mental health care.
+3. No single governmental body or level of government is, or can be, responsible for the mental health of Canada's immigrants and refugees. For newcomers to adapt to and integrate with Canadian society, their strengths, needs, and perspectives must be taken into account by decision-making bodies at each level of government, by planners and service providers.
+
+The task force offered 27 specific recommendations for Citizenship and Immigration Canada, Health Canada, and other federal bodies to improve the mental health of immigrant groups. We are aware of six that have been implemented (see Issues and Options 12 and After the Door Has Been Opened 13).
+
+MENTAL HEALTH PROBLEMS AND ILLNESSESS
+Mental illness focuses on diagnosable patterns of behavior or thinking that may need treatment. Only a minority of refugees will develop diagnosed mental health problems. 14
+A systematic review by Hansson et al. (2010), 15 however, indicates increased rates of post-traumatic stress disorder and depression in refugees to Canada. The work of Rousseau et al. (2013) 16 identifies increased rates of mental health problems in refugee children and Anderson et al. (2015) 17 report that being a refugee is a risk factor for psychosis. Although a minority of refugees will develop problems, they are a high-risk group for mental health problems or illnesses, which can be complex.
+Mental health promotion, resilience, the building of social support, and prevention of mental illness through good planning of resettlement, education, and action on the social determinants of health are fundamental aspects of a good strategy. There is a huge range in estimates of mental illness in refugee populations (10% to 40%). This is linked in part to varying social responses to refugee groups; for instance, risk of mental illness is significantly increased in countries where refugees are not allowed to work. 18
+But this should not distract from the fact that a significant proportion of refugees will need services for their mental health problems or illnesses. Prompt access to appropriate mental health interventions is cost-effective because it decreases the need for more costly interventions later on, such as hospitalization. It should be kept in mind that over-treating and over-pathologizing refugee populations is counterproductive to their mental health needs and the focus should always be on promoting resilience and increasing the individual, family, and community's ability to self-manage.
+Services for refugees should be based on models that are effective for other groups in Canada. Those needing mental health supports usually have common mental disorders such as anxiety and depression, which can be treated by their family doctor, as long as these physicians have the right training and supports. Early intervention is important, as is training of non-clinical staff in understanding the possible mental health needs of refugees and how to help them get care. Those who have more severe or complex mental health problems, such as those related to trauma, may need specialized mental health interventions. Where service development differs is in the need to link multiple different agencies into the care pathways. For example, if a settlement worker notices a significant mental health issue in a new refugee, should there be referral direct to a competent primary care facility with mental health service support?
+After the Door Has Been Opened argues that one of the main issues in the service response for immigrants and refugees is that they do not have a voice in the mental health care system; neither from the point of view of people living with mental health problems or illnesses, nor as service providers. We do not build services based on the needs of refugee populations.
+
+CONCLUSION
+According to the Case for Diversity project, the evidence base for specific interventions directed at refugee populations is good. 19 In addition to mainstream mental health services, which are effective in treating mental illness, and models of care that have been developed to treat diverse populations in Canada, 20 there is support for a number of treatments for trauma-induced mental health problems. A variety of psychotherapy treatments have been effective. Promising models for working with refugees include narrative exposure therapy (NET), cognitive behavioral therapy (CBT) separately and in combination with medication, and eye movement desensitization and reprocessing exposure therapy (EMDR). 21
+Strong evidence shows that successful interventions for treating mental health problems in refugees use a multidisciplinary approach, are culturally sensitive or adapted for specific groups, use trained paraprofessionals, and are linguistically appropriate. 22
+A clear system of pathways to care that allows easy navigation through the various types of service would make it easier for refugees to find the care they need.
+Canada is well positioned for providing incoming Syrian refugees with support for good mental health. Examples of promising practices are emerging across the country (see Appendix A).
+Canada has the right people (though we may need to build some capacity) and a set of evidence-based clinical guidelines. 23 What is needed is the political and institutional strategy for developing a system that will link and support clinicians, nurses, and social workers who offer treatment, as well as the settlement workers and communities who will provide the social support and sense of belonging to incoming refugees.
+Mental health systems in Canada are underfunded. An increased volume of patients, the alignment of services to create new care pathways, and the training and specialization of some clinicians will require specific resources. Building an equitable, appropriate response is possible and inexpensive, but it will require some investment. MHCC is in a good position to help address some of these issues and look forward to working with relevant stakeholders, and key organization to build capacity and support coordination.
+
+APPENDIX A: ADDITIONAL RESOURCES
+The Refugee Mental Health Project aims to build settlement, social and health service providers' knowledge and skills regarding refugee mental health and to promote inter-sector and interprofessional collaboration. This initiative endeavors to contribute to an informed, sustainable network of service provision. Le Projet sur la sante mentale
+The Canadian Centre for Victims of Torture is a charitable organization which helps survivors overcome the lasting effects of torture and war.
+UNHCR Global Strategy - Beyond Detention aims to support governments to end the detention of asylum-seekers and refugees. Following the launch of the Global Strategy-Beyond Detention in June 2014, the UNHCR Canada office drafted its National Action Plan.
+The Mental Health Strategy for Canada offers recommendations to improve mental health and wellbeing throughout Canada.
+Issues and Options for Improving Mental Health Services for Immigrant, Refugee, Ethno-cultural and
+Racialized Groups provides the facts and issues that policy makers, health planners and service providers across Canada may wish to consider when undertaking strategies to improve mental health services for IRER groups. The report lists 16 recommendations for service improvement.
+
+Mental Health Commission of Canada
+Suite 1210, 350 Albert Street
+Ottawa, ON, K1R 1A4
+T 613.683.3755
+F 613.798.2989
+info@mentalhealthcommission.ca 
+www.mentalhealthcommission.ca
+
+Footnotes
+
+1	Canadian Task Force on Mental Health Issues Affecting immigrants and Refugees (1988). After the door has been opened: Mental health issues affecting immigrants and refugees in Canada. Ottawa: Multiculturalism and Citizenship Canada.
+2	Mental Health Commission of Canada (2012). Changing directions, changing lives: The mental health strategy for Canada. Calgary, AB: Author.
+3	McKenzie, K., Agic, B., Tuck, A. & Antwi, M. for MHCC (2016). The Case for Diversity. Ottawa: Mental Health Commission of Canada.
+4	McKenzie, K., Hansson, E., Tuck, A., Lam, J., & Jackson, F. (2009). Improving mental health services for immigrant, refugee, ethno-cultural and racialized groups: Issues and options for service improvement. Calgary, AB: Mental Health Commission of Canada. Retrieved from: http://www.mentalhealthcommission.ca/SiteCollectionDocuments/Key_Documents/en/2010/Issues_Options_FIN AL_English%2012Nov09.pdf
+5	Mental Health Commission of Canada (2009). Toward recovery & well-being: A framework for a mental health strategy for Canada.http://www.mentalhealthcommission.ca
+6	Ibid.
+7	McKenzie, K., Agic, B., Tuck, A. & Antwi, M. for MHCC (2016). The Case for Diversity. Ottawa: Mental Health Commission of Canada.
+10	Cleveland, J., and C. Rousseau. (2013). Psychiatric symptoms associated with brief detention of adult asylum seekers in Canada. Canadian Journal of Psychiatry, 58(7): 409-416.
+11	Canadian Task Force on Mental Health Issues Affecting immigrants and Refugees (1988). After the door has been opened: Mental health issues affecting immigrants and refugees in Canada. Ottawa: Multiculturalism and Citizenship Canada.
+12	McKenzie, K., Hansson, E., Tuck, A., Lam, J., & Jackson, F. (2009). Improving mental health services for immigrant, refugee, ethno-cultural and racialized groups: Issues and options for service improvement. Calgary, AB: Mental Health Commission of Canada. Retrieved from: http://www.mentalhealthcommission.ca/SiteCollectionDocuments/Key_Documents/en/2010/Issues_Options_FIN AL_English%2012Nov09.pdf
+13	Canadian Task Force on Mental Health Issues Affecting immigrants and Refugees (1988). After the Door Has Been Opened: Mental Health Issues Affecting Immigrants and Refugees in Canada. Ottawa: Multiculturalism and Citizenship Canada.
+14	Mental Health Commission of Canada (2012). Changing directions, changing lives: The mental health strategy for Canada. Calgary, AB: Author.
+15	McKenzie, K., Hansson, E., Tuck, A., Lam, J., & Jackson, F. (2009). Improving mental health services for immigrant, refugee, ethno-cultural and racialized groups: Issues and options for service improvement. Calgary, AB: Mental Health Commission of Canada. Retrieved from: http://www.mentalhealthcommission.ca/SiteCollectionDocuments/Key_Documents/en/2010/Issues_Options_FIN AL_English%2012Nov09.pdf
+16	Rousseau, C., Nadeau, L., & Measham, T. (2013). Addressing trauma in collaborative mental health care for refugee children. Clinical Child Psychology and Psychiatry, 18(1), 121-136.
+17	Anderson, K., Cheng, J., Susser, E., McKenzie, K., Kurdyak, P. (2015). Incidence of psychotic disorders among first- generation immigrants and refugees in Ontario. CMAJ, doi: 10.1503/cmaj.141420
+18	Fazel, M., J. Wheeler, and J. Danesh. (2005). Prevalence of serious mental disorder in 7000 refugees resettled in western countries: a systematic review. The Lancet, 365(9467):1309-1314.
+19	McKenzie, K., Agic, B., Tuck, A. & Antwi, M. for MHCC (2016). The Case for Diversity. Ottawa: Mental Health Commission of Canada.
+20	Ibid.
+21	Ibid.
+22	Ibid.
+23	Pottie et al. (2011). Evidence-based guidelines for immigrants and refugees. Canadian Medical Association Journal, 183(12): E824-E925.

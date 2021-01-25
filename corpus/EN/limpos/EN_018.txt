@@ -1,0 +1,751 @@
+﻿<Header>
+  <title>
+    <tit> Guidelines on the reception of asylum seekers </tit>
+    <fileName> EN_018 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Manual </textType>
+    <subcorpus> Original Irish English </subcorpus>
+  </title>
+  <sourceText>
+    <language> Irish English </language>
+    <source> http://www.justice.ie/en/JELR/Irish Red Cross.pdf/Files/Irish Red Cross.pdf </source>
+    <publisher> Irish RedCross </publisher>
+    <pubDate> 2001 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 12.07.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher>
+    <comments>  </comments>
+  </sourceText>
+  <author>
+    <institution> International Federation of Red Cross and Red Crescent Societies </institution>
+  </author>
+</Header>
+
+PERCO
+Platform for European Red Cross Cooperation on Refugees, Asylum Seekers and Migrants
+an initiative of European National Red Cross Societies
+
+Guidelines on the reception of asylum seekers
+for National Red Cross and Red Crescent Societies
+
+International Federation of Red Cross and Red Crescent Societies
+
+Cover: © Siami/Swiss Red Cross
+
+Any part of this handbook may be cited, copied, translated into other languages or adapted to meet local needs without prior permission from the International Federation of Red Cross and Red Crescent Societies, provided that the source is clearly stated.
+This document is produced in accordance with the terms of reference of PERCO and is intended as a set of guidelines for National Red Cross and Red Crescent Societies and others working with refugees, asylum seekers and migrants in a European context. The opinions contained are those of the members of PERCO and not necessarily the International Red Cross and Red Crescent Movement as a whole. These guidelines are, in any event, non-binding.
+
+2001
+International Federation of Red Cross and Red Crescent Societies
+PO Box 372
+CH-1211 Geneva 19
+Switzerland
+Telephone: +41 (22) 730 4222
+Telefax: +41 (22) 733 0395
+Telex: 412 133 FRC CH
+E-mail: secretariat@ifrc.org
+Web site: www.ifrc.org
+
+Foreword
+The International Federation of Red Cross and Red Crescent Societies and its member societies are committed to improving the situation of the most vulnerable people. This challenge, identified by the International Federation's Strategy 2010, applies to asylum seekers, refugees and the displaced in a particular way. Having lost their homes and depending on the support and protection of others, they are exposed to risks as long as no durable solutions are found.
+The International Red Cross and Red Crescent Movement is the largest humanitarian network working to assist refugees, asylum seekers, migrants and other moving and displaced people. It became apparent to European Red Cross Societies that they should cooperate more actively and share their experience, particularly with regard to domestic programmes. In 1997, six National Societies, the International Federation and the Red Cross/European Union (EU) Office met in Copenhagen to discuss this. The outcome of the meeting was the establishment of the “Platform for European Red Cross Cooperation on Refugees, Asylum Seekers and Migrants”, more commonly known as PERCO.
+PERCO's current members are the Belgian, British, Bulgarian, Danish, Finnish, French, German, Hellenic, Icelandic, Italian, Lithuanian, Netherlands, Norwegian, Spanish, Swedish and Swiss Red Cross Societies. The International Federation and the Red Cross/EU Office are observers. PERCO seeks to improve Red Cross and Red Crescent services to asylum seekers, refugees and migrants, by promoting the exchange of knowledge and best practices and by pooling resources.
+In pursuit of its objectives, PERCO, with the assistance of the International Federation, is publishing a series of non-binding papers and guidelines to assist National Societies and delegations in their work with the displaced. As part of its working plan 2000, PERCO decided to prepare guidelines for National Red Cross and Red Crescent Societies on the reception of asylum seekers, and requested that the asylum department of the Danish Red Cross prepare a draft version.
+In the context of the EU's development of common asylum policy and after preliminary discussions with PERCO's steering group, the Danish Red Cross decided to pursue work on the draft guidelines in the following manner:
+PERCO's extensive experience in matters relating to asylum seekers and refugees was employed to develop the structure and overall contents of the guidelines. The details were then worked out by a group composed of Danish Red Cross experts, all of whom work with asylum seekers on a daily basis.
+The draft elaborated by this group of experts was subsequently discussed with a group of refugees and asylum seekers at a Danish Red Cross centre in Copenhagen.
+The guidelines were finalized in Berne, Switzerland, on 12 December 2000, by a PERCO working group.
+
+These Guidelines for the reception of asylum seekers are the second in this series.
+
+The International Federation wishes to extend its profound thanks to all those, particularly the members of PERCO, who contributed to the production of these guidelines.
+
+Didier J Cherpitel
+Secretary General
+Geneva, November 2001
+
+Contents
+Foreword	1
+
+1. Introduction	5
+1.1 Definition and scope of the guidelines	6
+1.2 Applicable international legal framework	8
+1.3 Red Cross and Red Crescent involvement and partnership with governments and non-governmental organizations	9
+2. Guiding principles directly relating to asylum seekers' rights and needs	11
+
+2.1 Basic principles	11
+Principle 1. Principal values for work with asylum seekers 11 Principle 2. Integrity and dignity	11
+2.2 Basic rights	11
+Principle 1. Freedom of movement and residence	12
+Principle 2. Freedom from detention	12
+Principle 3. Right to assistance	13
+Principle 4. Health care	13
+Principle 5. Clothing	15
+Principle 6. Education and training	15
+Principle 7. Employment	15
+2.3 Legal status	16
+Principle 1. Effective asylum procedure	16
+Principle 2. Documentation and temporary status	16
+2.4 Basic information/Integration into the host state	17
+Principle 1. Information and counselling	17
+Principle 2. Information on the asylum procedure 17 Principle 3. Basic information on the legal system:
+rights and obligations	17
+Principle 4. Basic information on the cultural and
+social characteristics of the host state	18
+Principle 5. Language courses	18
+2.5 Especially vulnerable people	19
+Principle 1. Children	19
+Principle 2. Unaccompanied children	20
+Principle 3. Female asylum seekers	21
+Principle 4. Elderly asylum seekers	21
+Principle 5. Mentally and physically disabled asylum seekers	22
+Principle 6. Traumatized people	23
+2.6 Accommodation in a centre 23
+Principle 1. Situation of the centre 23
+Principle 2. Relations with the local community 24
+Principle 3. Accommodation 24
+Principle 4. Organization of the centre 26
+Principle 5. Activities 26
+2.7 Tracing and family reunification 26
+
+3. Guiding principles relating to governments, National Red Cross and Red Crescent Societies and NGOs 28
+3.1 Staff 28
+Principle 1. Careful staff recruitment 28
+Principle 2. Staff training 28
+3.2 General principles 29
+Principle 1. Implementation 29
+Principle 2. Dissemination
+Principle 3. Cooperation and coordination among the organizations that deal with asylum seekers 29
+Principle 4. Preventing and fighting against xenophobia and racism 30
+
+4. Annexes 31
+4.1 Guiding principles to keep in mind when working with asylum seekers 31
+4.2 Guiding principles for accommodation in centres 32
+4.3 Abbreviations/acronyms 33
+4.4 Reference material
+
+1. Introduction
+
+For decades, people fleeing persecution and violence have looked to the Red Cross and Red Crescent for humanitarian assistance and protection, and the emblem has come to be regarded as a clear sign of protection and humanitarian intervention in wars and conflicts. This crucial obligation of National Red Cross and Red Crescent Societies (National Societies) is not only in force during wars and conflicts; it is also just as important in the safe areas to which refugees have fled. In the last few decades, an increasing number of people have fled their homes and applied for asylum in Europe. As the largest humanitarian organization in the world, the Red Cross and Red Crescent considers it an obligation to use its abilities not only to facilitate humanitarian assistance to the most vulnerable people, but also to engage in activities and advocacy on their behalf in order to promote a humane and tolerant reception of refugees and asylum seekers in Europe and around the world.
+Many National Societies are involved in immediate humanitarian response, providing shelter, food and medical aid to refugees and asylum seekers arriving in European countries. In the last 20 years, some have established professional reception systems, which include training and education, psychosocial assistance and other services for the benefit of asylum seekers on their arrival in a European country. Other societies have allocated their resources to represent the interests of refugees and asylum seekers at relevant national or international institutions to ensure acceptable conditions for them, not only in terms of material assistance but also with respect to the legal safeguards in the asylum procedures.
+The common framework for the services provided to refugees and asylum seekers is based on the International Red Cross and Red Crescent Movement's Fundamental Principles, 1 and such services should always reflect this base, and the supporting recommendations and decisions of the Movement's governing bodies.
+It is important to recognize that access to protection from a well-founded fear of persecution is the very essence of the concept of asylum as reflected in several international instruments 2 and is considered an integral part of international refugee law. 3
+In their efforts to help the most vulnerable people, National Societies should accord a high priority to guaranteeing access to protection through a fair and efficient asylum procedure, and seek to meet the basic needs of refugees and asylum seekers. The guiding principles outlined in this publication are intended to help societies implement successful and effective services for asylum seekers.
+
+1.1 Definition and scope of the guidelines
+Ensuring that vulnerable people are protected from persecution and their subsequent access to humanitarian material provisions is primarily a state responsibility. States therefore have broad discretion to choose the type of support they offer to asylum seekers. Support may range from “inkind” assistance, such as accommodation, food and health care, to cash payments or work permits to permit self-sufficiency. 4
+The standards of support that European Red Cross and Red Crescent Societies, other humanitarian organizations and various countries can provide subsequently differ according to the capacity and resources of the National Society and the host country in question, the number of asylum seekers arriving, the general socio-economic and political situation in the host country, and the level of commitment of the national authorities.
+Although the possibilities and conditions of support for asylum seekers may vary enormously from country to country, these differences cannot excuse breaches of the fundamental human rights of people who apply for asylum in a specific state.
+At a minimum, the basic dignity and rights of asylum seekers should be respected and protected everywhere. Nevertheless, the aim of these guidelines is more than simply to present minimum standards for the reception of asylum seekers in Europe. Red Cross and Red Crescent Societies everywhere have a special responsibility to ensure that all asylum seekers are fully respected as human beings. 5
+The guidelines should not, therefore, be reduced to a level with which even the ‘weakest' European country, in socio-economic terms, can comply. On the contrary, National Societies and host states should try to do as much as possible to ensure the well-being of asylum seekers.
+Although the guiding principles set out in these guidelines are not binding, they define the conditions that should be provided for the reception of asylum seekers arriving in a European country.
+Intermediate measures - that do not meet the requirements of the guiding principles proposed in this publication - may in some cases be established. As soon as possible in a given situation, National Societies should seek to encourage the establishment of guiding principles to supersede inadequate intermediate measures.
+The guidelines intend to provide a framework of guiding principles for the European Red Cross and Red Crescent Societies which are, or intend to become, engaged in humanitarian assistance to asylum seekers. The principles reflect not only the diversity of the social and economic conditions in Europe, but also the humanitarian commitments that National Societies, host states and others should seek to ensure.
+“Reception” is defined in this publication as starting the moment a person enters a country and presents his/her claim for asylum to a national authority,6 lasting throughout the period during which the application and any appeals are examined, until the person either receives a more permanent residence permit, or is expelled, repatriated voluntarily or resettled in a third country.7 When, according to international legal instruments or agreements, another state is considered responsible for examining the asylum application, the definition of “reception” extends until the moment of departure to that state. 8
+The guidelines concerning reception standards apply to the period defined in the preceding paragraph, although that period may vary in length according to the nature and duration of the asylum procedure, which differs from country to country and from case to case. Following this initial reception period, members of the Movement are encouraged to consider advocating for the provision of conditions similar to those of other third-country residents in the host country.
+These guidelines are specifically concerned with the reception of individual asylum seekers, but not of recognized refugees or of people granted other forms of residence permit by national authorities. However, as several types of status are often interrelated, it may in some cases be necessary to apply the principles both in the reception of asylum seekers and in the reception and subsequent integration of recognized refugees.
+This publication focuses mainly on the material facilities that should be established to help ensure a humane reception of asylum seekers. It does not deal with other issues associated with the legal requirements of a fair and efficient asylum procedure.
+These guidelines are intended for Red Cross and Red Crescent Societies, as such they reflect a frame of principles which National Societies are encouraged to work towards when developing activities associated with the reception of asylum seekers. The guiding principles can also be used for governmental or non-governmental organizations (NGOs) active in this field.
+The conditions established by any organization to facilitate the reception of asylum seekers should always ensure the independence, personal safety and dignity of each and every one of them.
+
+1.2 Applicable international legal framework
+In its conclusion No. 82 (XLVIII, Conclusion on safeguarding asylum, 1997), the Executive Committee of the Office of the United Nations High Commissioner for Refugees (UNHCR) emphasizes the overall “obligation to treat asylum seekers and refugees in accordance with applicable human rights and refugee law standards as set out in relevant international instruments”. These reception guidelines are, therefore, based on the relevant international and regional legal instruments.
+Services provided to asylum seekers should also reflect relevant resolutions adopted by the United Nations (UN) General Assembly, the United Nations Economic and Social Council (ECOSOC) and UNHCR's Executive Committee, as well as those adopted by the Movement's governing bodies and various other international agreements dealing with issues connected to or aimed at standards for the reception of asylum seekers. 9
+The standards described in these guidelines should not be applied in isolation, but in conjunction with agreed international decisions and recommendations.
+The most important legal instruments in this context are:
+International human rights law, which encompasses:
+the Universal Declaration of Human Rights (UDHR);
+the International Covenant on Economic, Social and Cultural Rights (ICESCR); and
+the International Covenant on Civil and Political Rights (ICCPR).
+
+Article 25 of the UDHR recognizes the right of every person to a standard of living adequate for the health and well-being of her- or himself and her/his family, including food, clothing, accommodation, medical care and necessary social services.
+The ICESCR spells out basic reception principles in the area of economic and social rights. The ICCPR provides standards for the existence of civil rights such as protection against arbitrary detention and torture and the right to recognition everywhere as a person before the law.
+Although the ICESCR and the ICCPR contain clauses that may restrict a number of human rights, other human rights are absolutely inalienable and are specified as such in the clauses referred to.10
+In particular, inalienable human rights include:
+the right to life (UDHR, article 3);
+protection from slavery or servitude (UDHR, article 4);
+protection from torture and cruel, inhuman or degrading treatment (UDHR, article 5); and
+the principle of the rule of law and the prohibition on repercussion of law. 11
+
+At the European level, asylum seekers' human rights are protected by the 1950 European Convention for the Protection of Human Rights and Fundamental Freedoms (ECHR). Article 1 of this Convention applies to everyone within the jurisdiction of the contracting states.
+The Amsterdam Treaty (article 6) provides that the ECHR shall guide future European Community law. It is, therefore, important that reception guidelines take into account the rights and freedoms defined in this Convention.
+In the European Union (EU), the 1989 Declaration of the Fundamental Rights and Freedoms of the European Parliament applies in a broad sense to all people within the European Union. 12
+In terms of international refugee law, basic regulations are founded upon the 1951 United Nations Convention relating to the Status of Refugees and its 1967 Protocol. The Convention sets minimum standards for the treatment of refugees, including the basic rights to which they are entitled.13 Although neither the Convention nor its Protocol explicitly mention their applicability to asylum seekers, nothing in them says that the provisions apply to formally recognized refugees only. Articles 31 and 33 of the Convention would, in fact, be meaningless if only applicable to formally recognized refugees.
+
+1.3 Red Cross and Red Crescent involvement and partnership with governments and non-governmental organizations
+National Red Cross and Red Crescent Societies are present in their respective countries at the local, regional and national levels. This countrywide presence, combined with their specific mandate, means that they are often able to provide assistance to asylum seekers arriving in a safe country. The importance of this aspect of Red Cross Red Crescent work has been emphasized by the International Federation in its objectives defined in the Strategic Work Plan for the Nineties and Strategy 2010. 14
+The state has primary responsibility for ensuring that asylum seekers are protected from persecution and have access to humanitarian assistance on their arrival in the country where the asylum claim is lodged. However, to ensure that adequate standards of humanitarian assistance are met, Red Cross and Red Crescent Societies should aim at working in close cooperation with government services; if possible, an agreement should be sought with the government that sets out the fundamental conditions under which the Red Cross and its mandate are respected.
+However, in some situations, such as an unexpected mass influx of people, establishing a formal agreement before starting to set up projects to assist the asylum seekers is not possible. In such cases, an agreement should be sought with the national authorities as soon as possible. It is important that any agreement be based on the Movement's mandate and on the recommendations of the Movement's governing bodies.15 Although National Societies are alone responsible for deciding whether to associate themselves with services for asylum seekers, and should examine conditions before becoming involved, they do have a prior obligation to work on behalf of the most vulnerable people. The International Federation's secretariat or regional bodies can assist societies in this context, and the experience and knowledge of other National Societies may also prove extremely useful. 16
+Partnerships and cooperation with other international or non-governmental organizations (for example, UNHCR, relevant members of the European Council for Refugees and Exiles (ECRE), etc.) may also help societies to gain more information and experience in assisting asylum seekers. 17
+
+2. Guiding principles directly relating to asylum seekers'
+
+2.1 Basic principles
+
+Principle 1. Principal values for work with asylum seekers
+
+A number of points should be borne in mind when working with, or on behalf of, asylum seekers: they are particularly vulnerable and need specific assistance that respects their human dignity; they should be provided with as much choice and control as possible about decisions relating to their lives within the context of their situation; and their right to independence and information should be respected.
+Meetings and discussions with asylum seekers should be based on basic values and attitudes, which have been decided upon previously with reference to the Movement's seven Fundamental Principles (see inside back cover).
+These values and attitudes should be evident to both asylum seekers and those working with them, and should accompany every thought, dialogue and action.
+The dignity of the individual asylum seeker must always be respected.
+All actions should be based on mutual respect and tolerance.
+
+Principle 2. Integrity and dignity
+
+To ensure the well-being of every asylum seeker, her or his integrity and dignity must be guaranteed. Everyone working with them should make sure that personal information about the asylum seeker remains strictly confidential. It may be necessary to share information with other agencies, for the benefit of the asylum seeker; in this case, appropriate agreements should be drawn up to ensure confidentiality.
+Respect for the individual and her or his integrity and dignity is essential.
+Asylum seekers need enough “space” - physical, emotional and psychological space - to be able, on occasion, to withdraw from the group and to focus on their own interests and needs. A good programme will try to offer them this possibility.
+The reception system should seek to improve the asylum seekers' capabilities and, as far as possible, help them take responsibility for their lives.
+
+2.2 Basic rights
+
+An important part of ensuring the humane and dignified reception and accommodation of asylum seekers is to help guarantee their basic rights and as much freedom as possible. This will enable them to participate actively in the responsibilities associated with their own lives, and with their situation as an asylum seeker, to the greatest possible extent. The basic rights mentioned below are those most relevant to asylum seekers; other basic rights are, of course, also applicable to people seeking asylum in a foreign country.
+
+Principle 1. Freedom of movement and residence
+
+It is important that asylum seekers be able to live with, or in the same area as, their family or relatives, or with other people of the same religious, national or ethnic background. The support that asylum seekers are given by such groups should not be underestimated. National Societies are encouraged to work towards strengthening regroupment, if that possibility already exists; if it does not, they should be prepared to discuss its implementation with the national authorities.
+Freedom of movement and residence is regulated in several legal instruments. 18
+In some European countries, freedom to reside in any part of the country is subject to certain restrictions. For example, freedom of residence may be restricted to ensure that the responsibility for the reception of asylum seekers is shared equitably throughout the country, or because relevant facilities are available in certain areas only, or because there are not enough government officials in some regions to process the asylum procedures. National Societies, however, should advocate for the abolition of all such restrictions.
+If asylum seekers are allowed to work, freedom of movement can be crucial in finding paid employment. It is also important for maintaining contact with relatives. National Societies can help defend this right for asylum seekers.
+Freedom of movement and of residence are fundamental rights.
+Any restrictions on the right to freedom of movement and residence must have a legal basis and may not be arbitrary. If restrictions are required, they must be proportional to the ends to be achieved and they must respect the right of family unity19 and be applied without discrimination for a limited period only.
+Although asylum seekers have the right to expect freedom of movement and residence, they are responsible for notifying the relevant authorities of any change of address.
+
+Principle 2. Freedom from detention
+
+In a number of European countries, asylum seekers are subject to detention under certain circumstances, such as pre-admission or pre-deportation detention, or criminal detention linked to illegal entry or exit.
+While asylum seekers in some countries are detained in special holding centres, others may be detained in ordinary prisons, where they are subject to the same treatment as criminals and other offenders and often suffer inadequate conditions.20
+Freedom from arbitrary detention is specified in several legal instruments. 21
+Asylum seekers should not be detained for reasons relating to the asylum procedure.
+Under article 31 of the 1951 UN Convention relating to the Status of Refugees, detention should not be based upon an asylum seeker's illegal entry or presence in the territory if she or he presents her- or himself to the authorities without delay and shows good cause for the illegal entry or presence.
+Asylum seekers may be detained only in exceptional cases for the reasons set out in UNHCR's Guidelines on Applicable Criteria and Standards relating to the Detention of Asylum Seekers, as long as this is clearly prescribed by a national law which conforms with general norms and principles of international human rights law.22 In such cases, asylum seekers should be detained for a minimal period, and only after full consideration of all possible alternatives.
+In the event of detention, asylum seekers should be informed of the reasons for detention and of their rights.
+They should have access to legal assistance.
+National Societies and NGOs should have unhindered access to asylum seekers so that they can provide assistance.
+Conditions of detention should be humane and should respect the inherent dignity of the person. 23
+Children should not be detained. 24
+
+Principle 3. Right to assistance
+
+Under several legal instruments, 25 people have the right to a standard of living adequate for their own and their family's health and well-being, including food, clothing, housing, medical care and necessary social services.
+Upon their arrival in a host country, most asylum seekers are not in a position to be self-sufficient and are dependent on governmental or non-governmental support. National Societies can play an important role in seeking to establish or promote a level of assistance that ensures an adequate standard of living.
+Asylum seekers - whether accommodated in reception centres or individually - should be provided with all necessary support covering the basic necessities of life, in particular accommodation, food, health care and clothing.
+These basic needs should be granted by providing the asylum seeker access to the host state's social welfare system or in-kind donations or by a combination of both.
+
+Principle 4. Health care
+
+Health care is both a basic right and a basic need of every human being. Particular consideration should be given to the United Nations Convention on Economic, Social and Cultural Rights (1966). 26 The rights specified in the Convention also apply to asylum seekers.
+Irrespective of where they are accommodated, asylum seekers should have access to basic health care at the same level as that available to the general population and should be informed of the availability of these services in the most effective way.
+Independent medical professionals should decide if a condition requires treatment.
+
+Children
+
+Asylum-seeking children must have the same access to health care as the children of the host state.
+Asylum-seeking children should receive the same preventive treatment as the children of the host state.
+
+Women
+
+Particular attention should be paid to the special health problems of female asylum seekers, who should also have the possibility of being attended to by female medical staff.
+Care should be taken to explain to women their choices concerning reproductive health and family planning, including information on the services available and the laws relating to abortion. Husbands or partners should - wherever possible and as requested - be included when this information is given.
+Women should receive family planning treatment free of charge when needed.
+Special attention should be given to pregnant women and nursing mothers. Pregnant women should receive the same mother-and-child health care as nationals.
+
+Dental care
+Adults should receive at least acute dental treatment.
+Asylum-seeking children should receive the same dental treatment as the children of the host state.
+
+Psychological and psychosocial care
+
+A large number of asylum seekers may have severe psychological problems because of exposure to torture or systematic violence. Appropriate screening measures should be established in order to identify those in need of treatment or support.
+Asylum seekers should have access to specialized treatment for physical and psychological problems related to experiences in their country of origin or arising from the hardships of flight, uprooting and exile (such as guilt and anxiety about family members, uncertainty about the future, and adaptation to a new culture).
+Doctors assisting asylum seekers should be trained to recognize symptoms of distress, so that they are not mistaken for mental illness.
+All staff involved in reception services for asylum seekers should be informed about the relevant cultural issues, about psychosocial care specific to their needs and, in particular, about the needs of especially vulnerable asylum seekers.
+Wherever possible, asylum seekers should be engaged as partners in meeting the health needs of their community.
+Asylum seekers should have the possibility of learning about the normal reactions to flight and living in exile.
+
+Preventive action
+
+Preventive action is an important part of health care, and should be part of health activities carried out in reception and accommodation centres.
+If necessary, asylum seekers should be provided with information on hygiene and sexually transmitted diseases, and on how to use medicine. Information should be available in the relevant languages.
+
+Principle 5. Clothing
+
+Asylum seekers should have access to clothing appropriate to the climatic conditions in the host state.
+
+Principle 6. Education and training
+
+Education is a basic right of extreme importance to every human being. 27 Whether they are to stay in the host country or not, asylum seekers should always have access to education.
+Educational activities offered to asylum seekers should be relevant to their future plans, bearing in mind the fact that they may not stay in that country.
+Activities proposed at reception centres or elsewhere should aim to improve and update the asylum seekers' general and employment-related skills.
+Such activities should be organized with due respect for the asylum seekers' age and educational background, and for their ethnic, cultural and religious beliefs.
+National Societies can assist asylum seekers by initiating educational/training activities. They can also encourage national authorities to implement policies aimed at allowing adult asylum seekers to acquire further education and new skills in the host state. Such activities can help the asylum seekers to better integrate the host society and to facilitate their reintegration if they return to their country of origin.
+At the earliest possible opportunity after their arrival in the host country, children should attend state primary and secondary schools. National Societies can help to ensure that children are integrated into the state education system as quickly as possible.
+Primary education must always be provided free of charge.
+
+Principle 7. Employment
+
+Enabling asylum seekers to take responsibility for their lives - that is, allowing them to work to meet their needs - will contribute greatly to ensuring that their reception is humane and dignified. A reception policy that includes the right to work and assistance in finding local employment will not only prevent exclusion from the host society, but also facilitate reintegration upon return to the country of origin. Several legal instruments define the right to work for everyone. 28
+Asylum seekers will benefit from access to the host state's labour market at the earliest possible stage, and National Societies are encouraged to support their right to work with the national authorities, if necessary.
+If asylum applications remain pending due to delays in the determination procedures, or if insufficient social assistance is provided, applicants should not be denied the right to undertake gainful employment.
+Employment promotes self-sufficiency among asylum seekers and is therefore in the interest of the host state.
+People working with asylum seekers need to be aware of the fact that if they neither receive sufficient financial support for living expenses nor have the right to work legally, they will be forced to work in clandestine settings where they may be at risk of exploitation. National Societies should seek to ensure that asylum seekers are given adequate financial support.
+
+2.3 Legal status
+
+Principle 1. Effective asylum procedure
+
+The asylum procedure often lasts a very long time, sometimes several years. A long waiting period creates a very stressful situation for those seeking asylum as, in general, they have escaped an intolerable situation in their country of origin and live in fear of being sent back there.
+It is particularly difficult for those whose claim for asylum is ultimately denied after a long period of time and who are sent back to their home country. They may not have been able to integrate the host state during the asylum procedure, but have spent such a long time away from home that they will encounter considerable problems reintegrating their country of origin.
+The extended duration of the asylum procedure can be the result of various factors. The application itself may present particular difficulties, which delay the asylum procedure; there may not be enough staff in the relevant legal sectors; or there may exist an unwillingness to accord asylum cases the priority they merit.
+All asylum procedures should be processed with the requisite care, but they should not last longer than absolutely necessary.
+The principal objective should be to reduce the duration of asylum procedures in general, while at the same time keeping all legal safeguards.
+If it is not possible to shorten the time taken to process a request for asylum, the waiting time should as far as possible be predictable. Asylum seekers are then better able to understand the situation and have some idea of what their immediate future holds; they will thus be freed from the daily fear caused by uncertainty.
+National Societies can be active in advocating for asylum procedures to be processed in as short a time as possible; in encouraging authorities to inform asylum seekers how long the asylum procedure can be expected to take and, if necessary, the reasons why it may take longer than usual; and in helping ensure that the asylum seekers gain access to this information.
+
+Principle 2. Documentation and temporary status
+
+Asylum seekers need a recognized legal status during their stay in the host country and until the moment that a final decision is made on their asylum claim, as it is referred to in the UNHCR Executive Committee Conclusion no. 35.29 Access to basic economic and social rights often depends on formal documentation legitimizing the asylum seeker's stay in the host state.
+A document certifying their status as an asylum seeker and their right to remain in the country should be issued to every asylum seeker.
+It should be valid until a final decision is made on the application for asylum.
+
+2.4 Basic information/Integration into the host state
+
+Asylum seekers arriving in a European country are often unaware of the legal systems, the administrative procedures and the social or cultural background of the host state and its society.
+Asylum seekers may suffer individual problems because of this lack of awareness; for example, ignorance of the course of the asylum procedure may prevent them from invoking procedural rights correctly.
+A lack of understanding or a misunderstanding of the host country's social or cultural background could create not only a feeling of isolation, but also a certain unease between asylum seekers and the citizens of the host state. Tensions between the two communities may occur if asylum seekers behave in a manner that is completely contradictory to the habits or even the laws of the host state. If they are based on nothing more than a lack of information, many of these problems could be prevented.
+
+Principle 1. Information and counselling
+
+All information or counselling should be provided in a language and in a way that the asylum seeker can understand. Access to translated information or trained and qualified interpreters should therefore be provided free of charge during the entire course of the procedure.
+National Societies can seek to ensure access to information and the presence of professional interpreters; if a local network to provide interpreters exists, it should be used.
+Those eliciting information from asylum seekers should always take account of the fact that people seeking asylum have different educational backgrounds which may call for other ways of providing the necessary information. In this respect, the local refugee community may be able to provide useful guidance.
+
+Principle 2. Information on the asylum procedure
+
+Asylum seekers come to a European country in order to seek asylum and to gain refugee status. The country's legal background and the course of the asylum procedure are therefore of particular interest and importance for them.
+Throughout the entire asylum-application process, asylum seekers should have access to information on the procedure to ensure its effectiveness.
+The main emphasis should be placed on explaining how the procedure works and the asylum seekers' rights and obligations (for example, interviews, supporting documentation, the possibility of appeal, access to legal aid, etc.).
+Asylum seekers should have access to free legal aid or legal counselling at all stages of the procedure.
+
+Principle 3. Basic information on the legal system: rights and obligations
+
+When they arrive in Europe, asylum seekers are generally not familiar with the legal system in the European host state. Many principal legal precepts are similar in states around the world, but other laws differ from country to country. If asylum seekers are unaware of these differences, they may unwittingly break the law of the host state or may be ignorant of their rights under that country's laws.
+Legal principles, which are typical for the host state but not common throughout the world, should be explained to asylum seekers.
+Asylum seekers should also be informed of their rights under the relevant legal system, such as the right to take legal action or to appeal, or to bring charges against another person. This information should include how to file formal complaints in case of misconduct by the people in contact with them or unacceptable conditions, either in the reception centre or elsewhere.
+National Societies can be active in ensuring that there is good cooperation and continued dialogue with local police and others who are in a position to provide relevant information in this field to the asylum seekers.
+
+Principle 4. Basic information on the cultural and social characteristics of the host state
+
+The European host society's cultural and social environment may differ substantially from that of the asylum seekers' country of origin. This may lead to mutual misunderstanding, misconduct or disapproval among the asylum seekers and the citizens of the host state, which easily results in isolation and segregation, as well as in xenophobia and racism.
+Asylum seekers should be given basic information on the cultural and social characteristics of the host state and its society. As a minimum, asylum seekers should be informed about:
+the prevalent morality of the host society, especially concerning family structure and the role of children, women and men within the society;
+the citizens' attitudes and social norms, such as the roles of work, family and spare time;
+the political system and the apparatus of government;
+the welfare system and access to it for asylum seekers;
+the health and education systems and their access to them;
+daily activities in which they can participate, such as clubs, social or political organizations;
+refugee community organizations from the asylum seekers' country of origin; and
+how to use heating, electricity and running water (including the cost implications of these resources).
+
+Principle 5. Language courses
+
+The majority of asylum seekers coming to Europe do not speak the language of the host state, and many of them may not speak any major European language. As a result, the asylum seekers may feel isolated or segregated from the host society and may encounter a number of practical problems (for example, exclusion from certain activities, etc.)
+Bearing in mind that they may be granted refugee status in the host country, and the advantages of their speaking the local language during the asylum procedure, asylum seekers should be able to attend classes free of charge to learn the language of the host state.
+If it is necessary or more useful to teach asylum seekers English, free access to courses should be given.
+Although language courses should not be compulsory, governments, National Societies and NGOs should try to convince a majority of the asylum seekers to participate in them. This is not only in their own interest but also that of better relations between the asylum seekers and the local community.
+
+2.5 Especially vulnerable people
+
+National Red Cross and Red Crescent Societies have a humanitarian obligation to work on behalf of the most vulnerable people. By the very nature of their situation, asylum seekers are vulnerable, but national authorities and National Societies should pay attention to individuals who may be especially vulnerable because of their physical or mental conditions, age or gender. Staff working with these different groups of vulnerable people should receive training to enable them to meet the special needs of these groups.
+
+Principle 1. Children
+
+Child asylum seekers accompanying their parents or other adult guardians are in the same situation and face the same problems as adults, but they suffer the hardships inherent in displacement even more acutely because of their dependence, their vulnerability and their developmental needs.
+National authorities, international organizations and NGOs working with asylum seekers should be aware of these children's special needs, including access to health care, education, and social and physical protection. The receiving state's authorities and National Societies, which are involved in reception and accommodation services, should ensure that their work is focused on children's needs. All contacts between the national authorities and asylum-seeking children should take the age and condition of the child into consideration.
+The provision of support and activities for children can alleviate concern in families and help to establish relatively normal life conditions in an abnormal situation. Children should, in some cases, be assisted directly as well as through their family, especially if the adult members of the family are depressed or preoccupied by their situation in exile.
+In the context of these guidelines, children are minors under the age of 18.
+Authorities and staff working with children should always be guided by the “best interest” principle. 30
+Children must be protected from exploitation and abuse by members of their own and the host communities.
+National laws governing the protection of children must be strenuously enforced, and proper screening applied to those appointed to work with children.
+People working with children should pay particular attention to their specific educational, medical, psychological, cultural, linguistic, recreational and other special needs in a manner appropriate to their age.
+The general objective of all activities should be to establish relatively normal life conditions in an abnormal situation. Despite the hardships of displacement, children should enjoy their childhood in as carefree a manner as possible in order to give them the chance to develop more or less normally.
+National Societies and their youth sections can seek to organize day-care and recreational activities to take charge of the asylum-seeking children shortly after their arrival in the host country.
+Under no circumstances should children be separated from their family.
+Detention of an asylum-seeking child for reasons concerning the asylum procedure should be avoided except in the most exceptional cases, and then only when it is in the best interests of the child.
+Consideration should be given to the fact that children may have their own reasons - independent of their parents' motives - for seeking asylum. They should have the right to apply for asylum on their own.
+
+Principle 2. Unaccompanied children
+
+Special attention should be given to unaccompanied and abandoned children. These children obviously have the same needs as accompanied children and the principles outlined above are applicable. However, unaccompanied minors are in need of special care and protection, which should be reflected in the reception and accommodation facilities.31
+Each unaccompanied minor should be promptly provided with a guardian who designates or takes responsibility for necessary psychosocial and legal support throughout the period of the asylum procedure.
+Priority should be given to the applications for asylum of unaccompanied children.
+The host state's reception system should never separate unaccompanied siblings.
+Children who arrive without an accompanying adult, but who have family members in the host state, should, if appropriate, be reunited with their relatives as quickly as possible.
+Unaccompanied minors should be informed of or assisted in the possibility of making contact with their relatives through the International Red Cross and Red Crescent tracing system or other relevant international organizations. 32
+National Societies can have an important supportive role to play in situations where the age of an unaccompanied child is contested by the authorities. When the authorities are deciding what conditions of reception and accommodation will apply, National Societies can advocate for the child being given the benefit of the doubt until a professional age-determination procedure takes place, and can insist that such a procedure be carried out by a qualified and independent paediatrician with appropriate expertise, who will also take into account cultural sensitivities.
+Unaccompanied minors should be accommodated in homes for young people, where their special needs are fulfilled. This means, among other things, accommodation in small units (a maximum of 15 children per unit). There should be more staff to care for them than the number usually employed to work with other asylum seekers in accommodation centres.
+Accommodation units should offer a caring structure which helps the children to deal with the fact that they are alone without parents.
+Moving unaccompanied children from one centre to another should be avoided without careful consideration of the best interests of the child.
+
+Principle 3. Female asylum seekers
+
+Because of their gender, female asylum seekers may be exposed to particular problems especially with regard to their social and physical protection. If they are accompanied by family members, they are often responsible for keeping their families together and for ensuring their children's well-being. National Societies can help female asylum seekers by emphasizing that the host state has an obligation to protect asylum-seeking women from physical violence, sexual abuse, harassment and discrimination33 and to ensure that they are able to accomplish their important role within the family structure. 34
+Gender awareness should be a guiding principle throughout the entire asylum procedure. Sensitive women's problems should be dealt with by female staff.
+Female asylum seekers require counselling on their rights during the whole asylum process, but especially at the initial stage. This information should include their right to submit an individual application when accompanied by family members. Asylum-seeking women should be interviewed by female interpreters.
+Special facilities should be provided to ensure that women participate in educational or training activities regardless of their age, ethnic background or religion.
+Single female asylum seekers in particular should have access to separate living quarters as well as separate toilets and bathing facilities which are not too distant from living quarters.
+Particular attention should also be given to the special health problems of female asylum seekers. (See 2.2, principle 4, health care, above for more information.)
+Attention should be given to the involvement of women on equal terms in the planning, administration or implementation of activities or other aspects of daily life at the centres.
+
+Principle 4. Elderly asylum seekers
+
+Elderly asylum seekers are in a difficult situation. Being elderly presents special problems, as does being an asylum seeker; elderly people may also suffer from a combination of both situations. 35 On top of this, other difficulties may compound their distress: the specific cultural problems of immigrants, the trauma and economic troubles faced by refugees; and elderly people's health and social problems. 36
+Uprooted in the latter stage of their life, adaptation is often difficult or impossible for older asylum seekers. A lack of mobility and flexibility, a sense of abandonment, isolation and dependency are factors that make being an asylum seeker even more traumatic for the elderly. They are also especially vulnerable due to their advanced age, and require prompt access to medical and health care.
+The situation is particularly difficult for elderly people separated from their families. If they come from a country with a traditional family support network, they will find it very hard to accept their fate.
+From the very beginning of the procedure, efforts should be made to identify elderly asylum seekers in need of special treatment and assistance.
+If elderly asylum seekers are separated from their family and are particularly vulnerable, family tracing activities should be undertaken.
+Elderly asylum seekers should be provided with special legal or social advice and interpretation services at all stages of the asylum procedure to help them through the procedure itself and also to ensure that they receive any special assistance they need because of their advanced age.
+Efforts should be made to provide the special health and psychological care that elderly asylum seekers need.
+If their health allows it, elderly people should stay in centres with other asylum seekers in order not to be segregated or isolated.
+If required by their health, elderly asylum seekers should have access to old people's homes and other elderly benefits on the same basis as nationals.
+
+Principle 5. Mentally and physically disabled asylum seekers
+
+Special attention should be paid to mentally and physically disabled people who, being both disabled and asylum seekers, are, like the elderly, in a particularly difficult situation. Authorities and staff working with mentally and physically disabled asylum seekers should try to integrate them with the community and to prevent all forms of discrimination against them because of their disabilities. 37
+Facilities should be adapted to the special needs of the physically disabled. This includes, for example, providing them with wheelchairs or crutches.
+Physically disabled people should have access to aids that will help ensure that they are able to participate as much as possible in daily activities in the centres and in the community.
+Professional medical treatment and counselling should be made available to physically disabled people.
+Special attention should be paid to people with mental illnesses, whether the illnesses are permanent or have been caused by events before or during the flight from their country of origin.
+Mentally disabled people should have access to professional treatment and counselling on both psychological and medical levels.
+To ensure that they are integrated and not isolated and segregated, physically and mentally disabled people should stay in centres with other asylum seekers and should be encouraged to participate as far as possible in activities, training and education, if their health allows it.
+If their health requires it, physically and mentally disabled people should have access to special facilities designed to accommodate disabled citizens of the host state.
+
+Principle 6. Traumatized people
+
+Asylum seekers in general are vulnerable people, but those who are traumatized, such as survivors of torture and victims of organized violence, are an especially vulnerable group.38
+The traumatic experiences they have suffered may make it very difficult for these asylum seekers to comply with requests from the authorities in connection with legal asylum procedures; for example, they may be afraid of being interviewed, or may find the cooperation requested too complex to follow. They may also be unable to take part in everyday activities. Reaching the country of asylum does not necessarily lessen the stress experienced by many traumatized asylum seekers; they may continue to feel anxious and afraid for the often-long period of time during which the legal basis for their asylum application is examined.
+Traumatized asylum seekers are in need of a wide range of specialized help, especially psychosocial and medical treatment, counselling and assistance, legal advice, housing and education.
+National Societies should seek to inform and offer training, supervision and support not only to their own staff but also to the general public and others who work on a daily basis with traumatized people. Advising traumatized asylum seekers that impartiality is one of the Red Cross and Red Crescent's Fundamental Principles may help promote the trust necessary to treat and assist them.
+Work with traumatized asylum seekers should aim particularly at strengthening their self-esteem and helping them keep their dignity.
+Traumatized asylum seekers should be accommodated in secure and quiet centres or residences.
+
+2.6 Accommodation in a centre
+
+Reception centres are not the only means of accommodating asylum seekers. They may also stay with friends, relatives or families unknown to them in the host country. Some may be able to afford rented or hotel accommodation. However, National Societies are encouraged to advocate for access to private accommodation subsidized by the host state, and for keeping the number of moves to a minimum, to ensure a more stable and familiar environment.
+Although asylum seekers lodged in different types of individual accommodation should, of course, be provided with the general assistance, rights and support noted in these guidelines, it is not possible to define detailed guiding principles that cover the many diverse forms of individual accommodation.
+However, reception centres, whether run by states, National Societies or NGOs, possess similar structures and should therefore have comparable standards throughout Europe.
+The nature of the asylum procedure will obviously determine the duration and conditions of stay in these centres.
+
+Principle 1. Situation of the centre
+
+Although most buildings can be adapted to accommodate the needs of asylum seekers, care should be taken when deciding where to establish reception and accommodation centres. They should not be situated in areas of tension or far away from urban infrastructure. If the centre is set up in a remote location, there is the risk that it be perceived as an isolated camp, which could lead to ignorance, ambivalence or even rejection on the part of local citizens.
+Centres should be established close to urban infrastructure.
+The centre should be linked to the existing local infrastructure. The distance between public institutions (such as doctors, shops, schools, kindergartens, etc.) and the centre must be manageable and reflect local conditions.
+Centres should not be set up in military or industrial areas, or in areas with racial or ethnic tensions, or where the local population's social situation is especially harsh.
+
+Principle 2. Relations with the local community
+
+Establishing and maintaining good relations with the communities living close to the centres is of vital importance and can be crucial in setting up activities in cooperation with the local population. Local communities and the centres' residents can benefit mutually from close and good relations, which will help lessen the asylum seekers' isolation and also reduce any animosity and envy which, based on myths and misunderstandings, may be expressed by the local community.
+The host state is responsible for keeping its citizens informed of and sensitive to the needs of asylum seekers who may subsequently be recognized as refugees, and to discourage racist or xenophobic imagery in the media.
+NGOs form an important link in this respect, promoting public awareness and fostering better understanding of the asylum issue.
+National Societies are advised to benefit from their local presence to establish platforms for information and to promote good relations with the local communities. 39 Information to the local community should be strengthened when establishing a new centre in the area.
+Concrete contact and dialogue between residents of the reception centre and the citizens of the local community should be actively promoted. This could be done, for example, by recruiting volunteer citizens to help in administering the centre, or by encouraging the asylum seekers to become involved in local activities.
+
+Principle 3. Accommodation
+
+Reception and accommodation facilities can sometimes be required at very short notice. National Societies and other institutions working with asylum seekers should endeavour to set up humane facilities as quickly as possible. However, priority should always be given to ensuring that the facilities reflect the asylum seekers' need to retain responsibility for their own lives.
+Facilities should reflect cultural and religious customs and respect the specific needs of groups or individuals for the exercise of religious and cultural practices.
+Reception and accommodation facilities should reflect the social conditions and the size of the local community, i.e., a large centre should not be set up in a small village nor contain facilities unavailable to the local population.
+Heating should be provided, taking into consideration that some people are more sensitive to the cold than others. Electric lighting should be installed in conformity with safety regulations.
+On arrival, each asylum seeker should be given a pillow, a quilt, a blanket, two sets of bed linen, two sheets and any household appliances that are necessary for the preparation and consumption of food.
+Bedrooms/Living rooms
+
+Every resident must have her or his own bed.
+Single adult residents should, as a rule, be housed in rooms with a maximum of four beds, and have at least have six square metres of space in the bedroom.
+Each family (married couples with or without children, single parents with children) must have a room at its disposal.
+Families of three generations should be accommodated in at least two rooms.
+Single women and men should be accommodated separately.
+Every resident should have a locker or a lockable part of a cabinet, in which to store personal belongings out of the reach of unauthorized individuals.
+There should be an adequately-sized table and one seat/chair per person in every room.
+Residents should be allowed to decorate rooms according to their personal taste (e.g., putting up shelves, pictures, photos, etc.).
+Residents must be able to lock the door of their room.
+Residents should be given a room key and, if the building is locked at night, a front-door key.
+Bedrooms and living rooms should not be entered without the resident's permission unless public safety or health is threatened. Residents should be able to receive visitors in their rooms, unless this disturbs other residents.
+
+Kitchen and sanitation facilities
+
+Residents should have access to a kitchen and the possibility to prepare their own food.
+In every centre, kitchens should be equipped with sufficient household appliances (i.e., at least one electric cooker per eight residents and sufficient refrigerators in which residents can keep their own food).
+Residents should be able to use the kitchens at any time, but at least between 6h00 and 24h00. Mothers with infants and people who are ill should have access to the kitchen at all times.
+If a self-catering kitchen is not available, a cafeteria must provide the residents with food and also take into consideration the culinary customs of different religions and ethnic origins.
+A catering service should be made available for residents who are unable to prepare their own food because of age or acute and chronic illnesses.
+Special cultural needs should be taken into consideration.
+Toilets, showers and washrooms for men and women must be separated.
+Every room should have a washbasin. If this is not possible, there should be at least one washing facility for every six people.
+There should be at least one shower for every eight residents.
+One urinal and a toilet for every eight men, and one toilet per five women must be provided.
+Families should have access to their own sanitation facilities.
+Electricity and hot running water must be supplied at all times in kitchens and sanitation facilities. Residents should be able to adjust the temperature of the water.
+Residents should have access to washing machines and facilities for drying their laundry.
+
+Recreation and information facilities
+The centre should have rooms of adequate size for general use. One of the rooms must be suitable for residents' meetings and group work.
+If the residents include children, the centre should provide at least one playroom and playground, and appropriate space for schoolchildren to do their homework.
+At least one television set for general use should be supplied per centre.
+Residents should have access to relevant communication facilities.
+A correct and prompt postal delivery must be guaranteed.
+
+Principle 4. Organization of the centre
+
+To ensure that, even though they are experiencing an abnormal situation, asylum seekers have as much direct influence as possible on their everyday lives, self-determination and the right to participate in decisions concerning the centre are vital.
+National Societies should encourage authorities to allow the highest possible degree of involvement by the residents themselves in the administration of centres, especially those who stay for a long period of time.
+Democratic and representative “residents' councils” should be established to reflect the complexity of the different cultural backgrounds as well as the religious and ethnic groups living in the centre. These councils should ensure that residents themselves comprise an essential part of the administration.
+Residents should also be partly responsible for the maintenance, improvement and organization of the centre.
+
+Principle 5. Activities
+
+Common activities are an important part of social life and they should therefore be offered in the centres. These activities should encompass recreational, information and skill-training sectors.
+It is recommended that activities at the centre, and the budget provided for them, be run and administered as far as possible by the residents' council (see principle 4 above).
+The facilities for activities should be located within the centre.
+Activities should be organized with a certain flexibility so that they correspond to the residents' interests and possibilities.
+Residents should be able to practise and maintain their skills by helping the staff working at the centres, with the assistance, if necessary, of volunteers from the host community.
+
+2.7 Tracing and family reunification
+
+International humanitarian and human rights law recognizes the family as the natural and fundamental unit of society. As such, it is entitled to the protection of society and the state. Article 26 of the Fourth Geneva Convention and article 74 of the First Additional Protocol of 1977 as well as several resolutions of International Conferences of the Red Cross and Red Crescent (Geneva, 1986 and 1995) clearly state that governments should take all possible steps to facilitate the reunification of families. 40
+While provisions under international law guarantee the preservation of the family, a clear definition of this unit, and of its right to reunification, is left to national legislation. In situations where reunification entails admitting family members to another country, the decision is made according to the laws and regulations of that country.
+For example, the governments of Western countries generally consider family reunification only for the “first-degree” or nuclear family, i.e., spouse and minor children. Exceptional consideration is sometimes given on compassionate grounds to elderly parents or lone, vulnerable siblings. Other relatives, too, may be considered as long as they can support themselves. However, National Societies should encourage authorities to regard a partner of the same sex as nuclear family.
+National Societies have a common responsibility in the active support and advocacy of the right to reunification of families separated by armed conflict or as a result of persecution. The XXVIth International Conference encouraged National Societies “to maximise their efficiency in carrying out tracing work and family reunification by strengthening their tracing and social welfare activities and maintaining close co-operation with the ICRC, government authorities and competent organisations, such as the UNHCR, the IOM and NGOs involved in such work” (Resolution 2D).
+National Societies are encouraged to work towards minimizing all restrictions to family reunification.
+National Societies should remind their respective governments of the continuing need for their support in the field of family reunification and of the serious humanitarian problem of dispersed families which needs to be solved without delay.
+National Societies are encouraged to urge their governments to ensure that the processing of family reunification and asylum applications is handled expeditiously in order to minimize the psychological and the negative social effects of family separation.
+National Societies can help members of a separated family wishing to reunite in one or more of the following ways: tracing; information; legal assistance; travel arrangements; and financial support.
+National Societies are encouraged to monitor, to the best of their abilities and according to their capacities, the integration of those reunited with family members in their countries.
+National Societies may decide to provide legal assistance to individuals in the process of applying for family reunification. If an application for reunification is subject to appeal under national legislation and there is no right to free legal assistance, the National Society can play an important role in safeguarding the right of reunification.
+In line with the Movement's responsibility to preserve the family unit, National Societies should seek to integrate their activities for restoring family links within an overall plan of action. They should also try to draw the attention of the public, humanitarian players and governments to the work and significance of their tracing services.
+An officer responsible for tracing should be clearly designated in each National Society. This person will be responsible for setting up or consolidating an effective national network for carrying out tracing and family reunification activities. Depending on the circumstances, she or he will work with the Central Tracing Agency, the relevant ICRC delegations and/or the tracing services of other National Societies.
+
+3. Guiding principles relating to governments, National Red Cross and Red Crescent Societies and NGOs
+
+A part from the aspects directly relating to asylum seekers' rights and needs outlined above, there are several other general issues, relating to governments, National Societies and nongovernmental organizations, which have an enormous impact on the asylum seeker's situation.
+The guiding principles below present a possible framework for the reception of asylum seekers, which ensures compliance with the principles set out in the preceding sections.
+
+3.1 Staff
+
+It is important that staff be recruited with care and provided with adequate training. The staff 's task is to translate these guidelines into practice and to provide help wherever it is needed. The quality of the work with asylum seekers and their well-being therefore depend heavily on the qualification, motivation and personality of the staff.
+
+Principle 1. Careful staff recruitment
+
+Staff should be psychologically and emotionally mature.
+Staff should be motivated to assist asylum seekers during this difficult period in their lives.
+Staff should be educated and qualified in the professional area in which they are employed.
+Staff should be open-minded regarding the complexity of the different human backgrounds and cultures with which they will be confronted during their work with asylum seekers.
+The complexity of this work requires staff who are able to accept and tolerate different ways of living, different religions, different cultures, etc.
+
+Principle 2. Staff training
+
+National Societies have a specific responsibility concerning the implementation of the Movement's seven Fundamental Principles and the Code of Conduct for the International Red Cross and Red Crescent Movement and NGOs in Disaster Relief in their work with asylum seekers.
+The whole framework of activities - from the meeting and dialogue with the asylum seekers to the general organization of work - should be implemented in accordance with the seven Fundamental Principles.
+It is important that the Fundamental Principles be incorporated in activities in a tangible way - as is the case for these guidelines - so that staff find them easier to implement.
+Staff working with asylum seekers need to be trained in and to accept the Fundamental Principles as well as these guidelines and other relevant instruments. They should see the application of these instruments as an integral part of their job and not merely as an ideal.
+It is important that staff are given the opportunity - and take it - to continue their education and to follow up on the latest developments in this domain, so that best practice is available throughout Europe.
+Staff should be encouraged to participate in the development of both professionalism and the organization of activities.
+
+3.2 General principles
+
+Principle 1. Implementation
+
+Establishing guidelines is a first step in the right direction. However, guidelines are designed to be implemented: without implementation, they remain merely a piece of paper. It is unfortunately a fact that guidelines are not always translated into practice.
+It is important that these guiding principles be implemented as widely as possible.
+National Societies are encouraged to aim at promoting the implementation process of these guidelines and the international legal instruments on which they are based, including appealing to all authorities to provide the necessary means and materials to facilitate the highest possible degree of implementation.
+The implementation problem cannot be solved without regard to the aspects discussed below. Implementation is a generic term for the various aspects of dissemination, coordination and staffing. Dissemination is a precondition for implementation, which, however, cannot subsequently function without good coordination among the different organizations working with asylum seekers, and the process requires qualified and motivated staff.
+
+Principle 2. Dissemination
+The conditio sine qua nonfor the application of these guidelines is that authorities and staff working with asylum seekers are aware of their existence and their content.
+These guiding principles should be disseminated as widely as possible.
+As a minimum, National Societies should seek to distribute these guidelines to all of their departments and staff members who are in touch with asylum seekers.
+National Societies can also disseminate them among other authorities or organizations dealing with asylum seekers in order to inspire them and to assist coordination.
+
+Principle 3. Cooperation and coordination among
+the organizations that deal with asylum seekers
+Good coordination among the different organizations and levels of government will improve the quality of work with asylum seekers.
+National Societies are in a good position to take the initiative in establishing cooperating and coordinating groups among the different organizations and levels of government.
+These groups can exchange their experience and the knowledge gained in the area.
+They can also develop ideas and concrete initiatives and projects for future work.
+Knowledge and information banks can be established, for example, on the Internet.
+
+Principle 4. Preventing and fighting against xenophobia
+and racism
+
+An important consideration for the physical and psychological well-being of asylum seekers is that they are respected, accepted and understood by members of the host society. In reality, asylum seekers are often confronted by xenophobia and racism which aggravates their already-difficult situation. The extent and forms of xenophobia and racism range from ignorance or disapproval, to verbal insults or physical aggression which may even culminate in the death of the asylum seeker. Many of the problems derive from a lack of information or misinformation among the citizens of the host state.
+National Societies are encouraged to advocate for the provision of a high level of information to the citizens of the host state.
+This information should explain the reasons why asylum seekers come to Europe and the circumstances under which they live in the host country. A better knowledge among citizens of the terrible past suffered by the majority of asylum seekers and their uncertain present and future would probably enhance understanding and sympathy and minimize the antipathy to the asylum seeker.
+Citizens should also be informed of asylum seekers' rights and possibilities. Much disapproval of asylum seekers is based on citizens' dissatisfaction with their own lives. Consequently, asylum seekers are often seen as scapegoats. The provision of more information would encourage more sympathetic thoughts and arguments, and would prevent many groundless and unqualified accusations against asylum seekers.
+National Societies should seek to focus on working with and through children to prevent and fight against xenophobia and racism. They could, for example, visit kindergartens and schools and speak to the children. This is of crucial importance because the children of today will be the adults and players of tomorrow.
+National Societies should try to involve as many volunteer citizens as possible in work with asylum seekers. As the number of people in direct contact with asylum seekers increases, the possibility of racism and xenophobia developing decreases.
+National Societies need to reflect upon their own achievable contributions to minimize all kinds of restrictions and practices which might lead to intentional or unintended forms of xenophobia and racism.
+It is important that National Societies consider carefully the consequences of all forms of exclusive or special treatments and regulations and to their possible repercussions on racism. They should seek to work towards mainstreaming treatment as much as possible into all policies and programmes.
+The staff of reception centres should be encouraged to participate voluntarily in awareness training which promotes non-discriminatory attitudes and behaviour towards people of different ethnic or collective origins.
+
+4. Annexes
+
+4.1 Guiding principles to keep in mind when working with asylum seekers
+
+Guiding principle 1.
+
+The Movement's seven Fundamental Principles should be reflected in work with asylum seekers at all levels.
+
+Guiding principle 2.
+
+The dignity of the individual asylum seeker must always be respected.
+
+Guiding principle 3.
+
+The aim of all activities is to establish normal life conditions in an abnormal situation.
+
+Guiding principle 4.
+
+Freedom of movement and residence, and freedom from arbitrary detention are basic rights.
+
+Guiding principle 5.
+
+Asylum seekers should be provided with all necessary support covering the basic necessities of life, such as accommodation, health care, food and clothing. The basic needs provided should reflect the situation in the host state.
+
+Guiding principle 6.
+
+Special attention and care should be offered to individuals who may be particularly vulnerable due to age, gender, or physical or mental conditions.
+
+Guiding principle 7.
+
+Education, employment and activity are of crucial importance for every human being.
+
+Guiding principle 8.
+
+Particular emphasis should be placed on information concerning: the asylum procedure; rights and obligations under the legal system; and cultural and social norms.
+
+Guiding principle 9.
+
+The possibility of reuniting families should always be kept in mind.
+
+Guiding principle 10.
+
+Efforts should be made to achieve a “good dialogue” between asylum seekers and local society.
+
+Guiding principle 11.
+
+These guiding principles should be disseminated and implemented.
+
+Guiding principle 12.
+
+Staff should consider these guiding principles as an integral part of their jobs.
+
+4.2 Guiding principles for accommodation in centres
+
+Guiding principle 1.
+Centres should be established close to infrastructure.
+
+Guiding principle 2.
+Centres should have the highest possible degree of self-government by the residents themselves.
+
+Guiding principle 3.
+Residents should have enough physical, emotional and psychological “space” to withdraw from the group and focus on their own interests.
+
+Guiding principle 4.
+The facilities should respect the specific needs of families, groups and individuals. Separate accommodation of the sexes should be possible.
+
+Guiding principle 5.
+The facilities should reflect the cultural, ethnic and religious background of the residents.
+
+
+4.3 Abbreviations/acronyms
+CTA - Central Tracing Agency
+ECRE - European Council on Refugees and Exiles
+ECHR - European Convention for the Protection of Human Rights and Fundamental Freedoms
+EU - European Union
+ICCPR - International Covenant on Civil and Political Rights
+ICESCR - International Covenant on Economic, Social and Cultural Rights
+ICRC - International Committee of the Red Cross
+IOM - International Organisation for Migration
+NGO - Non-governmental organization
+PERCO - Platform for European Red Cross Cooperation on Refugees, Asylum Seekers and Migrants
+UDHR - Universal Declaration of Human Rights
+UN - United Nations
+UNHCR EXCOM  - Executive Committee of the Office of the United Nations High Commissioner for Refugees
+
+4.4 Reference material
+
+PERCO and the International Federation of Red Cross and Red Crescent Societies. Repatriation Guidelines for National Red Cross and Red Crescent Societies. Geneva: International Federation, 1999.
+PERCO. Integration of Traumatized Refugees, Extracts from the Interim Report April 1998. Based on the Copenhagen Seminar, 26-28 March 1998.
+League of Red Cross and Red Crescent Societies. Working with Refugees and Asylum Seekers, A handbook for Red Cross/Red Crescent staff and volunteers. Geneva: League, 1991.
+International Committee of the Red Cross. Restoring Family Links, a Guide for National Red Cross and Red Crescent Societies. Geneva: ICRC, 2000.
+UNHCR. Recommendations as regards Harmonization of Reception Standards for Asylum Seekers in the European Union. Geneva: UNHCR, 2000.
+UNHCR. Guidelines on Applicable Criteria and Standards relating to the Detention of Asylum Seekers. Geneva: UNHCR.
+UNHCR. Refugee Children, Guidelines on Protection and Care. Geneva: UNHCR, 1994.
+UNHCR. Guidelines on Policies and Procedures in dealing with Unaccompanied Children Seeking Asylum. Geneva: UNHCR, 1997.
+Save the Children, UNHCR and European Union. Separated Children in Europe Programme - Statement of Good Practice. Geneva: 1999.
+UNHCR. Guidelines on the Protection of Refugee Women. Geneva: UNHCR, 1991.
+UNHCR. Guidelines on Prevention and Response - Sexual Violence against Refugees. Geneva: UNHCR, 1995.
+UNHCR. Fact Sheet No. 20, Human Rights and Refugees. (See: http://www.unhchr.ch).
+ECRE. Position on the Reception of Asylum Seekers. London: ECRE, 1997.
+
+Fundamental Principles
+
+Humanity
+The International Red Cross and Red Crescent Movement, born of a desire to bring assistance without discrimination to the wounded on the battlefield, endeavours, in its international and national capacity, to prevent and alleviate human suffering wherever it may be found. Its purpose is to protect life and health and to ensure respect for the human being. It promotes mutual understanding, friendship, cooperation and lasting peace amongst all peoples.
+
+Impartiality
+It makes no discrimination as to nationality, race, religious beliefs, class or political opinions. It endeavours to relieve the suffering of individuals, being guided solely by their needs, and to give priority to the most urgent cases of distress.
+
+Neutrality
+In order to enjoy the confidence of all, the Movement may not take sides in hostilities or engage in controversies of a political, racial, religious or ideological nature.
+
+Independence
+The Movement is independent. The National Societies, while auxiliaries in the humanitarian services of their governments and subject to the laws of their respective countries, must always maintain their autonomy so that they may be able at all times to act in accordance with the principles of the Movement.
+
+Voluntary Service
+It is a voluntary relief movement not prompted in any manner by desire for gain.
+
+Unity
+There can be only one Red Cross or Red Crescent Society in any one country. It must be open to all. It must carry on its humanitarian work throughout its territory.
+
+Universality
+The International Red Cross and Red Crescent Movement, in which all societies have equal status and share equal responsibilities and duties in helping each other, is worldwide.
+
+The International Federation of Red Cross and Red Crescent Societies promotes the humanitarian activities of National Societies among vulnerable people.
+By coordinating international disaster relief and encouraging development support it seeks to prevent and alleviate human suffering.
+The International Federation, the National Societies and the International Committee of the Red Cross together constitute the International Red Cross and Red Crescent Movement.
+
+End Notes
+
+1	Humanity, impartiality, neutrality, independence, voluntary service, unity and universality: the seven Fundamental Principles were proclaimed by the XXth International Conference of the Red Cross, Vienna (1965). The revised text is contained in the Statutes of the International Red Cross and Red Crescent Movement, adopted by the XXVth International Conference of the Red Cross and Red Crescent, Geneva (1986). The full text of the Fundamental Principles can be found on the inside back cover of these guidelines.
+2	Mainly the 1951 Convention of the Status of Refugees and the 1967 Protocol, but also the UN Convention relating to the Status of Stateless Persons (1954), United Nations General Assembly Resolution 2312 (XXII) of 14 December 1967, the Council of Europe's Agreement on Transfer of Responsibility of Refugees (1980), the Dublin Convention (1990), the conclusions of the UNHCR Executive Committee and other legal and non-legal instruments.
+3	That is, article 33 of the Convention relating to the Status of Refugees and UNHCR EXCOM conclusions no. 5 (XXVIII) Asylum (1977), no. 14 (XXX) General (1979), no. 16 (XXXI) General (1980), no. 19 (XXXI) Temporary Refuge (1980), no. 22 (XXXII) Protection of Asylum Seekers in Situations of Large Scale Influx (1981) and others.
+4	UNHCR. Recommendations as Regards Harmonization of Reception Standards for Asylum Seekers in the European Union. Geneva: UNHCR, 2000, A. General Considerations, p. 3.
+5	League of Red Cross and Red Crescent Societies. Working with Refugees and Asylum Seekers, A handbook for Red Cross/Red Crescent staff and volunteers. Geneva: League, 1991, p.27.
+9 That is, the Convention Relating to the Status of Refugees, article 33, and UNHCR EXCOM conclusions no. 5 (XXVIII) Asylum (1977), no. 14 (XXX) General (1979), no. 16 (XXXI) General (1980), no. 19 (XXXI) Temporary Refuge (1980), no. 22 (XXXII) Protection of Asylum Seekers in Situations of Large Scale Influx (1981), no. 29 (XXXIV) General (1983), no. 39 (XXXVI) Refugee Women and International Protection (1985), no. 44 (XXXVII) Detention of Refugees and Asylum Seekers (1986), no. 47 (XXXVIII) Refugee Children (1987), no. 60 (XL) Refugee Women (1989), no. 64 (XLI) Refugee Women and International Protection (1990), no. 73 (XLIV) Refugee Protection and Sexual Violence (1993), no. 84 (XLVIII) Refugee Children and Adolescents (1997) as well as Resolutions of the XXVth and XXVIth International Conferences of the Red Cross and Red Crescent (Geneva, 1986 and 1995).
+10 Article 2 II, III of the ICESCR, article 4 I, II ICCPR.
+11 German Red Cross, Das humanitare Volkerrecht, 17. Worin besteht der Unterschiedzwischen dem humanitaren Volkerrecht und den Menschenrechten, p. 2 (see: http://www.drk.de).
+15 That is, the recommendations of the XXVIth International Conference which appealed to National Societies to continue to respond to the needs of refugees in cooperation with governments, the UNHCR and other humanitarian institutions. The Council of Delegates has repeatedly encouraged National Societies “...to implement, whenever necessary, programmes for refugees, asylum seekers and displaced persons which provide emergency assistance as well as long-term solutions	”.
+16 One of PERCO's objectives is to provide a forum for the exchange of know-how and good practice and to facilitate the pooling of resources within this area as reflected in the Terms of Reference of February 2000.
+17 For further information, see UNHCR's Recommendations as regards Harmonization of Reception Standards for Asylum Seekers in the European Union (2000), and ECRE's Position on the Reception of Asylum Seekers (1997).
+22	UNHCR. Guidelines on Applicable Criteria and Standards relating to the Detention of Asylum Seekers, Guideline 3: Exceptional Grounds for Detention.
+23	More detailed guidance is provided in the UNHCR's Guidelines on applicable Criteria and Standards relating to the Detention of Asylum Seekers, Guideline 3: Exceptional Grounds for Detention.
+24	Ibid. Guideline 6: Detention of Persons under the Age of 18 years.
+25	This right, for example, is spelled out in articles 11 I and 12 I of the ICESCR and article 25 I of the UDHR. The ICESCR requires states to provide assistance to persons who are not self-sufficient.
+26	Article 12 of the ICESCR:
+The States Parties to the present Covenant recognize the right of everyone to the enjoyment of the highest attainable standard of physical and mental health.
+The steps to be taken by the States Parties to the present Covenant to achieve the full realization of this right shall include those necessary for: a) The provision for the reduction of the stillbirth-rate and of infant mortality and for the healthy development of the child; b) The improvement of all aspects of environmental and industrial hygiene; c) The prevention, treatment and control of epidemic, endemic, occupational and other diseases; d) The creation of conditions which should assure to all medical service and medical attention in the event of sickness.
+27	The right to education for everyone is specified, for example, in article 26 of the UDHR, article 13 of the ICESCR and article 16 of the Declaration of the Fundamental Rights and Freedoms of the European Parliament.
+28	The right to work, for example, is specified in article 23 I the UDHR and article 6 of the ICESCR.
+31	Further information concerning unaccompanied minors is contained in UNHCR's Guidelines on Policies and Procedures in dealing with Unaccompanied Children Seeking Asylum (Geneva, 1997), and in Save the Children, UNHCR and European Union's Separated Children in Europe Programme - Statement of Good Practice (Geneva, 1999). See also Council Resolution of 26 June 1997 of the Council of the European Union on unaccompanied minors who are nationals of third countries.
+32	See 2.7 Tracing and family reunification below.
+33. The UN's Convention on the Elimination of All Forms of Discrimination against Women (1979). This Convention is universal and therefore includes asylum-seeking women. Article 12 concerns equal rights to health-care services:
+1. States Parties shall take all appropriate measures to eliminate discrimination against women in the field of health care in order to ensure, on a basis of equality of men and women, access to healthcare services, including those related to family planning.
+2. Notwithstanding the provisions of paragraph 1 of this article, States Parties shall ensure to women appropriate services in connection with pregnancy, confinement and the post-natal period, granting free services where necessary, as well as adequate nutrition during pregnancy and lactation.
+Additionally article 14, which concerns rural women, also states, that women must be ensured: “(b) To have access to adequate health care facilities, including information, counseling and services in family planning.” The Convention ensures women the right to services in connection with pregnancy, post-natal care, help at birth and adequate nutrition during pregnancy and lactation. Family planning normally concerns services associated with pregnancy, but not examination, information and possible intervention in the event of childlessness.
+34 Further information is contained in UNHCR's Guidelines on the Protection of Refugee Women (Geneva, 1991) and in its Guidelines on Prevention and Response - Sexual Violence against Refugees (Geneva, 1995).
+35	League of Red Cross and Red Crescent Societies. Working with Refugees and Asylum Seekers, A handbook for Red Cross/Red Crescent staff and volunteers (Geneva, 1991), p. 109, referring to Elderly refugees: Their problems, background paper prepared for the Conference Age in Exile, an international conference on elderly refugees in Europe, Noordwijkerhout, November 1988.
+36	Ibid.
+40 This section is mainly inspired by Restoring Family Links, a Guide for National Red Cross and Red Crescent Societies, ICRC, Geneva, 2000.
+

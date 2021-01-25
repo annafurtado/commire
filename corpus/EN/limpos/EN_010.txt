@@ -1,0 +1,116 @@
+﻿<Header>
+  <title>
+    <tit> Services for Refugee Claimants in Ottawa</tit>
+    <fileName> EN_010 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Guide </textType>
+    <subcorpus> Original Canadian English </subcorpus>
+  </title>
+  <sourceText>
+    <language> Canadian English </language>
+    <source> http://connexionottawa.com/sites/all/files/Refugee Claimant Resource for Ottawa_0.pdf </source> 
+    <publisher> Connecting Ottawa Project </publisher>
+    <pubDate> 2017 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 28.06.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher> 
+    <comments> </comments>
+  </sourceText>
+  <author>
+    <institution> Connecting Ottawa Project (NGO) </institution>
+  </author>
+</Header>
+
+Services for Refugee Claimants in Ottawa
+
+This document is for people seeking refugee protection in Ottawa and those supporting them. It is addressed to the person who is seeking protection.
+This brief list of resources helps refugee claimants connect to the right services quickly. It is not intended to provide legal advice or to be a detailed guide to settlement. Our goal is for you to seek professional advice as soon as possible after arrival.
+Note that services listed here are generally open from 9 am to 5 pm. If you need help outside those hours, call 311 or 211 to be connected to emergency services.
+
+Definitions
+You may have heard the terms asylum seeker and refugee claimant. People sometimes use them to mean the same thing, but there is a difference. In Canada, once you properly apply for refugee protection and you are determined to be eligible, the legal term for your immigration status in Canada will be refugee claimant. Until you have made your claim, you are considered an asylum seeker.
+This guide is meant to help people in Ottawa who are making a refugee claim and those who are refugee claimants already.
+
+What is my first step?
+There is no standard first step for all refugee claimants. Where you start will depend on what your needs are. However, all refugee claimants should make legal help a top priority, because delays in submitting your claim may harm your case.
+If a claimant has nowhere to stay, shelter may be the greatest need. If the claimant has somewhere to stay but has not yet filed his/her claim, legal help may be the greatest need. Or it may be food, or medical care. Settlement agencies can help with all of these needs.
+Decide what your priority is — but make sure legal help is high on the list!
+
+I need a place to stay
+If you have nowhere to stay, you can ask the City of Ottawa for shelter by calling 311 at any time of day. They will refer you to safe, temporary accommodation.
+
+I need help with my refugee claim
+It's important for refugee claimants to seek legal help as soon as possible after arrival, because in some cases delays may harm your claim.
+You have only 15 days to file the documentation to state your Basis of Claim, something that can take a lot of time. Don't try to solve it all by yourself — get legal help as soon as possible.
+The ideal situation is to retain a lawyer to work on your behalf, but if that is not possible, there are other ways to seek help.
+To see a helpful chart explaining the refugee claim process: http://refugee.cleo.on.ca/en/refugee-claim-flowchart
+To read more about the Basis of Claim form: http://refugee.cleo.on.ca/en/what-basis-claim-form
+
+I can't afford to pay for a lawyer
+You may be eligible to receive legal representation from Legal Aid Ontario.
+Contact Legal Aid Ontario to apply call ILSO (cct) 1-800-668-8258 or visit: http://www.legalaid.on.ca/en/
+Connecting Ottawa will help connect you to the best possible legal help and refer you to other community services. Call (613)744-2892 ext. 1063 and 613-744-2892 ext.1064
+or visit: http://connectingottawa.com/contact
+You can also call the Ottawa Legal Clinics directly at 613 596-1641. The Clinique Juridique Francophone d'Ottawa serves those speaking French. Call 613-744-2892
+Call 211 for legal clinics or look at the Ottawa section https://www.legalaid.on.ca/en/contact/contact.asp?type=cl
+
+I need to find services
+Settlement services
+Settlement agencies help all immigrants start their life in Canada. Their services include:
+Interpretation and translation of documents, or help to arrange these services
+Help filling out forms and applications such as work permit, Permanent Residence, and much more
+English as a Second Language (ESL) classes
+Help finding a job or training
+Information about other community services, schools and health care
+These services are often free. They are always confidential.
+Visit http://settlement.org/findhelp/ontario/ottawa/settlement-services/ to find the nearest settlement agency or consult the list that accompanies this guide.
+If that agency does not have the service you need, ask for referral to another agency or visit the Newcomer Information Centre, which provides advice about all settlement services in Ottawa.
+YMCA/YWCA Newcomer Information Centre (NIC):
+Staff at the NIC will explain the important steps and help you decide on your priorities. They will also connect you to legal advice and settlement services, and help you find shelter or register for financial help.
+Visit 180 Argyle Avenue, 4th floor
+Tel: 613-788-5001
+www.ymcaywca.ca
+Community Information Centre of Ottawa
+Dial 211 on your phone. You will receive instructions in English and French for connecting to someone who can help you find information and refer you to services in Ottawa. If you do not speak English or French, ask for an interpreter by saying the name of your language. You will be put on hold while the agent connects with an interpreter, and then the call will continue.
+You can ask questions online at http://www.cominfo-ottawa.org/main eng.html
+
+I need money
+Refugee claimants may be eligible for social benefits, known as Ontario Works. This will provide financial and employment support. Ask any settlement counsellor or social worker for help. You can also apply by phone or online.
+To apply for Ontario Works, call 311.
+
+For more information about the application process, you can visit:
+http://www.mcss.gov.on.ca/en/mcss/programs/social/ow/apply.aspx
+If you are denied, you may be able to appeal. Talk to your settlement worker or social worker for advice.
+
+I need food
+The Ottawa Food Bank is a network of more than 110 agencies across the city providing food. You can find a food bank near your location by calling 613-745-7001 or visiting: http://www.ottawafoodbank.ca/get-help
+All food banks provide Halal food.
+
+Where can I get health care?
+If you need medical attention and your case is not an emergency, the Ottawa Newcomer Health Centre will help you with information and some services. For information, 613-691-0192, x 6001
+You can also go to a Community Health Centre (CHC) to receive basic medical care without charge. However, some CHCs are unable to take new patients, so it is important to call first and ask if they can see you. To make an appointment at a CHC visit http://www.coalitionottawa.ca/en/find-your-chrc.aspx and choose the CHC near your location.
+
+Do I have to pay for health care?
+Canadians and permanent residents pay for most of their health care through their taxes. Refugee claimants may receive health care through the Interim Federal Health Program (IFHP).
+Refugee claimants are entitled to receive medical coverage as soon as their claim is found eligible for a hearing. Before then, refugee claimants should show their signed Refugee Protection Claimant Document to health care providers when asking for care.
+For an introduction to IFHP and how it works: http://refugee.cleo.on.ca/en/health-care- refugee-claimants
+For more detailed information, visit the Government of Canada website www.cic.gc.ca/english/refugees/outside/arriving-healthcare.asp or call 1-888-242-2100.
+
+I have a serious emergency
+Call 911 if you have an emergency related to safety, property or health. An operator will connect you to the police, the fire department or paramedics.
+An emergency could include:
+A crime, especially if in progress
+A fire
+A car crash, especially if someone is injured
+A medical emergency, such as someone who is unconscious, gasping for air or not breathing, experiencing an allergic reaction, having chest pain, having uncontrollable bleeding, or any other symptoms that require immediate medical attention
+Call 613-236-1222 if you want to report a crime that is not an emergency.
+
+I have been sexually assaulted
+You can call the Sexual Assault Support Centre of Ottawa, which operates a 24-hour support line. It is free, confidential and available for all, regardless of immigration status. The staff will help you with crisis support, and referrals to service.
+Visit https://sascottawa.com/ or call 613-234-2266
+Immigrant Women Services Ottawa (IWSO) provides language interpretation and counselling services for women who have been victims of violence, regardless of immigration status. Call 613-729-3145.
+
+Do you have questions or corrections for this document? Please contact diane@refugee613.ca
+
+Version 1.0 — September, 2017

@@ -1,0 +1,709 @@
+﻿<Header>
+  <title>
+    <tit> The duty to inform applicants about asylum procedures </tit>
+    <fileName> EN_023 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Document </textType>
+    <subcorpus> European Union English </subcorpus>
+  </title>
+  <sourceText>
+    <language> European Union English </language>
+    <source> https://fra.europa.eu/en/publication/2010/duty-inform-applicants-about-asylum-procedures-asylum-seeker-perspective </source>
+    <publisher> FRA - European Union Agengy for Fundamental Rights </publisher>
+    <pubDate> 13 september 2010 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 12.07.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher>
+    <comments> figures and tables containing numbers were replaced by tags </comments>
+  </sourceText>
+  <author>
+    <institution> FRA - European Union Agengy for Fundamental Rights </institution>
+  </author>
+</Header>
+
+
+FRA - European Union Agengy for Fundamental Rights
+The duty to inform applicants about asylum procedures:
+The asylum-seeker perspective
+Thematic Report
+
+The report addresses matters to the right to asylum (Article 18) and the right to an effective remedy and to a fair trial (Article 47) falling under the Chapter II “Freedoms” and VI “Justice” of the Charter of Fundamental Rights of the European Union.
+
+Cover image:
+© Frank van den Bergh - iStockphoto
+05-25-07
+
+A great deal of information on the European Union Agency for Fundamental Rights is available on the Internet. It can be accessed through the FRA website www.fra.europa.eu
+
+Cataloguing data can be found at the end of this publication.
+FRA - European Union Agency for Fundamental Rights
+Schwarzenbergplatz 11
+1040 - Wien
+Austria
+Tel.: +43 (0)1 580 30 - 0
+Fax: +43 (0)1 580 30 - 691
+Email: information@fra.europa.eu
+fra.europa.eu
+Reproduction is authorised, except for commercial purposes, provided the source is acknowledged.
+Printed in Belgium
+
+The duty to inform applicants about asylum procedures:
+The asylum-seeker perspective
+Thematic Report
+
+Foreword
+Since the entry into force of the Treaty of Amsterdam in May 1999, significant steps have been taken towards the creation of a Common European Asylum System. Five pieces of European Union legislation were adopted between 1999 and 2005. To further a higher degree of harmonisation and better standards of international protection across the European Union, the European Commission has presented proposals to amend four of the existing five pieces of legislation relating to asylum, namely the Dublin II Regulation, the Reception Conditions Directive, the Qualification Directive and the Asylum Procedures Directive.
+The 2005 Asylum Procedures Directive lays down minimal standards for asylum procedures in the European Union.
+It establishes a duty to inform asylum applicants about their rights and obligations, as well as on the procedure to follow when claiming asylum (Article 10.1(a)). A similar duty is contained in Article 3.4 of the 2003 Dublin II Regulation. In its 2008 recast proposal for a revised Dublin II Regulation, the European Commission has further strengthened the requirements relating to the provision of information, indicating more specifically which type of information shall be provided to asylum seekers and how.
+Drawing on evidence from interviews with almost 900 asylum seekers, this report aims to provide a picture about the extent to which asylum seekers in the European Union have the necessary information to understand the procedure to follow and how to make informed choices at decisive steps of the asylum procedure.
+Based on the findings of this research, this report advises on how the provision of information on the asylum procedure could be improved. While some proposals are of a practical nature, others relate to the revision or interpretation of current European Union law. This is in particular the case for the need to provide information to asylum seekers in a language they understand and for a more effective provision of information on Dublin II issues. As regards the latter, the European Union Agency for Fundamental Rights (FRA) supports the proposed amendments to Article 3.4 in the recast Dublin II Regulation.
+The FRA presented this report, as well as one on access to effective remedies for asylum seekers, at the Ministerial Conference on Asylum organised by the Belgian Presidency on 13-14 September 2010. The timing of this report's presentation was intended to allow for the experiences of and suggestions by asylum seekers to inform the work of policy makers entrusted with the creation of a Common European Asylum System.
+
+Morten KJaerum
+Director
+
+Contents
+
+FOREWORD 	 3
+EXECUTIVE SUMMARY	 7
+OPINIONS 	 9
+INTRODUCTION 	 11
+1. MAIN SOURCES OF INFORMATION	 13
+2. CONTENT OF INFORMATION RECEIVED 	 17
+3. MEANS OF RECEIVING INFORMATION	 19
+4. LEAFLETS 	 21
+5. LANGUAGE 	 23
+6. WHEN IS INFORMATION RECEIVED?	 27
+7. MOST USEFUL AND TRUSTWORTHY INFORMATION 	 29
+8. GENDER ISSUES 	 33
+9. DUBLIN II 	 35
+ANNEX 1: TARGET GROUP AND METHODOLOGY 	 39
+ANNEX 2: STATISTICS 	 43
+Figures
+Figure 1: Language requirements for information about asylum procedures as reflected
+in national legislation, EU27 	 23
+Figure 2: Number of foreign languages into which information leaflets
+on the asylum procedure were translated, by country	 24
+Figure 3: Most useful source of information, according to asylum seekers, EU27 	 29
+Figure 4: Written information on gender-specific issues, EU27 	 33
+Figure 5: Written information on Dublin II, EU27 	 35
+Figure A1: Number of interviewed asylum seekers, by country and sex 39
+Figure A2: Interviewed asylum seekers, by type of accommodation at the moment of interview (%) 	 40
+Figure A3: Number of interviewed asylum seekers, by nationality 	 40
+Figure A4: Interviewed asylum seekers, by length of procedure (%) 	 41
+Table A1: Top 60 nationalities who applied for international protection in 2009, EU 27,
+by nationality and sex ratio	 43
+
+Executive summary
+A fair asylum procedure is one where applicants know their rights and duties, and where they understand its different stages.
+The right to be informed at decisive moments of the procedure is an important element of procedural fairness. In its 1977 Conclusions on International Protection, the Executive Committee of the High Commissioner's Programme already highlighted the requirement to provide asylum seekers with guidance on the asylum procedure.
+This report by the European Union Agency for Fundamental Rights (FRA) examines the information that asylum seekers have on the asylum procedure, looking in particular at the main source of information for asylum seekers, which type of information they receive, and when and how they receive it. In addition, the report looks at gender as well as Dublin II issues.
+The 2005 Asylum Procedures Directive (2005/85/EC), which lays down minimal standards for asylum procedures in the European Union, establishes a duty to inform asylum applicants about their rights and obligations, and the procedure to follow (Article 10.1(a)). A similar duty is contained in Article 3.4 of the 2003 Dublin II Regulation which, in its recast proposal, the European Commission suggests to strengthen by adding which information shall be provided to asylum seekers and how.
+The purpose of the duty to inform asylum seekers is to ensure that applicants are equipped to take informed decisions at each stage of the procedure. It is, therefore, essential that information is not only provided to applicants, but that it is also understood by them.
+The findings of this FRA research indicate that while states are providing information to asylum seekers on the procedure, such information is not always understood or does not lead to the applicants becoming aware of their rights and obligations. The evidence gathered from asylum seekers suggests that level of trust in the source providing information and communication barriers - due to both language and technical jargon - emerge as recurrent obstacles to effective provision of information, which would equip applicants to take informed decisions at each stage of the procedure.
+The starting point to enhance the effectiveness of information provided to asylum seekers is to listen to what they suggest. To this end, many ideas were collected by the FRA from respondents, which are set forth in each chapter of this report. In addition, based on the findings of this research, the FRA has formulated the following opinions on issues which can best be addressed by European Union policy making and implementation of EU law.
+
+Opinions
+
+Translation in a language asylum seekers understand
+To be meaningful, oral as well as written information should be provided in a language the asylum seeker understands, which should be elevated in law and in practice to become the European Union standard. Member States are encouraged to interpret Article 10.1(a) of the Asylum Procedures Directive in a way that ensures asylum seekers understand the information provided to them.
+
+Comprehensive information
+The information provided should include all elements that are required for applicants to be able to handle appropriately the different stages of the asylum procedure. Once established, the European Asylum Support Office could consider identifying the minimum content of information that should be provided to applicants, taking into account the findings of this research.
+
+Gender-sensitive approach
+Female applicants should receive information in an accessible and understandable language, which makes it clear to them that gender-based claims can be relevant under the refugee definition, on the basis of Article 9 of the Qualification Directive (2004/83/EC). Written information materials should be systematically provided to them, also when they are accompanied by other family members.
+Women accompanied by their husbands should also be informed that, according to Article 6.3 of the Asylum Procedures Directive, they are entitled to submit a separate asylum claim. They should be provided with and informed of the right to be interviewed by a person of the same sex if they wish - this should be established as the European Union standard, as suggested by the European Commission in the recast of the directive.
+
+Information on Dublin II
+The FRA encourages the Council and the Parliament to strengthen the right to information in the Dublin II Regulation by accepting the proposed Article 4 of the recast Regulation, and by clarifying that such information is provided in a language that the asylum seeker understands. It should furthermore establish a duty to inform asylum seekers of progress relating to the transfer to another EU Member State.
+
+Introduction
+
+Charter of Fundamental Rights of the European Union
+Article 18
+The right to asylum shall be guaranteed with due respect for the rules of the Geneva Convention [...] and the Protocol [...] relating to the status of refugees and in accordance with the Treaty on European Union and the Treaty on the Functioning of the European Union [...].
+
+This report looks at the information that asylum seekers have on the asylum procedure. It examines the main source of information for asylum seekers, which type of information is received, and when and how it is received. The report also highlights who asylum seekers deem to be the most useful and trustworthy sources of information. In addition, separate chapters deal with gender as well as Dublin II issues.
+This report complements a second FRA report on access to effective remedies against a negative asylum decision, which also touches upon the right to be informed about the asylum decision and how to appeal. The two reports are the outcome of the FRA research project on access to justice for asylum seekers. For each EU Member State, an individual factsheet is available online at the FRA website, which provides statistical information and summarises domestic legal provisions on issues covered in the two reports. The research on which this report is based is the second research project the FRA has undertaken with asylum applicants, following a project on separated children seeking asylum, the summary report of which was published in April 2010.1
+In 2009, more than 260,000 asylum applications were made in the European Union. Some 78,000 persons were granted protection.2 In total, 142 nationalities applied for asylum in the 27 European Union Member States (EU27) in 2009.3 This gives an idea of the linguistic diversity that needs to be addressed when providing information to asylum seekers.
+Traditionally, asylum policy is only rarely informed by the assessments of those who are most affected by it: the asylum seekers themselves. Asylum-seeker views and experiences form the backbone of this report. For this research, 877 asylum seekers have been interviewed. Information was collected from asylum seekers in all 27 EU Member States. Most of the asylum seekers interviewed came from Afghanistan, Somalia, the Russian Federation and Iraq; overall, 65 different nationalities were covered by the research. This report includes information received by all respondents, unless their experiences were old and therefore not deemed relevant anymore. More information on the composition of the asylum seekers interviewed and the methodology can be found in Annex 1 attached to the report.
+Children were not included in the research and consequently the report does not contain any considerations with regard to specific safeguards for children. These are part of the above-mentioned project on separated children seeking asylum in the European Union Member States.
+Direct quotes from respondents are given in the report to illustrate some of the most relevant findings.4 Where possible, asylum-seeker statements have been analysed with information provided by national asylum authorities (collected through a questionnaire) or obtained from other public sources, including national legislation. Often, however, no comprehensive information is available on how a particular issue is managed in practice in a Member State. In these cases, the report portrays the experiences of asylum applicants without aiming to provide a full picture of existing practices.
+Except for the Netherlands, the field research was carried out by the FRA RAXEN network of National Focal Points (NFPs), with the support of national asylum authorities, the Office of the United Nations High Commissioner for Refugees (UNHCR) and the European Council on Refugees and Exiles (ECRE) network. The European Commission, UNHCR and ECRE commented on the draft report, as well as 23 out of the 27 Member States with which the report was shared in draft form.
+
+1. Main sources of information
+
+Asylum Procedures Directive
+ Article 10.1(a)
+1. [...] Member States shall ensure that all applicants for asylum enjoy the following guarantees:
+(a) they shall be informed [.] of the procedure to be followed and of their rights and obligations during the procedure.
+
+According to the Asylum Procedures Directive,5 the duty to provide information on the asylum procedure, as well as on the rights and obligations during the procedure lies with the EU Member States. The same holds true for the obligation set forth in Article 3.4 of the 2003 Dublin II Regulation6 and in Article 18 of the Eurodac Regulation.7
+Member States are free to undertake this task directly or to outsource it to non-governmental organisations (NGOs). According to responses received from the national asylum authorities, about half of the EU Member States indicate to have arrangements with NGOs (sometimes funded through the European Refugee Fund) which cover the provision of information on the asylum procedure.8 In most cases, the information provision is part of broader projects in the field of legal or social counselling.
+Across the EU27, various sources provide information to asylum applicants on the procedure to follow. The following sections outline from whom asylum seekers primarily receive such information, highlighting mainly differences between countries. However, the last section of this chapter depicts existing differences within countries in relation to the point of entry and the reception facility.
+As regards the primary source of information, the overall picture across the EU27 is a very diverse one. According to the asylum seekers interviewed, those providing information on the asylum procedure are: public authorities, international organisations such as UNHCR, NGOs, social workers, lawyers, relatives, friends and acquaintances, fellow countrymen and women, as well as other asylum seekers.
+
+Differences among countries
+Some trends in the provision of information on the asylum procedure can, nevertheless, be identified. Disregarding information received from informal channels, such as friends or relatives, countries can be grouped in four categories, namely those where the main source of information are public authorities; NGOs or private companies; public authorities and NGOs/private companies; and those where little information is received from either authorities or NGOs.
+
+Public authorities as the main information source
+This group comprises five countries - Bulgaria, Finland, Poland, Slovenia and Sweden - where the majority of asylum seekers recalled having received information from public authorities, such as the police, border guards, asylum authorities, and reception or detention centre staff. In Finland and Poland, for example, basic information on the asylum process is provided at the border, which is complemented by more information in the reception centre.
+In Sweden, the main source of information for asylum seekers is the Swedish Migration Board. It provides leaflets with information in different languages and is distributed by customs officials at the airports and at other points of entry. In addition, there is an information telephone service available in different languages.
+“The Swedish government is trying so hard to be honest and give information.” (Somali, male, Sweden)
+According to the respondents in Finland and Sweden the information system is satisfactory, whereas in Bulgaria some asylum seekers thought one source of information is not enough.
+“There should be at least one more organisation to provide us with information on the status procedure. We should not receive information from only one institution. We need access to the contacts of non-governmental organisations which could give us more information.” (Iraqi, male, Bulgaria)
+
+NGOs or profit organisations as the main information source
+In three countries (Austria, Denmark and the Netherlands), NGOs or companies entrusted by the authorities to inform asylum seekers were the main source of information for respondents. In Austria, according to several respondents, brochures with basic information on the asylum act are usually handed out by the info point of European Homecare, a company contracted to provide welfare support in the two reception facilities set up for the initial screening of applicants.
+In the Netherlands, asylum seekers mainly received information from the Dutch Refugees Council at the reception centre. In Denmark, while new arrivals reported having received little information concerning the asylum procedure, those staying in the Sandholm reception centre in south Denmark were informed through classes held in the facility by the Red Cross.
+
+Public authorities and NGOs as the two main information sources
+This group comprises over half of the countries covered in this research: Belgium, the Czech Republic, Estonia, France, Germany, Hungary, Ireland, Luxembourg, Portugal, Romania, Slovakia, Spain, Italy and the United Kingdom (UK). It includes countries where the majority of asylum seekers recalled having received information by both the public authorities and NGOs, as well as countries where some respondents received information from the authorities while others received it from NGOs.
+Generally speaking, in most of these countries some basic information, either oral or in form of leaflets, is provided by public authorities, which is subsequently complemented by NGOs. In Hungary, all recently arrived asylum seekers were informed about detention and alien police procedures by the police upon arrival in the country; those staying in the Bekescsaba reception centre received more information from NGO social workers and lawyers.
+
+“We received those leaflets by the police immediately when we arrived, which was helpful, at least we knew something about what's going to happen.” (Middle East, male, Hungary)
+
+Similarly, in France, basic information is provided by the
+Prefecture (departmental authority), but then asylum seekers are referred to NGOs for follow up where they usually receive additional information. In Belgium, most of the information is provided by authorities upon arrival or in the reception centres, and other information is provided by the Red Cross.
+
+No or little information from authorities, NGOs or profit organisations
+
+In a few countries, asylum seekers indicated that they received little or no information from authorities or NGOs on the procedure to follow. This was the case in Cyprus, Greece, Latvia, Lithuania and Malta. In the latter country, however, experiences often referred to the situation prior to mid 2009, when the task to inform asylum seekers was handed over to the Office of the Refugee Commissioner.9 Respondents in these countries identified friends and acquaintances, fellow countrymen/women and other asylum seekers as the primary source of information.10
+In Cyprus, most respondents did not recall having received information on what to do and where to go:
+“I came here with my father and nobody gave us information about where to go and what to do. Nobody offered us any legal aid or any help in general.” (Middle East, female, Cyprus)
+In Latvia, several respondents remembered leaflets on their rights and duties received while they were in detention, but only one recalled having seen information on the asylum procedure. In Lithuania, only two out of eight newly arrived asylum seekers interviewed reported having received some information from public authorities or NGOs. Most of the other asylum seekers relied on information provided by fellow countrymen/women or long-term asylum seekers in reception centres.
+“We cannot ask questions - we do not understand the law, the (asylum) procedure, and we do not know what to ask. When a person does not know anything he does not know what to ask.” (Afghan, male, Lithuania)
+In Greece, most interviewees stayed in the country in an irregular manner for months without knowing where to apply. Only those who approached the NGO Greek Council for Refugees received information on the asylum procedure. In Malta only few applicants recalled having received written information by the Jesuit Refugee Service, an NGO.
+
+Differences within countries
+Differences could be noted within countries depending on how asylum seekers arrived. Asylum seekers who arrived by air and whose applications were accepted at the airport, usually reported having received basic information on the procedure to follow by the police.11 It appears, therefore, that once persons who seek protection at airports are identified and channelled to the asylum procedure, basic information on the procedure to follow is generally provided to them. However, in Greece and Portugal information at airports was not always reported as being available.
+In contrast, when asylum seekers did not apply for asylum at entry points their recollections about the information received in the host country was more diverse. Information provided by social networks and fellow countrymen/women play a stronger role. The stage at which formal information on the asylum process is accessed varies according to the organisation and the outreach capabilities of NGOs and migrant communities addressing the newly arrived asylum seekers. It also varies according to casual encounters with migrants and asylum seekers.
+“I arrived at the Brussels train station and I stayed a night at the station. I met a Moroccan who told me where to find the place to claim asylum.” (Iraqi, male, Belgium)
+The research also revealed the existence of differences within countries, sometimes based on the place where asylum applicants were hosted. Usually, asylum seekers in reception centres had more comprehensive information compared with those living scattered in the community or staying in hotels or hostels. As an illustration, in Austria and Belgium, the fieldwork indicated that asylum seekers who stayed in private accommodation were less informed about the asylum procedure than those sheltered in reception centres. In addition, it may not always be possible to leave the reception facility to look for support from NGOs in urban areas, as freedom of movement may be restricted or the absence can have negative consequence on the claim and/or entitlements of the asylum applicant.
+In Belgium, Estonia and Finland, the interviews revealed a significant discrepancy among the reception centres where the focus groups were held. In Finland, respondents in the capital city of Helsinki were all aware that so called orientation courses are regularly organised, but this was not the case in the reception centre in the city of Turku on the southwest coast of Finland. In Estonia, the information received in the state-run reception centre differs from that received in the detention facility for irregular migrants. Asylum seekers in Estonia also indicated that the location of reception facilities far away from the city makes it difficult to access and validate information. In Belgium, while one interviewee reported about a highly appreciated information-session organised by the social assistants of the Fedasil reception centre in the city of Sint-Truiden in the Flemish region soon after arrival, other participants who stayed in different facilities never received any information from their social assistants.
+The research findings show that the main source of information for asylum seekers differs between and within EU Member States. The findings also reveal that, in some cases, information provided by the authorities or partner organisations to which the provision of information may be outsourced is insufficient. It should be recalled that in light of Article 10 of the Asylum Procedures Directive asylum seekers must be provided with all the information required. Asylum seekers generally appreciated the fact of having more than one information provider, as this allows them to verify the information received.
+
+2. Content of information received
+
+Executive Committee of the High Commissioner Programme Conclusion on International Protection No. 8 (1977) at e (ii)
+The Executive Committee
+(e) Recommended that procedures for the determination of refugee status should satisfy the following basic requirements: [...]
+(ii) The applicant should receive the necessary guidance as to the procedure to be followed.
+
+According to the Asylum Procedures Directive (Article 10.1(a)) information must be provided on the procedure to follow and on the rights and obligations of applicants, as well as on the ‘time-frame, as well as the means at their disposal for fulfilling the obligations to submit elements' to substantiate their claim. Neither the Asylum Procedures Directive nor the Dublin II Regulation, however, list in detail the kind of information that must be provided to asylum applicants. Nonetheless in its Dublin II recast proposal,12 the European Commission has suggested to specify what information should be provided to applicants in the Dublin procedure and how.
+This chapter reviews the content of information on the procedure that asylum seekers receive. It does not refer to whether and how they were informed about their right to seek asylum.
+Without attempting to provide a comprehensive list, the information asylum seekers need in order to understand the asylum procedure includes: how and where to start the asylum procedure; the rights and duties as an applicant (for instance, as regards legal assistance, interpretation, or the duty to cooperate with the authorities); as well as on the overall purpose of the asylum procedure.
+In addition, information about the different types of asylum procedures and on the consequences of being channelled into a particular procedure, as well as about the Eurodac and the Dublin II process, needs to be provided. Guidance may be needed on how to complete questionnaires, if these are used. Before the eligibility interview, detailed information is needed on the conduct, structure and importance of the interview, and on evidence that should be presented. Finally, after the interview, applicants should be informed, among other things, about when they can expect a decision, and what to do next.
+The focus groups did not provide a detailed discussion on each of these pieces of information. It is thus impossible to compare which type of information asylum seekers recalled having received in the various countries. Therefore, the following pages point to a selected number of issues which were raised by the respondents and indicate that information is not always fully received or understood.
+In general, asylum seekers knew or came to know quickly where to apply for asylum, although this was not always the case for respondents in Greece and Italy. For example, one Nigerian applicant in Italy reported that the police fingerprinted him in a city in southern Italy and gave him a form to fill in with his personal data. Then, they gave him a temporary identification card and told him to go and file for asylum in another town because the police headquarters in the town where he was were too small and new arrivals were expected shortly. Together with other asylum seekers, he was then dropped at the local train station and asked to take a train to cities in the north of the country and to report at local police headquarters there.
+In some focus groups, assumptions made by the interviewees showed that they had no or incorrect understanding of the asylum procedure. For instance, in Belgium, some respondents from the Democratic Republic of the Congo and Guinea displayed no knowledge about the concept of asylum during the focus groups, despite having been in the country for more than two years. The same holds true for three Nigerian women who had been in Greece for a few months: although their application had been rejected in the first instance, it appeared they had no idea of what asylum is about. In other countries, some respondents had only very general information and did not know in which kind of procedure their asylum claim was being examined (Poland and France). For instance, an asylum seeker in France did not know he was under the Dublin II Regulation.
+
+“When I arrived, I expected to see a leaflet with information on the asylum procedure in many languages but it doesn't exist. After two to three months of my arrival the Prefecture sent me a letter saying that I had to leave France for another EU country. I don't understand.” (Somali, male, France)
+
+In Austria, some asylum seekers complained about not knowing what experiences are relevant for asylum. In Sweden and Denmark, asylum seekers called for more information on the criteria for being granted asylum.
+
+“We don't have much information about the criteria for being granted asylum. [...] We don't know exactly the difference between political asylum and humanitarian asylum. There are many different criteria for getting asylum.” (Kurdish, male, Denmark)
+
+In a few countries, applicants have to fill in forms or questionnaires early in the procedure. Information on how to complete these was not always available. In Belgium, some reported not being aware that the forms should be filled in and sent back within five days and that help from social assistants in completing it could have been sought. Similarly, in Ireland, although a system for free legal assistance exists, respondents indicated that the questionnaire was difficult to be completed as they have no knowledge of the requisite laws and regulations.
+
+According to the respondents, information about NGOs providing social or legal counselling is not systematically provided. In Poland, for example, asylum seekers reported lack of information on how to reach key places, including NGOs providing legal assistance. In Sweden, some respondents complained that in the state-run reception centre they had no contacts with NGOs. In Belgium, some respondents were not aware of NGOs that could help. In Portugal, asylum seekers were usually in touch only with one NGO which not all of them trusted, but no information on the availability of other NGOs was provided.
+Some respondents called for more information on the eligibility interview, including who they could bring with them, what they should do and how long it would last, as illustrated by the following example.
+
+“I miss information on what will happen at the Immigration and Naturalisation service interviews. It would be very useful to know something about the types of questions that will be asked. I just learned about these because the Iraqi gentleman told us what he knew. It would be very good if this would be in the brochure.” (Somali, male, Netherlands)
+
+Many respondents in several countries, including Austria, Belgium, Denmark, Italy, Poland and Slovenia, expressed concerns and experienced stress due to lack of information on the status of their asylum claim. One of the most common complaints concerns the long waiting times spent in reception centres or elsewhere in a ‘limbo' situation, without knowing what is happening and when an answer will be received.
+
+“Also one should know the status of his asylum application. From time to time we need to be briefed. Like me -1 have been here for almost 10 months and I don't know what my situation is, how it has been worked upon [...] we stay here and wait. Some people have been here for three years.” (Central African, male, Slovenia)
+
+“The procedure needs to be faster, accurate and punctual [.] I have been waiting for a long time for the first call of the commission, one year and six months [.]. A man can not stay hanging by a thread for so long, the long wait may cause health problems, he can fall into a state of depression.” (Pakistani, male, Italy)
+
+Several suggestions were made by respondents with regard to the content of the information they would like to receive. Many stressed the need for more information on the state of their application, including when the eligibility interview will be held or the decision received (Bulgaria, Germany, Latvia, Poland, Slovakia, Slovenia), as well as on the purpose and content of the interview (Germany, Netherlands, Slovenia). Respondents also mentioned other issues on which they would like to be better informed, including, among other things, having a list of organisations providing support and information on how to reach them (Austria, Estonia, Poland), information from NGOs on their field of work (Germany), and updates on changing legislation (Spain). In Denmark, France and Germany, respondents called for being updated more regularly.
+
+FRA Opinion
+The information provided should include all elements that are required for applicants to be able to handle appropriately the different stages of the procedure. Once established, the European Asylum Support Office could consider identifying the minimum content of information that should be provided to applicants, taking into account the findings of this research.
+
+3. Means of receiving information
+
+There are different means of providing information to asylum seekers, including the provision of oral information, leaflets and brochures, videos and websites. Although, in general terms, all EU Member States have policies whereby information is provided both orally and in writing, the weight that is given to the different means of providing information differs considerably. This chapter summarises the most common means of communication used, according to data provided by both national asylum authorities and by asylum seekers.
+
+Information in writing
+Information on the asylum procedure is generally provided in writing, as described in further detail in Chapter 4. All 27 EU Member States have information leaflets or brochures on the asylum procedure. In addition, posters are available in specific countries such as Cyprus, Malta, Romania and the UK.
+According to asylum seekers, the advantage of information in writing is that it can be read and thought through several times. However, two blind respondents and several other respondents who were illiterate pointed out that those written leaflets were of limited use.
+
+“There are some people who can't read. For them the written information from OIN [Office of Immigration and Nationality] is not good for anything. Somebody should come and explain the information to them.” (Afghan, male, Hungary)
+
+Other shortcomings of written materials, identified by respondents, include that it does not allow questions, it is often very complex and it is easy to loose in the case of leaflets.
+
+Oral information
+Whereas all countries surveyed provide at least some information on the asylum procedure orally, this is most frequently done as an addition to written information leaflets or brochures.
+Nevertheless, according to asylum seekers, oral information is usually deemed very valuable. It enables questions and clarification.
+
+“Verbal information should be available so that we can ask questions.” (Iraqi, male, Sweden)
+
+In Denmark and Finland, for instance, some interviewees reported about information sessions and orientation courses held at reception centres. In Austria, some asylum seekers reported that an ‘info point' provided information on house rules and where to find legal counselling. In Germany, informants residing in a reception facility in Bavaria highlighted the useful information received through the Infobus - a service provided twice or three times a week outside the reception centre by social workers from Amnesty International. In many countries where this was not in place, asylum seekers suggested to have information group meetings or group discussions for receiving further information on the whole procedure in person.
+
+Videos
+According to information provided by the national asylum authorities, the following eight countries - Belgium, Bulgaria, Czech Republic, Denmark, Malta, the Netherlands, Romania and the UK - use videos to inform asylum seekers. In addition, in Hungary asylum seekers referred to videos which were recently shown for the first time in the reception centre.
+Videos are usually projected in reception facilities. They are shown to newcomers but in some countries also projected for all residents on a regular basis. In Denmark, a new audiovisual tool is being developed; the information is divided into three chapters to be shown at three different stages of the asylum procedure: while lodging the application, while registering it and while filling out the asylum application form.
+
+Websites
+As was highlighted by asylum authorities in their responses to the questionnaire, informative material on the asylum process in a language other than the host country one is sometimes also accessible at the website of the competent authorities. This is the case in Belgium,13 the Czech Republic,14 Denmark,15 Estonia,16 Finland,17 France,18 Germany,19 Hungary,20 Ireland,21 Italy,22 Latvia,23 Lithuania,24 Malta,25 Poland,26 Sweden27 and the UK.28
+The research revealed, however, that only few asylum seekers made use of this information tool in Belgium, the Czech Republic, Ireland and Lithuania. In Ireland, for instance, some respondents recounted accessing useful information through the internet. However, in other countries some asylum seekers faced problems in accessing or in understanding the information available on the web.
+In some countries, asylum seekers noted that much of the important information was not available in their native language. This made it more difficult for those who could not read or understand English, which is typically the main language for information other than that of the EU Member State in question.
+In addition, as with information provided in writing, information provided through the internet was considered to be an issue for illiterate and blind respondents.
+The fieldwork revealed specific advantages and shortcomings relating to these different information sources. A recurrent proposal by respondents was to complement written information with oral guidance. This was raised by newly arrived asylum seekers, as well as by those who had been staying in the host country for some time. More specifically, respondents made four suggestions in this regard.
+The first suggestion was to have a contact point that asylum seekers could approach at any time. In Belgium, Finland, Germany, Italy, Latvia, Romania and Slovenia, respondents highlighted that such an information service should be provided outside the asylum office by an independent NGO or another central body. In Denmark, France, Hungary and Ireland, newly arrived asylum seekers raised more generally the need to have a person to contact they can trust. Related to this, in Hungary, a suggestion emerging from the fieldwork was the need for mediators who help to transmit the official information to asylum seekers.
+The second practical suggestion made by respondents was to create a help line, which asylum seekers could phone with their questions.
+The third and more innovative suggestion was presented by respondents in Austria, Belgium, Denmark, Finland, and Slovakia. They proposed to organise group discussions, similar to the focus groups held as part of this research, where asylum seekers could discuss all of their questions.
+Based on these suggestions, it appears that information is more successfully communicated when it is conveyed both in writing and orally. The FRA would, therefore, encourage responsible authorities as well as NGOs to examine the feasibility of the suggestions made by respondents, including the creation of a trusted info point, a help line and in particular the organisation of discussion groups with independent legal experts.
+
+4. Leaflets
+Article 10.1(a) of the Asylum Procedures Directive does not require that asylum seekers are informed about the procedure to follow in writing. Nevertheless, according to the information provided by national asylum authorities, all EU Member States have drawn up leaflets or other written information materials on the asylum procedure.
+This is partly due to the fact that in such a way authorities can show that they have provided to asylum applicants all the relevant information in case it is challenged in court that they did not fulfil their duty to inform the applicant. The high level of litigation also requires that the information provided is comprehensive, covering all aspects of the complex asylum procedures. In light of this, information materials are often perceived as being difficult to understand.
+This chapter assesses whether asylum seekers receive information leaflets or any other written information on the procedure, such as brochures or guidelines. It then examines how the content of the written information provided was viewed by respondents.
+
+Availability of written information
+According to public authorities, the way information leaflets are disseminated differs from country to country, although frequently the policy is to hand them out to applicants when they submit their claim.
+In two third of the countries surveyed,29 the majority of the asylum seekers reported having received written information material on the asylum procedure. As an illustration, in the Czech Republic, two third of the interviewed applicants stated that they had received an information leaflet on the asylum procedure from social workers immediately upon their arrival in a reception facility. Written materials were also appreciated in Finland
+
+“The rights and responsibilities were quite well explained. All important information was included, a lot of information that I did not know about asylum issues beforehand. For example, the right to family reunification, if one gets a positive asylum decision, was new information to me.” (Iranian, female, Finland)
+
+Some differences were identified within countries. In Belgium, for example, asylum seekers with longer periods in the country received written information only in exceptional cases by the authorities or social workers. On the contrary, almost all newly arrived asylum seekers received the information brochure in the first weeks of their stay either from the Aliens Office or from the social workers of two Red Cross reception centres where all of them were staying. In Austria, it is noteworthy to point out that all asylum seekers interviewed outside the two reception centres for newly arrived asylum seekers did not recall having received or read any information leaflets at the beginning of their procedure. By contrast, the focus group held with female asylum seekers in the Traiskirchen reception facility indicated that they have received written rules of behaviour (house rules on the life at the reception centre), a brochure on the asylum procedure, as well as information on inadmissibility or rejection of their claim.
+In about one third of the countries covered in this study
+- Cyprus, France, Greece, Italy, Latvia, Lithuania, Malta and Romania - only few asylum seekers recalled having received written information material on the asylum procedure.
+
+“I have never seen any leaflet.” (Iranian, female, Greece)
+“I have not received any information, leaflets or books.” (Afghan, male, Latvia)
+
+In Cyprus, for instance, only five out of the 45 interviewed asylum seekers recalles having received the official information leaflet. In Malta, while all recalled having received a form to complete, only few asylum seekers reported having received a leaflet. In France, information leaflets on the asylum procedure should be distributed by the Prefectures; however, they can also be ordered free of charge by any other facility or NGO willing to distribute them. Nevertheless, the field research showed that only few asylum seekers systematically received the information leaflets depending on the competent Prefecture or reception centre.
+
+Quality of leaflets and written information
+In a few countries, such as Denmark, Finland, France and Luxembourg, a number of interviewees found the information leaflets to be a useful tool.
+
+“The book is very useful because it helped me to fill the application forms.” (Guinean, female, France)
+
+In general terms, however, in most countries asylum seekers who have received the information leaflets were not satisfied with its usefulness or with the comprehensiveness of the written information provided to them.
+In several countries, including Austria, Bulgaria, the Czech Republic, Estonia, Germany, Latvia, Lithuania, the Netherlands, Slovakia, Sweden and the UK, a number of asylum seekers perceived the information provided in the leaflets insufficient and too general. They would prefer to receive more precise and detailed information.
+
+“We received written information in Dari. It was only about law but it was nothing ‘human'. The European Homecare Infopoint provided written information on the Grundversorgung [basic welfare support], house rules and two or three pieces of papers on the asylum law. There was only very short information on the asylum procedure. Not all our questions were answered.” (Afghan, male, Austria)
+
+In Bulgaria, Germany, Hungary, Ireland, the Netherlands and Poland, some asylum seekers stressed that the language of information leaflets is perceived as being very technical and complex, using legal terminology that is difficult to understand without specific knowledge of the legal system of the host country.
+“The leaflet is too extensive, too much information, and nobody knows exactly its meaning and its content.” (Afghan, male, Slovakia)
+In the UK and Germany, the majority of the asylum seekers interviewed concluded that leaflets produced by the civil society were much more helpful in meeting their needs and far better than those supplied by the United Kingdom Border Agency and the Federal Office for Migration and Refugees, respectively.
+
+“The leaflet of the Infobus served as a source of information on what I had to say during the asylum interview.” (Afghan, male, Germany).
+
+In several countries, respondents made suggestions regarding written information to be provided to applicants for asylum. In Germany and the Netherlands, they stressed that information given should be in a comprehensible language and easy to understand, in addition to being clear so as to avoid misunderstandings.
+The findings of the research suggest that leaflets and brochures should be written in a clear and non-legalistic manner, while being comprehensive. A good example in this regard is the brochure published by the Slovenian Ministry of the Interior in 2008. To ensure the effectiveness of leaflets, their content as well as any available language versions should be regularly reviewed together with UNHCR and NGOs.
+
+
+5. Language
+Asylum Procedures Directive
+ Article 10.1.(a)
+1. [...] Member States shall ensure that all applicants for asylum enjoy the following guarantees:
+(a) they shall be informed in a language which they may reasonably be supposed to understand [...]
+
+Language remains a very significant factor determining access to information. This chapter reviews issues relating to the translation of written information materials as well as to the interpretation of information provided orally.
+As illustrated in Figure 1, domestic law in several EU Member States requires that the information about the asylum procedure should be provided in a language the asylum seeker understands. However, in other EU countries, lower language standards are foreseen, whereby it is sufficient if translations of the information provided can be made available in a language the asylum seeker may reasonably be supposed to understand (as required by Article 10.1(a) of the Asylum Procedures Directive) or in other languages. In a few EU Member States, this issue is not regulated by national law.
+
+Figure 1: Language requirements for information about asylum procedures as reflected in national legislation, EU27
+
+A language the asylum seeker understands (or similar wording)
+A language the asylum seeker may reasonably be supposed to understand (or similar wording)
+Not regulated by national law
+
+<figure>
+
+Figure 2: Number of foreign languages into which information leaflets on the asylum procedure were translated, by country
+
+<figure>
+
+According to information provided to the FRA by national asylum authorities, all 27 EU Member States translate in different languages information leaflets on the asylum procedure. As shown in Figure 2, considerable differences exist between EU Member States with regard to the number of languages in which the leaflets are translated. In few Member States such as Austria, the Czech Republic, Denmark, Germany and Ireland, information leaflets are translated into more than 20 languages. In comparison, in France, Greece, Lithuania and Portugal, asylum information leaflets are translated into five languages - although, for example, in France, over 100 different nationalities and in Greece over 60 different nationalities applied for asylum in 2009.30
+Although several EU Member States have made efforts to have their official information leaflets translated into different languages, the field research identified cases where asylum seekers were provided with leaflets in a language they could not understand. For instance, Kurds in Slovenia and Bulgaria indicated that they received written materials in Arabic, which they did not fully understand. In Cyprus, it was reported that the Turkish version of the leaflet was written in the Azeri language, thus not easily understandable for Turkish speakers. In Portugal, a Georgian asylum seeker received a leaflet in Portuguese and Russian, both of which were of limited use to her since she only spoke and read Georgian. In Latvia, an Uzbek received the leaflet in Russian and could only understand part of the information provided. In Estonia, Afghan asylum seekers reported that they received the official leaflet in English, but they did not find it useful as they could not understand it well. A lack of information leaflets in Dari and Pashto languages was also highlighted by Afghans in Hungary and Slovakia.
+In over half of the EU Member States covered by this research,31 most respondents who reported having received written information material on the asylum procedure stated that they got these in their native language or in a language they could understand.
+
+“They give a copy of the guidelines to you in your language.” (Moroccan, female, Denmark)
+
+In some EU Member States - including Estonia, Lithuania and Portugal - some respondents indicated having received written information material on the asylum procedure in a language different from their own, probably under the assumption that they would understand it. This, however, was not always the case.
+
+“One of the Afghan residents, here at the centre, can understand Russian a little bit - we sometimes consult with him on questions that are unclear to us. We could understand some of the information that we received during an interview with an officer from the Migration Department, as an interpreter was present. But mostly, we sign documents, even if we do not understand them.” (Afghan, female, Lithuania)
+
+In Romania and France, only few respondents recalled having received an information leaflet on the asylum procedure and most of those who did reported having received written information material only in the national language of the host country.
+
+“When I arrived, I expected to see a leaflet with information on the asylum procedure in many languages but it doesn't exist.” (Sudanese, male, France)
+
+Language is also an issue for information provided on the web. The interviewees noted that where information on the web is provided, much of the important information was not in their language. This made it more difficult for those who could not read or understand English, which was typically the main language source other than that of the EU Member State in question.
+Regarding the information that is provided orally, a recurrent challenge is the need for interpreters and the quality of the interpretation provided. In Italy, for instance, various respondents confirmed the presence of interpreters in most of the reception centres but only few of the asylum seekers found the interpreting services to be satisfactory or of good quality. Similarly, in Denmark and Ireland some interviewees expressed their dissatisfaction with the interpreters used.
+
+“There are many translators who are not good. [...] I think it is wrong if Afghans are getting an Iranian translator and Iranians are getting Afghan translators.” (Iranian, female, Denmark)
+
+In Bulgaria, female ethnic Kurds experienced language problems as they reported being provided with Arabic interpreters whom they did not understand. In some countries, such as Portugal and Lithuania, a number of interviewees complained more generally about the lack of interpreters. Others highlighted the consequences that may arise in case of inadequate quality or lack of interpretations.
+
+“When I was taken by the police, they asked me if I spoke Farsi -1 said no, I speak Pashto but still, they provided me with a Farsi interpreter. This is why my name is spelt wrongly and other details are incorrect on my immigration documents. I did not understand the interpreter on the telephone, he told me I was talking too much [...]. It was a horrendous experience for me. I did not know what was going on.” (Afghan, male, UK)
+
+In a number of Member States - including Belgium, Cyprus, Estonia, Germany, Greece, Hungary, Latvia, Lithuania and Malta - respondents called for information materials to be translated in more languages, such as in Dari (Estonia, Lithuania), Kurdish (Cyprus, Luxembourg) and Amharic (Malta - where it has been translated in the meantime).
+As regards interpretation, some respondents in the Netherlands and Slovakia called for a more systematic presence of interpreters at all meetings with the asylum authority. Other respondents in Lithuania, Poland, Romania and Slovakia suggested that interpreters should be present more often in reception facilities and help with the translation of materials received.
+
+FRA Opinion
+To be meaningful, oral as well as written information should be provided in a language the asylum seeker understands, which should be elevated in law and in practice to become the European Union standard. Member States are encouraged to interpret Article 10.1(a) of the Asylum Procedures Directive in a way that ensures asylum seekers understand the information provided to them.
+
+6. When is information received?
+Asylum Procedures Directive
+Article 10.1.(a)
+This information shall be given in time to enable them to exercise the rights guaranteed in this Directive and to comply with the obligations described in Article 11.
+
+The information required by applicants to take informed decisions can vary according to the stage of the asylum procedure. In order to be meaningful, some information has to be provided at the outset of the procedure (such as on how to submit the claim), whereas other pieces of information (such as evidence to present at the eligibility interview) can also be provided at a later point in time.
+Asylum seekers were asked at which stage of the procedure they received information on the asylum procedure.32 Responses varied depending on the country, how they arrived, but also on the individual situation.33
+
+Information received at entry points
+In several surveyed countries,34 respondents remembered having received some basic information upon arrival. This happened at the point of entry (within a few hours or days after arrival) or when apprehended after an irregular border crossing.
+This information is often integrated with more detailed information at a later stage, most commonly in reception facilities, as illustrated by the following example:
+
+“When we arrived we did not receive much information, the police just sent us here to the reception centre. It was only when the lawyer came to visit the centre that we received information about what will happen to us.” (Afghan, female, Finland)
+
+Differences were reported in some countries based on the point of entry or the particular circumstances of the arrival, as already mentioned. As an illustration, in Italy some asylum seekers arriving at sea borders were provided with information on the asylum procedure by NGOs, but others were not.
+Asylum seekers made suggestions as regards to the timing of the information. Several respondents in different countries (Belgium, Latvia, Estonia, Lithuania, Cyprus, Denmark, and Spain) suggested that more information on asylum should be provided upon arrival and not at a later stage.
+
+“They should give us the information along with the Alien Book at the stage of taking the digital prints so that we can properly prepare for the interview.” (Sudanese, male, Cyprus)
+
+But others suggested that information provided at this stage can hardly be retained:
+
+“The situation at the border is characterised by panic and tension, you read the information on the wall and then remember nothing.” (Russian, female, Poland)
+
+Information received when applying for asylum
+Respondents who did not apply for asylum either at a point of entry or at the border reported having received information when they approached the authorities with the wish to apply for asylum (Belgium, Bulgaria, Estonia, Finland, France, Germany, Ireland, Luxembourg and Spain). For instance in Ireland, all respondents reported receiving information on the asylum procedure together with a questionnaire to complete when they made their first application for asylum at the Office of the Refugee Applications Commissioner (ORAC).
+Community networks can also play an important role in finding out where to go. Asylum seekers with wider social networks or belonging to national groups who are well organised and integrated in the country of reception are more likely to access information quickly; however, sometimes countrymen/women do not provide such information for free.
+
+Information received in the reception facility
+In six of the EU Member States surveyed - the Czech Republic, Finland, the Netherlands, Poland, Slovakia and Slovenia - most respondents reported having received information on the asylum procedure only when they were hosted in a reception facility. In the reception centre, most interviewees usually received information in a time span that ranged from upon arrival to one month after arrival.
+
+Information received just before or during the eligibility interview
+Some cases were reported from Cyprus, Hungary and Romania where respondents had received information just before or during the asylum interview. Asylum seekers said that when information is provided at this stage, they can't prepare in time for the interview and this affects the likelihood of their application being accepted.
+
+“The very day I had the interview was the day when they read this information out for me [...].” (Nigerian, female, Romania)
+
+In Hungary, participants in two focus groups mentioned that they only received information on the asylum procedure some minutes before their first interview, and therefore did not have time to prepare. Similarly, in Bulgaria, a number of respondents were informed that the interview would be held the following day. The need for more time to prepare for the interview was also raised in the Netherlands, where one month after the research was completed a ‘rest and preparation period' before the initial interview was introduced.35
+
+“I heard that in the past, people received time to prepare themselves for the interviews. Now we do not have that time. Perhaps there are too many refugees now, and time is no longer available.” (Somali, male, Netherlands)
+
+In some instances information on the asylum procedure was received at a very late stage. For instance, in Greece, it often takes months for asylum seekers to understand where and how to apply for asylum. In Italy, when information was not received at the entry point, it is often only provided by NGOs or other immigrants many weeks after arrival in the country. In the UK, some interviewees also said that they received information at a late stage of the asylum procedure.
+To conclude, the timing of the provision of information should be carefully assessed in order to ensure that information is provided at a time when asylum seekers have overcome the initial stress relating to the journey. Nevertheless, the provision of information should still occur sufficiently in advance to enable them to prepare or take relevant decisions. One option could be to provide information in a phased manner.
+
+7. Most useful and trustworthy information
+
+UNHCR Handbook on Procedures and Criteria for Determining Refugee Status, re-edited, 1992
+Paragraph 198
+A person who, because of his experiences, was in fear of the authorities in his own country may still feel apprehensive vis-a-vis any authority.
+
+Figure 3: Most useful source of information, according to asylum seekers, EU27
+
+Most useful information provided by NGOs
+Most useful information provided by public authorities
+Most useful information provided by social networks (such as family and friends)
+Other*
+
+<figure>
+
+Note: * The category ‘Other’ includes countries where no consistent views emerged among focus group participants on the institutions providing the most useful information (Austria, Denmark, Hungary, Italy, Poland and Slovakia) or where the majority of asylum seekers had the perception of little or no useful information being provided (Cyprus, Greece, Malta, Latvia and Lithuania).
+
+Asylum authorities in all the EU Member States were asked if they have any evaluation procedure on the effectiveness of the tools used to inform asylum seekers. Five countries reported having undertaken such an assessment: Austria, Finland, Ireland, Slovakia and the UK. In Austria and Finland, the evaluations were carried out by independent NGOs. In Ireland, the authorities conduct a customer satisfaction survey each year, which however does not look at information on asylum procedures in detail,36 whereas in Slovakia and the UK the evaluations were part of quality assurance projects partly carried out in cooperation with UNHCR.
+The evaluation in Austria found that although extensive information is provided by the asylum authorities, the means used do not necessarily result in all asylum seekers understanding or relying on the information they receive from official sources.37 In Slovakia the information provided was too legalistic and not understandable, and the quality of translations needed improvements.
+In this research, different institutions were mentioned by asylum seekers as providing the most useful information. In general, the fieldwork confirmed that for information to be trusted its source needs to be regarded as trustworthy. If a source is considered untrustworthy, no matter the information provided, the information won't be relied upon by the asylum seeker.
+In many countries, there was overall consensus on who provides the most useful information, although in others more than one source was believed to provide useful information or different focus groups (sometimes located in different parts of the country) believed the most useful information was provided by different institutions.
+In general terms, NGOs were perceived as being the most useful source of information, followed by social networks and by the authorities. Figure 3 provides an overview of the sources respondents considered to be the most useful and trustworthy in their country among public authorities, NGOs and social networks.
+
+Non-governmental organisations
+As shown in Figure 3, in eight EU Member States38 NGOs were considered by most respondents as the most useful and trustworthy source for obtaining information on the asylum procedure. This is illustrated by the following example:
+
+“The Infobus gives us strong support because we know that they are always there for us and they can help us and we can feel that they make an effort to help the asylum seekers.” (Afghan, male, Germany)
+
+NGOs are considered most useful when asylum seekers perceive them as independent and not linked to public authorities.
+
+“I trust the Red Cross because I know it is not the Red Cross who is going to give me the asylum papers.” (West African, male, Spain)
+
+NGOs are also considered very useful because they provide information not only on the asylum procedure, but also on all kind of issues such as information on health issues, in-house rules and working possibilities.
+Sometimes, however, NGOs are considered unprofessional or not having sufficient resources to be helpful. For example, in Austria, Portugal and Romania, some respondents indicated that NGOs were not available or of limited utility. In Austria, respondents also mistrusted the legal advisors, who are selected by the authorities to provide information in the initial reception facilities, as these were seen as too close to the asylum authorities.
+A different situation was reported by female Somali asylum seekers in Germany. They had an overall sense of fear that if they contact an NGO this will have negative consequences on their asylum claim. However, this was not clarified further.
+
+Social networks
+In three countries - notably Belgium, the Czech Republic and Romania - the majority of respondents considered social networks as the most useful and trustworthy source for obtaining information on the asylum procedure. Friends, relatives, acquaintances, other asylum seekers and fellow countrymen/women, who applicants met in the reception centres and other places, all are considered as valuable sources of information. In general, they are also the only existent ones when little institutional information is received. In the case that asylum seekers have personal and family networks in the host country, those are viewed as the most trustworthy sources of information.
+If personal networks are trusted, other asylum seekers usually met in reception centres can also be a useful source of information.
+
+“We use to exchange information among us: how is it in
+Galati centre how is it in your centre, [...] what else do you know? The clearest information comes from other asylum seekers facing the same situation as we do.” (Central African, male, Romania)
+
+Often, information given by other asylum seekers fills the gap of structural information not received from the authorities and/or reception providers.
+
+“It is bizarre that the information comes from the asylum seekers themselves, that is such a bizarre situation [...] information is not provided by specific institutions or organisations that should do this, but simply ones tell another and another.” (Middle East, male, Slovakia)
+
+In general, information accessed through social networks is considered valuable, but it can be wrong or inaccurate and it might then be too late to take action.
+
+“You know, if you only receive information by your friends, you will figure out after a while that it is sometimes not correct. If you get a brochure, you know it is actually correct.” (Syrian, female, Belgium)
+
+Furthermore, asylum seekers are not always confident in other asylum seekers they don't know and they have just met. Besides, the asylum application is sometimes considered a personal matter not to be discussed with other applicants.
+
+Public authorities
+In Bulgaria, Finland, Portugal, Luxembourg and Sweden, public authorities are usually considered the most useful source of information.
+
+“I trust the police the most. When I arrived to the harbour, I was directed to the police and they gave me information about asylum application. They also told me that they are here to help me. My experience with the police is nothing but positive, since what they told me has been true.” (Somali, male, Finland)
+
+However, in most countries public authorities were considered the least trustworthy source, as illustrated in the following example:
+“We did not receive any information from the authorities. Without the support of our families and friends we wouldn't know at all what we can do.” (Somali, female, Germany)
+
+The absence of trust in the authorities may stem from different reasons: a lack of trust of any formal institution (given the experiences gathered in the country of origin or in transit states), but also the treatment respondents got upon arrival from public authorities. In Cyprus, for example, two respondents alleged having been forcefully put by officers on an aircraft in an attempt to expel them from the country, when they indicated their intention to apply for asylum at Larnaka International airport.
+In other cases, examples of cold and unhelpful behaviour and sometimes experiences of discrimination on ethnic grounds were mentioned by respondents. One respondent said: “At the airport I was told ‘You black monkey why are you here?!” Another one stated: “Whenever I went to the immigration office, the officer would shout ‘go, go, go' just go, go, go' and threw me out”, or when walking on the streets and trying to enter a bar, people would shout: “mavro, mavro [black] get out of here”. Discriminatory statements clearly prevent any kind of trust building.
+To conclude, it would seem appropriate to make arrangements for the provision of information by actors who asylum seekers generally consider neutral or not linked to the asylum authorities. As a good practice, and based on the experience in some EU Member States, regular evaluations should be undertaken of the effectiveness of the information provided to asylum seekers.
+
+8. Gender issues
+UNHCR Guidelines on gender-related persecution (2002)
+Paragraph 36 (ii)
+It is essential that women are given information about the status determination process, access to it, as well as legal advice, in a manner and language that she understands.
+
+In 2009, women accounted for 31.8% of the total asylum applications. For eight of the top 60 nationalities that applied for international protection in the EU 27, over 45% of applicants were women.
+Persons with gender-based claims require a supportive environment to speak about their experiences. Separate interviews from accompanying male family members and the possibility to have an interviewer and interpreter of the same sex are procedural guarantees called for by UNHCR, in particular for women.
+
+Figure 4: Written information on gender-specific issues, EU27
+
+Gender issues are covered in leaflets
+Gender issues are not covered
+
+<figure>
+
+Article 6.2 of the Asylum Procedures Directive provides that adult applicants have a right to submit a claim in their own name and Article 13.1 of the same directive stipulates that a personal interview shall normally take place without the presence of family members. In addition, the European Commission proposes to introduce a duty to provide for an interviewer of the same sex if the applicant so requests.40
+Asylum authorities in all 27 EU Member States were asked if they have a separate leaflet for women concerning the asylum procedure. In addition, the FRA has reviewed the content of available information leaflets to assess to which extent gender-specific information is reflected. The FRA specifically looked for two indicators, namely information on the right to ask for a female interviewer or interpreter, and the right to have a separate interview from the spouse. Information leaflets prepared by NGOs, such as the one prepared by the UK NGO Asylum Aid41 have not been reviewed as part of this research.
+Figure 4 illustrates that in slightly more than half of the EU Member States at least one of the two gender-specific considerations is included in the written information materials provided on the asylum procedure.42 In Belgium, a separate gender-specific leaflet has been developed. In the remaining EU Member States, the information brochure or leaflet on the asylum procedure does not include information on the possibility to choose an interviewer of the same sex or the right to have a separate interview from the spouse.43 The FRA did not systematically verify if, among the latter, such information is provided orally. Moreover, some countries seek to assign automatically interviewers of the same sex to all female applicants or at least to women raising genderbased elements in their claim, as is, for example, the case in Finland and Sweden. This can be considered a good practice regarding a gender-sensitive approach in asylum procedures.
+With regard to the experiences of female asylum seekers on accessing information on the asylum procedure, different issues have arisen in a non-systematic way from the focus group discussions.
+In some countries, women stated that information was not given to them but to their husbands. This was the case for Afghan women in Hungary and Lithuania.
+In the Netherlands, Somali women noted that due to cultural reasons they refrain from asking questions and clarifications. In Bulgaria, female asylum seekers from the Middle East indicated that they rely on their male relatives for information and to deal with the asylum procedures. The same gender-based division of labour among the family members was reported by several Russian women in Poland. One stated:
+
+“My husband talked to a lawyer, I did not. That's the way it is here, men search for information, and we take care of the children.” (Russian, female, Poland)
+
+In Lithuania, Afghan women also have very limited contact with other asylum seekers and little trust in other residents and officials. The same holds true for one of the two female interviewees in Slovenia: she stated that she does not trust anyone and that there are only men in the reception centre.
+In the Netherlands, it seems that female interviewees had less understanding of the procedure. Although information materials were provided equally to both groups, the female group showed more wrongful assumptions and misunderstandings. In Belgium, none of the female asylum applicants interviewed recalled having seen the information brochure that was specifically developed for women.
+In Bulgaria, a group of Iraqi women complained they did not have access to a female interpreter. In Ireland, women were prevented from accessing information through the internet because there is just one computer in the reception centre and female respondents stated that men are always using it. In this regard, the fieldwork revealed a good practice in the Sandholm reception centre in Denmark: there, some evenings every week the IT-room is open for female asylum seekers only.
+
+FRA Opinion
+Female applicants should receive information in an accessible and understandable language, which makes it clear to them that gender-based claims can be relevant under the refugee definition, on the basis of Article 9 of the Qualification Directive (2004/83/EC). Written information materials should be systematically provided to them, also when they are accompanied by other family members.
+Women accompanied by their husbands should also be informed that according to Article 6.3 of the Asylum Procedures Directive they are entitled to submit a separate asylum claim. They should be provided with and informed of the right to be interviewed by a person of the same sex if they so wish, which should be set as the European Union standard, as suggested by the European Commission in the recast of the directive.
+
+9. Dublin II
+Dublin II Regulation
+Article 3.4
+The asylum seeker shall be informed in writing in a language that he or she may reasonably be expected to understand regarding the application of this Regulation, its time limits and its effects.
+
+A duty to inform applicants is not only contained in the Asylum Procedures Directive, but also in Article 18 of the Eurodac Regulation and Article 3.4 of the Dublin II Regulation. Contrary to the Asylum Procedures Directive and the Eurodac Regulation, the Dublin II Regulation44 expressly requires that asylum seekers be informed on the Dublin II process in writing.
+
+Figure 5: Written information on Dublin II, EU27
+
+Information on Dublin II procedure is covered by specic leaflet
+Information on Dublin II procedure is covered by general information leaflet
+Separate information leaflet on Dublin II procedure being drafted
+
+<figure>
+
+In its proposal for a revised Dublin II Regulation, the European Commission proposes to strengthen the right to information, listing seven specific pieces of information that should be provided, including: the objectives of the Regulation; the criteria for allocating responsibility; the procedure; its outcomes and consequences; the possibility to challenge a transfer decision; as well as information relating to the use of one's personal data. In addition, the Commission's recast proposal includes guidance on the language in which such information should be given - a language which the applicant is reasonably supposed to understand, combined with oral information when this is required for a proper understanding.45
+As illustrated in Figure 5, about half of the European Union Member States include information on Dublin II in their general information materials on the asylum procedures. In Finland and Sweden, for example, the general information leaflets on the asylum procedure provide a clear message that applicants cannot choose the country of asylum, indicating in which situations they will be returned to another country.46 In other cases, Dublin II related information is provided in more general terms, as for example, in Lithuania, Slovakia and the UK.47 Six EU Member State have developed specific leaflets on the Dublin II Regulation; the authorities in Cyprus were preparing such a leaflet on Dublin II in September 2010.
+The focus group discussions within the framework of this FRA research have not systematically addressed the issue of information on the Dublin II process and more specifically on the Eurodac procedure. Nevertheless, some respondents indicated that they did not understand why their fingerprints were taken.
+In Belgium, Bulgaria, France, Germany, Hungary and Ireland, applicants falling under the Dublin II procedure reported difficulties in accessing information on what would happen next and, in particular, whether they would be transferred to another country and, if so, when. In Ireland, for example, an Afghan man recalled receiving information in the form of documents and questionnaires. Once, it was established that he would be transferred to another country under Dublin II, no further information was provided. Similarly:
+
+“The social assistant told me that it will take a long time and that I have to stay in the reception centre for at least six months. But I've seen other people who already stayed a year.” (Chechen from the Russian Federation, female, Belgium)
+
+In several countries, asylum seekers falling under the Dublin II procedure claimed that extended periods within the asylum system impact negatively on applicants, both in terms of time lost through waiting and on their mental well-being.
+Specific remarks were also made on written materials relating to the Dublin II Regulation. In countries where separate Dublin II leaflets exist, such as in Austria and Poland, respondents recalled having received written information. For example:
+
+“When I submitted the application here [at the Office for Foreigners], they gave me the relevant information. They asked me which language I would prefer to receive the information and I asked for information in Polish [...]. We are in Poland; we live in Poland, than it is better to receive information in Polish.” (Republic of Congo, male, Poland)
+
+In Germany, most respondents did not recall leaflets, but receiving oral information on Dublin. One respondent highlighted that he organised it himself:
+
+“I have found out about Dublin through the internet and then also through experiences before I came to Germany [...] because I'm a Dublin case myself.” (Afghan, male, Germany)
+
+A few asylum seekers in the Dublin II procedure in Belgium and the UK indicated, that although they received written information, they had difficulties in understanding the language in which the leaflets were written:
+
+“They have leaflets in Arabic everywhere but not everyone from Sudan understands Arabic. My first language is also not Arabic, though I can communicate in it. But there were no leaflets in my first language - this was in Bergo” (Sudanese, male, United Kingdom)
+
+In some countries, including Austria, Bulgaria, Germany, Hungary and the Netherlands, a number of asylum seekers expressed their dissatisfaction with the lack of comprehensiveness or technical language of the written information provided on Dublin II:
+“The BAMF [Federal Ministry for Migration and Refugees] tells you about Dublin, but they don't inform you about the hurdles and pitfalls of the Dublin II procedure.” (Afghan, male, Germany)
+
+“I understood the information after reading it once more, because I went to university. But there were some people who came to me for help; they asked me to explain what is written.” (Afghan, male, Hungary)
+
+Turning to suggestions for improvement, in Austria, France, Hungary, and Ireland, respondents, particularly among the newly arrived asylum seekers called for more information on Dublin II to be provided. In Austria, two respondents in the Dublin procedure said that more information about Dublin II should be provided in the first country of asylum, so that they do not move on to another country just to know that they would be returned back.
+Information on Dublin II has to be provided as soon as possible. As in many cases the state of mind of new arriving applicants may not be receptive to complex procedural detail, Dublin II information should be provided in simple terms both in writing and orally, where possible by a source which is not associated by applicants with the asylum authority.
+
+FRA Opinion
+The FRA encourages the Council and the Parliament to strengthen the right to information in the Dublin II regulation by accepting the proposals to Article 4 of the recast Regulation, and by clarifying that such information is provided in a language that the asylum seeker understands. It should furthermore establish a duty to inform asylum seekers of progress relating to the transfer to an other EU Member State.
+
+Annex 1: Target group and methodology
+
+This report is mainly based on information collected through primary research. This includes focus group discussions and individual interviews with asylum seekers, as well as a brief closed questionnaire48 submitted to national asylum authorities. National asylum laws and other existing reports49 have been used to contextualise the information collected.
+The field research with asylum seekers consisted of focus groups and semi-structured interviews. A total of 877 asylum seekers have been interviewed in 27 European Union Member States, either individually or as part of a focus group. A total of 142 focus groups and 33 individual interviews were carried out. Individual interviews were undertaken in those cases where it was not possible to identify a sufficient number of homogenous respondents to form a focus group, primarily in countries having a lower number of asylum applications.
+Men and women were interviewed separately. Men were not allowed to listen in focus groups carried out with women and vice versa. In total, 562 men and 315 women were interviewed (see Figure A1).
+No child was included when forming the focus groups; in two cases, however, it turned out when conducting the discussion that the persons were below the age of 18 years.
+Most of the asylum seekers interviewed were staying in reception facilities, including closed or semi-open facilities for newcomers in admissibility procedures as well as reception centres for asylum seekers run by NGOs, the state or privately. However, approximately one fourth of the respondents were living in hotels, pensions or otherwise scattered in the community (see Figure A2)
+A few respondents were homeless, including a pregnant woman who was sleeping in a park in Athens. In order to have a sufficient number of respondents in Estonia and Malta, focus groups took place in detention facilities for irregular migrants (in the facilities of Harku and Safi, respectively). However, the level of confidentiality in these facilities was low as authorities were present or other asylum seekers could listen to what was said. Asylum seekers in fast-track detention facilities in the UK have not been covered by this research, as it was not deemed possible to create the necessary confidential setting for the discussion.
+
+Figure A1: Number of interviewed asylum seekers, by country and sex
+Source: FRA, 2010
+
+<figure>
+
+Figure A2: Interviewed asylum seekers, by type of accommodation at the moment of interview (%)
+
+<figure>
+
+Source: FRA, 2010
+
+With very few exceptions each focus group had a homogenous geographical and language background. The focus groups were initially selected among seven broad population groups: Arabic-speaking applicants; Afghanistan, Iran, and Pakistan; Russian Federation and other Commonwealth of Independent States (CIS) countries; English-speaking African countries; Frenchspeaking African countries; Kurdish-speaking applicants and applicants from the Balkans.
+However, in the course of the field research other nationalities (for example, from Asia or Latin America) had to be included in order to meet the minimum number of asylum seekers in each country. Most asylum seekers interviewed came from Afghanistan, the Russian Federation, Iraq and Somalia, although in total 65 different nationalities were covered by the research (see Figure A3 for a breakdown of the 10 most important nationalities).
+Separate focus groups and interviews were planned with newly arrived asylum seekers, as well as with asylum seekers who had received a negative first instance decision by the asylum agency and were thus in the asylum procedure for a longer period of time. This report includes information received by all respondents, unless their experiences were old and therefore not deemed relevant anymore.
+
+Figure A3: Number of interviewed asylum seekers, by nationality
+
+<figure>
+
+Note: * This includes seven ethnic Kurds of whom the nationality was unknown. Source: FRA, 2010
+
+Figure A4: Interviewed asylum seekers, by length of procedure (%)
+
+<figure>
+
+Source: FRA, 2010
+
+Researchers were also asked to collect information on how long respondents had been in the procedure and on the type of procedure - Dublin II, accelerated or regular. Figure A4 provides an overview of the time respondents were in the procedure.
+Asylum seekers were selected for the focus groups or the interviews primarily through the help of social workers employed by NGOs or working in reception facilities for asylum seekers. In order to establish an atmosphere of trust, no government officials, legal counsellor, lawyers or other unauthorised persons were present in the focus groups, except for the detention facilities for irregular migrants in Estonia and Malta. Only social workers assisted in some focus groups, mainly at the beginning, to help establish the level of confidence for an open discussion.
+The field research was undertaken by the RAXEN network of the FRA, with the exception of the Netherlands where it was carried out by the University of Nijmegen.50 Guidelines have been developed to ensure consistency during the research on which interviewers were trained in February 2010.51 All focus groups or individual interviews were approved in advance by the FRA. The field research was undertaken between March and June 2010. The
+FRA monitored the implementation of the field research by observing focus group discussions held in Austria and Greece.52
+The majority of the focus group discussions were carried out in a confidential setting, with no or limited interruptions and, based on the assessment of the interviewers, with a low or medium level of fear. Most focus groups or interviews were carried out with the help of interpreters, usually professional interpreters or those who work for NGOs. To avoid the perception that the interviews are linked with the national asylum authorities, the FRA research only exceptionally called on the asylum agency's interpreters to help.
+In most cases, after a (sometimes relatively long) explanation of the purpose of the research, asylum seekers participated actively in the focus groups and responded to most of the standard questions that were used to guide the discussion (see the questions reproduced following this section). In a few cases, however, asylum seekers showed disappointment with issues discussed as these were not considered significant compared with the practical problems that they faced in their daily lives such as, for example, those relating to accommodation, health or access to the labour market.
+
+Questions used to guide the discussion in the focus groups
+
+A) Information on asylum procedure
+
+What information on the asylum procedure did you receive?
+Which organisation provided such information?
+Did you verify the information received?
+When: At what stage of the procedure was information received?
+Who provided the most useful information?
+Who did you trust most? Why did you feel you could trust this organisation or person most?
+Did you receive information leaflets?
+If so, in what language?
+If so, how understandable were they? How useful were they for you to find out what will happen? Did they cover all your questions?
+How do you think the information on the asylum procedure should have been made available to you?
+
+B) Remedies
+Information on how to appeal
+Could you recall how long it took for you to receive the first decision on your asylum claim?
+How did you learn about the rejection of your asylum claim?
+Did you receive a written communication? If yes, what language was the letter in? Did anybody translate it for you?
+Were you told of
+time limits for appeal?
+where to appeal (appeal body)?
+how to access legal assistance?
+If so, was this info (partly) also translated in a language you understand?
+
+Submission of appeal
+Did you have to submit the appeal & supporting documents in the host country language?
+If so, how did you find help for putting together the appeal?
+How much time did you have to submit the appeal? Was it enough?
+What were the main obstacles (or problems) faced?
+
+Legal assistance
+When rejected, who told you what to do and where to go?
+Were you assisted by a lawyer to submit the necessary papers?
+If yes, how did you find a lawyer?
+Was it easy or difficult?
+Did you have an influence on who your lawyer is (pay attention to gender)?
+Who interpreted for you when you discussed with the lawyer?
+How satisfied were you with your lawyer?
+
+Attending the hearing
+If you were called for a hearing before a tribunal or a court53 did you go?
+Did anybody come with you to the hearing? Were you assisted by a lawyer or an organisation?
+Who paid for the costs (travel, accommodation)?
+Did you understand what was said?
+Were you allowed to speak yourself?
+
+Annex 2: Statistics
+Table A1: Top 60 nationalities who applied for international protection in 2009, EU 27, by nationality and sex ratio*
+
+<table>
+
+Notes: * Data is rounded to the nearest 5. ** Kosovo (under UN Security Council Reg. 1244).
+Source: Statistical Office of the European Communities (Eurostat), Data extracted on 20 August 2010
+
+European Union Agency for Fundamental Rights
+The duty to inform applicants about asylum procedures: The asylum-seeker perspective Thematic Report
+2011 — 43 pp — 21 x 29.7 cm
+ISBN 978-92-9192-640-4
+doi: 10.2811/8599
+Europe Direct is a service to help you find answers
+to your questions about the European Union
+Freephone number:
+00 800 6 7 8 9 10 11
+
+A fair asylum procedure is one where applicants know their rights and duties, and where they understand its different stages. The right to be informed at decisive moments of the procedure is an important element of procedural fairness. Drawing on evidence from interviews with almost 900 asylum seekers, this report examines the information that asylum seekers have on the asylum procedure. In particular, it looks at the main source of information for asylum seekers, which type of information they receive, and when and how they receive it. In addition, the report looks at gender as well as Dublin II issues. It advises on how the provision of information on the asylum procedure could be improved. While some proposals are of a practical nature, such as the need to provide information to asylum seekers in a language they understand, others relate to the revision or interpretation of current European Union law.
+
+FRA - European Union Agency for Fundamental Rights Schwarzenbergplatz 11
+1040 - Wien Austria
+Tel.: +43 (0)1 580 30 - 0
+Fax: +43 (0)1 580 30 - 691
+Email: information@fra.europa.eu fra.europa.eu
+facebook.com/fundamentalrights twitter.com/EURightsAgency
+
+1	FRA, Separated, asylum-seeking children in European Union Member
+States - Summary report, Luxembourg, Publications Office, April 2010, available online at: www.fra.europa.eu/fraWebsite/attachments/SEPAC- SUMMARY-REPORT-conference-edition_en.pdf (all hyperlinks were accessed on 25 October 2010).
+2	Eurostat, News release, 18 June 2010, STAT/10/89, available at: www.europa.eu/rapid/pressReleasesAction.do?reference=STAT/10/89&f.
+3	Annex II contains a breakdown of the top 60 nationalities of persons who submitted a request for international protection in the European Union in 2009. Data taken from Eurostat at www.epp.eurostat.ec.europa.eu/.
+4 Normally, country of origin, sex and Member State are mentioned, unless by providing this information the source could be identified. In addition, the ethnic origin of respondents is indicated in some cases.
+5	Council Directive 2005/85/EC of 1 December 2005 on minimum standards on procedures in Member States for granting and withdrawing refugee status available at: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri= OJ:L:2005:326:0013:01:EN:HTML
+6	Council Regulation (EC) No. 343/2003 of 18 February 2003 establishing the criteria and mechanisms for determining the Member State responsible for examining an asylum application lodged in one of the Member States by a third-country national.
+7	Council Regulation (EC) No. 2725/2000 of 11 December 2000 concerning the establishment of ‘Eurodac' for the comparison of fingerprints for the effective application of the Dublin Convention at Article 18.
+8	These include Austria, Belgium, Bulgaria, Cyprus, the Czech Republic, Finland, France, Greece, Italy, the Netherlands, Romania, Slovakia, Slovenia and the United Kingdom; in Cyprus, Finland, Greece, Romania and Slovakia, the NGOs are partly funded by the European Refugee Fund.
+9	Due to the small number of newly arrived asylum seekers, interviews were conducted with asylum seekers who had been in the host country between two months and two years. According to Eurostat data, in the first quarter of 2010 the number of asylum applicants in Malta dropped by 95% compared with the same period in 2009.
+10	It should be noted that in some countries listed in the previous group, such as, for example, Belgium, Germany and Hungary (although information seems to be usually provided by authorities and/or NGOs), some asylum seekers claimed not having received any information.
+11	The research did not examine the question whether persons in need of international protection are informed about their right to apply for asylum upon arrival. This question will be addressed in a future FRA research project on the treatment of irregular migrants at the external borders of the European Union on which information can be found online at the FRA website at: www.fra.europa.eu/fraWebsite/research/projects/ proj_thirdcountry-externalborders_en.htm.
+12	See European Commission, Proposal for a Regulation of the European Parliament and of the Council establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or stateless person (Recast), COM(2008) 820 final, Brussels, 3 December 2008, amendments to Article 3.4 (new Article 4).
+13	See www.cgra.be, www.cgvs.be, www.dofi.fgov.be and www.cgrs.be.
+14	See www.mvcr.cz/mvcren/article/entry-stay-permanent-residence-and- international-protection-in-the-czech-republic-international-protection. aspx.
+15	See www.nyidanmark.dk/en-us/coming_to_dk/asylum/asylum.htm.
+16	See www.politsei.ee/en/teenused/international-protection/applying-for- asylum/index.dot.
+17	See www.migri.fi/netcomm/content.asp?path=8,2476&language=EN.
+18	See www.immigration.gouv.fr/spip.php?page=dossiers_them_ asi&numrubrique=361.
+19	See www.bamf.de/DE/Migration/AsylFluechtlinge/Asylverfahren/ asylverfahren-node.html
+20	See www.bmbah.hu/ugyintezes_eljarasrend.php?id=63.
+21	See www.orac.ie/
+22	See www.interno.it/mininterno/export/sites/default/en/themes/asylum_ and_refugees/
+23	See www.pmlp.gov.lv/en/pakalpojumi/patverums.html.
+24	See www.migracija.lt/index.php?-1054856701.
+25	See www.mjha.gov.mt/page.aspx?pageid=160#The_Asylum_Procedure.
+26	See www.udsc.gov.pl/index.php?documentName=main.
+27	See www.migrationsverket.se/info/550_en.html.
+28	See www.ukba.homeoffice.gov.uk/asylum/
+29	These include Austria, Belgium, Bulgaria, the Czech Republic, Denmark, Estonia, Finland, Germany, Hungary, Ireland, Luxembourg, the Netherlands, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden and the UK.
+30	According to Eurostat data, the number of different nationalities of applicants who submitted a claim in these Member States in 2009 is as follows: France (104 nationalities), Greece (65), Lithuania and Portugal (14 each).
+31	These include Austria, Belgium, Bulgaria, the Czech Republic, Denmark, Finland, Germany, Hungary, Ireland, Luxembourg, the Netherlands, Poland, Slovakia, Slovenia, Spain and Sweden.
+32	Information obtained through informal channels (see p.14) is discussed here.
+33	Countries where little or no information was received are not discussed, namely: Cyprus, Greece, Malta, Latvia and Lithuania.
+34	These include Austria, Denmark, Estonia, Finland, Hungary, Italy, Luxembourg, Portugal, Romania and Sweden.
+35	See Dutch Aliens Act (as amended) at Article 8 m, as well as the Dutch Aliens Act Implementation Guidelines at C11, which provide more details.
+36	The materials of the customer survey are available online at: www.orac.ie/ pages/Cust_serv/Information.htm.
+37	See the study by the Austrian network ‘Netzwerk Sprachenrechte', available online at: www.sprachenrechte.at/_TCgi_Images/ sprachenrechte/20090316115827_Studienergebnisse.komm.weg. Oktober%202008_1.pdf.
+38	These include France, Estonia, Germany, Ireland, the Netherlands, Slovenia, Spain and the UK.
+39	UNHCR, Guidelines on International Protection No. 1: Gender-related persecution within the context of Article 1A(2) of the 1951 Convention and/or its 1967 Protocol relating to the Status of Refugees (HCR/GIP/02/01), 2002, paragraphs 36 (i) and (iii).
+40	See European Commission, Proposal for a Directive of the European Parliament and of the Council on minimum standards on procedures in Member States for granting and withdrawing international protection (Recast), COM(2009) 554 final, Brussels, 21 October 2009, proposed amendments to Article 13.3(b), (new Article 14).
+41	See Asylum Aid, Are you a women seeking asylum in the UK, June 2007, available in English at: www.asylumaid.org.uk/data/files/english.pdf.
+42	These include Austria, Belgium, Bulgaria, Cyprus, the Czech Republic, Denmark, Estonia, Greece, Italy, Luxembourg, the Netherlands, Romania, Slovenia, Spain and the UK.
+43	These comprise Hungary, Finland, France, Ireland, Latvia, Lithuania, Malta, Poland, Portugal, Slovakia and Sweden
+44 Council Regulation (EC) No. 343/2003 of 18 February 2003 Article 3(4).
+45	See European Commission, Proposal for a Regulation of the European Parliament and of the Council establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person (Recast), COM(2008) 820 final, Brussels, 3 December 2008, suggested amendments to Article 4.
+46	See, for Finland, Fact sheet - Information for asylum seekers by the Finnish Immigration Service, p. 2, and for Sweden, the fact sheet for asylum seekers in Sweden (Faktablad Till dig som soker asyl I Sverige) by the Swedish Migration Board, December 2009, p. 2.
+47	See for Lithuania, the leaflet, entitled Granting Asylum in the Republic of Lithuania, prepared by the Migration Department of the Ministry of the Interior; for Slovakia, the one-page information leaflet on the asylum procedure, comprising two paragraphs on Eurodac and Dublin II, and the Guidance for asylum seekers about their rights and duties during the asylum proceeding which has a part II on the Dublin II Regulation; for the UK, the brochure by the UK Border Agency, entitled Important information about the UK asylum process often referred to as Points of claim
+leaflet provides very basic information on Dublin II under the heading ‘Asylum screening'
+48	The questionnaire is available for download on the FRA website at: fra.europa.eu/fraWebsite/research/publications/publications_per_year/ pub_asylum-seekers_en.htm.
+49	This includes the reports by the Intergovernmental consultations on migration, asylum and refugees (IGC), Asylum Procedures, Report on Policies and Practices in IGC Participating States, 2009 and UNHCR, Improving asylum procedures: Comparative analysis and recommendations for law and practice, a UNHCR research project on the application of key provisions of the Asylum Procedures Directive in selected Member States, March 2010.
+50 See the list of the RAXEN National Focal Points (NFPs) which were responsible to manage the field research at: http://fra.europa.eu/fraWebsite/networks/research/raxen/nfp/nfp_en.htm.
+51 The interview guidelines are available online at the FRA website at: fra.europa.eu/fraWebsite/research/publications/publications_per_year/pub_asylum-seekers_en.htm. Due to time considerations, the Dutch and Swedish interviewers could not participate in the training.
+52 The FRA had also arranged to observe focus groups in Malta, including in the detention facility; however, due to the interruption of flights caused by the Icelandic volcano cloud FRA staff could not travel to Malta at the time of the interviews.
+53	Please make sure that asylum seekers understand that this does not refer to the asylum interview in first instance, but to the appeals procedure.

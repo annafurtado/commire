@@ -1,0 +1,1127 @@
+﻿<Header>
+	<title>
+		<tit> Le guide du Demandeur d'Asile en France </tit>
+		<fileName> GDAF_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Booklet </textType>
+		<subcorpus> Original French (France) </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (France) </language>
+		<source> https://www.immigration.interieur.gouv.fr/fr/Asile/Guide-du-demandeur-d-asile-en-France </source> 
+		<publisher> Ministère de l'intérieur </publisher>
+		<pubDate> 2015 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution> Ministère de l'intérieur </institution>
+	</author>
+</Header>
+Liberté - Egalité - Fraternité
+REPUBLIQUE FRANÇAISE
+Ministère de l'intérieur
+Direction générale des étrangers en France 
+Le guide du Demandeur d'Asile en France
+gDA novembre 2015
+SOMMAIRE
+1. Les différentes formes de protection 4
+1.1. Le statut de réfugié 4
+1.2. La protection subsidiaire 4
+1.3. Le statut d'apatride 4
+2. L'accès à la procédure et le droit au maintien sur le territoire 6
+2.1. La détermination de l'Etat responsable de l'examen de votre demande d'asile 6
+2.2. Le droit au maintien sur le territoire français 7
+3. Les conditions d'examen de la demande d'asile 9
+3.1. L'examen par l'Office français de protection des réfugiés et apatrides (OFPRA) 9
+Le formulaire OFPRA à remplir 9
+L'envoi du dossier 9
+La preuve de l'enregistrement de la demande par l'OFPRA 10
+L'examen de la demande en procédure normale ou en procédure accélérée 10
+L'entretien à l'OFPRA 10
+La décision de l'OFPRA 11
+3.2. L'examen par la Cour nationale du droit d'asile (CNDA) 12
+Le délai de recours 12
+Le recours 12
+L'accusé de réception d'un recours 13
+L'assistance d'un avocat 13
+L'audience à la CNDA 14
+La décision de la CNDA 14
+3.3. L'irrecevabilité et la clôture de la demande d'asile 15
+La demande irrecevable 15
+La clôture d'examen d'une demande 15
+3.4. Le réexamen 16
+4. Le parcours du demandeur d'asile 17
+4.1. L'accompagnement du demandeur d'asile 17
+Le premier accueil et l'orientation 17
+Les conditions matérielles d'accueil 19
+La prise en compte de la vulnérabilité par le guichet unique 19
+4.2. L'hébergement du demandeur d'asile 20
+Les lieux d'hébergement 20
+L'orientation vers l'hébergement 20
+Le départ du lieu d'hébergement 20
+5. Les droits des demandeurs d'asile 22
+5.1. L'allocation pour demandeur d'asile (ADA) 22
+Les conditions pour en bénéficier 22
+La formulation de la demande 22
+Le montant de l'allocation 23
+Le versement 23
+Le recours 23
+5.2. L'accès à l'éducation 23
+5.3. L'accès aux soins 24
+Les soins d'urgence 24
+La couverture maladie universelle (CMU) 24
+5.4. L'accès au marché du travail 24
+6. Les conséquences du rejet de la demande d'asile sur le droit au maintien sur le territoire 26
+6.1. La décision de rejet de l'OFPRA ou de la CNDA 26
+6.2. Le retour aidé dans le pays d'origine 26
+6.3. Le retour contraint dans le pays d'origine 27
+7. Les droits des bénéficiaires d'une protection
+7.1. Le séjour en France 28
+7.2. Le séjour de la famille 29
+Le droit au séjour des membres de famille 29
+Le droit à la réunification familiale 30
+7.3. L'intégration 30
+La signature du contrat d'accueil et d'intégration avec l'Office français de l'immigration et de l'intégration (OFII) 30
+7.4. Les droits sociaux 31
+L'accès au logement 31
+L'accès au marché de l'emploi 31
+L'accès à la santé 31
+Les prestations sociales et familiales 32
+7.5. Le voyage à l'étranger 32
+7.6. La naturalisation 33
+ANNEXE : adresses utiles
+1. Adresses nationales 34
+Associations 34
+2. Adresses locales 36
+Guichets uniques 36
+Préfectures 37
+Directions territoriales de l'Office français de l'immigration et de l'intégration (OFII) 39
+1. Les différentes formes de protection
+Il existe en France 3 formes de protection : le statut de réfugié, la protection subsidiaire et le statut d'apatride.
+1.1. Le statut de réfugié
+Le statut de réfugié peut vous être accordé sur 3 fondements :
+• la convention de Genève relative au statut de réfugiés du 28 juillet 1951. Le statut de réfugié est délivré à « toute personne qui (...) craignant avec raison d'être persécutée en raison de sa race, de sa religion, de sa nationalité, de son appartenance à un certain groupe social ou de ses opinions politiques, se trouve hors du pays dont elle a la nationalité et ne peut ou, du fait de cette crainte, ne veut se réclamer de la protection de ce pays » ;
+• l'asile dit constitutionnel, qui tire son origine de l'alinéa 4 du préambule de la Constitution de 1946. Le statut de réfugié est accordé à « toute personne persécutée en raison de son action en faveur de la liberté » ;
+• le mandat du Haut Commissariat des Nations Unies pour les Réfugiés (HCR) : si vous avez été reconnu réfugié par le HCR sur la base des articles 6 et 7 de son statut.
+1.2. La protection subsidiaire
+Le bénéfice de la protection subsidiaire est accordé à toute personne qui ne remplit pas les conditions pour se voir reconnaître la qualité de réfugié mais pour laquelle il existe des motifs sérieux et avérés de croire qu'elle courrait dans son pays un risque réel de subir l'une des atteintes graves suivantes :
+• la peine de mort ou une exécution ;
+• la torture ou des peines ou traitements inhumains ou dégradants ;
+• s'agissant d'un civil, une menace grave et individuelle contre sa vie ou sa personne en raison d'une violence qui peut s'étendre à des personnes sans considération de leur situation personnelle et résultant d'une situation de conflit armé interne ou international.
+En France, le statut de réfugié ou celui de la protection subsidiaire est accordé par l'Office français de protection des réfugiés et apatrides (OFPRA), sous le contrôle de la Cour nationale du droit d'asile (CNDA).
+1.3. Le statut d'apatride
+Selon la Convention de New York du 28 septembre 1954 relative au statut des apatrides, le statut d'apatride peut être octroyé à toute personne « qu'aucun Etat ne considère comme son ressortissant en application de sa législation ». Ce statut est différent des deux autres formes de protection et concerne uniquement les personnes qui ne possèdent pas de nationalité. Il ne prend pas en compte les risques de persécution.
+Le statut d'apatride est accordé par l'OFPRA, sous le contrôle du tribunal administratif.
+À la différence du demandeur d'asile, l'étranger qui sollicite le statut d'apatride ne bénéficie pas d'un droit au maintien sur le territoire pendant l'instruction de sa demande.
+Vous ne devez donc pas vous adresser à la préfecture, mais écrire directement à l'OFPRA, en indiquant vos noms, prénoms et adresse ainsi que les raisons motivant votre demande.
+L'OFPRA vous adressera un formulaire de demande de statut d'apatride. Vous devez le remplir et expliquer les circonstances qui vous conduisent à penser que vous ne pouvez avoir la nationalité d'aucun Etat. Vous devez signer le formulaire et l'accompagner de 2 photographies d'identité récentes et, si vous en disposez, de votre document de voyage, des documents d'état civil et de la copie de votre titre de séjour en cours de validité.
+Il est nécessaire d'envoyer le formulaire à l'OFPRA par courrier postal en « recommandé avec accusé de réception ».
+Vous serez convoqué à l'OFPRA pour un entretien. Contrairement au demandeur d'asile, vous ne pourrez pas venir accompagné d'un avocat ou d'un représentant d'une association.
+Vous serez entendu dans la langue de votre choix sauf s'il existe une autre langue que vous comprenez ou dans laquelle vous êtes à même de communiquer clairement.
+L'OFPRA vous informera de sa décision par courrier postal en « recommandé avec accusé de réception ».
+Si l'OFPRA vous accorde le statut d'apatride, vous bénéficierez des mêmes droits que les autres bénéficiaires d'une protection (voir 7. Les droits des bénéficiaires d'une protection), notamment du droit à un titre de séjour, du droit à un titre de voyage et du droit à mener une vie familiale normale.
+Si l'OPFRA refuse de vous accorder le statut d'apatride, vous pouvez contester cette décision devant le tribunal administratif du lieu de votre résidence dans un délai de 2 mois à compter de la date de notification de la décision de l'OFPRA.
+Ce recours n'a pas d'effet suspensif, ce qui signifie que vous pouvez faire l'objet d'une mesure d'éloignement du territoire (obligation de quitter le territoire français) qui pourra être mise en œuvre sans attendre que le tribunal administratif ait rendu sa décision.
+2. L'accès à la procédure et le droit au maintien sur le territoire
+Si vous souhaitez demander l'asile en France, vous devez déposer une demande d'asile auprès de l'Office français de protection des réfugiés et apatrides (OFPRA).
+Vous pouvez demander l'asile si vous êtes en situation régulière en France. Vous pouvez également demander l'asile si vous êtes en situation irrégulière au regard du droit au séjour ou si vous êtes entré irrégulièrement en France.
+Si vous êtes entré en France muni d'un visa, il est néanmoins conseillé d'effectuer votre demande avant l'expiration de votre visa.
+Pour pouvoir déposer votre demande d'asile à l'OFPRA, vous devez d'abord vous faire enregistrer au guichet unique d'accueil des demandeurs d'asile dont vous dépendez (voir 4. Le parcours du demandeur d'asile).
+Dans un premier temps, un agent de préfecture valide l'ensemble des informations transmises au guichet unique.
+Dans un deuxième temps, un agent de l'Office français de l'immigration et de l'intégration (OFII) effectue l'évaluation de votre situation personnelle.
+Dès lors que vous remplissez les conditions, une attestation de demande d'asile vous est remise, d'une durée de validité d'un mois, vous autorisant à vous maintenir sur le territoire.
+2.1. La détermination de l'Etat responsable de l'examen de votre demande d'asile
+Pour déterminer si la France est responsable de l'examen de votre demande d'asile, un agent de préfecture, à l'occasion du dépôt de votre dossier, relève vos 10 empreintes digitales et procède à un entretien individuel destiné notamment à retracer votre parcours depuis votre pays d'origine, et à établir les éventuels liens, par exemple familiaux, que vous pourriez entretenir avec d'autres États membres. C'est sur la base de l'ensemble de ces éléments que sera déterminé le pays responsable de l'examen de votre demande d'asile en application du règlement n°604/2013 du Parlement européen et Conseil du 26 juin 2013, dit règlement Dublin III.
+Les États concernés par le dispositif Dublin III
+Il s'agit des 28 membres de l'Union européenne et de 4 pays associés : l'Allemagne, l'Autriche, la Belgique, la Bulgarie, la Croatie, Chypre, le Danemark*, l'Espagne, l'Estonie, la Finlande, la France, la Grèce, la Hongrie, l'Irlande, l'Italie, la Lettonie, la Lituanie, le Luxembourg, Malte, les Pays- Bas, la Pologne, le Portugal, la République Tchèque, la Roumanie, le Royaume-Uni, la Slovaquie, la Slovénie et la Suède mais également en tant qu'États associés : l'Islande, la Norvège, la Suisse et le Lichtenstein.
+* Le Danemark n'est pas soumis au Règlement "Dublin III", mais continue d'appliquer la Convention de Dublin, signée le 15 juin 1990.
+En effet, il se peut qu'un autre Etat européen que la France soit responsable de l'examen de votre demande d'asile, par exemple :
+• si un autre Etat membre vous a délivré un titre de séjour ou un visa en cours de validité ;
+• s'il est établi que vous avez franchi irrégulièrement, par voie terrestre, aérienne ou maritime, la frontière extérieure d'un autre Etat membre ;
+• si vous êtes entré sur le territoire de l'Union européenne en franchissant en premier les frontières d'un Etat membre dans lequel vous êtes dispensé de visa ;
+• si vous avez déjà demandé l'asile dans un autre Etat membre.
+La prise en charge par un autre Etat membre : si un autre Etat membre que la France est susceptible d'être responsable du traitement de votre demande d'asile, la préfecture entreprendra alors des démarches auprès de cet Etat pour lui demander de vous prendre en charge.
+Il vous sera alors remis une attestation de demande d'asile vous autorisant à vous maintenir sur le territoire français jusqu'à votre transfert vers l'Etat qui aura reconnu sa responsabilité.
+Ce transfert sera organisé par les services de la préfecture qui vous notifieront une décision de transfert précisant les modalités de votre départ. Vous disposez d'un délai de 15 jours pour contester cette décision devant le tribunal administratif.
+La prise en charge par la France : dans le cas où la procédure Dublin ferait apparaître que l'examen de votre demande relève de la responsabilité de la France, la procédure se poursuivra dans les conditions décrites ci-dessous (voir 2.2).
+2.2. Le droit au maintien sur le territoire français
+Lorsque l'examen de votre demande relève de la responsabilité de la France, il vous est remis une première attestation de demande d'asile valable un mois. La préfecture peut vous refuser la délivrance de l'attestation de demande d'asile dans les cas suivants :
+• vous présentez une nouvelle demande de réexamen (voir 3.4.) ;
+• vous faites l'objet d'une décision définitive d'extradition vers un pays autre que votre pays d'origine ou d'une décision de remise sur le fondement d'un mandat d'arrêt européen ou d'une demande de remise par une cour pénale internationale.
+Dans ce délai d'un mois, vous devez sous 21 jours déposer ou envoyer à l'OFPRA le formulaire de demande d'asile (voir 3. Les conditions d'examen de la demande d'asile).
+Si votre dossier est complet, l'OFPRA en accuse réception par lettre. Vous devez présenter cette lettre à la préfecture de votre lieu de résidence pour obtenir le renouvellement de votre attestation de demande d'asile.
+L'attestation est renouvelée pendant toute la durée d'instruction de votre demande d'asile, jusqu'à la notification de la décision de l'OFPRA ou, en cas de recours devant la CNDA, sur présentation de l'avis de réception du recours (voir 3.2 L'examen par la Cour nationale du droit d'asile), jusqu'à la notification de sa décision.
+À chaque demande de renouvellement, vous devez présenter à l'appui de votre demande les pièces demandées par la préfecture, notamment la justification du lieu où vous avez votre résidence ou êtes hébergé, ou l'indication de l'adresse de l'organisme conventionné qui vous domicilie.
+Lors du premier renouvellement, la deuxième attestation a une durée de validité de 9 mois en procédure normale ou de 6 mois en procédure accélérée.
+Lors du renouvellement suivant, l'attestation a une durée de validité de 6 mois en procédure normale et de 3 mois en procédure accélérée.
+Lorsque l'examen de votre demande est susceptible de relever de la responsabilité d'un autre pays de l'Union européenne et que la procédure Dublin a été mise en œuvre, la durée de validité de la première attestation est d'un mois. Elle est renouvelée pour une durée de 4 mois (voir 2.1 Détermination de l'Etat responsable de l'examen de votre demande d'asile).
+ATTENTION : L'attestation de demande d'asile ne vous permet pas de circuler librement dans les autres pays de l'Union européenne.
+La préfecture peut vous retirer ou vous refuser le renouvellement de votre attestation demande d'asile dans les cas suivants :
+• l'OFPRA a déclaré votre demande d'asile irrecevable (voir 3.3. Irrecevabilité et clôture) ;
+• vous avez informé l'OFPRA du retrait de votre demande d'asile (voir 3.3. Irrecevabilité et clôture) ;
+• l'OFPRA a pris une décision de clôture et vous n'avez pas demandé la réouverture de votre dossier (voir 3.3.) ;
+• vous avez introduit une demande de réexamen, qui a fait l'objet d'une décision d'irrecevabilité, dans le seul but de faire échec à une mesure d'éloignement (voir 3.4. Le réexamen) ;
+• vous présentez une nouvelle demande de réexamen (voir 3.4.) ;
+• vous faites l'objet d'une décision définitive d'extradition vers un pays autre que votre pays d'origine ou d'une décision de remise sur le fondement d'un mandat d'arrêt européen ou d'une demande de remise par une cour pénale internationale.
+Dans ces cas, vous devez quitter le territoire, sous peine de faire l'objet d'une obligation de quitter le territoire français.
+3. Les conditions d'examen de la demande d'asile
+3.1. L'examen par l'Office français de protection des réfugiés et apatrides (OFPRA)
+La préfecture vous a remis en même temps que l'attestation de demande d'asile un formulaire de demande d'asile que vous devez remplir et transmettre à l'OFPRA.
+Lors du dépôt de votre demande d'asile, vous n'avez pas à préciser le type de protection que vous souhaitez obtenir (statut de réfugié ou protection subsidiaire). Il s'agit d'une procédure unique au cours de laquelle votre demande sera étudiée par l'OFPRA tout d'abord sous l'angle du statut de réfugié, puis si votre situation n'en relève pas, sous l'angle de la protection subsidiaire.
+Si l'OFPRA ne vous accorde pas le statut de réfugié ou le bénéfice de la protection subsidiaire, vous pouvez faire un recours devant la CNDA (voir 3.2. L'examen de la demande d'asile par la Cour nationale du droit d'asile). De même, vous pouvez faire un recours devant la CNDA si vous voulez contester la décision de l'OFPRA ne vous accordant que la protection subsidiaire.
+Les informations contenues dans votre demande d'asile sont confidentielles et ne seront en aucun cas communiquées aux autorités de votre pays d'origine.
+Le formulaire OFPRA à remplir
+Le formulaire doit être rempli en français, signé et accompagné de la photocopie de l'attestation de demande d'asile en cours de validité, de 2 photographies d'identité et du document de voyage éventuellement en votre possession. Ces pièces sont indispensables pour que votre demande soit enregistrée par l'OFPRA.
+L'envoi du dossier
+Une fois votre dossier complet, vous devez l'envoyer, au plus tard le 21ème jour (hors cas de demande de réexamen) suivant la délivrance de votre attestation de demande d'asile et uniquement par voie postale, à l'adresse suivante :
+OFPRA
+201, rue Carnot
+94 136 FONTENAY-SOUS-BOIS CEDEX
+Par exemple, si votre attestation de demande d'asile a été délivrée le 10 janvier, vous devez avoir envoyé votre dossier à l'OFPRA au plus tard le 31 janvier. Le cachet de la poste fait foi.
+Il est fortement conseillé d'envoyer votre dossier en « recommandé avec accusé de réception », en mentionnant lisiblement votre nom dans la partie « expéditeur ».
+Si votre dossier n'est pas complet, l'OFPRA vous le réexpédie et vous bénéficiez d'un délai supplémentaire de 8 jours pour le compléter et le renvoyer. Si vous ne renvoyez pas votre dossier dans ce délai, l'OFPRA clôturera votre demande et votre attestation de demande d'asile ne sera pas renouvelée.
+Vous pouvez toujours, à tout moment de la procédure, envoyer à l'OFPRA des éléments supplémentaires. N'oubliez pas de faire figurer alors dans chaque courrier adressé à l'OFPRA votre numéro de dossier qui figure sur la lettre d'enregistrement de votre demande d'asile.
+En cas de changement d'adresse, il est impératif d'en informer l'OFPRA dans les plus brefs délais et par courrier postal, de préférence en « recommandé avec accusé de réception ». C'est en effet à la dernière adresse connue que l'OFPRA vous adressera ses courriers, notamment la convocation à l'entretien ou la décision qu'il aura prise sur votre demande d'asile.
+Conservez bien une copie de tous vos courriers adressés à l'OFPRA et reçus de l'office, ainsi que les preuves d'envoi et de réception de la poste.
+La preuve de l'enregistrement de la demande par l'OFPRA
+Lorsque votre dossier est complet et arrivé dans les délais, l'OFPRA vous envoie une lettre, vous informant de l'enregistrement de votre demande et du numéro de votre dossier. Ce document est la preuve officielle que votre demande d'asile a bien été introduite auprès de l'OFPRA. C'est ce document qui vous permet de renouveler votre première attestation de demande d'asile.
+L'examen de la demande en procédure normale ou en procédure accélérée
+Votre demande d'asile est examinée par l'OFPRA, soit en procédure normale, soit en procédure accélérée.
+En procédure accélérée, les délais d'examen sont raccourcis à 15 jours mais vous bénéficiez des mêmes garanties qu'en procédure normale. L'OFPRA a, par ailleurs, toujours la possibilité de reclasser votre demande en procédure normale s'il l'estime nécessaire au vu de votre dossier ou de votre situation particulière.
+Votre demande est examinée par l'OFPRA en procédure accélérée lorsqu'elle a été placée en procédure accélérée dès le stade du guichet unique (voir 4.1. Le parcours du demandeur d'asile).
+L'OFPRA peut aussi statuer en procédure accélérée dans les cas suivants :
+• vous avez présenté de faux documents, fourni de fausses indications ou dissimulé des informations ou des documents dans le but d'induire l'OFPRA en erreur ;
+• vous avez présenté d'autres demandes d'asile sous des identités différentes ;
+• vous n'avez soulevé à l'appui de votre demande d'asile que des questions sans rapport avec un besoin de protection ;
+• vos déclarations sont incohérentes, contradictoires, manifestement fausses ou peu plausibles et viennent contredire ce que l'office connaît de votre pays d'origine.
+Si vous souhaitez contester votre placement en procédure accélérée, vous ne pourrez le faire qu'à l'occasion du recours devant la CNDA.
+L'entretien à l'OFPRA
+Une fois que votre demande a été enregistrée par l'OFPRA, vous recevrez une convocation à un entretien.
+Vous pouvez être dispensé d'entretien dans deux cas seulement :
+• lorsque les informations que vous avez fournies dans votre dossier sont suffisantes pour que l'OFPRA vous accorde le statut de réfugié ;
+• lorsque des raisons médicales, durables et indépendantes de votre volonté, vous empêchent de vous présenter et de prendre part à un entretien.
+Si vous êtes convoqué à un entretien, vous devez vous rendre au siège de l'OFPRA, à Fontenay-sous- Bois. Vous y serez entendu par un agent de l'OFPRA appelé « officier de protection » et en présence, si cela est nécessaire, d'un interprète mis à disposition par l'OFPRA et parlant une langue que vous avez déclaré parler dans le formulaire de demande d'asile, ou dont il est raisonnable de penser que vous la parlez.
+Si vous ne vous présentez pas à cette convocation, votre absence peut avoir des conséquences négatives sur votre demande d'asile, notamment entraîner la clôture de votre dossier. Il est donc impératif, en cas d'empêchement, de prévenir l'OFPRA au moins 48 heures à l'avance, ou de signaler tout retard.
+Vous pouvez, si vous le souhaitez, vous présenter à l'entretien, accompagné soit d'un avocat, soit d'un représentant agréé d'une association habilitée par l'OFPRA qui pourra formuler des observations à l'issue de l'entretien. L'entretien ne sera cependant pas reporté si l'avocat ou le représentant de l'association n'est pas présent à l'heure de la convocation.
+Si vous souhaitez, en raison des difficultés à exposer les motifs de votre demande, que l'entretien se déroule avec un agent de l'office et/ou un interprète du sexe de votre choix, vous pouvez le demander à l'OFPRA.
+L'entretien est confidentiel. Vos déclarations figureront dans un compte rendu rédigé par l'officier de protection avec lequel s'est tenu votre entretien et qui, si vous le demandez, vous sera communiqué avant que la décision ne soit prise (en procédure normale) ou au plus tard en même temps que la décision (en procédure accélérée).
+L'entretien fait également l'objet d'un enregistrement sonore auquel vous ne pourrez accéder qu'en cas de décision négative de l'OFPRA et dans le cadre d'un recours contre cette décision.
+Entretien en visio-conférence
+Il se peut que votre entretien, en raison de votre éloignement géographique (notamment lorsque vous vous trouvez en outre-mer) ou de votre situation particulière (lorsque, pour des raisons de santé ou familiales, vous êtes dans l'impossibilité de vous déplacer ou si vous êtes retenu dans un lieu privatif de liberté), ne se déroule pas à Fontenay-sous-Bois mais à distance, par un moyen de communication audiovisuelle. Dans ce cas, l'avocat ou le représentant de l'association qui vous assiste sera, le cas échéant, présent à vos côtés. L'interprète sera aux côtés de l'officier de protection.
+Il existe une antenne de l'OFPRA à Basse-Terre (département de la Guadeloupe), compétente à l'égard des demandes d'asile déposées dans les 3 départements français d'Amérique : la Guadeloupe, la Martinique et la Guyane. Si vous avez déposé votre demande d'asile dans l'un de ces 3 départements, vous serez entendu soit directement à Basse-Terre, soit en visio-conférence, soit lors d'une mission d'instruction dans le département dans lequel vous résidez.
+La décision de l'OFPRA
+Les délais
+Les délais pour obtenir une décision de l'OFPRA sont variables : 15 jours en moyenne en procédure accélérée et jusqu'à plusieurs mois en procédure normale. Le silence prolongé de l'OFPRA ne signifie pas que votre demande est rejetée. Si l'OFPRA ne peut pas prendre de décision dans un délai de 6 mois, il vous en informera par courrier. Vous devez donc consulter votre courrier régulièrement. 
+La décision favorable
+Si votre demande fait l'objet d'une décision favorable, vous serez :
+• soit reconnu réfugié, et l'OFPRA vous transmettra alors une décision de reconnaissance du statut de réfugié ;
+• soit admis au bénéfice de la protection subsidiaire, et l'OFPRA vous transmettra une décision d'octroi du bénéfice de la protection subsidiaire.
+La décision défavorable
+Si votre demande d'asile est rejetée, l'OFPRA vous enverra la décision rédigée en français ainsi qu'un document, traduit dans une langue dont il est raisonnable de penser que vous la comprenez, vous indiquant que votre demande a été rejetée.
+Vous pourrez contester cette décision devant la CNDA dans le délai d'un mois à compter de sa date de notification.
+Si vous souhaitez bénéficier d'une aide juridictionnelle pour former votre recours, vous devez en faire la demande soit dans le délai de 15 jours à compter de la notification de la décision de rejet, soit lors de l'introduction du recours.
+Si vous n'avez pas déposé de recours devant la CNDA dans le délai d'un mois suivant la notification de la décision de rejet de l'OFPRA, votre droit au maintien sur le territoire prend fin et vous devez quitter la France.
+3.2. L'examen par la Cour nationale du droit d'asile (CNDA)
+Le délai de recours
+Vous disposez d'un délai d'un mois à partir de la notification du rejet de l'OFPRA pour présenter votre recours à la CNDA. Vous pouvez soit demander l'octroi d'une protection en cas de décision de rejet de l'OFPRA, soit demander la reconnaissance de la qualité de réfugié en cas d'octroi de la protection subsidiaire. Dans ce cas, si la CNDA ne vous reconnaît pas la qualité de réfugié, elle ne peut pas revenir sur l'octroi de la protection subsidiaire obtenue devant l'OFPRA.
+Ce recours doit parvenir à la CNDA avant l'expiration de ce délai d'un mois (par exemple, si vous retirez votre décision de rejet à la poste le 20 janvier, votre recours doit être enregistré à la CNDA le 21 février au plus tard). Votre recours doit donc être envoyé avant la date limite du délai d'un mois. Vous pouvez présenter votre recours au choix, par lettre recommandée avec accusé de réception, par lettre simple ou par télécopie. Si ce délai d'un mois est dépassé au moment de la réception par la cour de votre recours, celui-ci sera jugé irrecevable, c'est-à-dire rejeté sans audience, ni examen.
+Le recours
+Les conditions suivantes sont à respecter :
+• tout d'abord, lisez bien toutes les explications qui figurent au dos de la décision de rejet de l'OFPRA ;
+• le recours doit être rédigé en français sur papier libre (il n'existe pas de formulaire spécifique) sur lequel vous indiquez vos noms, prénoms, état civil complet, profession et domicile. Vous devez indiquer qu'il s'agit d'un recours et mentionner le numéro du dossier OFPRA ;
+• vous devez joindre obligatoirement à votre recours une copie de la décision de l'OFPRA ;
+• vous devez motiver votre recours, c'est-à-dire expliquer pourquoi vous n'êtes pas d'accord avec les motifs de rejet de l'OFPRA ou avec les motifs qui ont conduit l'OFPRA à vous octroyer le bénéfice de la protection subsidiaire et non à vous reconnaître la qualité de réfugié ;
+• vous devez joindre les documents en votre possession attestant de votre identité et de votre nationalité ;
+• vous devez également joindre les documents venant compléter votre récit ;
+• vous devez indiquer dans votre recours en quelle langue vous souhaitez être entendu, le jour de l'audience, par la juridiction.
+Pour les documents attestant votre nationalité, il est préférable de joindre une copie au dossier et de conserver l'original de votre passeport ou de votre carte nationale d'identité, si vous disposez de ces documents, ce qui vous permettra de retirer à la poste les courriers qui vont seront envoyés par la juridiction par lettre recommandée. Vous pourrez présenter les originaux le jour de l'audience sur demande expresse de la formation de jugement.
+Pour les documents attestant votre récit, il est préférable que vous versiez les originaux au dossier en conservant une copie. Ces documents pourront vous être rendus le jour de l'audience, si vous en faites la demande, ou bien vous être adressés ultérieurement par voie postale. Les documents attestant votre récit doivent être traduits en français. En l'absence de traduction, la CNDA ne pourra pas les utiliser. Il n'est néanmoins pas obligatoire que la traduction soit faite par un interprète assermenté, sauf en ce qui concerne les actes d'état civil ainsi que les actes judiciaires ou de police.
+• Vous devez signer votre recours. Si vous êtes mineur, votre représentant légal doit le signer ;
+• Vous devez conserver les preuves d'envoi et de dépôt de votre recours, ainsi qu'une copie de celui-ci ;
+• Vous devez informer la CNDA de tout changement d'adresse ;
+• Vous pouvez demander la communication de votre dossier après l'enregistrement de votre recours.
+Si votre recours est appelé à une audience publique, vous serez personnellement convoqué à cette audience. Vous pourrez, dans ce cas, apporter par écrit des compléments d'information jusqu'à une date limite qui vous sera indiquée dans votre convocation.
+Si votre recours ne présente pas d'élément sérieux susceptible de remettre en cause la décision de l'OFPRA, la CNDA peut, après étude de votre dossier par un rapporteur, rejeter votre recours par ordonnance sans vous convoquer à une audience.
+L'accusé de réception d'un recours
+Après l'enregistrement de votre recours, la CNDA vous fait parvenir, à l'adresse que vous lui avez indiquée, un document intitulé « accusé de réception d'un recours ». Ce document atteste que votre recours a bien été enregistré. Il vous permet de demander le renouvellement de votre attestation de demande d'asile, puisque vous êtes autorisé à rester en France jusqu'à ce que la CNDA statue sur votre demande.
+L'assistance d'un avocat
+Vous avez la possibilité de vous faire assister d'un avocat lors de votre audience à la CNDA.
+Vous pouvez demander à bénéficier de l'aide juridictionnelle. Les frais d'avocat sont alors totalement pris en charge par l'Etat et l'avocat n'a donc pas à vous demander d'honoraires. Vous devez pour demander l'aide juridictionnelle, soit présenter auprès du bureau d'aide juridictionnelle de la CNDA, dans le délai de 15 jours à compter de la décision de rejet de l'OFPRA, une demande d'aide juridictionnelle pour présenter un recours, soit présenter une demande d'aide juridictionnelle au plus tard dans votre recours. 
+Adresse du Bureau de l'aide juridictionnelle (BAJ) de la CNDA :
+Cour nationale du droit d'asile
+35, rue Cuvier
+93 558 MONTREUIL-SOUS-BOIS
+Vous pouvez indiquer le nom d'un avocat qui aura accepté de prêter son concours à l'aide juridictionnelle ou demander que la CNDA vous en désigne un. Si vous bénéficiez de l'aide juridictionnelle, vous ne devez en aucun cas payer l'avocat désigné, même s'il vous le demande.
+Votre demande d'aide juridictionnelle ne pourra être refusée que si votre recours apparaît comme manifestement irrecevable.
+L'audience à la CNDA
+La CNDA vous convoquera à une audience pour examiner votre recours. Cette convocation vous parviendra par courrier 1 mois au moins avant la date d'audience, sauf si votre recours est examiné en procédure accélérée auquel cas vous serez convoqué 15 jours avant l'audience. Cette audience aura lieu dans les locaux de la CNDA qui se trouvent à Montreuil ou en visio-audience dans le département d'outre-mer où vous avez déposé votre demande.
+La formation de jugement de la CNDA qui examine votre recours est présidée par un magistrat. Elle comprend notamment une personnalité qualifiée nommée par le Haut-Commissaire des Nations-Unies pour les Réfugiés (HCR). La formation de jugement se prononce sur votre recours après avoir entendu un rapporteur, qui analyse votre demande d'asile sans prendre parti sur le sens de la décision, sur la base de vos explications et de celles de votre avocat, si vous en avez un.
+Lorsque l'office a statué en procédure accélérée ou lorsqu'il a estimé que votre demande était irrecevable, c'est un juge unique de la CNDA qui statue sur votre recours dans le délai de 5 semaines.
+De sa propre initiative ou à votre demande, la Cour peut toujours décider de statuer en formation collégiale, si elle estime que la demande ne relève pas de la procédure accélérée, n'est pas irrecevable, ou présente une difficulté sérieuse.
+La CNDA assure la présence d'un interprète dans la langue que vous avez demandé dans votre recours où, à défaut ou en cas d'impossibilité, dans la langue dans laquelle vous avez été entendu à l'OFPRA. Votre présence à l'audience est fortement recommandée. En cas d'empêchement ou de retard, il convient de prévenir la CNDA. Si vous ne pouvez pas vous présenter à l'audience, vous pouvez en demander le report, en expliquant par écrit les raisons pour lesquelles vous ne pouvez pas venir. Le report n'est pas un droit, c'est le président de la formation de jugement de la CNDA qui décidera seul de l'opportunité de renvoyer éventuellement votre audience à une date ultérieure.
+L'audience est publique. Vous pouvez toutefois demander au président de la formation de jugement de prononcer le huis clos, c'est-à-dire que votre cas soit examiné sans la présence du public. Dans ce cas, le huis clos sera automatiquement accordé. Le président de la formation de jugement peut aussi le décider.
+La décision de la CNDA
+La CNDA vous fait parvenir en français sa décision par courrier postal « en recommandé avec avis de réception », et un document traduit dans une langue dont il est raisonnable de penser que vous la comprenez, vous indiquant le sens de la décision.
+La CNDA peut :
+• annuler la décision de rejet de l'OFPRA et vous reconnaître la qualité de réfugié ou le bénéfice de la protection subsidiaire. Vous bénéficiez alors des mêmes droits que si vous aviez été admis à l'une de ces deux protections par l'OFPRA ;
+• annuler la décision de l'OFPRA de vous accorder la protection subsidiaire et vous reconnaître la qualité de réfugié ;
+• confirmer la décision de rejet de l'OFPRA et rejeter votre recours ;
+• dans certains cas, annuler la décision de l'OFPRA et lui demander de réexaminer votre demande.
+La décision de la CNDA peut faire l'objet d'un recours en cassation devant le Conseil d'Etat. Celui-ci ne réexamine pas l'ensemble de votre demande mais seulement certaines questions juridiques. Cette procédure est longue et nécessite un avocat spécialisé. L'aide juridictionnelle peut être demandée. Ce recours ne permettra pas de prolonger votre séjour en France et n'empêchera pas que vous soyez renvoyé dans votre pays. Il est souhaitable que vous preniez conseil, s'agissant de cette procédure, auprès d'une association ou d'un avocat.
+3.3. L'irrecevabilité et la clôture de la demande d'asile
+La demande irrecevable
+L'OFPRA peut prendre une décision d'irrecevabilité lorsque :
+• vous bénéficiez déjà d'une protection effective au titre de l'asile dans un Etat membre de l'Union européenne ;
+• vous bénéficiez du statut de réfugié et d'une protection effective dans un Etat tiers ou vous y êtes effectivement réadmissible.
+Vous pouvez contester cette décision devant la CNDA.
+En cas d'irrecevabilité de votre demande, vous ne bénéficiez plus du droit de vous maintenir sur le territoire et vous devez quitter la France, même dans le cas où vous faites un recours devant la CNDA.
+La clôture d'examen d'une demande
+Cas de clôture
+L'OFPRA peut clôturer votre demande lorsque :
+• vous l'avez informé du retrait de votre demande d'asile à l'occasion de l'entretien ou par courrier ;
+• vous n'avez pas introduit votre demande dans le délai de 21 jours ou vous ne vous êtes pas présenté à l'entretien ;
+• vous refusez délibérément de fournir des informations essentielles pour l'examen de votre demande ;
+• vous ne pouvez être contacté, faute d'avoir transmis votre adresse à l'office dans un délai raisonnable.
+En cas de clôture de votre demande, vous ne bénéficiez plus du droit de vous maintenir sur le territoire et vous devez quitter la France.
+Réouverture
+En cas de clôture de l'examen de votre demande, vous pouvez en demander la réouverture dans le délai de 9 mois suivant la décision de clôture.
+Pour cela, vous devez vous représenter en préfecture pour vous faire enregistrer à nouveau. 
+Vous avez ensuite 8 jours à compter de cet enregistrement en préfecture pour introduire votre demande de réouverture auprès de l'OFPRA, qui rouvrira alors votre dossier et reprendra l'examen de votre demande d'asile au stade où il avait été interrompu.
+En cas de demande de réouverture dans le délai de 9 mois, vous bénéficiez à nouveau du droit de vous maintenir sur le territoire et une attestation de demande d'asile vous est délivrée.
+Passé le délai de 9 mois, votre demande de réouverture sera traitée comme une demande de réexamen (voir 3.4. Le réexamen).
+3.4. Le réexamen
+Après le rejet de votre demande d'asile par la CNDA ou si vous n'avez pas fait de recours dans le délai d'un mois suivant la notification de la décision de l'OFPRA, vous avez la possibilité de demander à l'OFPRA d'examiner à nouveau votre demande mais seulement si vous disposez d'un « élément nouveau », c'est-à-dire :
+• qui soit postérieur à la date de la décision de la CNDA ou antérieur à cette décision mais dont vous n'avez eu connaissance qu'après ;
+• et qui soit de nature à justifier vos craintes personnelles de persécution ou les risques de menaces graves que vous invoquez en cas de retour.
+Vous pouvez prendre conseil auprès d'une association ou d'un avocat.
+Vous devez vous présenter en préfecture pour faire enregistrer votre demande.
+Vous disposez ensuite de 8 jours à compter de ce nouvel enregistrement pour introduire votre demande de réexamen auprès de l'OFPRA. Si votre demande n'est pas complète, l'office vous demandera de la compléter dans un délai de 4 jours.
+L'OFPRA procédera ensuite à un examen préliminaire de votre demande et prendra une décision sur sa recevabilité dans le délai de 8 jours suivant son introduction. Au cours de cet examen, vous ne serez pas nécessairement convoqué en entretien.
+À l'issue de cet examen, l'OFPRA pourra déclarer votre demande de réexamen irrecevable si les faits ou les éléments que vous avancez ne sont pas de nature à augmenter de manière significative la probabilité d'accès à une protection.
+Si l'OFPRA déclare votre demande recevable, elle sera traitée, sauf décision contraire, en procédure accélérée.
+En cas de première demande de réexamen, si la préfecture estime que votre demande a été présentée dans le seul but de faire échec à une mesure d'éloignement et que l'OFPRA la déclare irrecevable, vous ne bénéficiez plus du droit de vous maintenir sur le territoire à compter de la décision de l'OFPRA.
+En cas de deuxième demande de réexamen, vous ne bénéficiez plus de ce droit au maintien.
+Dans ces deux cas, l'attestation de demande d'asile peut vous être refusée ou ne pas être renouvelée, et vous pouvez faire l'objet d'une mesure d'éloignement, même en cas de recours devant la CNDA.
+4. Le parcours du demandeur d'asile
+4.1. L'accompagnement du demandeur d'asile
+Le premier accueil et l'orientation
+Pour introduire votre demande d'asile auprès de l'OFPRA, vous devez préalablement faire enregistrer votre demande d'asile auprès d'un guichet unique.
+Le guichet unique est composé d'agents de la préfecture et d'agents de l'Office français de l'immigration et de l'intégration (OFII), réunis spécifiquement pour assurer votre accueil.
+Il existe 34 guichets uniques répartis sur l'ensemble du territoire métropolitain (vous pouvez consulter la liste en annexe).
+Il n'est pas nécessaire que vous disposiez d'une domiciliation (une adresse postale) pour l'enregistrement de votre demande d'asile.
+Avant de vous rendre au guichet unique, vous devez vous présenter auprès d'une association de pré-accueil, chargée de vous accompagner dans vos démarches. Ces coordonnées peuvent être obtenues auprès du guichet unique dont vous dépendez.
+Les associations chargées du pré-accueil
+Les associations chargées du pré-accueil ont pour mission de :
+• renseigner le formulaire électronique d'enregistrement de la demande d'asile qui indique votre identité et la composition de votre famille ;
+• prendre un rendez-vous au guichet unique et vous remettre une convocation, qui vous indiquera le lieu, le jour et l'heure auxquels vous devrez impérativement vous présenter au guichet unique. Ce rendez-vous a lieu au plus tard 3 jours après votre présentation auprès de l'association. Il peut être porté à 10 jours en cas de forte affluence ;
+• prendre les photographies d'identité qui vous seront demandées au guichet unique.
+L'ensemble de votre dossier est transmis au guichet unique par voie dématérialisée.
+ATTENTION : Vous devez impérativement respecter la date et l'heure qui figurent sur la convocation. En cas de retard, vous ne pourrez pas être reçu et vous aurez à vous présenter une nouvelle fois auprès de l'association de pré-accueil pour obtenir un nouveau rendez-vous.
+Le rôle du guichet unique
+L'enregistrement de votre demande d'asile au guichet unique se décompose en 3 étapes.
+Au cours de la première étape, un agent de préfecture valide l'ensemble des informations transmises au guichet unique par l'organisme de pré-accueil.
+Cet agent relève également les empreintes de vos 10 doigts et procède à un entretien individuel destiné à retracer votre parcours depuis votre pays d'origine, en vue de déterminer le pays responsable de l'examen de votre demande d'asile (voir 2.1. Détermination de l'Etat responsable de l'examen de votre demande d'asile).
+À l'issue de cette première étape, vous êtes informé de la procédure applicable à l'examen de votre demande d'asile.
+Si votre demande d'asile est susceptible de relever de la responsabilité d'un autre pays, la procédure dite « Dublin III » est mise en œuvre (voir 2.1. Détermination de l'Etat responsable de l'examen de votre demande d'asile).
+Si votre demande d'asile relève de la responsabilité de la France, c'est l'OFPRA qui est compétent pour l'examiner, en procédure normale ou en procédure accélérée. En procédure accélérée, les délais d'examen par l'OFPRA sont en règle générale de quinze jours mais les garanties sont les mêmes dans les deux procédures.
+Votre demande est automatiquement placée en procédure accélérée, dès le guichet unique, dans 2 cas :
+• lorsque vous avez la nationalité d'un pays considéré comme pays d'origine sûr (liste de ces pays disponible en préfecture ou sur le site internet de l'OFPRA) ;
+• lorsque vous avez effectué une première demande d'asile qui a été définitivement rejetée et que vous demandez son réexamen.
+Votre demande peut être placée en procédure accélérée, dès le guichet unique, dans les cas suivants :
+• si vous refusez que vos empreintes digitales soient relevées ;
+• si vous cherchez à induire les autorités en erreur en présentant de faux documents, en fournissant de fausses indications ou en dissimulant certaines informations ;
+• si vous avez présenté plusieurs demandes sous des identités différentes ;
+• si vous avez tardé à demander l'asile depuis votre entrée en France (plus de 120 jours) ;
+• si vous ne demandez l'asile que pour faire échec à une mesure d'éloignement ;
+• si votre présence constitue une menace grave pour l'ordre public, la sécurité publique ou la sûreté de l'Etat.
+A l'issue de l'enregistrement, une attestation de demande d'asile d'une durée d'un mois vous est remise. Au cours de ce délai, vous devrez envoyer votre formulaire de demande d'asile, rempli, auprès de l'OFPRA (voir 3-1).
+Au cours de la deuxième étape, un agent de l'OFII effectue l'évaluation de votre situation personnelle au moyen d'un questionnaire (voir 4.1. L'accompagnement du demandeur d'asile). Cette évaluation ne peut pas concerner les motifs de votre demande d'asile qui seront évoqués devant l'OFPRA.
+Si vous n'êtes pas déjà hébergé et que vous demandez une prise en charge, cet agent recherche un lieu d'hébergement vers lequel vous orienter (voir 4.2. L'hébergement du demandeur d'asile).
+Il ouvre enfin votre droit à l'allocation pour demandeur d'asile (voir 5.1. L'allocation du demandeur d'asile).
+L'accompagnement après le passage au guichet unique
+Après le passage par le guichet unique, un accompagnement vous sera proposé au sein de votre lieu d'hébergement, s'il s'agit d'un centre d'accueil pour demandeur d'asile (CADA) ou d'un lieu d'hébergement d'urgence dit stable (non hôtelier).
+Si vous n'êtes pas hébergé dans un tel lieu, votre accompagnement sera assuré par une structure spécialisée vers laquelle l'OFII vous orientera.
+Cet accompagnement inclut notamment la domiciliation et l'aide à la constitution du dossier de demande d'asile que vous devez communiquer à l'OFPRA. 
+Les conditions matérielles d'accueil
+Lors de votre rendez-vous au guichet unique pour l'enregistrement de votre demande d'asile, l'OFII vous proposera une offre de prise en charge. En acceptant cette offre, vous pourrez bénéficier de conditions matérielles d'accueil spécifiques, valables pendant toute la durée de votre procédure d'asile.
+Les conditions matérielles d'accueil comprennent :
+• un hébergement dans un centre d'accueil pour demandeurs d'asile (CADA) ou un centre d'hébergement d'urgence, pour vous et, le cas échéant, les membres de votre famille ;
+• un accompagnement dans vos démarches administratives et sociales afin d'assurer le suivi de votre dossier de demande d'asile ainsi que l'accès aux droits sociaux qui vous sont conférés ;
+• une allocation mensuelle (allocation pour demandeur d'asile - ADA), dont le montant sera adapté à la composition de votre famille.
+Si vous refusez l'offre de prise en charge, vous perdrez le bénéfice de l'ensemble des conditions matérielles d'accueil.
+La prise en charge qui vous est proposée est liée au statut de demandeur d'asile. Vous n'y serez donc plus éligible dès lors qu'une décision définitive concernant votre demande d'asile aura été rendue. Si un autre pays est responsable du traitement de votre demande d'asile, vous pourrez bénéficier des conditions matérielles d'accueil jusqu'au transfert vers ce pays.
+La prise en compte de la vulnérabilité par le guichet unique
+Lors de votre passage au guichet unique et après l'enregistrement de votre demande d'asile, un agent de l'OFII vous recevra personnellement afin d'évaluer vos besoins particuliers en matière d'accueil. L'entretien sera confidentiel.
+Une liste de questions vous sera posée pour déterminer si vous avez besoin de bénéficier de conditions d'accueil spécifiques. Si votre situation le nécessite, l'agent de l'OFII prendra en compte ces éléments pour vous orienter vers un lieu d'hébergement adapté.
+Vous êtes libre d'accepter ou de refuser de répondre au questionnaire. En cas de refus, l'administration ne pourra pas être rendue responsable d'une orientation vers un hébergement qui ne serait pas adapté à vos besoins ou d'une absence de signalement de votre situation à l'OFPRA.
+Si vous arrivez en France muni d'un dossier médical, l'agent de l'OFII transmettra votre dossier sous pli confidentiel au médecin de l'OFII qui décidera si votre situation nécessite une adaptation des conditions d'accueil. Si vous êtes souffrant, vous serez orienté vers un dispositif de soins ou vers le service d'urgence de l'hôpital le plus proche.
+Si l'agent de l'OFII détecte une situation de vulnérabilité, il peut, avec votre accord, le signaler à l'OFPRA. Cette information a pour objectif d'aménager, si nécessaire, les conditions de l'instruction de votre demande d'asile par l'OFPRA (par exemple, adaptation de l'accès pour les personnes handicapées, ou mise à disposition d'un interprète en langue des signes). C'est l'OFPRA qui évaluera les aménagements nécessaires.
+Les besoins liés à une situation de vulnérabilité pourront être pris en compte tout au long de l'examen de votre demande d'asile par les travailleurs sociaux dans les structures d'hébergement ou les associations chargées de vous accompagner dans les démarches administratives et sociales.
+4.2. L'hébergement du demandeur d'asile
+Les lieux d'hébergement
+Il existe près de 50 000 places d'hébergement dédiées aux demandeurs d'asile, soit en CADA, soit en structure d'hébergement d'urgence répartis sur l'ensemble du territoire français. Les dispositifs d'hébergement d'urgence sont divers : appartements, centres collectifs ou chambres d'hôtel. Tous ces lieux sont accessibles uniquement aux demandeurs d'asile et à leur famille directe.
+Pour bénéficier de ces hébergements, il faut être titulaire de l'attestation pour demandeur d'asile. Les personnes dont la demande d'asile relève d'un autre État membre de l'Union européenne n'ont pas accès à un hébergement en CADA.
+En CADA et en hébergement d'urgence, vous pourrez être amené à partager certaines pièces (cuisine, salle de bain, toilettes) avec d'autres personnes ou familles.
+Dans les CADA et une partie des lieux d'hébergement d'urgence, vous bénéficierez d'un suivi administratif (accompagnement de la procédure de demande d'asile), et d'un suivi social (accès aux soins, scolarisation des enfants, etc.). Ce dispositif est financé et coordonné par l'Etat. Les lieux d'hébergement sont le plus souvent gérés par des associations.
+L'orientation vers l'hébergement
+Les conditions matérielles d'accueil, qui incluent une offre d'hébergement, vous sont proposées par l'OFII situé au sein du guichet unique où vous avez enregistré votre demande d'asile. Si vous refusez cette offre de prise en charge, vous ne pourrez pas bénéficier de l'allocation pour demandeur d'asile (ADA).
+Si vous avez accepté l'offre de prise en charge, l'OFII vous proposera, selon la disponibilité des places d'hébergement, une place en CADA ou en hébergement d'urgence. En l'absence de telles places disponibles, l'OFII vous orientera vers des associations qui rechercheront dans l'attente un hébergement à l'hôtel.
+Votre demande d'hébergement sera examinée par l'OFII en fonction des places disponibles dans le département, la région ou l'ensemble du territoire français.
+Un hébergement peut vous être proposé hors du département ou de la région dans laquelle vous avez déposé votre demande d'asile. Si vous refusez cette proposition, vous ne pourrez plus percevoir l'ADA et aucune autre proposition d'hébergement dans une place dédiée aux demandeurs d'asile ne vous sera faite.
+Si aucune solution n'a pu vous être proposée, vous pouvez composer, tous les jours et à partir de n'importe quelle cabine téléphonique, le 115, numéro de téléphone gratuit. En indiquant votre nom et votre localisation, vous serez pris en charge pour la nuit et hébergé dans un centre d'accueil d'urgence. Ce numéro est souvent occupé. N'hésitez pas à renouveler votre appel.
+Toutefois, si vous avez refusé le lieu d'hébergement proposé par l'OFII, le 115 ne vous accueillera que si vous êtes dans une situation de détresse médicale, psychique ou sociale particulière.
+Le départ du lieu d'hébergement
+Si vous êtes admis dans un lieu d'hébergement dédié aux demandeurs d'asile, vous en bénéficierez pendant toute la durée de votre procédure d'asile, y compris, le cas échéant, pendant la période de recours devant la CNDA. 
+Si la décision définitive de l'OFPRA ou de la CNDA est positive, vous devrez quitter le centre dans un délai de 3 mois, renouvelable une fois. Si la décision est négative, vous devrez impérativement quitter le centre dans un délai d'un mois.
+Si vous vous maintenez dans ce lieu d'hébergement au-delà de ces délais, le préfet de département pourra vous mettre en demeure de libérer ce lieu. Et, dans l'hypothèse où vous ne quitteriez toujours pas cette structure, le préfet de département pourra saisir le juge administratif des référés pour qu'il vous ordonne de libérer les lieux.
+Si la décision définitive de l'OFPRA ou de la CNDA est négative, vous pouvez bénéficier de l'aide au retour volontaire (voir 3.5. Le retour aidé dans votre pays d'origine).
+5. Les droits des demandeurs d'asile
+5.1. L'allocation pour demandeur d'asile (ADA)
+L'allocation pour demandeur d'asile (ADA) a été créée par la loi du 29 juillet 2015 relative à la réforme du droit d'asile. Elle a remplacé, à compter du 1er novembre 2015, l'allocation temporaire d'attente (ATA) et l'allocation mensuelle de subsistance (AMS).
+L'OFII est chargé de la gestion de cette allocation dont le paiement est assuré par l'Agence de services et de paiement.
+Elle est versée pendant la période d'instruction de la demande d'asile ou jusqu'au transfert effectif vers un autre Etat responsable de l'examen de la demande d'asile, ainsi qu'aux ressortissants étrangers bénéficiaires de la protection temporaire et à ceux auxquels une carte de séjour temporaire a été délivrée en application de l'article L. 316-1 du CESEDA (victimes de la traite ou du proxénétisme).
+Les conditions pour en bénéficier
+Pour pouvoir bénéficier de l'allocation pour demandeur d'asile, vous devez :
+1 - être titulaire d'une attestation de demande d'asile ou d'un titre de séjour délivré en qualité de :
+a) demandeur d'asile ayant formulé sa demande d'asile en France (article L.741-1 du CESEDA),
+b) demandeur d'asile relevant de la procédure « Dublin III » (article L.742-1 du CESEDA),
+c) bénéficiaire de la protection temporaire (article L.743-1 du CESEDA),
+d) étranger victime de la traite des êtres humains ou du proxénétisme (article L.316-1 du CESEDA) ;
+2 - être âgé de 18 ans ;
+3 - si vous êtes demandeur d'asile, avoir accepté les conditions matérielles d'accueil proposées par l'OFII.
+La formulation de la demande
+Si vous êtes demandeur d'asile, le droit à l'allocation pour demandeur d'asile est ouvert, après l'enregistrement de votre demande d'asile au sein du guichet unique et sous réserve de votre acceptation de l'offre de prise en charge qui vous sera présentée par l'OFII.
+Le versement de l'allocation ne débutera qu'après l'introduction de votre demande d'asile auprès de l'OFPRA, dans un délai maximum de 21 jours après l'enregistrement de votre demande d'asile.
+Si vous relevez des catégories mentionnées au point 1- c) et d), votre demande est à formuler auprès de la direction territoriale de l'OFII dans le ressort de laquelle vous êtes domicilié (cf. liste des directions territoriales de l'OFII en annexe).
+Un formulaire de demande peut y être retiré. Une fois renseigné, il sera à retourner à l'OFII accompagné des justificatifs relatifs à votre titre de séjour, à votre domicile, à votre composition familiale et à vos ressources.
+Le montant de l'allocation
+Pour bénéficier de l'allocation pour demandeur d'asile, vous devez justifier de ressources financières mensuelles inférieures au montant du revenu de solidarité active (RSA).
+Le montant de l'allocation est calculé en fonction d'un barème qui tient compte de votre composition familiale, de vos ressources et de votre mode d'hébergement.
+Le versement
+L'allocation pour demandeur d'asile vous est allouée jusqu'à l'intervention d'une décision définitive sur votre demande d'asile, à savoir la décision notifiée de l'OFPRA et qui n'a pas été contestée dans le délai d'un mois (article L. 731-2 du CESEDA) ou en cas de recours, la décision notifiée par la CNDA.
+L'allocation cesse d'être versée au terme du mois qui suit celui de la notification de la décision définitive relative à la demande d'asile, ou à compter du transfert (ou de la fuite) du demandeur d'asile sous procédure « Dublin III ».
+Si vous relevez de la protection temporaire, l'allocation est versée durant la durée de la protection.
+Si vous êtes étranger victime de la traite des êtres humains ou du proxénétisme (article L. 316-1 du code précité), l'allocation est versée pendant une durée de 12 mois à compter de la demande, renouvelable pendant la durée de validité de votre titre de séjour.
+L'allocation peut être :
+• suspendue si, sans motif légitime, vous avez abandonné votre lieu d'hébergement, vous n'avez pas respecté l'obligation de vous présenter aux autorités, n'avez pas répondu aux demandes d'informations ou ne vous êtes pas rendu aux entretiens personnels concernant la procédure d'asile ;
+• retirée si vous avez dissimulé vos ressources financières ou fourni des informations mensongères relatives à votre situation familiale ou si vous avez eu un comportement violent ou gravement manqué au règlement de votre lieu d'hébergement ;
+• refusée si vous avez présenté une demande de réexamen de votre demande d'asile ou si vous avez sollicité l'aide trop tardivement, sans motif légitime.
+Le recours
+Vous devez impérativement signaler à l'OFII tout changement intervenu dans votre situation, qu'il s'agisse de votre droit au séjour, de votre situation familiale, de vos ressources ou de votre emploi.
+En cas de contestation d'une décision relative à l'ADA prise par l'OFII, il vous appartient de former un recours gracieux auprès de l'OFII, le tribunal administratif étant, quant à lui, compétent en cas de recours contentieux.
+5.2. L'accès à l'éducation
+L'accès au système d'éducation pour les familles des demandeurs d'asile est identique à celui réservé aux nationaux.
+Conformément au code de l'éducation (article L. 111-2) « Tout enfant a droit à une formation scolaire qui, complétant l'action de la famille, concourt à son éducation ».
+Il est rappelé que « L'instruction est obligatoire pour les enfants des deux sexes, français et étrangers, entre 6 ans et 16 ans » (article L. 131-1 du code précité).
+L'inscription à l'école primaire se fait auprès de la mairie. Vous devez présenter des documents attestant de votre filiation avec l'enfant, de votre domiciliation et du fait que l'enfant est à jour de ses vaccinations.
+L'inscription dans un établissement d'études secondaires (collège ou lycée) se fait directement auprès de l'établissement le plus proche de votre lieu de résidence.
+La structure chargée de votre accompagnement administratif et social, qu'il s'agisse de la structure en charge de votre hébergement ou d'une association sous convention avec l'OFII, peut vous apporter de l'aide pour accomplir ces démarches.
+5.3. L'accès aux soins
+Les soins d'urgence
+En attendant de bénéficier de la protection sociale offerte aux demandeurs d'asile dans le cadre de la couverture maladie universelle (CMU), vous pouvez vous rendre dans les permanences d'accès aux soins de santé (PASS) situées dans les hôpitaux. Vous serez pris en charge par des médecins et des médicaments vous seront délivrés gratuitement.
+Par ailleurs, certaines associations proposent des permanences d'accès aux soins dentaires, ophtalmologiques ou psychologiques sans qu'il soit nécessaire d'être assuré social.
+En fonction de votre lieu d'hébergement, les maisons du département abritent souvent des services de protection maternelle et infantile (PMI) chargés du suivi régulier des enfants et de leur vaccination, et des centres de planification et éducation familiale à destination des femmes (information sur la contraception et suivi des maternités). Vous pouvez bénéficier de ces services avant même votre affiliation à la CMU.
+La couverture maladie universelle (CMU)
+En tant que demandeur d'asile, vous pouvez bénéficier de la couverture maladie universelle (CMU) de base et complémentaire dès l'enregistrement de votre demande d'asile sur présentation de l'attestation de demande d'asile qui vous aura été remise au guichet unique, accompagnée d'une attestation de domiciliation.
+Elle vous permet d'être pris en charge gratuitement pour tous vos frais médicaux et hospitaliers pour vous-même, votre conjoint et vos enfants.
+Pour bénéficier de la CMU, vous devez en faire la demande auprès de la Caisse primaire d'assurance maladie (CPAM) de votre lieu de résidence. Vous pouvez vous faire aider pour effectuer cette démarche par la structure dans laquelle vous êtes hébergé ou la structure chargée de vous accompagner pendant l'examen de votre demande d'asile ou bien encore par certaines associations, par un centre communal ou intercommunal d'action sociale ou par le service social d'un hôpital.
+Les droits à la CMU de base sont effectifs sans délai et permanents. Ils sont valables un an pour la CMU complémentaire. Il est donc nécessaire de demander annuellement le renouvellement des droits à la CMU complémentaire.
+La CPAM peut vous demander par la suite des documents complémentaires afin de vous attribuer un numéro définitif et éditer une carte de santé électronique appelée « carte Vitale ».
+5.4. L'accès au marché du travail
+En tant que demandeur d'asile, vous pouvez être autorisé à travailler lorsque l'OFPRA, pour des raisons qui ne vous sont pas imputables, n'a pas statué sur votre demande d'asile dans un délai de 9 mois à compter de l'introduction de votre demande (article L. 744-11 du CESEDA).
+Dans ce cas, et après vérification que ces deux conditions sont remplies, vous pourrez sur présentation d'une demande d'autorisation de travail formulée par votre futur employeur, solliciter une autorisation de travail à la préfecture de département de votre lieu de résidence.
+La décision relative à la demande d'autorisation de travail est prise par le préfet et notifiée à votre futur employeur ainsi qu'à vous-même.
+En cas d'accord, le préfet adressera les autorisations de travail portant sur des contrats d'une durée supérieure à 3 mois ou sur des contrats de travail saisonniers à l'OFII.
+Cette autorisation pourra cependant vous être refusée, notamment au regard de la situation de l'emploi dans la région ou dans le secteur concerné, sauf si vous postulez à un emploi figurant sur l'une des listes de métiers se caractérisant par des difficultés de recrutement établies.
+Si vous disposez d'une autorisation provisoire de travail et en cas de rupture de votre contrat de travail pour un motif qui ne vous est pas imputable ou après arrivée à son terme d'un contrat de travail à durée déterminée ou d'un contrat d'intérim, vous pourrez demander à être inscrit en tant que demandeur d'emploi, auprès de Pôle emploi.
+Enfin, si vous êtes admis sur le marché du travail, vous pourrez également bénéficier, dans les conditions prévues par le code du travail, d'actions de formation professionnelle.
+6. Les conséquences du rejet de la demande d'asile sur le droit au maintien sur le territoire
+6.1. La décision de rejet de l'OFPRA ou de la CNDA
+Si l'OFPRA a rejeté votre demande d'asile et que vous n'avez pas formé de recours ou si la CNDA a rejeté votre recours, vous perdez le droit de vous maintenir sur le territoire. Vous devez alors quitter la France, même si vous formez un pourvoi en cassation devant le Conseil d'Etat contre la décision de la CNDA.
+6.2. Le retour aidé dans le pays d'origine
+La préfecture vous notifiera une décision de refus de séjour accompagnée d'une obligation de quitter le territoire français (OQTF). Cette décision précisera le délai dont vous disposez, le cas échéant, pour quitter volontairement la France (en principe un mois). Dans ce délai, vous pouvez, dans certains cas, demander à bénéficier d'une aide au retour dans votre pays d'origine. Vous devez alors prendre contact avec l'OFII.
+S Le dispositif d'aide au retour
+L'aide au retour vise à faciliter les départs de France des ressortissants étrangers, en situation irrégulière, qui souhaitent rentrer dans leur pays.
+Avec pour objectif de soutenir un retour digne, les aides prises en charge par l'OFII comprennent :
+• une aide administrative et matérielle à la préparation du voyage vers le pays de retour prévoyant l'organisation matérielle du départ volontaire du bénéficiaire et de sa famille :
+- la réservation des billets de transport aérien ;
+- l'aide à l'obtention des documents de voyage ;
+- l'acheminement du lieu de séjour en France jusqu'à l'aéroport de départ en France ;
+- l'accueil et l'assistance, lors des formalités de départ à l'aéroport.
+• une prise en charge des frais de transport depuis le lieu de départ en France jusqu'à l'arrivée dans le pays de retour, incluant le transport des bagages dans des limites fixées selon les pays de retour ;
+• une aide financière dont le montant est versé au ressortissant étranger en une seule fois, au moment du départ.
+Le dispositif d'aide à la réinsertion
+En complément ou indépendamment des aides au retour précitées, des aides à la réinsertion économique et sociale peuvent être proposées aux étrangers rentrés dans leur pays.
+Ces aides sont susceptibles d'être versées, sous certaines conditions, aux ressortissants étrangers déboutés du droit d'asile et à leurs familles.
+Les aides à la réinsertion s'articulent autour d'un dispositif à 3 niveaux. Selon la situation et les besoins des bénéficiaires, ces aides peuvent se combiner entre elles, en fonction des profils de bénéficiaires :
+• une aide à la réinsertion sociale à l'arrivée (niveau 1) ;
+Une aide d'urgence, matérielle ou financière, peut concerner l'amélioration du logement ou une aide à l'hébergement pendant une durée limitée, la prise en charge des frais de santé, de scolarisation des enfants ou de matériel scolaire.
+Elle peut également consister en un accompagnement social, pendant une durée déterminée sous forme, par exemple, d'un bilan des besoins familiaux.
+• une aide à la réinsertion par l'emploi (niveau 2) ;
+Elle peut consister en :
+- une aide à la prise d'emploi dans le pays de retour ;
+- une aide à la recherche d'un emploi ;
+- des aides à la formation professionnelle.
+• une aide à la réinsertion par la création d'entreprise (niveau 3).
+6.3. Le retour contraint dans le pays d'origine
+Si vous avez disposé d'un délai de départ volontaire d'un mois et que vous n'avez pas quitté le territoire, ni sollicité l'aide au retour volontaire auprès de l'OFII, ni formé un recours contre l'OQTF, vous vous trouvez en situation irrégulière sur le territoire français. Vous pourrez alors être reconduit à la frontière par la police. Cette mesure d'éloignement peut s'accompagner d'un placement en centre de rétention administrative afin de procéder au renvoi dans votre pays.
+Si vous avez fait l'objet d'une OQTF sans délai de départ volontaire, vous êtes en situation irrégulière à compter de la notification de la décision et vous vous exposez à être reconduit à la frontière.
+L'OQTF peut être contestée devant le tribunal administratif dans un délai d'un mois suivant sa notification (48 heures si l'OQTF ne prévoit pas de délai de départ). Pour former ce recours, vous pouvez demander à bénéficier de l'aide juridictionnelle auprès du tribunal administratif compétent. Celui-ci dispose de 3 mois pour statuer. Toutefois, si vous avez été placé en rétention, le tribunal administratif se prononcera dans les 72 heures.
+Le recours contre l'OQTF est suspensif : vous ne pouvez pas être éloigné pendant le délai dont vous disposez pour former un recours et, si le tribunal administratif a été saisi, avant qu'il se soit prononcé.
+Vous pouvez également faire l'objet d'un arrêté préfectoral de reconduite à la frontière (APRF) qui peut être contesté dans un délai de 48 heures devant le tribunal administratif. La décision du tribunal intervient alors dans les 72 heures. Ce recours est également suspensif.
+7. Les droits des bénéficiaires d'une protection
+Si vous êtes reconnu réfugié, avez obtenu le bénéfice de la protection subsidiaire ou le statut d'apatride, vous êtes désormais placé sous la protection des autorités françaises.
+Si vous êtes réfugié ou bénéficiaire de la protection subsidiaire, vous ne pouvez plus vous adresser aux autorités de votre pays d'origine, ni retourner dans celui-ci du fait de vos craintes.
+C'est l'OFPRA qui assure votre protection administrative et juridique, ce qui signifie que c'est cet établissement qui vous fournira des documents d'état civil et des documents administratifs, après avoir reconstitué votre état civil.
+7.1. Le séjour en France
+En tant que réfugié, vous avez droit à une carte de résident de 10 ans, renouvelable de plein droit, vous autorisant à circuler librement sur le territoire français.
+Dès réception du courrier vous reconnaissant la qualité de réfugié, vous devrez vous adresser à la préfecture de votre domicile. Dans un délai de 8 jours à compter de votre demande de titre de séjour, le préfecture vous remettra un premier récépissé de 6 mois renouvelable avec la mention « reconnu réfugié ». Ce récépissé vous donne le droit d'exercer la profession de votre choix. Il sera renouvelé jusqu'à la remise de la carte de résident.
+En tant que bénéficiaire de la protection subsidiaire, vous avez droit à une carte de séjour temporaire d'une durée d'un an, renouvelable ensuite pour des durées de 2 ans, vous autorisant à circuler librement sur le territoire français.
+Dès réception du courrier vous reconnaissant la protection, vous devrez vous adresser à la préfecture de votre domicile. Dans un délai de 8 jours à compter de votre demande de titre de séjour, la préfecture vous remettra un premier récépissé de 6 mois renouvelable avec la mention « a obtenu le bénéfice de la protection subsidiaire ». Ce récépissé vous donne le droit d'exercer la profession de votre choix.
+Ce document sera renouvelé jusqu'à la remise définitive de votre carte de séjour. Avant l'expiration de celle-ci, il vous faudra solliciter de la préfecture le renouvellement de votre titre.
+Votre titre de séjour pourra, sous certaines conditions, vous être retiré si l'OFPRA ou la CNDA met fin à la protection ou si vous y renoncez de vous-même.
+En tant qu'apatride, vous avez droit à une carte de séjour temporaire d'une durée d'un an, renouvelable, vous autorisant à circuler librement sur le territoire français.
+Dès réception du courrier vous reconnaissant la protection, vous devrez vous adresser à la préfecture de votre domicile. La préfecture vous remettra un premier récépissé de 6 mois renouvelable comportant la mention « reconnu apatride ». Ce récépissé vous donne le droit d'exercer la profession de votre choix.
+Ce récépissé sera renouvelé jusqu'à la remise définitive de votre carte de séjour. Avant l'expiration de celle-ci, il vous faudra solliciter de la préfecture le renouvellement de votre titre.
+Après 3 années de résidence régulière en France, vous pourrez prétendre à la délivrance d'une carte de résident valable 10 ans, renouvelable de plein droit.
+Dans tous les cas, la préfecture peut refuser de vous délivrer le titre de séjour, si elle estime que votre présence en France constitue une menace pour l'ordre public.
+7.2. Le séjour de la famille
+Le droit au séjour des membres de famille
+Si vous êtes réfugié, pourront bénéficier de plein droit d'une carte de résident valable 10 ans :
+• votre conjoint ou votre partenaire avec lequel vous êtes lié par une union civile, s'il est âgé d'au moins 18 ans et si le mariage ou l'union civile est antérieur à l'introduction de votre demande d'asile ou, à défaut, s'il a été célébré depuis au moins un an et que la communauté de vie n'a pas cessé ;
+• votre concubin, s'il est âgé d'au moins 18 ans et avec lequel vous aviez, avant la date d'introduction de votre demande, une vie commune suffisamment stable et continue ;
+• vos enfants, dans l'année qui suit leurs 18 ans ou dès 16 ans s'ils souhaitent travailler ;
+• vos parents (ascendants directs au premier degré), si vous êtes encore mineur et non marié.
+Les membres de votre famille devront s'adresser à la préfecture de votre lieu de résidence.
+Votre conjoint, partenaire ou concubin ainsi que vos enfants mineurs peuvent également obtenir le statut de réfugié auprès de l'OFPRA, en application du principe de l'unité de famille. Ce principe ne s'applique pas aux enfants majeurs et aux ascendants.
+Si vous êtes bénéficiaire de la protection subsidiaire, pourront bénéficier de plein droit d'une carte de séjour temporaire valable un an :
+• votre conjoint ou votre partenaire avec lequel vous êtes lié par une union civile, s'il est âgé d'au moins 18 ans et si le mariage ou l'union civile est antérieur à l'introduction de votre demande d'asile ou, à défaut, s'il a été célébré depuis au moins un an et que la communauté de vie n'a pas cessé ;
+• votre concubin, s'il est âgé d'au moins 18 ans et avec lequel vous aviez, avant la date d'introduction de votre demande, une vie commune suffisamment stable et continue ;
+• vos enfants, dans l'année qui suit leurs 18 ans ou dès 16 ans s'ils souhaitent travailler ;
+• vos parents (ascendants directs au premier degré), si vous êtes encore mineur et non marié.
+Les membres de votre famille devront s'adresser à la préfecture de votre lieu de résidence.
+Le principe de l'unité de famille ne s'applique pas aux membres de famille du protégé subsidiaire.
+Si vous êtes apatride, pourront bénéficier de plein droit du même titre de séjour que vous :
+• votre conjoint ou votre partenaire avec lequel vous êtes lié par une union civile, s'il est âgé d'au moins 18 ans et si le mariage ou l'union civile est antérieur à l'introduction de votre demande d'asile ou, à défaut, s'il a été célébré depuis au moins un an et que la communauté de vie n'a pas cessé ;
+• votre concubin, s'il est âgé d'au moins 18 ans et avec lequel vous aviez, avant la date d'introduction de votre demande, une vie commune suffisamment stable et continue ;
+• vos enfants, dans l'année qui suit leurs 18 ans ou dès 16 ans s'ils souhaitent travailler ;
+• vos parents (ascendants directs au premier degré), si vous êtes encore mineur et non marié.
+Les membres de votre famille devront s'adresser à la préfecture de votre lieu de résidence.
+Le principe de l'unité de famille ne s'applique pas aux membres de famille d'un apatride. 
+Le droit à la réunification familiale
+Si votre famille se trouvait hors de France au moment où vous avez obtenu la protection, vous pourrez la faire venir en France par le biais de la procédure de réunification familiale dès l'obtention de la protection et sans condition de ressources ou de logement. Sont concernés par ce droit :
+• votre conjoint ou votre partenaire avec lequel vous êtes lié par une union civile, s'il est âgé d'au moins 18 ans et si le mariage ou l'union civile est antérieur à l'introduction de votre demande d'asile ;
+• votre concubin, s'il est âgé d'au moins 18 ans et avec lequel vous aviez, avant la date d'introduction de votre demande, une vie commune suffisamment stable et continue ;
+• vos enfants, s'ils sont âgés, au plus, de 19 ans et non mariés ;
+• vos parents (ascendants directs au premier degré), si vous êtes encore mineur et non marié.
+Les membres de votre famille devront solliciter, pour entrer en France, un visa d'entrée pour un séjour d'une durée supérieure à 3 mois auprès des autorités diplomatiques ou consulaires, qui statueront sur cette demande dans les meilleurs délais.
+La réunification familiale pourra être refusée si vous ne vous conformez pas aux principes essentiels qui, conformément aux lois de la République, régissent la vie familiale en France. De la même manière, pourra être exclu de la réunification familiale tout membre de votre famille dont la présence en France constituerait une menace pour l'ordre public.
+Si votre mariage est postérieur à l'introduction de votre demande d'asile, vous devez introduire une demande de regroupement familial auprès de l'OFII.
+7.3. L'intégration
+La signature du contrat d'accueil et d'intégration avec l'Office français de l'immigration et de l'intégration (OFII)
+En votre qualité de réfugié ou bénéficiaire de la protection subsidiaire, il vous appartient de signer un contrat d'accueil et d'intégration (CAI). Ce contrat conclu entre vous-même et l'État vise à faciliter votre intégration dans la société française notamment par un accompagnement personnalisé pour l'accès à l'emploi et au logement.
+Ce contrat vous donne accès à :
+• une formation civique, à savoir une journée d'information sur les institutions françaises, les valeurs de la République, l'organisation et le fonctionnement de l'État ;
+• une session d'information sur la vie en France au cours de laquelle il vous sera donné des informations pratiques sur la vie quotidienne (formation et emploi, logement, santé, petite enfance et mode de garde, école et vie associative...) ;
+• une formation linguistique en fonction de votre niveau. À l'issue de cette formation, vous passerez le diplôme initial de langue française (DILF) ;
+• un bilan de compétence professionnelle qui vous permettra de faire le point sur vos compétences, vos aptitudes, votre potentiel, vos motivations professionnelles et personnelles afin de définir un projet professionnel cohérent et déterminer vos besoins en formation ;
+• un accompagnement social, en fonction de votre situation, par le service social de l'OFII ou d'un organisme conventionné.
+Pour de plus amples informations, vous pouvez contacter la direction territoriale de l'OFII de votre lieu de résidence.
+7.4. Les droits sociaux
+L'accès au logement
+Si vous avez été hébergé en CADA ou dans un autre centre relevant du dispositif national d'accueil pendant votre procédure d'asile, il vous est accordé après l'obtention de votre protection, le droit de rester dans ce centre pendant 3 mois, renouvelable une fois avec l'accord du préfet.
+En tant que personne protégée, vous pouvez demander à l'OFII à bénéficier d'une place en centre provisoire d'hébergement (CPH). Si vous remplissez les conditions d'admission et qu'une place est disponible, vous y serez hébergé pendant une période de 9 mois renouvelable pour 3 mois.
+L'équipe du centre vous accompagnera dans vos démarches d'insertion par une approche globale de votre situation individuelle.
+En outre, vous pouvez bénéficier de l'accès direct à un logement du parc privé ou à un logement social en déposant un dossier auprès des institutions ou organismes compétents.
+L'accès au marché de l'emploi
+Si vous êtes reconnu réfugié, vous avez librement accès au marché du travail dès l'obtention du premier récépissé portant la mention « Reconnu réfugié ».
+Si vous êtes bénéficiaire de la protection subsidiaire, vous pouvez également travailler dès l'obtention du premier récépissé avec la mention « A demandé la délivrance d'un premier titre de séjour ».
+Vous pouvez prétendre à un contrat de travail qu'il soit à durée déterminée (CDD) ou à durée indéterminée (CDI). Vous pouvez également vous inscrire sur la liste des demandeurs d'emploi et bénéficier d'un accompagnement personnalisé. Vous pouvez entreprendre une formation.
+Certaines professions sont réglementées et soumises à des conditions de diplômes et/ou de nationalité.
+Une carte de résident délivrée dans un département ou une collectivité d'outre-mer n'autorise pas son titulaire à travailler en métropole.
+L'accès à la santé
+Vous avez été admis au séjour pendant votre procédure d'asile et vous êtes déjà affilié à la couverture maladie universelle (CMU) de base.
+Cette affiliation continue. Vous devez néanmoins signaler votre changement de situation administrative à la caisse primaire d'assurance maladie (CPAM) de votre lieu de résidence.
+Si vos droits n'ont pas été ouverts alors que vous étiez demandeur d'asile, vous pouvez demander leur ouverture.
+L'obtention du statut de réfugié ou du bénéfice de la protection subsidiaire va entraîner votre immatriculation définitive à la sécurité sociale et la délivrance de votre carte vitale, qui se substituera à l'attestation de droits remise par la CPAM.
+Si vous trouvez un emploi salarié, vous devrez effectuer des démarches auprès de la CPAM pour vous affilier au régime de base des salariés.
+Les prestations sociales et familiales
+En tant que personne protégée, vous pouvez prétendre à différentes allocations financières en vous adressant à la Caisse d'allocations familiales (CAF) ou auprès d'autres organismes instructeurs de votre lieu de résidence.
+Si vous remplissez les conditions requises, vous pourrez ainsi bénéficier du revenu de solidarité active (RSA), des allocations familiales, de l'allocation logement, de l'allocation parent isolé, de la prestation d'accueil du jeune enfant ou encore de l'allocation versée aux adultes handicapés.
+Les droits à ces prestations sociales sont instruits par les caisses d'allocations familiales (CAF), implantées dans une centaine de sites sur le territoire français.
+Pour bénéficier de prestations sociales, vous devez vous rendre à la caisse d'allocations familiales ou au centre d'action sociale de votre lieu de résidence et remplir une déclaration de ressources (pour les deux dernières années). Vous trouverez également le formulaire correspondant sur internet (www.caf.fr).
+Il est, par ailleurs, nécessaire que vous disposiez d'un compte bancaire.
+7.5. Le voyage à l'étranger
+Si vous bénéficiez d'une protection et que vous souhaitez voyager hors de France, vous pouvez obtenir un titre de voyage qui vous sera délivré par la préfecture de votre domicile.
+Si vous êtes réfugié, vous recevrez un titre de voyage pour réfugié valable 2 ans.
+Si vous êtes bénéficiaire de la protection subsidiaire, vous recevrez un titre d'identité et de voyage valable un an.
+ATTENTION : ces titres de voyage ne vous autorisent pas à vous rendre dans votre pays d'origine. Cependant, en raison de circonstances tout à fait exceptionnelles (décès ou maladie grave d'un proche, par exemple), vous pourrez, si vous en faites la demande à la préfecture, obtenir un sauf-conduit d'une durée maximale de 3 mois vous autorisant à vous rendre dans votre pays d'origine.
+Si vous êtes apatride, vous recevrez un titre de voyage pour apatride vous autorisant à vous rendre dans tout pays, valable un an si vous êtes titulaire d'une carte de séjour temporaire ou 2 ans si vous êtes titulaire d'une carte de résident.
+Ces titres de voyage ne peuvent pas être renouvelés auprès des postes diplomatiques et consulaires français. Avant de partir en voyage, vous devrez donc vous assurer que votre titre de voyage est valable pendant la durée de votre séjour.
+Si votre titre de voyage arrive à expiration alors que vous vous trouvez hors de France (ou si vous le perdez ou vous le faites voler), vous devrez vous adresser aux autorités diplomatiques ou consulaires françaises en poste dans le pays où vous vous trouvez pour obtenir un laissez-passer consulaire qui, accompagné de votre titre de séjour en cours de validité, vous permettra de revenir en France. 
+Si vous êtes réfugié ou bénéficiaire de la protection subsidiaire, votre enfant étranger mineur, présent sur le territoire français, qui ne peut bénéficier d'une protection au titre de l'asile, peut se voir délivrer un document de voyage valable un an.
+7.6. La naturalisation
+Si vous avez été reconnu réfugié, vous pourrez demander à acquérir la nationalité française dès l'obtention du statut.
+Si vous avez obtenu le bénéfice de la protection subsidiaire ou le statut d'apatride, vous devrez justifier de 5 ans de résidence régulière en France avant de pouvoir déposer une demande de naturalisation.
+Vous devrez remplir certaines conditions (exemple : connaissance de la langue française) pour postuler à la naturalisation.
+Vous devrez déposer votre dossier auprès d'une plateforme de naturalisation.
+ANNEXE : adresses utiles
+Cette liste n'est pas exhaustive  
+1. Adresses nationales
+Office français de protection des réfugiés et apatrides (OFPRA) 
+201, rue Carnot
+94 136 FONTENAY-SOUS-BOIS CEDEX 
+tél : 01 58 68 10 10 
+fax : 01 58 68 18 99 
+http://www.ofpra.gouv.fr/
+Cour nationale du droit d'asile (CNDA) 
+35, rue Cuvier
+93 558 MONTREUIL-SOUS-BOIS Cedex 
+tél : 01 48 10 40 00 
+fax : 01 48 18 41 97 
+http://www.commission-refugies.fr/
+Haut Commissariat des Nations-Unies pour les Réfugiés (HCR)
+9, rue Keppler 75 116 PARIS 
+tél : 01 44 43 48 58 
+fax : 01 40 70 07 39 
+http://www.unhcr.org/
+Office français de l'immigration et de l'intégration (OFII) 
+44, rue Bargue
+75 015 PARIS
+ tél : 01 53 69 53 70 
+fax : 01 53 69 53 69 
+http://www.ofii.fr
+Associations
+Association des chrétiens pour l'abolition de la torture (ACAT)
+7, rue Georges Lardennois
+75 019 PARIS
+tél : 01 40 40 42 43 / 
+fax : 01 40 40 42 44 
+http://www.acatfrance.fr/
+Act'up
+45, rue Sedaine
+75 011 PARIS
+tél : 01 48 06 13 89 / 
+fax : 01 48 06 16 74
+http://www.actupparis.org/
+Amnesty International - section française
+76, boulevard de la Villette
+75 019 PARIS
+tél : 01 53 38 65 16 / 
+fax : 01 53 38 55 00 
+http://www.amnesty.fr/
+Association Primo Lévi
+107, avenue Parmentier
+75 011 PARIS
+tél : 01 43 14 08 50 / 
+fax : 01 43 14 08 28 
+http://www.primolevi.asso.fr/
+Association d'accueil aux médecins et personnels de santé réfugiés en France (APSR) Hôpital Sainte Anne
+1, rue Cabanis
+75 014 PARIS
+tél : 01 45 65 87 50 / 
+fax : 01 53 80 28 19 
+http://www.apsr.asso.fr
+Comité d'aide exceptionnelle aux intellectuels réfugiés (CAEIR)
+43, rue Cambronne
+75 015 PARIS
+tél : 01 43 06 93 02 / 
+fax : 01 43 06 57 04 
+Centre d'action sociale protestant (CASP)
+20, rue Santerre
+75 012 PARIS
+tél : 01 53 33 87 50 / 
+fax : 01 43 44 95 33 
+http://www.casp.asso.fr
+CIMADE - Service œcuménique d'entraide
+64, rue Clisson
+75 013 PARIS
+tél : 01 44 18 60 50 / fax : 01 45 56 08 59 
+http://www.cimade.org
+Comité médical pour les exilés (COMEDE)
+Hôpital de Bicêtre
+78, rue du Général Leclerc
+BP 31
+94 272 LE KREMLIN BICÊTRE
+tél : 01 45 21 38 40 / fax : 01 45 21 38 41
+http://www.comede.org
+Croix rouge française
+1, place Henry Dunant
+75 008 PARIS
+tél : 01 44 43 11 00
+fax : 01 44 43 11 69 
+http://www.croix-rouge.fr
+Fédération des associations de soutien aux travailleurs immigrés (FASTI)
+58, rue des Amandiers
+75 020 PARIS
+tél : 01 58 53 58 53 / fax : 01 58 53 58 43 
+http://www.fasti.org
+Forum réfugiés
+28, rue de la Baïsse - BP 1054
+69 612 VILLEURBANNE CEDEX
+tél : 04 72 97 05 80 / fax : 04 72 97 05 81 
+http://www.forumrefugies.org
+France Terre d'Asile (FTDA)
+24, rue Marc Seguin
+75 018 PARIS
+tél : 01 53 04 39 99 / fax : 01 53 04 02 40 
+http://www.france-terre-asile.org
+Groupe accueil solidarité (GAS)
+17, place Maurice Thorez
+94 800 VILLEJUIF
+tél : 01 42 11 07 95 / fax : 01 42 11 09 91 
+http://pagesperso-orange.fr/gas.asso
+Groupe d'information et de soutien des immigrés (GISTI)
+3, villa Marcès
+75 011 PARIS
+tél : 01 43 14 60 66 / fax : 01 43 14 60 69 
+http://www.gisti.org
+Ligue des droits de l'homme (LDH)
+138, rue Marcadet
+75 018 PARIS
+tél : 01 56 55 51 00 / fax : 01 56 55 51 21 
+http://www.ldh-france.org
+Mouvement contre le racisme et pour l'amitié entre les peuples (MRAP)
+43, boulevard Magenta
+75 010 PARIS
+tél : 01 53 38 99 99 / fax : 01 40 40 90 98 
+http://www.mrap.asso.fr
+Secours catholique
+23, boulevard de la Commanderie
+75 019 PARIS
+tél : 01 48 39 10 92 / fax : 01 48 33 79 70 
+http://www.secours-catholique.asso.fr
+Service national de la pastorale des migrants (SNPM)
+269 bis, rue du Faubourg St Antoine
+75 011 PARIS
+tél : 01 43 72 47 21 / fax : 01 46 59 04 89
+http://www.eglisemigrations.org 
+Guichets uniques
+ALSACE
+• Haut-Rhin : 7, rue Bruat, 68 020 Colmar
+• Bas-Rhin
+5, place de la République, 67 073 Strasbourg
+AQUITAINE
+• 2, esplanade Charles de Gaulle,
+33 000 Bordeaux
+AUVERGNE
+• 18, boulevard Desaix,
+63 000 Clermont-Ferrand
+BOURGOGNE
+• Saône-et-Loire
+196, rue de Strasbourg, 71 000 Mâcon
+• Côte d'Or, Nièvre, Yonne
+53, rue de la préfecture, 21 041 Dijon
+BRETAGNE
+• 3, avenue de la préfecture, 35 026 Rennes
+CENTRE
+• 181, rue de Bourgogne, 45 042 Orléans
+CHAMPAGNE-ARDENNE
+• 38, rue Carnot,
+51 036 Châlons-en-Champagne FRANCHE-COMTE
+• 8 bis, rue Charles Nodier, 25 035 Besançon
+GUADELOUPE
+• Palais d'Orléans, rue Lardenoy
+97 109 Basse-Terre, Guadeloupe
+ILE-DE-FRANCE
+• Paris
+92, boulevard Ney, 75 018 Paris
+• Seine-et-Marne
+12, rue des Saints Pères, 77 000 Melun
+• Yvelines
+1, rue Jean Houdon, 78 000 Versailles
+Essonne
+Boulevard de France, 91 000 Évry
+Hauts-de-Seine
+167-177 Av. Frédéric et Irène Joliot Curie, 92000 Nanterre
+• Seine-Saint-Denis
+13, rue Marguerite-Yourcenar,
+93 000 Bobigny
+• Val-de-Marne
+13/15 Rue Claude Nicolas Ledoux,
+94 000 Créteil
+• Val d'Oise
+5, avenue Bernard Hirsch,
+95 010 Cergy-Pontoise
+LANGUEDOC-ROUSSILLON
+• 34, place des Martyrs de la résistance,
+34 000 Montpellier
+LIMOUSIN
+• 19, rue Cruveilhier, 87 000 Limoges
+LORRAINE
+• 9, place de la Préfecture, 57 000 Metz
+MIDI-PYRENEES
+• 1, place Saint-Étienne, 31 038 Toulouse
+NORD-PAS-DE-CALAIS
+• Nord
+12/14, rue Jean Sans Peur, 59 039 Lille
+• Pas-de-Calais
+9, esplanade Jacques Vendroux, 62 100 Calais
+BASSE-NORMANDIE
+• rue Daniel Huet, 14 038 Caen cedex 09
+HAUTE-NORMANDIE
+• 7, place de la Madeleine, 76 000 Rouen
+PAYS DE LOIRE
+• Loire-Atlantique, Vendée
+6, quai Ceineray, 44 035 Nantes
+• Maine-et-Loire, Mayenne, Sarthe
+Place Michel Debré, 49 934 Angers
+PICARDIE
+• 1, place de la Préfecture, 60 000 Beauvais 
+POITOU-CHARENTES
+• Bâtiment Haussmann - Impasse des Écossais,
+86 000 Poitiers
+PROVENCE-ALPES-CÔTE-D'AZUR
+• Bouches-du-Rhône, Vaucluse
+66, bis rue Saint-Sébastien, 13 006 Marseille
+• Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Var
+147, boulevard du Mercantour, 06 200 Nice
+RHÔNE-ALPES
+• Isère, Savoie, Haute-Savoie, Drôme
+12, place de Verdun, 38 000 Grenoble
+• Ain, Ardèche, Loire, Rhône
+97, rue Molière, 69 003 Lyon
+Préfectures
+ALSACE
+• Haut-Rhin
+7, rue Bruat, 68 020 Colmar
+• Bas-Rhin
+5, place de la République, 67 073 Strasbourg
+AQUITAINE
+• Gironde
+2, esplanade Charles de Gaulle,
+33 000 Bordeaux
+• Dordogne
+2, rue Paul Louis Courier, 24 000 Périgueux
+• Landes
+24, rue Victor Hugo, 40 021 Mont-de-Marsan
+• Lot-et-Garonne
+Place de Verdun, 47 920 Agen
+• Pyrénées-Atlantiques
+2, rue du maréchal Joffre, 64 021 Pau
+AUVERGNE
+• Puy-de-Dôme
+18, boulevard Desaix,
+63 000 Clermont-Ferrand
+• Allier
+2, rue Michel de l'Hospital, 03 000 Moulins
+• Cantal
+2, cours Monthyon, 15 000 Aurillac
+• Haute-Loire
+6, avenue du Général de Gaulle
+43 000 Le Puy-en-Velay
+BOURGOGNE
+• Saône-et-Loire
+196, rue de Strasbourg, 71 000 Mâcon
+• Nièvre
+40, rue de la Préfecture, 58 000 Nevers
+• Yonne
+Place de la Préfecture, 89 000 Auxerre
+• Côte d'Or
+53, rue de la Préfecture, 21 041 Dijon
+BRETAGNE
+• Ille-et-Vilaine
+3, avenue de la Préfecture, 35 026 Rennes
+• Côtes d'Armor
+1, place Général de Gaulle, 22 000 Saint-
+Brieuc
+• Finistère
+42, boulevard Dupleix, 29 000 Quimper
+• Morbihan
+24, place de la République, 56 000 Vannes
+CENTRE
+• Loiret
+181, rue de Bourgogne, 45 042 Orléans
+• Cher
+Place Marcel Plaisant, 18 000 Bourges
+• Eure-et-Loir
+Place de la République, 28 000 Chartres
+• Indre
+Place de la Victoire et des Alliés,
+36 000 Châteauroux
+• Indre-et-Loire
+15, rue Bernard Palissy, 37 925 Tours
+• Loir-et-Cher
+Place de la république, 41 000 Blois
+CHAMPAGNE-ARDENNE
+• Ardennes
+Esplanade du Palais de Justice,
+08 000 Charleville-Mézières
+• Aube
+2, rue Pierre Labonde, 10 000 Troyes
+• Haute-Marne
+89, rue Victoire de la Marne,
+52 011 Chaumont 
+38, rue Carnot,
+51 036 Châlons-en-Champagne
+FRANCHE-COMTÉ
+• Doubs
+8, bis Rue Charles Nodier, 2 5035 Besançon
+• Jura
+8, rue de la Préfecture, 3 9000 Lons-le- Saunier
+• Haute-Saône
+1, rue de la Préfecture, 70 013 Vesoul
+• Territoire de Belfort
+Place de la République, 90 000 Belfort
+GUADELOUPE
+• Palais d'Orléans, Rue Lardenoy,
+97 109 Basse-Terre 97109, Guadeloupe
+ILE-DE-FRANCE
+• Paris : 92, boulevard Ney, 75 018 Paris
+• Seine-et-Marne
+12, rue des Saints Pères, 77 000 Melun
+• Yvelines
+1, rue Jean Houdon, 78 000 Versailles
+• Essonne
+Boulevard de France, 91 000 Evry
+• Hauts-de-Seine
+167-177, avenue Frédéric et Irène Joliot Curie, 92 000 Nanterre
+• Seine-Saint-Denis
+1, esplanade Jean Moulin, 93 007 Bobigny
+• Val-de-Marne
+21-29, avenue du Général De Gaulle,
+94 038 Créteil cedex
+• Val d'Oise
+• Corrèze : 1, rue Souham, 19 000 Tulle
+• Creuse : 4, place Louis Lacrocq, 23 000
+Guéret
+• Haute-Vienne : 1, rue de la Préfecture,
+87 000 Limoges
+LORRAINE
+• Moselle : 9, place de la Préfecture
+570 00 Metz
+• Meuse
+40, rue du Bourg, 55 000 Bar-le-Duc
+• Meurthe-et-Moselle
+1, rue Préfet Claude Erignac, 54 000 Nancy
+• Vosges : Place Foch, 88 026 Epinal
+MIDI-PYRÉNÉES
+• Haute-Garonne
+1, place Saint-Étienne, 31 038 Toulouse
+• Ariège
+2, rue de la préfecture Préfet Claude Erignac, 09 000 Foix
+• Aveyron
+7, place Général de Gaulle, 12 000 Rodez
+• Gers
+7, rue Arnaud de Moles, 32 000 Auch
+• Lot
+Cité Bessières, Rue Pierre Mendes France, 46000 Cahors
+• Hautes-Pyrénées
+Place du Général de Gaulle, 65 000 Tarbes
+• Tarn
+Place de la Préfecture, 81 013 Albi
+• Tarn-et-Garonne
+2, allée de l'Empereur, 82 013 Montauban 
+5, avenue Bernard Hirsch, 95 010 Cergy- Pontoise
+LANGUEDOC-ROUSSILLON
+NORD-PAS-DE-CALAIS
+• Nord
+12/14, rue Jean sans Peur, 59 039 Lille
+• Pas-de-Calais 
+• Hérault : 34, place des Martyrs de la résistance, 34 000 Montpellier
+• Aude : 52, rue Jean Bringer,
+11 000 Carcassonne
+• Gard : 10, avenue Feuchères, 30 000 Nîmes
+• Lozère : rue du faubourg Montbel,
+48 005 Mende
+• Pyrénées-Orientales : 120, avenue Emile Roudayre, 66 000 Perpignan
+9, esplanade Jacques Vendroux, 62 100 Calais
+BASSE-NORMANDIE
+• Calvados
+Rue Daniel Huet, 14 038 Caen cedex 09
+• Manche
+Place de la Préfecture, 50 002 Saint-Lô
+• Orne
+39, rue Saint-Blaise, 61 018 Alençon 
+HAUTE-NORMANDIE
+• Seine-Maritime
+7, place de la Madeleine, 76 000 Rouen
+• Eure
+Boulevard Georges Chauvin, 27 000 Evreux
+PAYS DE LOIRE
+• Loire-Atlantique
+6, quai Ceineray, 44 035 Nantes
+• Vendée
+29, rue Dellile, 85 009 La Roche-sur-Yon
+• Maine-et-Loire
+Place Michel Debré, 49 934 Angers
+• Mayenne
+46, rue Mazagran, 53 015 Laval
+• Sarthe
+Place Aristide Briand, 72 041 Le Mans
+PICARDIE
+• Oise
+1, place de la Préfecture, 60 000 Beauvais
+• Aisne
+27, rue Paul Doumer, 02 000 Laon
+• Somme
+51, rue de la République, 80 000 Amiens
+POITOU-CHARENTES
+• Charente
+7-9, rue de la Préfecture, 16 023 Angoulême
+• Charente-Maritime
+38, rue Réaumur, 17 000 La Rochelle
+• Deux-Sèvres
+4, rue Duguesclin, 79 099 Niort
+• Vienne
+7, place Aristide Briand, 86 000 Poitiers
+PROVENCE-ALPES-CÔTE-D'AZUR
+• Bouches-du-Rhône
+66 bis, rue Saint-Sébastien, 13 006 Marseille
+• Vaucluse :
+28, boulevard Limbert, 84 000 Avignon
+• Alpes-Maritimes
+147, boulevard du Mercantour, 06 200 Nice
+• Alpes-de-Haute-Provence
+Avenue Demontzey, 04 002 Digne les Bains
+• Hautes-Alpes
+28, rue Saint-Arey, 05 000 Gap
+• Var
+Boulevard du 112e régiment d'infanterie,
+83 070 Toulon
+RHÔNE-ALPES
+• Isère
+12, place de Verdun, 38 000 Grenoble
+• Savoie
+Château des Ducs de Savoie,
+73 018 Chambéry
+• Haute-Savoie
+Rue Louis Revon, 74 000 Annecy
+• Rhône
+106, rue Pierre Corneille, 69 003 Lyon
+• Ain
+4,5 avenue Alsace Lorraine, 01 012 Bourg en
+Bresse
+• Ardèche
+5, rue pierre Filliat, 07 000 Privas
+• Drôme
+3, boulevard Vauban, 26 000 Valence
+• Loire
+2, rue Charles de Gaulle, 42 022 Saint-Etienne
+Directions territoriales de l'Office français de l'immigration et de l'intégration (OFII)
+Direction centrale
+44, rue Bargue
+75 732 Paris Cedex 15
+tél : 01 53 69 53 70
+Amiens (02, 60, 80)
+275, rue Jules Barni - Bât. D
+80 000 Amiens
+tél : 03 22 91 28 99 / amiens@ofii.fr
+Besançon (25, 70, 39, 90)
+3, avenue de la Gare d'Eau
+25 000 Besançon
+tél : 03 81 25 14 39 / besancon@ofii.fr
+Bobigny (93)
+13, rue Marguerite Yourcenar
+93 000 Bobigny
+tél : 01 49 72 54 00 / Seine-saint-denis@ofii.fr
+Bordeaux (24, 33, 40, 47,6 4)
+55, rue Saint Sernin,
+33 002 Bordeaux Cedex tél : 05 57 14 23 00 / bordeaux@ofii.fr Caen (14, 50, 61)
+Rue Daniel Huet
+14 038 Caen Cedex 9
+tél : 02 31 86 57 98 / Caen@ofii.fr
+Cayenne (973
+17/19, rue Lalouette BP 245
+97 325 Cayenne
+tél : 05 94 37 87 00 / cayenne@ofii.fr
+Cergy (95)
+Immeuble « Ordinal » Rue des Chauffours, 95 002 Cergy Pontoise Cedex tél : 01 34 20 20 30 / cergy@ofii.fr
+Clermont-Ferrand (03, 15, 63, 43)
+1, rue Assas
+63 033 Clermont Ferrand
+tél : 04 73 98 61 34 / Clermont-ferrand@ofii.fr
+Créteil (91, 94)
+13/15, rue Claude Nicolas Ledoux
+94 000 Créteil
+tél : 01 41 94 69 30 / creteil@ofii.fr
+Dijon (21, 58, 71, 89)
+Cité administrative Dampierre
+6, rue du Chancelier de l'Hospital
+21 000 Dijon
+tél : 03 80 30 32 30 / dijon@ofii.fr
+Grenoble (74, 38, 73
+Parc Alliance - 76, rue des Alliés
+38 100 Grenoble
+tél : 04 76 40 95 45 / grenoble@ofii.fr
+Lille (59, 62)
+2, rue de Tenremonde
+59 000 Lille
+tél : 03 20 99 98 60 / lille@ofii.fr
+Limoges (23, 19, 87)
+19, rue Cruveihier
+87 000 Limoges
+tél : 05 55 11 01 10 / limoges@ofii.fr
+Lyon (01, 07, 26, 42, 69)
+7, rue Quivogne
+69 286 Lyon Cedex 02
+Tél : 04 72 77 15 40 / Lyon@ofii.fr Marseille (13, 20, 04, 05, 83, 84)
+61, boulevard Rabatau
+13 295 Marseille Cedex 08
+tél : 04 91 32 53 60 / Marseille@ofii.fr
+Antenne Mayotte OFII (976)
+N15 Espace Coralium, RN1 - CS 80058 Kaweni, 97 600 Mamoudzou
+tél : 02 069 62 23 54 / mayotte@ofii.fr
+Melun (77)
+2 bis, avenue Jean Jaurès
+77 000 Melun
+tél : 01 78 49 20 00 / Melun@ofii.fr
+Metz (54, 55, 57, 88)
+2, rue Lafayette
+57 000 Metz
+tél : 03 87 66 64 98 / metz@ofii.fr
+Montpellier (30, 34, 48, 66)
+Le Régent - 4, rue Jules Ferry
+34 000 Montpellier
+tél : 04 99 77 25 50 / montpellier@ofii.fr
+Montrouge (92, 78)
+221, avenue Pierre Brossolette
+92 120 Montrouge
+tél : 01 41 17 73 00 / montrouge@ofii.fr
+Nantes (44, 53, 49, 72, 85)
+93 bis, rue de la Commune de 1871
+44 400 Rezé
+tél : 02 51 72 79 39 / nantes@ofii.fr
+Nice (06)
+Immeuble SPACE- Bât. B
+11, rue des Grenouillères
+06 200 Nice
+tél : 04 92 29 49 00 / nice@ofii.fr
+Orléans (18, 28, 36, 37, 45, 41)
+4, rue de Patay
+45 000 Orléans
+tél : 02 38 52 00 34 / orleans@ofii.fr
+Paris (75)
+48, rue de la Roquette
+75 11 Paris
+tél : 01 55 28 19 40 / paris@ofii.fr 
+Pointe-à-Pitre (971, 972)
+Immeuble Plazza - Boulevard Chanzy 97 110 Pointe à Pitre
+tél : 05 90 90 01 83 / guadeloupe@ofii.fr
+Poitiers (16, 17, 79, 86) 86, avenue du 8 Mai 1945 86 000 POITIERS
+tél : 05 49 62 65 70 / reims@ofii.fr
+Reims (08, 10, 51, 52) 26/28, rue Buirette 51 100 Reims
+tél : 03 26 36 97 29 / reims@ofii.fr
+Rennes (22, 29, 35, 56)
+8, rue Jean Julien Lemordant
+35 000 Rennes tél : 02 99 22 98 60 / rennes@ofii.fr
+La Réunion (974)
+Préfecture de la Réunion, Place du Barachois 97 405 Saint Denis Cedex
+tél : 02 62 40 75 69 / ofii-reunion@ofii.fr
+Rouen (27,76)
+Immeuble Montmorency 1 15, place de la Verrerie 76 100 Rouen
+tél : 02 32 18 09 94 / rouen@ofii.fr
+Strasbourg (67,68)
+4, rue Gustave Doré - CS 80115
+67 069 Strasbourg Cedex tél : 03 88 23 30 20 / strasbourg@ofii.fr
+Toulouse (09, 12, 19, 23, 32, 31, 65, 87, 46, 81, 82) 7, rue Arthur Rimbaud, CS 40310
+31 203 Toulouse Cedex2 tél : 05 34 41 72 20 / toulouse@ofii.fr
+Liberté * Égalité • Fraternité
+REPUBLIQUE FRANÇAISE
+ministère de l'intérieur
+Direction générale des étrangers en France
+Service de l'asile
+http://www.immigration.interieur.gouv.fr

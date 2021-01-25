@@ -1,0 +1,288 @@
+﻿<Header>
+  <title>
+    <tit> Asylum seekers and refugees: what are the facts?</tit>
+    <fileName> EN_014 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Manual </textType>
+    <subcorpus> Original Australian English </subcorpus>
+  </title>
+  <sourceText>
+    <language> Australian English </language>
+    <source> https://www.aph.gov.au/binaries/library/pubs/bn/sp/asylumfacts.pdf </source> 
+    <publisher> Parliament of Australia </publisher>
+    <pubDate> January, 2011 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 28.06.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher> 
+    <comments> tables containing only numbers were replaced by a tag </comments>
+  </sourceText>
+  <author>
+    <institution> Janet Philips, Social Policy Section </institution>
+  </author>
+</Header>
+
+Parliament of Australia
+Department of Parliamentary Services
+
+PARLIAMENTARY LIBRARY
+INFORMATION ANALYSIS ADVICE
+
+Background Note
+Updated 14 January 2011
+
+Asylum seekers and refugees: what are the facts?
+Janet Phillips
+Social Policy Section
+
+Contents
+
+Introduction
+What is the difference between an asylum seeker and a refugee?
+Are asylum seekers ‘illegals'? 	 2
+Are asylum seekers ‘queue jumpers'? 	 4
+Do most asylum seekers arrive by boat? 	 6
+Do boat arrivals ‘bring disease' and are they a threat to security?	 7
+Are boat arrivals ‘genuine refugees'? 	 8
+Do boat arrivals ‘take all Australia's refugee places'? 	 9
+Do refugees receive higher welfare benefits than Australians? 
+Is Australia being ‘swamped by boat arrivals'?	 11
+Is Australia being ‘swamped with asylum claims'? 	 11
+Do developed countries bear the burden of hosting asylum seekers and refugees? 	 12
+Summary 	 13
+Key resources 	14
+
+Acknowledgements
+The author is grateful to colleagues Elibritt Karlsen and Luke Buckmaster for their valuable input into this paper.
+
+Introduction
+
+The magnitude and complexity of the issues arising from the flow of asylum seekers and refugees globally poses huge challenges for the world's destination countries, including Australia. These countries universally struggle to maintain a balance between controlling national borders and offering protection to millions of displaced people.
+When the Office of the United Nations High Commissioner for Refugees (UNHCR) was established in 1951, there were approximately 1. 5 million refugees internationally. 1 At the end of 2009 there were an estimated 43.3 million forcibly displaced people worldwide, including 15. 2 million refugees, 983 000 asylum seekers and 27. 1 million internally displaced persons (IDPs). It is estimated that there were an additional 25 million people displaced due to natural disasters. 2
+The Australian Government has recognised the magnitude of these global trends noting that the numbers of people seeking asylum in Australia are small compared to those seeking asylum in Europe and other parts of the world. 3
+Australia has a long history of accepting refugees for resettlement and over 700 000 refugees and displaced persons, including thousands during and immediately after World War II, have settled in Australia since 1945. 4 However, despite this long-term commitment, there is a great deal of confusion and misinformation in the public debate in Australia particularly around the terms asylum seekers, refugees, ‘illegals', ‘queue jumpers' and ‘boat people' which are often used interchangeably and/or incorrectly.
+The purpose of this background note is to present information (in a simplified format) that may help address some of the popular misconceptions that surround asylum issues. It includes information on asylum claims, unauthorised arrivals and irregular migration in Australia and Europe.
+
+What is the difference between an asylum seeker and a refugee?
+
+There is a great deal of confusion about the difference between an asylum seeker and a refugee and often the terms are used interchangeably or incorrectly. An asylum seeker is someone who is seeking international protection but whose claim for refugee status has not yet been determined. In contrast, a refugee is someone who has been recognised under the 1951 Convention relating to the status of refugees to be a refugee. The Convention defines a ‘refugee' as any person who:
+... owing to well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his nationality and is unable or, owing to such fear, is unwilling to avail himself of the protection of that country; or who, not having a nationality and being outside the country of his former habitual residence as a result of such events, is unable or, owing to such fear, is unwilling to return to it . 5
+The definition of ‘refugee' does not cover other individuals or groups of people who leave their country only because of war or other civil disturbance, famine, natural disasters or in order to seek a better life. As the UNHCR explains:
+Refugees flee because of the threat of persecution and cannot return safely to their homes in the prevailing circumstances. An economic migrant normally leaves a country voluntarily to seek a better life. Should they elect to return home, they would continue to receive the protection of their government. 6
+
+Are asylum seekers ‘illegals'?
+
+Generally speaking ‘illegal immigrants' are people who enter a country without meeting the legal requirements for entry (without a valid visa, for example). However, under Article 14 of the 1948 Universal declaration of human rights, everyone has the right to seek asylum and the 1951 Refugee Convention prohibits states from imposing penalties on those entering ‘illegally' who come directly from a territory where their life or freedom is threatened. 7
+The UNHCR emphasises that a person who has a well-founded fear of persecution should be viewed as a refugee and not be labelled an ‘illegal immigrant' as the very nature of persecution means that their only means of escape may be via illegal entry and/or the use of false documentation.8 The Refugee Council of Australia similarly notes the practical difficulties encountered by asylum seekers in obtaining the requisite documentation prior to departure:
+Applying for a passport and/or an exit visa can be far too dangerous for some refugees; so too can be an approach to an Australian Embassy for a visa. These actions can put their lives, and those of their families, at risk. In such cases refugees may have to travel on forged documents or bypass regular migration channels and arrive without papers.9
+Asylum seekers irrespective of their mode of arrival, like others that arrive in Australia without a valid visa, are classified by Australian law to be ‘unlawful non-citizens'. However, the term ‘unlawful' does not mean that asylum seekers have committed a criminal offence. There is no offence under Australian law that criminalises the act of arriving in Australia or the seeking of asylum without a valid visa. 10
+The confusion about legal status arises from those arriving by boat doing so without a valid visa or any other appropriate authorisation, whereas most, though not all, who arrive by air and then seek asylum, usually enter on a valid visa. Currently, when unauthorised boat arrivals are intercepted in Australian waters, the passengers are transferred to Christmas Island in order to establish their reasons for attempting to enter Australia without authority. If a government official determines that an individual is raising claims which may engage Australia's protection obligations, the asylum seeker will be assessed under the non-statutory refugee status assessment (RSA) process in place on Christmas Island. 11
+The majority of people arriving by boat claim asylum although a few may not (these are usually crew members). The preferred terms for boat arrivals as used by the Department of Immigration and Citizenship (DIAC) are ‘unauthorised boat arrivals' or ‘irregular maritime arrivals' and, as noted above, people arriving by such means who then claim asylum are entitled to do so.
+The term ‘illegal' may more appropriately apply to those without a valid visa (‘unlawful non-citizens') who are not seeking protection, such as visa overstayers. 12 As at 30 June 2009, it was estimated that there were about 48 700 visa overstayers residing in Australia. 13
+In Europe, the term ‘illegal' is more appropriately used to describe visa overstayers or those working in breach of their visa conditions. 14 However, the terms ‘illegals', ‘irregular migrants' and ‘irregular residents' are commonly used interchangeably in Europe and may also refer to those arriving without authorisation. As Europe has much more porous and less geographically isolated borders, it is almost impossible to monitor the exact numbers, but it is estimated that about 500 000 ‘irregular' migrants or residents (including visa overstayers, people working in breach of their visa conditions and those who go on to claim asylum after arrival) are apprehended each year. 15
+Globally, the International Office for Migration (IOM) estimates that there are roughly 20 to 30 million unauthorised or ‘irregular migrants' worldwide, comprising around 10 to 15 per cent of the world's immigrant stock. 16 By ‘irregular migrants' the IOM means both those who arrive in a country ‘undocumented' and those ‘who enter the host country legally with tourist documents, but later violate their conditions of entry by taking a job'. 17
+
+Are asylum seekers ‘queue jumpers'?
+
+There is a view that asylum seekers, particularly those who arrive in Australia by boat, are ‘jumping the queue' and taking the place of a more deserving refugee awaiting resettlement in a refugee camp. The concept of an orderly queue does not accord with the reality of the asylum process. Paul Power, CEO of the Refugee Council of Australia (RCOA) notes that:
+Implicit in this view is that Australia should not be bothered by people seeking protection under the Refugee Convention and that genuine refugees should go to other countries and wait patiently in the hope that Australia may choose to resettle them. 18
+The reality is that only a small proportion of asylum seekers are registered with the UNHCR:
+UNHCR offices registered some 119 100 applications out of the total of 923 400 claims in 2009, a 62 per cent increase compared to 2008 ... The Office's share in the global number of applications registered in 2009 was 13 per cent compared to 8 per cent in 2008 and 12 per cent in 2007. This was due to the higher number of applications registered with UNHCR offices in Malaysia,
+Somalia and Kenya. Europe remained the primary destination for individual asylum-seekers with
+359 400 asylum claims registered. It was followed closely by Africa (336 400). These two regions accounted for 39 and 37 per cent respectively of all claims. 19
+Once registered with the UNHCR, many refugees seek resettlement to a country such as Australia. Refugees do not have a right to be resettled, and states are not obliged under the 1951 Refugee Convention or any other instrument to accept refugees for resettlement. It is a voluntary scheme coordinated by the UNHCR which, amongst other things facilitates burden-sharing amongst signatory states. Resettlement therefore complements and is not a substitute for the provision of protection to people who apply for asylum under the Convention.
+According to the UNHCR, less than 1 per cent of the world's refugees may be resettled in any given year:
+Millions of refugees around the world continue to live with little hope of finding a solution to their plight ... resettlement benefits a small number of refugees; in 2008 [and in 2009], less than 1 per cent of the world's refugees directly benefited from resettlement. 20
+The UNHCR estimates that 747 000 refugees will be in need of resettlement in 2010, but only around 79 000 places are offered annually by the resettlement states. 21
+For refugees in protracted situations (in exile for five years or more) the UNHCR points out that there are limited options:
+The absence of a solution for millions of refugees in protracted situations continues to pose a major challenge to UNHCR and its partners, to host countries, the refugees themselves and the international community at large. 22
+At the end of 2009 the UNHCR estimated that there were more than 5.7 million refugees trapped in protracted situations and for whom there was limited hope of finding a solution in the near future. 23
+Due to an absence of durable solutions for refugees the focus of the UNHCR in most refugee camps is on voluntary repatriation. 24 Despite the UNHCR's best efforts, during 2009 nearly 26 million people including 10. 4 million refugees were receiving protection or assistance from the UNHCR (many in protracted refugee situations). 25
+
+Do most asylum seekers arrive by boat?
+
+Until recently, the vast majority of asylum seekers applying for protection in Australia have arrived originally by air with a valid visa and then applied for asylum at a later date while living in the community. 26 Historically, boat arrivals only made up a small proportion of asylum applicants— estimates vary, but it is likely that between 96 and 99 percent of asylum applicants arrived by air. 27 More recently the proportions of Irregular Maritime Arrival (IMA) and non-IMA (that is air arrival) asylum seekers have shifted due to the increase in boat arrivals. However, boat arrivals still comprise less than half of Australia's onshore asylum seekers:
+
+Onshore asylum applications
+
+<table>
+
+Although the proportion of asylum seekers arriving by boat has increased significantly in the last financial year, and boat arrivals continue to be the focus of much public and political attention, they are in fact more likely to be recognised as refugees than those who have arrived by air. Dr Khalid Koser (Lowy Institute for International Policy) notes that:
+The reason this ... point is important is that it means that arguably Australia is worrying about the wrong asylum seekers. Whereas the majority of those arriving by boat are refugees, the majority of those arriving by air are not. 28
+The figures for Europe are not as reliable due to its porous borders. While unauthorised arrival figures for Australia are more precise owing to our geography, those for Europe are only estimates. We know how many unauthorised arrivals there are in Australia because we are able to monitor unauthorised boat arrivals in Australian waters and all air arrivals at Australian airports.
+It would appear that unauthorised boat arrivals in Europe make up only a very small proportion of the ‘irregular migrants' intercepted across Europe each year as most arrive with a valid visa originally and only some of those go on to claim asylum. Even those countries along the European coasts (that naturally receive all the boat arrivals due to their geography) estimate that boat arrivals only make up a small proportion of their ‘irregular migrants'—in Italy, for example, only about 15 per cent of ‘irregular migrants' arrive by sea. Nevertheless, in 2009 it was estimated that people on board these boats comprised 70 per cent of Italy's asylum seeker arrivals:
+The vast majority of asylum seekers arrive in Italy within mixed migratory flows, travelling alongside irregular migrants, including victims of trafficking, through highly dangerous channels managed by smugglers. Whilst some of these arrive by air or by land, some 70 per cent of asylum seekers in Italy are now estimated to arrive by sea. 29
+
+Do boat arrivals ‘bring disease' and are they a threat to security?
+
+All unauthorised boat arrivals are currently transferred and detained on Christmas Island while their reasons for attempting to enter Australia are identified. Comprehensive security and health checks are also carried out:
+Unauthorised arrivals, regardless of whether they arrive on the mainland or at an excised offshore place, undergo a comprehensive and thorough assessment process, including security checking, to establish if they have a legitimate reason for staying in Australia. This process includes assessing identities, as many people dispose of all personal papers en route to Australia; assessing whether the person is raising claims which may engage Australia's protection obligations; and obtaining formal police clearances from countries of first asylum in which they have resided for at least 12 months, to confirm they are of good character...
+The department has a comprehensive process for checking the health of unauthorised arrivals. An initial health assessment is conducted to identify conditions that will require attention. This assessment includes the collection of personal and medical history, a physical examination and formalised mental health screening and assessment.
+Treatment management is coordinated through the department's contracted Health Services Manager for all people who have a clinically identified need for ongoing medical treatment. As well as the initial health assessment there are mechanisms in place to identify health needs that may emerge during a person's time in detention. All unauthorised arrivals can access appropriate health care commensurate with the level of care available to the broader community.
+A discharge health assessment is completed for each person leaving any immigration detention placement. This assessment includes the provision of a health discharge summary from the Health Services Manager to the individual, which informs future health providers of relevant health history, treatment received during detention and any ongoing treatment regimes. Where appropriate, linkages are made with relevant community health providers to facilitate ongoing care beyond discharge. 30
+Furthermore, under Australia's migration programs, applicants for any permanent visa are also required to undergo health examinations for permanent entry to Australia. Depending on the individual circumstances, reasons for entering and country of origin, temporary visa applicants may also be required to undergo a health examination. 31
+
+Are boat arrivals ‘genuine refugees'?
+
+Asylum seekers who arrive by boat are subject to the same assessment criteria as all other asylum applicants. Past figures show that between 70 and 97 per cent of asylum seekers arriving by boat at different times have been found to be refugees and granted protection either in Australia or in another country. For example:
+according to the Refugee Council of Australia, in 1998-99, approximately 97 per cent of Iraqi and 92 per cent of Afghan applicants (the majority of whom would have arrived by boat) were granted refugee status and given permanent protection visas 32
+under the ‘Pacific Solution' a total of 1637 unauthorised arrivals were detained in the Nauru and Manus facilities between September 2001 and February 2008. 33 Of those, 1153 (70 per cent) were found to be refugees and ultimately resettled to Australia or other countries 34
+during the Rudd Government approximately 90-95 per cent of assessments completed on Christmas Island resulted in protection visas being granted. 35 For example, of the 1254 claims assessed on Christmas Island between 1 July 2009 and 31 January 2010, only 110 people were assessed as not being refugees. 36 These figures suggest that 1144 (approximately 91 per cent) of those claims were successful.
+under the Refugee Status Assessment (RSA) process introduced in July 2008, people who arrive unauthorised at an excised offshore place are prevented from lodging a protection visa application until they have had their claims assessed by DIAC. 37 Of the 2914 RSA assessments completed in 2009-10, 2126 individuals (73 per cent) were found to be refugees and 788 (27 per cent) were found not to be refugees and would not have been able to lodge an application for a protection visa. In 2009-10, 572 requests for review of their primary negative RSA outcome (Independent Merits Review) were received and 184 completed. Of those completed 81 (44 per cent) were found to be refugees. 38
+the final protection visa grant rate for 2009-10 for people from Afghanistan (the majority of whom would have arrived by boat) was 99.7 per cent (this figure does not include those boat arrivals with a negative RSA outcome who would not have been able to lodge an application for a protection visa). Grant rates to people from Iraq, Iran and Burma, many of whom would also have arrived by boat, were also high, ranging from 96 to 98 per cent. 39
+In contrast, asylum claims from people who enter Australia by air on a valid visa and subsequently apply for asylum have not had such high success rates and the majority are not found to be refugees. This is demonstrated by the much lower onshore refugee recognition rates overall (air and boat arrivals combined) of around 20 or 30 per cent annually—the overall onshore refugee recognition rate for 2009 was 23. 3 per cent. 40
+In other words, past figures show that more asylum seekers who arrived by boat have been recognised as refugees than those who entered Australia by air.
+
+Do boat arrivals ‘take all Australia's refugee places'?
+
+Successful onshore applicants (boat and air arrivals) usually only make up a relatively small proportion of the total number of refugees accepted by Australia each year—usually in the region of 17 to 20 per cent (except for 2000-01 and 2009-10, when the numbers were higher due to an increase in the number of boat arrivals).
+Over the last ten years, approximately 13 000 places have been granted under Australia's Humanitarian Program each year:
+due to an increase in boat arrivals, 40. 6 per cent of the 13 733 Humanitarian Program grants in 2000-01; and 32.9 per cent of the 13 770 grants in 2009-10 were to onshore applicants (boat and air arrivals). 41
+only 19 per cent of the 13 507 humanitarian grants in 2008-09 and 17 per cent of the 13 014 visas granted in 2007-08 were protection visas granted under the onshore component. 42
+Do refugees receive higher welfare benefits than Australians?
+In recent years, a series of emails have been widely circulated throughout Australia claiming to describe higher social security entitlements for refugees, compared with those of other Australian residents. A common claim in these emails is that refugees in Australia receive higher social security benefits than age pensioners.
+There is no truth to claims that refugees are entitled to higher benefits than other social security recipients. Refugees have the same entitlements as all other permanent residents—they do not receive special refugee payments or special rates of payment.
+Given the circumstances in which refugees come to settle in Australia, they are exempt from the standard waiting period that applies to migrants seeking to access social security payments or concession cards. They also receive short-term assistance from DIAC aimed at helping them settle effectively.
+DIAC also provides funding to assist asylum seekers living in the community or in community detention through NGOs such as the Australian Red Cross. The financial component of such assistance does not exceed 89 per cent of the Centrelink Special Benefit. Limited assistance in the form of services is provided in order to assist asylum seekers living in the community or community detention to meet basic needs such as access to health and community services. Asylum seekers in immigration detention centres receive a small allowance but do not receive Centrelink equivalent payments. 43
+
+Is Australia being ‘swamped by boat arrivals'?
+
+Concerns in Australia over ‘unauthorised boat' or ‘irregular maritime' arrivals (commonly referred to as ‘boat people') have occupied successive governments since the first wave of boats arrived carrying people seeking asylum from the aftermath of the Vietnam War in 1976. 44
+In 2009, Australia intercepted about 2750 unauthorised people arriving by boat. Although the numbers for 2010 are much higher given a significant increase in boat arrivals (approximately 6800), comparisons show that the number of boat arrivals in Australia is small when compared to the flows of unauthorised arrivals in other parts of the world. For example, it is estimated that in 2006 over 72 000 persons and in 2007 over 51 000 persons arrived by boat on the coasts of Italy, Spain, Greece and Malta alone. 45
+Even in the previous peak boat arrival years of the 1970s (when just over 2000 people arrived by boat over a five year period) and 1999-2001 (when around 12 000 people arrived by boat over a three year period) the arrival numbers in Australia were small compared to other destination cou ntries. 46
+
+Is Australia being ‘swamped with asylum claims'?
+
+The UNHCR summarises trends in the number of individual asylum claims submitted in forty four industrialised countries in Europe and selected non-European countries each year. In 2009 these countries received an estimated 377 200 asylum applications. 47
+Around the world most asylum claims are lodged in Europe, the USA and Canada—in fact more asylum claims are lodged in Europe (particularly in France, Germany and the UK) than in any other part of the world. 48 Asylum claims in Europe have remained stable over the last three years with 286 700 asylum claims in 2009; 283 700 in 2008; and 249 600 in 2007.
+In 2009, the largest number of asylum claims for an industrialised country was experienced by the USA with 49 000 claims, closely followed by France with 42 000 and Canada with 33 300 claims. 49
+In comparison, a relatively small number—6500 claims—were lodged in Australia and New Zealand combined in 2009. 50 51 RCOA commented that:
+In 2009, Australia received 6170 asylum applications, just 1. 6 per cent of the 377 160 applications received across 44 industrialised nations ... Of the 44 nations; Australia was ranked 16th overall and was 21st on a per capita basis. 51
+
+Do developed countries bear the burden of hosting asylum seekers and refugees?
+
+It is true that Australia is one of only about 20 nations worldwide that participate formally in the UNHCR's resettlement program and accepts quotas of refugees on an annual basis. 52 In 2008, under this program, Australia accepted the third largest number of refugees (includes refugees and other humanitarian entrants) for resettlement in the world (8742) after the USA (60 191) and Canada (10 804). 53 54
+However, in terms of the total number of ‘people of concern' globally, the UNHCR's resettlement program currently contributes to resettling only a small proportion of the world's refugees. About 76 to 90 per cent of refugees remain in their region of origin placing the burden on neighbouring countries:
+The available statistical evidence demonstrates that most refugees flee to neighbouring countries, remaining in their region of origin. The major refugee-generating regions hosted on average between 76 and 91 per cent of refugees from within the same region. UNHCR estimates that some 1.7 million refugees (17 per cent out of the total of 10. 4 million) live outside their region of origin. 54
+The vast majority of asylum seekers and refugees are hosted in developing countries, so the burden of assisting the world's asylum seekers and refugees actually falls to some of the world's poorest countries. UNHCR's data shows that Pakistan is host to the largest number of refugees worldwide, followed by Iran and Syria. Pakistan also hosted the largest number of refugees relative to its economic base (745 refugees per 1 USD GDP per capita), followed by the Congo and Zimbabwe. 55
+
+Summary
+
+Australia has a long history of accepting refugees for resettlement and over 700 000 refugees and displaced persons have settled in Australia since 1945.
+There is a difference between an asylum seeker and a refugee—asylum seekers are people seeking international protection but whose claims for refugee status have not yet been determined. Although those who come to Australia by boat seeking Australia's protection are classified by Australian law to be ‘unlawful non-citizens', they have a right to seek asylum under international law and not be penalised for their ‘illegal' entry.
+Up until 2009 only a small proportion of asylum applicants in Australia arrived by boat—most arrived by air with a valid visa and then went on to pursue asylum claims. While the number of boat arrivals has risen substantially in recent years, it is worth noting that they still comprise less than half of onshore asylum seekers in Australia and a greater proportion of those arriving by boat are recognised as refugees.
+There is no orderly queue for asylum seekers to join. Only a very small proportion of asylum seekers are registered with the UNHCR and only 1 per cent of those recognised by the UNHCR as refugees who meet the resettlement criteria are subsequently resettled to another country. As the overall number of asylum applications has continued to rise, states are increasingly taking responsibility for refugee status determination.
+All unauthorised boat arrivals in Australia are subject to the same assessment criteria as other asylum applicants and also are subject to comprehensive security and health checks.
+Claims that refugees in Australia are entitled to higher benefits than other social security recipients are unfounded.
+In recent years, the Australian Government has allocated around 13 000 places to refugees and others with humanitarian needs under its planned Humanitarian program. 56 Most of these places have been given to offshore refugees referred to Australia by the UNHCR, but some are given to refugees who applied for asylum onshore.
+The number of people arriving unauthorised by boat in Australia, is small in comparison to the numbers arriving in other parts of the world such as Europe. Similarly, the number of asylum claims lodged in Australia is small in comparison to the USA, Canada and Europe.
+While only about 20 developed nations, including Australia, participate formally in the UNHCR's refugee resettlement program, the vast majority of asylum seekers and refugees are hosted in developing countries.
+
+Key resources
+
+Parliamentary Library
+Buckmaster L, Australian Government assistance to refugees: fact v fiction, Background note, Parliamentary Library, Canberra, 2009.
+Millbank A, The detention of boat people, Current issues brief, no. 8, 2000-01, Parliamentary Library, Canberra, 2001; and Boat people, illegal migration and asylum seekers: in perspective, Current issues brief, no. 13, 1999-2000, Parliamentary Library, Canberra, 1999.
+Millbank A and Phillips J, Protecting Australia's Borders, Research note, no. 22, 2003-04, Parliamentary Library, Canberra, 2003.
+Phillips J, Temporary Protection Visas, Research note, no. 51, 2003-04, Parliamentary Library, Canberra, 2004.
+Phillips J and Spinks H, Boat arrivals in Australia since 1976, Background note, Parliamentary Library, Canberra, 2009.
+Spinks H, Australia's settlement services for migrants and refugees, Research paper, Parliamentary Library, Canberra, 2009; and Refugees and asylum seekers: a guide to key electronic resources, Background note, Parliamentary Library, Canberra, 2009.
+General
+Betts K, 'Boatpeople and public opinion in Australia', People and place, vol. 9, no. 4, 2001, pp. 34-38; and 'Boatpeople and the 2001 election', People and place, vol. 10, no. 3, 2002, pp. 36-54.
+DIAC, Australia's refugee and humanitarian program, fact sheet no. 60; and Refugee and humanitarian issues: Australia's response, June 2009.
+Edmund Rice Centre, 'Debunking asylum myths in 2010', Just comment, vol. 12 no. 5, 2009.
+Getup, Australia and asylum seekers: the myths and the facts, October 2009.
+Hatton T, The rise and fall of asylum: what happened and why? Centre for Economic Policy Research, ANU, Discussion paper no. 577, 2008.
+Hatton T and Lim A, 'Australian asylum policy: the Tampa effect', Agenda, vol. 12, no. 2, 2005, pp. 115-130.
+Human Rights and Equal Opportunity Commission, Those who've come across the sea: detention of unauthorised arrivals, Canberra, 1998.
+Joint Standing Committee on Migration, Inquiry into immigration detention in Australia: a new beginning: criteria for release from detention, Canberra, December 2008; and Immigration detention in Australia: community-based alternatives to detention, Canberra, May 2009.
+McMaster D, Asylum seekers: Australia's response to refugees, Melbourne University Press, Melbourne, 2001.
+Refugee Council of Australia, Australia's refugee program facts and stats.
+United Nations High Commissioner for Refugees, Asylum levels and trends in industrialized countries 2008, March 2009; 2008 Global trends: refugees, asylum-seekers, returnees, internally displaced and stateless persons, June 2009; and Statistical yearbooks.
+Viviani N, The long journey: Vietnamese migration and settlement in Australia, Melbourne University Press, Melbourne, 1984; and The Indochinese in Australia 1975-1995: from burnt boats to barbecues, Oxford University Press, Melbourne, 1996.
+© Commonwealth of Australia 2011
+This work is copyright. Except to the extent of uses permitted by the Copyright Act 1968, no person may reproduce or transmit any part of this work by any process without the prior written consent of the Parliamentary Librarian. This requirement does not apply to members of the Parliament of Australia acting in the course of their official duties.
+This work has been prepared to support the work of the Australian Parliament using information available at the time of production. The views expressed do not reflect an official position of the Parliamentary Library, nor do they constitute professional legal opinion.
+Feedback is welcome and may be provided to: web.librarv@aph.gov.au. Any concerns or complaints should be directed to the Parliamentary Librarian. Parliamentary Library staff are available to discuss the contents of publications with Senators and Members and their staff. To access this service, clients may contact the author or the Library's Central Entry Point for referral.
+
+Endnotes
+
+1	D McMaster, Asylum seekers: Australia's response to refugees, Melbourne University Press, Melbourne, 2001, p. 9.
+2	United Nations High Commission for Refugees (UNHCR), 2009 Global trends, Geneva, June 2010, p. 1, viewed 15
+December 2010, http://www.unhcr.org/4c11f0be9.html The UNHCR collects statistics for several population categories collectively referred to as ‘persons of concern': Refugees: individuals recognised under the 1951 Convention relating to the Status of Refugees; its 1967 Protocol; the 1969 OAU Convention Governing the Specific Aspects of Refugee Problems in Africa; those recognised in accordance with the UNHCR Statute; individuals granted complementary forms of protection; or, those enjoying ‘temporary protection'. The refugee population includes people in a refugee-like situation. Asylum-seekers: individuals who have sought international protection and whose claims for refugee status have not yet been determined. Internally displaced persons: people or groups of individuals who have been forced to leave their homes or places of habitual residence, in particular as a result of, or in order to avoid the effects of armed conflict, situations of generalised violence, violations of human rights or natural, or human-made disasters, and who have not crossed an international border, UNHCR, 2008 Global trends, Geneva, June 2009, pp. 3-6, viewed 15 December 2010, http://www.unhcr.org/4a375c426.html
+3	Former Minister for Immigration and Citizenship, Senator Chris Evans is reported to have acknowledged ‘that the 4750 people seeking asylum in Australia in 2008 was relatively small in global terms'. See C Evans (Minister for Immigration and Citizenship), UNHCR report confirms worldwide increase in asylum seekers, media release, Canberra, 17 June 2009, viewed 19 April 2010, http://www.minister.immi.gov.au/media/media-releases/2009/ce09054.htm and in one of her first speeches as Prime Minister Julia Gillard acknowledged that in 2009 Australia only received 0. 6 per cent of the world's asylum seekers; see J Gillard (Prime Minister), ‘Moving Australia forward: address to the Lowy Institute', Sydney, 6 July 2010, viewed 15 December 2010, http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22media%2Fpressrel%2FIE8X6%22
+4	Department of Immigration and Citizenship (DIAC), Key facts in immigration, fact sheet no. 2, DIAC website, viewed
+      15 December 2010, http://www.immi.gov.au/media/fact-sheets/02key.htm
+5	UNHCR, Convention relating to the status of refugees, UNHCR, Geneva, 2007, p. 16, viewed 5 May 2010, http://www.unhcr.org/3b66c2aa10.pdf
+6	UNHCR, ‘Who are refugees?', UNHCR website, viewed 30 April 2010, http://unhcr.org.ua/main.php?article id=5&view=full
+7	UN, The universal declaration of human rights, 1948, UN website, viewed 6 May 2010, http://www.un.org/en/documents/udhr/; and UNHCR, Convention relating to the status of refugees, op. cit.
+8	UNHCR, ‘Basic definitions', UNHCR website, viewed 3 May 2010, http://www.unhcr.org.au/basicdef.shtml#def06
+9	Refugee Council of Australia (RCOA), ‘Australia's refugee program: frequently asked questions', RCOA website, viewed 3 May 2010, http://www.refugeecouncil.org.au/arp/faqs.html
+10	See DIAC, Seeking asylum within Australia, fact sheet no. 61, DIAC website, viewed 15 April 2010, http://www.immi.gov.au/media/fact-sheets/61asylum.htm
+11	DIAC, Processing unlawful boat arrivals, fact sheet no. 76, DIAC website, viewed 22 April 2010, http://www.immi.gov.au/media/fact-sheets/75processing-unlawful-boat-arrivals.htm
+12	DIAC, Overstayers and other unlawful non-citizens, fact sheet no. 86, DIAC website, viewed 15 April 2010, http://www.immi.gov.au/media/fact-sheets/86overstayers-and-other-unlawful-non-citizens.htm
+13	DIAC, Population Flows 2008—09, p. 75, DIAC, Canberra, 2010, viewed 15 December 2010, http://www.immi.gov.au/media/publications/statistics/popflows2008-09/
+14	F Duvell, ‘Illegal immigration in Europe', Rear Vision, ABC Radio National, interview, 10 February 2010, viewed 16 March 2010, http://www.abc.net.au/rn/rearvision/stories/2010/2808706.htm
+15	European Commission, An opportunity and a challenge: migration in the European Union, European Union, Brussels, 2009, May 2009, viewed 19 March 2010, http://ec.europa.eu/publications/booklets/move/81/index en.htm
+16	IOM, Facts and figures, IOM website, viewed 16 March 2010, http://www.iom.int/jahia/Jahia/about-migration/facts- and-figures/lang/en
+17	IOM, Towards a fair deal for migrant workers in the global economy, ILO, Geneva, 2004, p. 11, viewed 22 April 2010,
+http://www.ilo.org/wcmsp5/groups/public/—dgreports/—dcomm/documents/meetingdocument/kd00096.pdf
+18	P Power, ‘Speech to ALP National Conference fringe event: which way forward? Refugee, security and the Asia- Pacific', 31 July 2009, RCOA website, viewed 3 May 2010, http://www.refugeecouncil.org.au/docs/resources/0907 ALP Fringe.pdf
+19	UNHCR, Statistical yearbook 2009, UNHCR, Geneva, 2010, p. 36, viewed 15 December 2010, http://www.unhcr.org/4ce532ff9.html
+20	Ibid. p. 30; UNHCR, Statistical yearbook 2008, UNHCR, Geneva, 2009, pp. 10-11; and Statement by Erika Feller (UNHCR's Assistant High Commissioner for Protection) at 58th session of the Executive Committee of the High Commissioner's Program, 3 October 2007, cited in UNHCR, ‘Frequently asked questions about resettlement', UNHCR webpage, p. 1, viewed 15 December 2009, http://www.unhcr.org/4ac0873d6.html
+21	UNHCR, ‘Frequently asked questions about resettlement', op. cit., p. 5.
+22	UNHCR, Global trends 2008, op. cit., p. 4.
+23	UNHCR, Global trends 2009, op. cit., p. 6.
+24	A Millbank, The problem with the 1951 Refugee Convention, Parliamentary Library, Canberra, 2000, viewed 23 April, http://www.aph.gov.au/library/pubs/rp/2000-01/01RP05.htm .
+25	UNHCR, Global trends 2009, op. cit., p. 1.
+26	DIAC, The facts about immigration detention, media release, 3 July 2009, viewed 15 April 2010, http://www.newsroom.immi.gov.au/media releases/739?page=4&
+27	As onshore asylum application data does not specify the mode of arrival of each applicant, it is only possible to roughly calculate the proportions. For more detail see J Phillips and H Spinks, Boat arrivals in Australia since 1976, Background note, Parliamentary Library, Canberra, 2010, viewed 15 December 2010,
+http://www.aph.gov.au/library/pubs/BN/sp/BoatArrivals.pdf and E Karlsen and J Phillips, Seeking asylum: Australia's humanitarian response to a global challenge, Background note, Parliamentary Library, Canberra, 2010, viewed 15 December 2010, http://www.aph.gov.au/library/pubs/BN/sp/SeekingAsylum.pdf
+28	K Koser, Responding to boat arrivals in Australia: time for a reality check, Lowy Institute for International Policy,
+      Sydney, 2010, p. 6, viewed 15 December 2010, http://www.lowyinstitute.org/Publication.asp?pid=1477
+29	UNHCR, Refugee protection and international migration: a review of UNHCR's operational role in southern Italy,
+     UNHCR, Geneva, September 2009, pp. 12 and 55, viewed 16 March 2010, http://www.unhcr.org/4ac35c600.pdf
+30	DIAC, Processing unlawful boat arrivals, op. cit.
+31	DIAC, Health requirements for visa applicants, DIAC webpage, viewed 22 April 2010, http://www.immi.gov.au/allforms/health-requirements/
+32	RCOA, Statement on ‘illegal' boat arrivals, RCOA, NSW, 15 November 1999, viewed 23 April 2010, http://www.refugeecouncil.org.au/docs/resources/ppapers/pp-boatarrivals-nov99.pdf
+33	The ‘Pacific Solution' refers to the decision made by the Howard Government in 2001 to excise some of Australia's territory from the migration zone in order to discourage non-citizens from arriving unlawfully in Australian territory by boat. Subsequent boat arrivals intercepted at sea were either returned to Indonesia or removed to third countries in the Pacific (Nauru and Manus Island). These border protection measures become known as the ‘Pacific Solution'.
+34	C Evans (Minister for Immigration and Citizenship), Last refugees leave Nauru, media release, 8 February 2008, viewed 9 December 2009, http://www.minister.immi.gov.au/media/media-releases/2008/ce08014.htm
+35	DIAC, Annual Report 2008-09, DIAC, Canberra, 2009, p. 96, viewed 23 April 2010, http://www.immi.gov.au/about/reports/annual/2008-09/html/outcome1/output1-2-2.htm . Estimates may be calculated from figures provided in the report.
+36	Senate Legal and Constitutional Affairs Committee, Answers to questions on notice, Immigration portfolio, Additional Budget Estimates, 9 February 2010, Questions 30 and 32, viewed 16 April 2010, http://www.aph.gov.au/senate/committee/legcon ctte/estimates/add 0910/diac/32 qon.pdf and http://www.aph.gov.au/senate/committee/legcon ctte/estimates/add 0910/diac/30 qon.pdf
+37	DIAC, Processing irregular maritime arrivals, fact sheet no. 75, DIAC website, viewed 21 December 2010, http://www.immi.gov.au/media/fact-sheets/75processing-irregular-maritime-arrivals.htm#d
+38	DIAC, Annual report 2009-10, DIAC, Canberra, 2010, p. 119, viewed 15 December 2010, http://www.immi.gov.au/about/reports/annual/2009-10/
+39	Ibid., p. 113.
+40	UNHCR, Statistical yearbooks, UNHCR, Geneva, (various years), viewed 16 April 2010, http://www.unhcr.org/pages/4a02afce6.html; and UNHCR, Statistical yearbook 2009, op. cit., statistical annexe, p. 88.
+41	DIAC, Annual report, op. cit., p. 104; and Department of Immigration and Multicultural and Indigenous Affairs (DIMIA), Immigration snapshot 2003-04, DIAC website, viewed 3 December 2009, http://www.immi.gov.au/media/publications/statistics/immi-snap-shot/immisnapshot-v1.pdf.
+42	C Evans (Minister for Immigration and Citizenship), Australia delivers on refugee commitments, media release, Canberra, 1 September 2009, http://www.minister.immi.gov.au/media/media-releases/2009/ce09079.htm; and DIAC, Australia's refugee and humanitarian program, fact sheet no. 60, DIAC website, viewed 16 April 2010, http://www.immi.gov.au/media/fact-sheets/60refugee.htm and DIAC, Population Flows 2007-08, DIAC, Canberra, 2009, chapter 4, p. 67, viewed 1 December 2009, http://www.immi.gov.au/media/publications/statistics/popflows2007-08/
+43	See the following publication for further detail: L Buckmaster, Australian Government assistance to refugees: fact v fiction, Background note, Parliamentary Library, Canberra, 2009, viewed 4 May 2010, http://www.aph.gov.au/Library/pubs/BN/sp/AustGovAssist Refugees.pdf
+44	See J Phillips and H Spinks, Boat arrivals in Australia since 1976, op. cit.
+45	Council of Europe, Europe's 'boat-people' mixed migration flows by sea into southern Europe, UNHCR webpage, 11 July 2008, viewed 6 May 2010, http://www.unhcr.org/refworld/pdfid/487c61f616.pdf For more information see, UNHCR, Irregular migration by sea: frequently asked questions, UNHCR website, 28 May 2009, viewed 15 December 2010, http://www.unhcr.org/4a1e48f66.html
+46	Senate Legal and Constitutional Affairs Committee, Answers to questions on notice, Immigration portfolio, Question 48, 20 October 2009, viewed 16 April 2010, http://www.aph.gov.au/senate/committee/legcon ctte/estimates/sup 0910/diac/48 qon.pdf
+47	UNHCR, Asylum levels and trends in industrialized countries 2009, UNHCR, Geneva, 2010, pp. 3-4, viewed 5 May 2010, http://www.unhcr.org/4ba7341a9.html
+48	H Spinks, Refugees and asylum seekers: a guide to key electronic resources, Background note, Parliamentary Library, Canberra, 2009, viewed 16 March 2010, http://www.aph.gov.au/library/pubs/BN/sp/AsylumSeekers Resources.htm; and UNHCR, Asylum levels and trends in industrialized countries 2009, op. cit.
+49	UNHCR, Asylum levels and trends in industrialized countries 2009, op. cit., p. 5.
+50	Ibid., p. 5.
+51	RCOA, Australia makes modest contribution to protecting victims of persecution, media release, 24 March 2010, viewed 5 May 2010,
+http://www.refugeecouncil.org.au/docs/releases/2010/100324%20RCOA%20response%20to%20UNHCR%20stats.pd f
+52	J Phillips and H Spinks, op. cit.
+53	US Committee for Refugees and Immigrants (USCRI), World refugee survey 2009, USCRI website, Tables and graphs, Resettlement by country, viewed 16 April 2010, http://www.refugees.org/FTP/WRS09PDFS/Resettlementbycountry.pdf and http://www.refugees.org/article.aspx?id=2324&subm=179&area=About%20Refugees&
+54	UNHCR, 2009 Global trends, op. cit., p. 6.
+55	Ibid., p. 1.
+56	DIAC, Australia's refugee and humanitarian program, op. cit.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+

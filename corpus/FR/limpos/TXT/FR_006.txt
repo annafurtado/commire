@@ -1,0 +1,291 @@
+﻿<Header>
+	<title>
+		<tit> Personnes en exil </tit>
+		<fileName> PE_FR </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Booklet </textType>
+		<subcorpus> Original French  </subcorpus>
+	</title>
+	<sourceText>
+		<language> French (France) </language>
+		<source> http://onestici.net/wp-content/uploads/2018/05/personnes_en_exil.pdf </source> 
+		<publisher> Atelie 36 </publisher>
+		<pubDate> May 9, 2017 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> April 18, 2019 </accessDate>
+		<researcher> Anna Beatriz Dimas Furtado </researcher> 
+	</sourceText>
+	<author>
+		<institution>  Atelie 36 </institution>
+	</author>
+</Header>
+
+BRETAGNE
+Personnes en exil
+Comprendre & aider les migrants, demandeurs d'asile et réfugiés
+31 mai 2016
+Préambule
+Ce document est un outil pédagogique et synthétique d'information sur les problématiques des migrants, demandeurs d'asile et réfugiés. Il est destiné aux personnes qui souhaitent apporter leur aide aux migrants, mais qui manquent d'information et ne savent pas où s'adresser. Il est volontairement résumé et n'a pas pour vocation de se substituer aux documents officiels.
+Il sera régulièrement mis à jour, et toujours disponible gratuitement à l'adresse suivante : http://www.atelier36.net/migrants
+Si vous êtes un collectif ou une association venant en aide aux migrants et demandeurs d'asile, en Bretagne, et que vous souhaitez figurer dans ce guide, si vous repérez des erreurs, si vous souhaitez suggérer des améliorations, ou si vous souhaitez décliner ce guide pour une autre région, envoyez un mail à guide.migrants@gmail.com
+
+Ce document est destiné à être diffusé gratuitement à toute personne qui en aurait besoin, mais ne peut en aucun cas être vendu ou utilisé à des fins commerciales.
+
+DÉFINITIONS
+Un migrant, selon la définition de l'ONU, est une personne née dans un pays et vivant dans un autre pour une durée supérieure à un an, quelles qu'en soient les raisons. Ce terme n'est donc pas forcément adéquat pour désigner les personnes qui fuient leur pays en guerre ou dans une situation économique invivable. Mais c'est le terme le plus couramment utilisé dans les médias. Un réfugié, au sens littéral du terme, est une personne forcée de quitter son pays à cause d'une crise politique majeure : guerre, violences ethniques. Ce terme serait plus adéquat, mais il designe aussi le statut d'une personne dont la situation correspond à la définition qui se trouve dans la Convention de Genève de 1951. Un demandeur d'asile est une personne ayant fui son pays parce qu'elle y a subi des persécutions, ou craint d'en subir, qui est en quête d'une protection internationale et dont la demande de statut de réfugié n'a pas encore fait l'objet d'une décision définitive.
+LES RAISONS DE L'EXIL
+Chaque jour, des centaines de personnes risquent leur vie à la recherche de conditions correctes d'existence. Quitter son pays, sa maison, ses proches, parfois une partie ou la totalité de sa famille, sa culture, est un acte difficile et traumatisant qui n'est choisi qu'en dernier recours. Les causes en sont le plus souvent multiples : catastrophes naturelles, conflits armés, épuration ethnique, persécutions, etc.
+PLUS D'INFOS :
+Vidéo : Exemples de situations menant à l'exil, et les chemins empruntés : http://bit.ly/1QoOsxU
+LE CHEMIN
+La politique d'asile définie par les accords de Dublin fait reposer la prise en charge des demandeurs d'asile par le pays par lequel ils sont entrés dans l'union Européenne. Cet accord pose problème parce que la majorité des migrants ne souhaitent pas résider dans les pays en question (par exemple l'Italie ou la Grèce). Ils ont plus souvent pour objectif des pays comme l'Allemagne, Le Royaume-Uni ou la Suède. Mais la majeure partie des flux migratoires passe par les aéroports internationaux de l'UE.
+La France n'est le plus souvent qu'une étape pour les migrants souhaitant atteindre le Royaume-Uni.
+PLUS D'INFOS :
+Article : Comprendre la crise des migrants en Europe en cartes, graphiques et vidéos : http://bit.ly/1LPlLKe
+Vidéo : Migrants, la crise européenne expliquée en cartes : http://bit.ly/1jj2pDi
+LA DEMANDE D'ASILE
+Il est difficile de définir un parcours type dans les démarches administratives, tant les profils et situations des demandeurs d'asile sont diverses, qui-plus-est les lois changent régulièrement, ce qui implique pour les associations, organismes et bénévoles qui apportent assistance de se tenir au courant régulièrement de ces changements.
+La dernière version du CESEDA (Code de l'Entrée et du Séjour des Étrangers et du Droit d'Asile) date de novembre 2015. Les étrangers qui arrivent en France pour une demande d'asile peuvent y être entrés grâce à un visa touristique de 3 mois, et passé ce délai, ils font une demande d'asile. Ils peuvent être entrés avec de faux papiers, ou sans visa à l'aide d'un passeur. Dans ce dernier cas de figure, la plupart ne possède plus de papiers, ni de passeport, celui-ci leur ayant été retiré par les passeurs.
+Préfecture - Pré-accueil à Brest - Guichet unique à Rennes [DUBLIN III] - Procédure accélérée / Procédure normale - OFPRA Fontenay sous-bois - Réponse positive / Réponse négative - Statut réfugié / Protection subsidiaire - Recours CNDA - OQTF
+La préfecture et le pré-accueil
+La personne ou la famille qui souhaite déposer une demande d'asile dispose de 120 jours après son entrée dans le territoire pour se rendre à la Préfecture. Celle-ci va enregistrer la demande et rediriger le demandeur vers une association de pré-accueil. Dans le Finistère, l'association chargée du pré-accueil est Coallia, qui se trouve à Brest. Lors de ce premier entretien, Coallia explique au demandeur quelles seront les différentes étapes. Elle enregistre la demande d'asile, prend rendez-vous et remet une convocation au « guichet unique » à la Prefecture de Rennes, où devra se rendre le demandeur d'asile pour enregistrer officiellement sa demande, sous 3 à 10 jours.
+Le guichet unique
+L'agent de préfecture valide les informations, relève les empreintes des 10 doigts, et procède à un entretien individuel. A l'issue de cette première étape, l'agent informe sur la procédure qui sera mise en place.
+Si la demande d'asile est susceptible de relever de la responsabilité d'un autre pays, la procédure dite « Dublin III » est enclenchée. La préfecture procède alors aux démarches auprès de cet état pour qu'il prenne en charge le demandeur. Si le demandeur a la nationalité d'un pays dit « sûr », si ses empreintes ont été effacées, si la demande est hors délai, si il y a suspicion de fraude, etc. est alors enclenchée une procédure accélérée.
+Dans ce cas, la personne ne dispose que de 15 jours pour déposer son dossier, et ne bénéficie d'aucune aide.
+Sinon est enclenchée une procédure normale : la personne bénéficie alors d'un titre de séjour provisoire de 3 mois, renouvelable le temps de l'étude de sa demande. Il dispose de 21 jours pour le dépôt de sa demande d'asile. Celle-ci doit être rédigée en français. Il peut alors bénéficier d'une allocation de demandeur d'asile (ADA), et d'une place en Centre d'accueil de demandeur d'Asile (CADA) ou autre lieu d'hébergement.
+Etude de la demande d'asile par l'OFPRA
+La demande d'asile est étudiée par l'Office français de protection des réfugiés et apatrides (OFPRA), qui convoque ensuite le demandeur pour un entretien individuel, si besoin en présence d'un interprète. Lors de cet entretien, le demandeur doit exposer sa situation, apporter des preuves de la gravité de sa situation.
+PLUS D'INFOS :
+Espoir d'asile - http://bit.ly/1Sv01qy
+Dans le cadre d'une procédure prioritaire, la réponse de l'OFPRA s'effectue sous 15 jours.
+En procédure normale, la réponse peut ne prendre que quelques semaines, si l'officier de protection estime que les informations qui lui sont transmises n'exigent pas de vérification. Dans la cas contraire, une enquête peut-être mise en place dans le pays du demandeur, ce qui rallonge le temps de réponse. 
+Si la réponse est positive
+Dans 24% environ des cas, la réponse est positive, l'OFPRA accorde le statut de réfugié, ou une protection subsidiaire.
+- Le statut de réfugié donne droit à une carte de résident de 10 ans, renouvelable.
+- La protection subsidiaire est accordée à toute personne qui ne remplit pas les conditions du statut de réfugié, mais pour laquelle il existe des raisons de croire qu'elle encourt dans son pays le risque de subir des atteintes à sa personne (menace de mort, torture...). Cette protection donne droit à une carte de résident temporaire d'un an, renouvelable ensuite pour des durées de 2 ans.
+Dans les 2 cas, le demandeur entre ainsi dans le droit commun.
+Si la réponse est négative
+Dans 76% environ des cas, l'OFPRA refuse le droit d'asile. Le demandeur dispose d'un délai d'un mois pour déposer un recours devant la Cour Nationale du Droit d'Asile (CNDA). L'audience est publique, et il peut être assisté d'un avocat.
+La réponse se fait sous 21 jours. Si celle-ci est positive, il bénéficie du statut de réfugié ou de la protection subsidiaire.
+S'il est de nouveau débouté, il peut faire l'objet d'une mesure de reconduite à la frontière, il doit quitter le territoire, et se retrouve en situation irrégulière s'il reste en France.
+Vous voulez AGIR?
+Les migrants qui arrivent en France sont en situation de fragilité, souvent désarmés face aux complexités des procédures. Le dépot d’une demande d’asile est d’autant plus compliquée pour eux qu’ils doivent rédiger les documents en français. Plusieurs associations apportent leur aide et leur expertise dans ce domaine, via un accompagnement régulier, ou par exemple en tenant des permanences pendant lesquelles les migrants peuvent demander de l’aide, obtenir un suivi de leur dossier, et si besoin être redirigés vers les organismes compétents.
+ASTI - Saint-Brieuc
+ACTIONS :
+L'association a pour but d'accueillir, d'aider, d'orienter les migrants et demandeurs d'asile dans leurs démarches afin de favoriser l'intégration des Étrangers par l'apprentissage du français. L'ASTI vise aussi l'information de l'opinion publique sur la situation des migrants en France.
+COORDONNÉES :
+12 Rue Gustave Eiffel, 22000 Saint-Brieuc
+02 96 68 64 72
+Email : j.letroquer@laposte.net
+la Cimade	
+ACTIONS :
+Permanences d'accès aux droits pour les demandeurs d'asile et les personnes étrangères en situation administrative précaire, accompagnement physique auprès des administrations et dans les tribunaux, intervention dans les établissements pénitentiaires, aide à l'exercice des droits des personnes enfermées au centre de rétention administrative, visites des personnes retenues au CRA et témoignages, apprentissage de la langue française.
+COORDONNÉES
+SAINT BRIEUC
+Email : saint-brieuc@lacimade.org
+BREST - 06 50 77 18 40
+Email : cimade.brest@gmail.com
+QUIMPER
+Email : antenne.quimper@lacimade.org
+RENNES
+Email : rennes@lacimade.org
+LORIENT - 07.81.31.45.91
+VANNES - 07 81 84 93 56 email: morbihan@lacimade.org
+Site web national : http://www.lacimade.org/
+COLLECTIF DE SOUTIEN AUX PERSONNES SANS-PAPIERS
+ACTIONS : Lutter pour la suppression du statut de
+« sans-papiers » et pour l'égalité entre toutes les personnes qui ont fait le choix de résider ici, quelle que soit la raison de ce choix.
+COORDONNÉES
+RENNES - http://www.sp35.org
+VITRÉ - sanspap-vitre35@rezo.net
+LANNION - 02 96 47 27 27 actregor@wanadoo.fr philippe.vital@wanadoo.fr
+CONSEIL DES MIGRANTS
+Rennes
+ACTIONS :
+Défendre les droits des étrangers sur le territoire français et européen
+COORDONNÉES :
+06 45 11 85 57
+Email : conseildesmigrants@yahoo.fr
+DROIT D'ASILE
+QUIMPER CORNOUAILLE
+ACTIONS : Apporter aide et soutien aux demandeurs d’asile afin d’assurer le respect des droits de l’Homme. Les aider dans leurs démarches, vérifier s’ils bénéficient bien de toutes les aides et des droits auxquels ils peuvent prétendre. Les orienter vers des associations d’apprentissage du français, leur apporter une aide financière pour répondre à leurs frais d’avocat.
+COORDONNÉES
+Email : droitdasileqc29@hotmail.fr
+Ligue des droits de l'Homme
+ACTIONS: Association visant à l'observation, la défense et la promulgation des droits de l'homme au sein de la République française, dans tous les domaines de la vie publique.
+COORDONNÉES :
+LOUDÉAC
+02 96 25 62 91 - Email : ldhloudeac@orange.fr
+Site : http://bit.ly/1NnZzex
+DINAN
+02.56.38.16.96 - Email : dinan@ldh-france.org
+SAINT-BRIEUC
+02 96 52 41 05 - Email : ldh.st-brieuc@ldh-france.org
+TREGOR-GOELO
+02 96 20 62 93 - Email : ldh.tregor-goelo@orange.fr
+SECTION BREST
+02 98 02 29 75 - Email : ldhbrest-bmo@hotmail.fr
+CHATEAULIN
+Email : ldhchateaulin@gmail.com
+CONCARNEAU / RIEC-SUR-BELON / QUIMPERLÉ
+Tél : 02 98 50 69 66
+Email : ldh-concarneau-riec.sur.belon-quimperle@orange.fr
+Site : http://bit.ly/1WhlzcI
+MORLAIX
+06 22 07 77 98 - Email : ldhmorlaix@laposte.net
+PRESQU’ÎLE DE CROZON
+02 98 27 01 68 - Email : ldhpresquilecrozon@ldh-france.org
+QUIMPER
+Email : ldh.quimper@yahoo.fr
+http://ldh-quimper.hautefort.com/
+PAYS DE REDON
+06 16 95 29 44 - Email : ldhredon@gmail.com
+Site : http://bit.ly/1NnZBmN
+RENNES
+06 37 30 23 52 - Email : rennes@ldh-france.org
+Site : http://bit.ly/1ppnsXS
+SAINT-MALO
+02 99 40 24 74 - Email : saint-malo@ldh-france.org
+LORIENT
+06 86 63 91 22 - Email : ldh-lorient@ldh-france.org
+Site : http://bit.ly/1rqh8kK
+SECTION DE PLOERMEL
+06 52 90 44 98 - Email : ldh.ploermel@free.fr
+Site : http://bit.ly/1NFwfex
+SECTION VANNES
+06 77 67 09 33 - Email : ldh.gwened@gmail.com
+LE LOGEMENT
+A n'importe quel niveau d'avancement de la demande de droit d'asile, l'hébergement est un souci constant. Dans 40% des cas, la personne trouve une place en Centre d'Accueil pour Demandeur d'Asile (CADA).
+« Les Centres d'Accueil de Demandeurs d'Asile (CADA) offrent aux demandeurs d'asile un lieu d'accueil pour toute la durée de l'étude de leur dossier de demande de statut de réfugié. Cet accueil prévoit leur hébergement, ainsi qu'un suivi administratif (accompagnement de la procédure de demande d'asile), un suivi social (accès aux soins, scolarisation des enfants, etc.) et une aide financière alimentaire. Les CADA sont en général gérés par des associations ou des entreprises. »
+Il y a 11 CADA en Bretagne, qui représenteraient un peu plus de 1000 places. La liste complète avec les coordonnées est disponible ici : http://bit.ly/1SM3sLf
+Il est important de savoir que lorsqu'un demandeur d'asile dépose une demande, il coche généralement une case stipulant qu'il s'engage à accepter la place en CADA qui lui sera éventuellement proposée. S'il ne le fait pas, il remet en cause sa demande de droit d'asile. Donc quel que soit l'hébergement qu'il aura trouvé préalablement, dès qu'une place lui est proposée, ou qu'elle soit, il doit s'y rendre.
+Les logements en CADA peuvent être des logements collectifs, des studios ou des appartements dans des immeubles. Les logements sont généralement rudimentaires.
+Dans 60% des cas, le demandeur n'obtient pas de logement en CADA. Il est alors parfois hébergé chez des compatriotes, ou se retrouve à la rue et enchaîne les hébergements d'urgence. 
+Vous voulez AGIR ?
+Il est possible d’héberger un demandeur d’asile en cours de procédure, s’il n’a pas obtenu de place en CADA. Des hébergements sont également parfois nécessaires pour les personnes qui ont été déboutées, le temps de leur recours. Il est aussi possible de participer collectivement au financement de logements. Les logements en CADA étant parfois très rudimentaires, il peut aussi être possible d’aider par du prêt de mobilier ou équipements.
+ACCUEIL SANS FRONTIÈRES - Locmiquélic 
+ACTIONS :
+L'association recherche et paie des hébergements grace à un financement participatif, pour les réfugiés qu'elle accompagne le temps qu'ils retrouvent assez d'autonomie pour se loger par eux mêmes.
+COORDONNÉES
+07 68 73 67 64 - Email : accueilsansfrontieres@gmail.com
+SINGA /CALM
+ACTIONS :
+CALM est un réseau d’accueil temporaire qui permet une immersion de 1 mois à 9 mois dans un foyer. Le dispositif CALM met en relation des personnes réfugiées mal logées ou sans domicile fixe et des particuliers. Il n’existe pas encore d’antenne en Bretagne, mais il est possible de s’inscrire sur le site : http://bit.ly/1T3xxlc
+CENT POUR UN TOIT
+ACTIONS :
+Cette association vient en aide aux familles de Quimperlé Communauté, demandeurs d'asile et confrontées à des situations de rupture d'hébergement. Cent pour un toit s'appuie sur un financement participatif (100 personnes qui versent 5 € par mois, permettent de régler l'équivalent d'un loyer) pour héberger des familles dans des conditions dignes.
+COORDONNÉES
+Email : 100pouruntoit@orange.fr 
+RÉFUGIÉS BIENVENUE
+ACTIONS :
+L'association Réfugiés Bienvenue œuvre pour améliorer le quotidien des demandeurs d'asile en France, via l’hébergement ou le parrainage.
+COORDONNÉES
+https://refugiesbienvenue.com
+LES CENTRES D'ACCUEIL ET D'ORIENTATION
+Afin de désengorger Calais, l'êtat a mis en place depuis octobre 2015 des Centre d'Accueil et d'Orientation (CAO), un peu partout en France. Ces centres sont en fait des locaux vacants (centres de vacances en hivernage, anciens établissements publics, etc.) dans lesquels sont accueillies les personnes qui souhaitent demander l'asile en France (elles sont minoritaires à Calais).
+Ils y restent quelques semaines, le temps que soit enclenchée leur demande d'asile et qu'une place en CADA leur soit attribuée. La gestion administrative et logistique de leur séjour est confiée à une association ou fondation locale.
+PLUS D'INFOS :
+Un premier bilan des centres de répit pour migrants - http://bit.ly/1TqYHpG
+Vous voulez AGIR ?
+Quand ils sont en CAO, les demandeurs d'asiles sont pris en charge en ce qui concerne toutes leurs démarches administratives. Mais ils ont souvent des besoins matériels, ils sont aussi souvent isolés. Dans la plupart des villes qui ont accueilli des CAO, des collectifs citoyens se sont constitués, parfois avec l'appui d'associations locales. Si vous êtes dans une ville où des migrants ont été accueillis, vérifiez qu'un collectif ne s'est pas déjà constitué. Si ce n'est pas le cas, et que vous souhaitez en créer un, n'hésitez pas à contacter un collectif d'une autre ville pour avoir des conseils.
+COLLECTIF ACCUEIL DU PAYS BIGOUDIN
+Pont l'Abbé
+COORDONNÉES :
+Email : collectifaccueilpaysbigouden@gmail.com
+COLLECTIF CITOYENS SOLIDAIRES DU PAYS FOUESNANTAIS
+ACTIONS :
+Rassembler et fédérer les personnes désirant développer le partage, l’échange et l’entraide au niveau local, dans un esprit d’ouverture vers l’extérieur.
+COORDONNÉES :
+Email : contact-collectif@citoyens-solidaires.net
+Site web : http://collectif.citoyens-solidaires.net/
+COLLECTIF DU CAP POUR L'ACCUEIL DE RÉFUGIÉS 
+Cap Sizun
+ACTIONS : Ce collectif réunit des citoyens sensibilisés par la détresse des migrants et/ou réfugiés et effectue des démarches auprès des partenaires locaux susceptibles de contribuer à des solutions temporaires ou pérennes.
+COORDONNÉES :
+Email : katellg29@yahoo.fr
+COLLECTIF RÉFUGIÉS PAYS DE MORLAIX
+ACTIONS : Soutenir toute personne dans l'accès à ses droits fondamentaux, source d'information des acteurs locaux et des citoyens, interpellation des pouvoirs publics sur la mise en œuvre des moyens nécessaires.
+COORDONNÉES :
+Email : collectifrefugiesmigrants@gmail.com
+FRATERNITÉ DZ ACTIONS :
+Collectif d'une vingtaine d'associations à Douarnenez, baptisé « Fraternité ! ». Collectes de dons, accompagnement des migrants...
+COORDONNÉES :
+Email : fraternitedz@gmail.com
+Page Facebook : https://www.facebook.com/fraternitedz/
+MORLAIX LIBERTÉS
+ACTIONS : Association ayant pour objectif de créer un relais favorisant l'insertion des étrangers, de développer la réflexion et l'information sur le droit d'asile et de lutter contre le racisme.
+COORDONNÉES : 02 98 67 85 41
+ON EST BRETONS, SOLIDAIRES ET ON AGIT
+ACTIONS : Collecte de vêtements, produits d'hygiène, denrées non périssables... En solidarité avec les migrants et réfugiés de la jungle de Calais.
+COORDONNÉES : Email : yoann.daniel@outlook.fr
+SOLIDARITÉ RÉFUGIÉS
+CENTRE BRETAGNE
+ACTIONS : Collecter des biens et des fonds en faveur de réfugiés afin de subvenir à leurs besoins, organiser toute action en leur faveur.
+COORDONNÉES : 
+Email : solidariterefugiescebretagne@gmail.com
+COORDINATION BRETAGNE / PAYS-DE-LA-LOIRE SOLIDAIRE DES PERSONNES IMMIGRÉES
+ACTIONS :
+Mises en relation, les structures de Bretagne et des Pays de la Loire luttent contre la gestion de l'immigration mise en place actuellement dans le monde et en France.
+COORDONNÉES
+http://www.coord-ouest.fr
+LES AIDES FINANCIÈRES
+Une fois l'enregistrement de demande d'asile effectuée, une aide financière est possible. Il s'agit de l'Allocation de Demande d'Asile (ADA). Pour en bénéficier, la personne doit avoir accepté les offres matérielles d'accueil, et justifier de ressources mensuelles inférieures au montant du RSA. Cette allocation est versée jusqu'à la fin de la procédure de demande d'asile, et commence à être versée, en théorie, au plus tard 21 jours après l'enregistrement de la demande. Dans les faits, les délais sont plus longs, et les CADA font parfois des avances. Le montant de cette allocation est composé d'un montant forfaitaire journalier et varie en fonction du nombre de personnes composant le foyer.
+Une personne seule touche 6,80 euros/jour (soit environ 204 euros/mois).
+Un couple avec 2 enfants touche 17 euros/jour (soit environ 510 euros/mois).
+Contrairement à ce qu'essaient de faire croire certains sites d'extrême-droite, ils ne peuvent en aucun cas cumuler ces aides avec d'autres allocations, RSA, etc. Les aides qu'ils perçoivent sont bien inférieures aux aides que peuvent percevoir une personne de nationalité française (environ 2 fois inférieures).
+PLUS D'INFOS : En quoi consiste l'allocation pour demandeur d'asile ? http://bit.ly/1VHb9UT
+CALAIS / GRANDE SYNTHE
+La «jungle de Calais» est un camp de migrants, situé aux abords de l'entrée du tunnel sous la Manche et de la zone portuaire de Calais. La plupart des personnes qui y sont présentes ont pour objectif de passer en Angleterre. Les habitants résidant dans des tentes ou des abris de fortune, - à l'exception du camp principal qui dispose de quelques douches-, ne disposent pas de sanitaires ou d'espaces pour la toilette. Des agressions contre les migrants ont été rapportées par plusieurs associations, y compris des violences policières. L'insécurité touche également les personnes vivants à l'intérieur de la jungle, la promiscuité entre migrants provoque des tensions entre les communautés. Un nouveau camp a été créé de toutes pièces par MSF en mars 2016, avec le soutien de la ville de Grande-Synthe. Le camp est relié à l'eau courante et au tout à l'égout : les migrants peuvent se doucher, faire la cuisine. MSF assure les soins médicaux gratuits, et les bénévoles de l'association Utopia56 ont coordonnés l'ouverture du camp. L'état a annoncé vouloir depuis peu en reprendre la gestion et le financement, mais l'association y restera active, tout comme sur le camp de Calais.
+Vous voulez AGIR ?
+Plusieurs associations œuvrent à Calais et Grande-Synthe, et ont des besoins en bénévoles.
+UTOPIA 56
+PRÉSENTATION :
+Association à but non-lucratif et apolitique, créée à Lorient en janvier 2016. Son but est de mobiliser et coordonner des bénévoles pour aider les réfugiés concentrés dans le nord de la France. Utopia 56 travaille avec toutes les associations présentes depuis longtemps sur ce territoire et désireuses de collaborer.
+COORDONNÉES :
+Email : utopia56.asso@gmail.com
+Site web : http://www.utopia56.com
+Facebook : https://www.facebook.com/asso.utopia56/
+L’AUBERGE DES MIGRANTS
+PRÉSENTATION :
+Créée fin 2008 pour répondre à un besoin alimentaire urgent, l'Auberge des Migrants a pour premier but d'assurer un minimum humanitaire, aux migrants de Calais.
+COORDONNÉES :
+Email : laubergedesmigrants@hotmail.fr
+Site : http://www.laubergedesmigrants.fr
+Facebook : http://bit.ly/1ShQhyP
+SITES UTILES 
+INFOS JURIDIQUES ET ADMINISTRATIVES
+Guide du demandeur d'asile (disponible en 23 langues) : http://bit.ly/21jT0xG
+Le livret d'accueil du demandeur d'asile (disponible en 8 langues) : http://bit.ly/1YLeGQ2
+GISTI - Le Groupe d'information et de soutien des immigré-e-s milite pour l'égal accès aux droits et à la citoyenneté sans considération de nationalité et pour la liberté de circulation. http://www.gisti.org
+RESSOURCES UTILES DANS L'ACCOMPAGNEMENT DES PERSONNES EN EXIL
+Guide du routard pour les étrangers
+Entièrement composé d'illustrations, sorte de BD sans bulles, ce livret pratique permet de faciliter la communication avec ceux qui ne parlent pas notre langue, dans toutes les situations de la vie courante.
+http://bit.ly/21jT0xG
+Livret de santé bilingue
+(disponible en 23 langues)
+Ce livret de santé bilingue vise à aider les professionnels de santé ou du social en relation avec les personnes migrantes. http://bit.ly/1Sz7q8h
+Premiers mots en français
+Syllabus de « français de survie » : http://bit.ly/1VqrZrj
+DIVERS
+Plateforme de service aux migrants
+Réseau d'associations intervenant auprès des exilés dans la région Nord/Pas-de-Calais, à Cherbourg et Paris. http://www.psmigrants.org/site/
+FAQ demandeurs d'asile : http://bit.ly/1NFI6ZT
+FAQ réfugiés : http://bit.ly/1SB9zmY
+FAQ Mineurs isolés étrangers : http://bit.ly/1YLhgp3
+ForumRéfugiés - Association pour l'accueil des réfugiés, la défense du droit d'asile et la promotion de l'état de droit
+http://www.forumrefugies.org
+FACEBOOK
+France et au-delà Bretagne : https://www.facebook.com/groups/964342333612322/
+Plateforme d'aide aux réfugiés en France : https://www.face- book.com/groups/123081368042139/
+Soutien aux exilés de GdE et Stalingrad : https://www.face- book.com/groups/177642579245883/
+Réfugiés de la chapelle en Lutte : https://www.facebook.com/groups/1776425792458
+
+
+
+
+
+
+
+

@@ -1,0 +1,246 @@
+﻿<Header>
+  <title>
+    <tit> Direct Provision and Dispersal: Is there an alternative? </tit>
+    <fileName> EN_022 </fileName>
+    <generalDomain> Migration </generalDomain>
+    <specificDomain> Refugees </specificDomain>
+    <textType> Document </textType>
+    <subcorpus> Original Irish English </subcorpus>
+  </title>
+  <sourceText>
+    <language> Irish English </language>
+    <source> https://irc.fusio.net/wp-content/uploads/2011/09/Direct-Provision-and-Dispersal-Is-there-an-alternative.pdf </source>
+    <publisher> Irish Refugee Council </publisher>
+    <pubDate> 2015 </pubDate>
+    <pubPlace> Internet </pubPlace>
+    <accessDate> 12.07.2020 </accessDate>
+    <researcher> Anna Beatriz Dimas Furtado </researcher>
+    <comments>  </comments>
+  </sourceText>
+  <author>
+    <institution> Irish Refugee Council and Partnering Institutions </institution>
+  </author>
+</Header>
+
+Direct Provision and Dispersal:
+Is there an alternative?
+
+Contents
+Who is accommodated in Direct Provision? 	 2
+Residents of Direct Provision and the Programme for Government 	 2 Irish Reception Conditions for Asylum Seekers: Direct Provision and Dispersal 	 4
+The Right to Dignity 	 5
+Housing 	 5
+Physical and Mental Health 	 8
+Social Welfare, Poverty and Child Poverty 	10
+Respecting Human Rights as a ‘Pull Factor'? 	11
+Independent complaints 	12
+Conclusions 	13
+
+Who is accommodated in Direct Provision?
+
+Adults (with or without dependents) awaiting a decision on their application for international protection / leave to remain
+Adults with status who are unable to leave direct provision
+Such Residents include possible or confirmed victims of trafficking
+One third of all residents in Direct Provision are under the age of 18
+
+Residents of Direct Provision and the Programme for Government
+
+1. Under the heading ‘Fairness' and subheading ‘Mental Health' the programme for government states that the policy on mental health incorporates the recommendations of A Vision for Change, which includes work on social inclusion and community integration. Persons living in Direct Provision are not excluded from the programme's commitments in this regard and should benefit from a ‘joined-up approach to mental health in the community' where the government ‘will establish a cross-departmental group to ensure that good mental health is a policy goal across a range of people's life experiences including education, employment and housing for example'.
+
+2. Under the same heading, the programme commits to introducing a Mental Capacity Bill that is in line with the UN Convention on the Rights of Persons with Disabilities. Residents of Direct Provision do not fall outside the remit of authority of this international instrument. The Convention on the Rights of Persons with Disabilities requires states to ‘enable persons with disabilities to live independently and participate fully in all aspects of life, States Parties shall take appropriate measures to ensure to persons with disabilities access, on an equal basis with others, to the physical environment, to transportation, to information and communications, including information and communications technologies and systems, and to other facilities and services open or provided to the public, both in urban and in rural areas. These measures, which shall include the identification and elimination of obstacles and barriers to accessibility, shall apply to, inter alia:
+
+a. Buildings, roads, transportation and other indoor and outdoor facilities, including schools, housing, medical facilities and workplaces;
+
+b. Information, communications and other services, including electronic services and emergency services.'
+
+At present, the system of Direct Provision does not take into consideration the needs of persons with disabilities. Presently, there are a number of residents with problems with mobility. For example, alarmingly, there is presently a single woman in a wheelchair residing on the second floor in an accommodation centre with carpeting and no elevator. She is very concerned that she will be left in her room if there is ever a fire. She is unable to move due to her accommodation, not her handicap.
+
+Under the heading ‘Equality and Social Protection' and the subheading ‘People with Disabilities' the government commits to ensuring ‘that the quality of life of people with disabilities is enhanced and that resources allocated reach the people who need them'. Residents of Direct Provision should not be excluded from this commitment.
+
+3. Under ‘Fairness' and subheading ‘Early Childhood Care and Education' the programme also commits to maintaining the ‘free pre-school year'. However, given the issue of transportation for residents who are living in Direct Provision and outside of mainstream social welfare, getting access to preschool is very difficult.
+
+4. Under the heading ‘Equality and Social Protection', equality is presented as a key issue that underscores all commitments in the programme for government, and under the subheading ‘Tackling poverty and protecting the most vulnerable' the government commits to eliminating poverty by ‘achieving the targets in the National Action Plan for Social Inclusion to reduce the number of people experiencing poverty.9 Although residents of Direct Provision are not explicitly mentioned in the Plan, it none-the-less applies to them as extremely vulnerable people experiencing poverty in Ireland.
+
+5. Moreover, this section addresses the issue of child poverty. The government commits to adopting ‘a new area based approach to child poverty, which draws on best international practice and existing services to tackle every aspect of child poverty'. Children make up one-third of the residents of Direct Provision accommodation centres. They are children first and foremost and their parents' reasons for entering and remaining in Ireland should have no affect on their childhood. Presently, children in Direct Provision are subjected to enforced child poverty (please refer to the section entitled ‘Social welfare, Poverty and Child Poverty).
+
+6. Under the subheading ‘Equality' the government states that they believe that ‘everyone has the right to be free from discrimination'. However, the UN Committee on the Elimination of Racial Discrimination, in their recent concluding observations noted that they it ‘is concerned at the negative impact that the policy of ‘direct provision' has had on the welfare of asylum seekers who, due to the inordinate delay in the processing of their applications, and the final outcomes of their appeals and reviews, as well as poor living conditions, can suffer health and psychological problems that in certain cases lead to serious mental illness'.
+
+7. Lastly, under ‘Justice and Law Reform' and subheading ‘Passports, Citizenship, Immigration and Asylum' the government commits to introducing ‘comprehensive reforms of the immigration, residence and asylum systems, which will introduce a statutory appeals system and set out rights and obligations in a transparent way'. Presently, the system of Direct Provision and Dispersal does not set out rights and obligations transparently. Transparency and accountability are of concern to the area of accommodation as well as the areas of immigration and the asylum determination processes. The NGO Forum on Direct Provision is calling for the reception (encompassing short and long term accommodation) of asylum seekers and potential victims of trafficking to be integrated into the protection legislation and not to be left to ad hoc and ever-evolving intra-governmental policy.
+
+8. Residents of Direct Provision should benefit from government commitments for reform. The abovementioned commitments highlight the need for reform in the reception and accommodation of asylum seekers and potential victims of trafficking. The following sections describe the Direct Provision and Dispersal experience in brief and draw on best practice around Europe in the area of reception and accommodation of applicants for international protection.
+
+Irish Reception Conditions for Asylum Seekers: Direct Provision and Dispersal
+
+United Nations Convention on the Elimination of All Forms of Racial Discrimination, 1965
+Article 3
+States Parties particularly condemn racial segregation and apartheid and undertake to prevent, prohibit and eradicate all practices of this nature in territories under their jurisdiction.
+
+1. The system of Direct Provision, which was officially introduced by the Irish Government in 2000, accommodates those seeking asylum (or leave to remain) in state designated accommodation centres. Asylum seekers are not allowed to work or study and are dependent on the allowance of €19.10 per week (adults) €9.60 (children). They spend long periods in inactivity, often leading to depression, social isolation and poverty.
+
+Current concerns include:
+Length of time in direct provision, in a situation where they are unable to work or study beyond the Leaving Certificate.
+Lack of suitable accommodation for particularly vulnerable groups, such as families with children, torture survivors etc.
+Lack of a fair and effective complaints procedure and an independent monitoring system to ensure that accommodation centres comply with basic standards.
+Child and adult poverty as a result of a living allowance of €19.10 /€9.60. (NB This allowance has not been adjusted for inflation in the last 10 years)
+Overcrowding, poor conditions and lack of privacy in Direct Provision.
+Lack of a fair system of dispersal and transfers between centres, taking into account the needs of individuals including victims of torture or those with particular physical and mental health needs.
+Lack of training for staff and residents in direct provision, including training in handling conflict and cultural diversity.
+
+The system of Direct Provision and Dispersal is costly in terms of both human rights and government expenditure14 and needs to be reviewed.
+
+The Right to Dignity
+
+Housing
+
+1. Reception conditions vary greatly across Europe. It is for this reason, the Council of the European Union introduced Council Directive 2003/9/EC of 27 January 2003 laying down minimum standards for the reception of asylum seekers, or the Reception Directive, in line with the Common European Asylum System.16 Ireland has opted out of this directive and as a result has been able to keep the system of Direct Provision and Dispersal at the policy level rather than integrated into Irish law. The result has been ambiguous and inconsistent policy implementation as well as a lack of a clear and independent system for recourse for those living in Direct Provision accommodation. The lack of a clear and transparent system, as well as divergent implementation across the country, has allowed abuses of the system for the accommodation of asylum seekers in Ireland to continue. A study on the Reception Directive was carried out by the European Council on Refugees and Exiles (ECRE) in 2008 identifying various different methods for housing and supporting asylum seekers. The report found that many countries, such as the UK, Sweden, Italy and Belgium provide individual housing, in some cases, whilst others, such as France, Spain and Slovenia provide subsidies in many cases to allow asylum seekers to find their own accommodation.Ireland is one of only two of the 27 Member States to have opted out of the Reception Directive.
+
+2. Significant regional variations from county to county exist in the implementation of the Irish system for accommodating asylum seekers. Asylum seekers may be accommodated in guesthouses, hotels, hostels, mobile homes, system-built facilities or, in the case of Mosney, a former holiday camp.19 Asylum seekers in a small proportion of the accommodation centres are able to cook for themselves at a time of their convenience. However, in most cases residents are required to eat the food prepared for them at specific times during the day. A large number of complaints made through NGOs are related to food and dietary issues resulting in the poor quality and/or nutritional value of the food provided in the centres.20 In addition, asylum seekers may share their rooms with up to five others. Often, in some counties, asylum seekers cannot access community services due to isolation and poverty, resulting in social exclusion. This is especially true for children who consistently experience ‘extreme poverty, material deprivation and social exclusion'.
+
+3. Despite the exceptional efforts by some of the staff of the accommodation centres to create a humane environment for asylum seekers, Direct Provision is a discriminatory system, which socially excludes asylum seekers from the local community, both physically and financially. It is in contradiction with the principles of the National Anti-Poverty Strategy which guarantees the rights of minorities and encourages self-reliance through respect for individual dignity and promotion of empowerment and equal access.
+
+4. Good Practice in Europe
+Norway provides financial support in cases where special needs necessitate special housing arrangements.
+The majority of asylum seekers in Germany, the UK and Sweden are housed outside of traditional accommodation centres.
+In Belgium, asylum seekers may be offered private accommodation after a certain period of time. This is sometimes the case in Austria and Germany as well.
+
+Hillside Centre in Leeds, UK: a centre used to accommodate asylum households dispersed to the area for two weeks where they may avail of health screening, language training, induction to the area and registration with local health and education services. This is believed to reduce demand on local services which often takes the form of ad hoc engagement.
+
+The Holistic ‘Housing Plus' approach is used in parts of England where asylum seekers may avail of training, work experience and education.28
+In Portugal, asylum seekers stay a maximum of 2-3 months in an NGO-run centre with self-catering units. After this period, people have the right to work and move into private accommodation. The NGO-run accommodation centre in which people are initially housed provides career guidance, educational support and information regarding the asylum process and day-to-day practical issues. It also prevents social exclusion and promotes integration by providing vocational and educational training, recreational activities and other facilities (i.e. library; childcare facilities) which are open to both asylum seekers and members of the local community.
+In Luxembourg, all public transport is free for asylum seekers.
+Sweden pays benefits in cash.
+In Norway instructions from the Directorate of Immigration to the operators of the centres, it is confirmed that all facilities have to establish and maintain a cooperation council. This board secures user influence on decisions that are of direct relevance to the residents. At least two thirds of the representatives in the council are asylum seekers. At least one seat is occupied by a woman.
+
+Physical and Mental Health
+
+1. The Direct Provision system was devised for the purpose of housing and feeding asylum seekers while they await a decision on their asylum claims, however other necessary services were not factored into the dispersal system for the overall well being of asylum seekers. Direct Provision since its establishment, has had a direct effect on the health on asylum seekers, both physically and mentally.
+
+Asylum seekers often arrive in Ireland after having experienced egregious human rights abuse, armed conflict, physical or sexual violence, torture, and/or extreme economic deprivation.34 However, Direct Provision can have a subsequent negative impact on the psychological health of vulnerable and traumatized people. Asylum seekers with health complications find that the living conditions in accommodation centres, such as hostels, can exacerbate pre-existing health conditions, along with expressing feelings that their health concerns are not being respected by those responsible for their accommodation. Along with the known exile related stressors which affect asylum seekers in the host country such as ‘separation from family and community; an unwelcoming host community; prolonged or severe suffering prior to exile; being elderly or adolescent; lacking knowledge of the host language; and loss of socio-economic status', is the further marginalization of asylum seekers in remote accommodation centres without access to facilities and services that benefit their social inclusion and health.
+
+2. The current policy not only negatively impacts on the asylum seekers' claim for protection - as the vast majority of experienced legal practitioners are located in Dublin - but it also impacts on their well-being as there is a dearth of specialised medical services, such as psychological counselling and the care of survivors of torture (especially where they are unable to access the Centre for the Care of Survivors of Torture, Spirasi).36 Other barriers to medical services still exist in many parts of the country, including access to female doctors and adequate translation and interpretation resources.
+
+3. Moreover, there is an increasing body of evidence which suggests that there are important links between health problems and long stays in communal accommodation,37 and health and unemployment.38 In a recent report on the experiences of women in Direct Provision by AkiDwA, ‘Am Only Saying it Now', they found that the majority of the women interviewed had been in Direct Provision accommodation for more than two years. The report noted that the female participants felt they were ‘pushed to their limits from stress' as a result of a number of conditions out of their control, including: ‘enforced inactivity, overcrowding and other difficult living conditions in accommodation centres'.
+
+4. The member organisations of the NGO Forum on Direct Provision regularly receive complaints related to physical and mental health. These include problems with mobility in accommodation centres where physical handicaps are concerned, leaving some to seek accommodation from the charity of others (eg church services). See appendix for breakdown of complaints.
+
+5. Good Practice in Europe
+Germany, Greece, the UK and the Netherlands all furnish specialised centres for traumatised asylum seekers
+In Norway, some persons may be housed outside centres for health reasons (including mental health) or disability.
+Reception Centres across Europe increasingly allow asylum seekers to cook and buy their own food.
+Haringey Health Authority in London use outreach workers based on-site to assist asylum seekers by combining language supports, medical knowledge and knowledge of the refugee experience to provide a more specialist service.
+In Glasgow, local GPs developed medical screening specifically for asylum seekers as well as for mental health workers.
+
+Social Welfare, Poverty and Child Poverty
+‘It is widely acknowledged that the substitution of benefits in kind is more expensive then cash benefits (Home Office 1998) and that cuts in benefit are not necessarily (if at all) followed by a reduction in numbers'
+
+1. The cash payment received, €19.10 per adult and €9.60 per child per week, leaves asylum seekers with little or no opportunity to interact and establish relationships with local communities. These economic inequalities are the ‘generative force in promoting other inequalities at this time. Exclusion from work results in a type of economic apartheid'.46 Asylum seekers are not entitled to child benefit, one parent family payment, carer's allowance, disability allowance or guardian's payment as a result of failing to satisfy the Habitual Residence Condition.47 As a result of the enforced poverty, children in Direct Provision are often isolated from other young people their age and socially excluded from field trips and community activities. Children are often parented by several adults in the accommodation centre due to overcrowding and lack of privacy. Children in Direct Provision often do not have access to play space, homework space or access to toys and play grounds. Families consistently report difficulties in getting access to school transportation.
+
+2. There is no other comparable group in Irish society that receives such an inadequate monetary sum. Asylum seekers who receive so little financial support from the State are understandably in regular need of further assistance. However, the regional Community Welfare Offices, the authorities with responsibility for their social needs, do not seem to be in a position to provide such assistance.
+
+Respecting Human Rights as a ‘Pull Factor'?
+
+1. There is currently very little research on factors that shape decisions on asylum destinations, but if we examine the numbers entering the different EU countries, it would seem that welfare benefits paid to asylum seekers do not have as much impact as either fleeing conflict (or extreme deprivation or grievous human rights abuses) or the ease or difficulty one can enter a given State. For example, the numbers entering the UK rose in the years following the withdrawal of benefits from many asylum seekers. Though Germany has been very restrictive in terms of the benefits it gives asylum seekers, it receives large numbers of applicants. A report carried out in 2002 by Oxfam and the Refugee Council in the UK, entitled ‘Poverty and Asylum in the UK', where 40 organisations working with refugees and asylum seekers were interviewed found that ‘the prospect of receiving benefits was not a significant factor influencing their decision to come to Britain and most wanted to work and support themselves rather than be dependent on the state'. The report highlighted the fact that such financial factors and facilities provided by the UK social benefits scheme are not the strongest of 'pull' factors for asylum seekers but rather the presence of their own communities in a safe country are taken into greater consideration when deciding where to apply for asylum. ‘Asylum-seekers, when deciding where to lodge their application, are more swayed by the presence of their own community than by the reception standards and benefits'. The British Home Secretary himself has noted that:
+
+‘The overwhelming factor affecting asylum claims, which also affects the overall proportion of abusive and unfounded claims, as well as well-founded claims, is what goes on in terms of political stability in other countries in the world'.
+
+One of the 'pull' factors associated with asylum seekers decisions to travel to specific EU countries could be that the cost to get to a particular country is far less than say to get to other prized destinations such as the USA and Canada. The choice of country is therefore determined by the ability to pay for long distance travel.
+
+Independent complaints
+
+1. Such problems as discussed above are compounded as the information provided by the Reception and Integration Agency,55 the government organisation charged with the responsibility for the reception of asylum seekers, is both inadequate and in some cases misleading.
+Both the European Convention on Human Rights and the Irish constitution contain a right to fair procedures. According to Noeline Blackwell the Director General of the Free Legal Advice Centres, ‘[t]he complaints system as it currently operates lacks transparency and fairness. The same Department which will make a final decision on a person's claim for protection not only accommodates the applicant but also adjudicates on any grievance he or she may have with the centre manager. Without an independent right of appeal, this right cannot be vindicated under the current system'.
+2. The NGO Forum on Direct Provision point out that the Office of the Ombudsman has issued a guide to assist public bodies to ‘establish an efficient and credible internal complaints handling system'. If used in the direct provision context, these guidelines would encourage faith in the system, as residents often do not feel comfortable complaining to the same people who are responsible for providing the service in the first place. Such guidelines would help to ensure that complaints are dealt with in an efficient, effective and fair way.
+
+Conclusions
+The NGO Forum on Direct Provision strongly believes that the ‘direct provision' scheme in its present form should be abolished as it is both inhumane and discriminatory, In addition, the current accommodation-led ‘dispersal' policy, designed to meet only the basic needs of shelter and food, should be replaced by a comprehensive reception policy, as it is not effective in dealing with the complex needs of asylum seekers and exposes already vulnerable people to loneliness and segregation.
+Furthermore, the absence of policies that actively promote self-sufficiency and integration are in stark contrast to the countless control measures which focus exclusively on the number of asylum seekers entering the State. Asylum seekers, refugees and organisations working with them must be involved in the development and implementation of all policies that have an impact on asylum seekers. The Government should ensure that all its policies are poverty-proofed.
+
+Recommendation:
+Review the System of Direct Provision and Dispersal to respect, protect and promote the fundamental human rights of resident regardless of their immigration status.
+
+End notes
+
+1 This report was compiled by the Irish Refugee Council on behalf of the NGO Forum on Direct Provision: AkiDwA, Barnardos, Cultur, Doras Luimmní, Free Legal Advice Centres (FLAC), Galway Refugee Support Group, The Irish Bishops', Refugee & Migrant Project, The Integration Centre, The Irish Refugee Council, The Jesuit Refugee Service, Mayo Intercultural Action, Nasc, The Irish Immigrant Support Centre, SPIRASI, Tralee International Resource Centre' Crosscare.
+
+2 E.g. Those who cannot get access to social welfare and cannot afford to leave Direct Provision after a potentially lengthy period of deskilling, enforced poverty and institutionalisation. Or an adult with status who needs to remain with their families who do not have status as a result of their exclusion from mainstream social welfare and the inability to work. Also those with Stamp 4 who are without passports or birth certificates. This results in an administrative delay keeping those with status in Direct Provision after being recognised or given leave to remain.
+3 Programme for Government 2011, p. 7.
+4 Programme for Government 2011, p. 8.
+5	http://www.un.org/disabilities/convention/conventionfull.shtml.
+6	Programme for Government 2011, p. 24.
+7	Programme for Government 2011, p. 9.
+8	http://www.irishexaminer.com/text/ireland/kfeyidojgbql/.
+9	Programme for Government 2011, p. 22.
+10	Ibid.
+11	Programme for Government 2011, p. 23. Also mentioned on page 24: ‘We will require all public bodies to
+take due note of equality and human rights in carrying out their functions' (emphasis added)	'We will
+promote policies which integrate minority ethnic groups in Ireland, and which promote social inclusion, equality, diversity and the participation of immigrants in the economic, social, political and cultural life of their communities'.
+12 CERD, Concluding observations of the Committee on the Elimination of Racial Discrimination, Seventy-eighth session, 14 February -	11 March 2011, para. 20. Available at: http://www2.ohchr.org/english/bodies/cerd/docs/co/Ireland_AUV.pdf.
+13	Programme for Government 2011, p. 21.
+14	‘THE STATE'S leading private sector operator of asylum seeker accommodation generated pretax profits of €1.67 million in the 18 months to the end of 2009, recently filed accounts show. This compares to profits of just €268,466 in the preceding 12-month accounting period. During the period to December 31st, 2009, €500,000 was paid in dividends to Bridgestock's shareholders, Seamus and Kathleen Gillen of Tullamore, Co Offaly. The average number of people employed by the business rose to 177 from 163.' http://www.irishtimes.com/newspaper/finance/2011/0108/1224287043266.html.
+15	See: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:031:0018:0025:EN:PDF.
+16	The ultimate objective of the Common European Asylum System, as envisaged by the Hague Programme, consists in the establishment of a common asylum procedure and a uniform status for persons in need of international	protection	valid	throughout	the	EU.	See: http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/07/229.
+17 ECRE
+18 ‘Member States must guarantee:
+Certain material reception conditions, in particular accommodation, food, clothing in kind or in the form of a financial allowance. Allowances must be such to prevent the applicant from becoming destitute;
+Family unity;
+Medical and psychological care;
+Access to the education system for minor children and language courses to enable them to attend ordinary school.
+Member States cannot deny applicants for asylum access to the labour market and vocational training six months after they have lodged their application. Member States remain in full control of the internal labour market as they can decide the kind of work asylum applicants may apply for, the amount of time per month or per year they are allowed to work, the skills and qualifications they should have, etc.
+Material reception conditions, medical and psychological care will be guaranteed during all types of procedures (regular, admissibility, accelerated and appeal procedures) in order to ensure a standard of living adequate for the health and well being of the applicants and their families. If his economic situation permits it, the Member State could decide that the applicant could contribute partially or totally to the cost of the material reception conditions and medical and psychological care.
+Moreover, special medical and psychological care must be given to pregnant women, minors, the mentally ill, the disabled and victims of rape and other forms of violence.
+Member countries must provide lodgings in a house, accommodation centre or hotel in order to protect family life and privacy. In all cases applicants must have the possibility of communicating with legal advisers, NGOs and	the	UNHCR.'	See: http://europa.eu/legislation summaries/justice freedom security/free movement of persons asylum immi gration/l33150 en.htm.
+19 Free	Legal Advice Centres, One Size Doesn't Fit All 2009 p. 16. Available at: http://www.flac.ie/download/pdf/one size doesnt fit all full report final.pdf.
+20 See appendix.
+21 NASC,	Hidden	Cork,	2007	p.	10.	Available	at: http://www.integratingireland.ie/userfiles/File/Database/NASC%20Hidden%20Cork%20DP%20Report.pdf.
+22 People are living in poverty if their income and resources (material, cultural and social) are so inadequate as to preclude them from having a standard of living which is regarded as acceptable by Irish society generally. As a result of inadequate income and resources people may be excluded and marginalised from participating in activities which are considered the norm for other people in society. See: http://www.socialinclusion.ie/poverty.html.
+23 J. Brekke & V. Vevstad, ‘Reception conditions for asylum seekers in Norway and the EU', Oslo: Institutt for samfunnsforskning 2007.
+24 Ibid.
+25 Ibid.
+26 Odysseus Academic Network for Legal Studies on Immigration and Asylum in Europe, ‘Comparative overview of the implenmentation of Directive 2003/9 of 27 January 2003 laying down minimum standards fpr the reception of asylum seekers in the EU Member States'. Brussels 2006.
+27	R. Zetter & M. Pearl, ‘Sheltering on the margins: Social housing provision and the impact of restrictionism on Asylum seekers and refugees in the UK'. Policy Studies 20:4, 1999.
+28	Ibid.
+29	Immigration and Refugee Board of Canada, Portugal: Procedure for granting asylum; the time involved in processing claims; rights granted to asylum seekers, 27 October 2003. Available online: http://www.unhcr.org/refworld/docid/403dd2140.html; Servico de Estrangeiros e Fronteiras (SEF), Guide for Asylum Seekers: Portugal; EQUAL, "Up and Beyond - Aim High!" Available online: http://ec.europa.eu/employment social/equal/practical-examples/asyl-07-pt-viaas en.cfm.
+30	J. Brekke & V. Vevstad, ‘Reception conditions for asylum seekers in Norway and the EU', Oslo: Institutt for samfunnsforskning 2007.
+31	Schuster, L. (2000) ‘A comparative analysis of the asylum policy of seven European governments', Journal of Refugee Studies, 13(1) :118-131, p 6.
+32	J. Brekke & V. Vevstad, ‘Reception conditions for asylum seekers in Norway and the EU', Oslo: Institutt for samfunnsforskning 2007, p 48.
+33 Group criticises delay in Garda vetting process for staff working in asylum seeker centres http://www.irishtimes.com/newspaper/ireland/2010/1101/1224282400248.html; See also, letter to the editor of the Irish Times: ‘Moving asylum-seekers': Madam, - We are writing in protest at the Government's decision to transfer 111 asylum-seekers from Mosney to hostel accommodation in Dublin and elsewhere.
+Seeking asylum involves upheaval and trauma. It involves learning to live with one's life on hold during unnecessarily lengthy asylum determination processes. Despite this, those protesting have made a home in Mosney. This further upheaval, undertaken without consultation, demands that they leave friends and support networks in Mosney and the local area, and move to hostel accommodation that reduces already minimal levels of privacy and autonomy.
+This decision is being justified on the need to maximise value for the “taxpayer”. As such, it is a further instance of the profit-before-people mentality that is rehearsed every time the Government seeks to remove or reduce social provision. In the era of Nama, this cynical use of asylum-seekers to display a new-found diligence is less than convincing. We refuse to be spoken for as taxpayers obsessed with minimal margins of return on “investment”. We respond instead as citizens who reject the reduction of everything to a calculus that does not allow for the human cost of anxiety, stress and humiliation.
+Resisting this relocation should be seen as a step toward abolishing the current system. The direct provision and dispersal system was introduced in 1999 as a temporary regional measure, but remains as a national scheme, housing asylum-seekers with for-profit providers and pauperising them on an adult weekly allowance of €19.10, and €9.60 for each child.
+As the Free Legal Advice centres (FLAC) wrote in a 2010 report, “The direct provision system does not provide an environment conducive to the enjoyment or fulfilment of the most basic human rights, including the rights to health, food, housing and family life. It also has repercussions on the right to education and the right to work as well as freedom of expression, freedom of movement and freedom of association.”
+Although asylum-seekers are deliberately warehoused outside society, the residents of Mosney have taken their place in society as best they can. Despite the political imperative of integration, their status dictates that they cannot integrate into the society in which they have lived for years. We strongly urge Minister for Justice Dermot Ahern to revoke the inhumane decision to relocate residents of Mosney and to consult them before any further action is taken. We will act, organise and protest in ongoing solidarity with the asylum-seekers if their demands are not heard.
+We also urge Mr Ahern to undertake a radical reform of the “direct provision” system, and to ensure that asylum-seekers are treated fairly, allowing them to enjoy the basic rights to which all people in Ireland are entitled.	List	of	signatories	at: http://www.irishtimes.com/newspaper/letters/2010/0709/1224274347963.html.
+34	R. Tribe, ‘Advances in Psychiatric Treatment' (2002) 8: 240-247, The Royal College of Psychiatrists Mental health of refugees and asylum-seekers.
+35	ibid.
+36	See letter to the editor of the Irish Times ‘Asylum system in need of reform': Madam, - In his excellent recent reporting on the asylum system in Ireland, Jamie Smyth alluded to the mental health toll of spending years “in limbo” in the system.
+There is indeed a large body of evidence that supports what may seem obvious: the asylum process, with its crushing daily degradations, damages mental health.
+Refugees are at higher risk of serious mental illness than native populations, and asylum-seekers are at higher risk again. Figures for suicide are unknown because of inadequate data collection. However, data from the UK indicate that the prevalence of self-harm and suicide among detained asylum-seekers is remarkably high.
+The existing asylum process is inherently harmful to a group of people already damaged by pre-migration traumas such as armed conflict, rape, or torture. It may be that the people most likely to be rejected for refugee status are those who suffer most before migrating: the experiences that forced them from their homes are often cognitively damaging, result in fragmented or inconsistent memories of the kind that can be regarded as evidence of fabrication.
+This is not to diminish in any way the incredibly tough and often heart-rending work of individual asylum officials.
+It is simply to note that an asylum system that hurts people who have already been through experiences so horrific that we can barely conceive of them is one that is beneath us as a society. It is an asylum system in need of urgent reform. - Yours, etc, Dr NIALL CRUMLISH MB MSc MRCPsych, available at: ttp://www.irishtimes.com/newspaper/letters/2010/0902/1224278050961.html.
+37	Dutch Refugee Council (1997) “Asylum Seekers - Don't let Them Just Sit and Wait, six months in a centre is the limit”, p7. Reilly, C. ‘Bearing culture in mind', The Irish Times, 5 January 2010. Stewart, R. The Mental Health Promotion Needs of Asylum Seekers and Refugees: A Qualitative Study in Direct Provision Centres and Private Accommodation in Galway City. Galway City Development Board and Health Promotion Services HSE West, 2007. McMahon, J. et al. ‘A survey of asylum seekers' general practice service utilisation and morbidity patterns', Irish Medical Journal, 100:5 (2007), 461 4. Amnesty International Irish Section. Mental   Health Lobbying Network: Background Note on Mental Health and Asylum Seekers/Refugees. June 2008.
+Health Service Executive. National Intercultural Health Strategy 2007-2012. Republic of Ireland.
+38 Nolan, B et al, ‘Unemployment and Health', in Cleary, Anne, Treacy, Margaret P., (ed.) The Sociology of
+Health and Illness in Ireland, Dublin: University College Dublin Press, pp.104-105.
+39 AkiDwA,	‘Am Only Saying it Now', 2010 p. 12. Available at:
+http://www.akidwa.ie/AmOnlySayingItNowAkiDwA.pdf.
+40	EMN, Reception Systems, their capacities and the Social Situation of Asylum Applicants within the reception system in the EU Member States May 2006 p 17.
+41	J. Brekke & V. Vevstad, ‘Reception conditions for asylum seekers in Norway and the EU', Oslo: Institutt for samfunnsforskning 2007.
+42	The EC directive on the reception of asylum seekers; are asylum seekers in Europe receiving material support and access to employment in accordance with European legislation, p18.
+43	Carey-Wood, J. (1997) Meeting Refugees Needs in Britain: The Role of Refugee-Specific Initiatives. Home Office: London.
+44	Chartered Institute of Housing, ‘Providing a Safe Haven- Housing Asylum Seekers and Refugees'.
+45	Schuster, L. (2000) ‘A comparative analysis of the asylum policy of seven European governments', Journal of Refugee Studies, 13(1) :118-131, p 6.
+46 http://www.integratingireland.ie/userfiles/File/Database/NASC%20Hidden%20Cork%20DP%20Report.pdf, Free Legal Advice Centres, One Size Doesn't Fit All 2009. Available http://www.flac.ie/download/pdf/one size doesnt fit all full report final.pdf.
+47 Free Legal Advice Centres, One Size Doesn’t Fit All 2009 p. 52. Available at: http://www.flac.ie/download/pdf/one_size_doesnt_fit_all_full_report_final.pdf.
+48 AkiDwA, ‘Am Only Saying it Now', 2010 p. 12. Available at: http://www.akidwa.ie/AmOnlySayingItNowAkiDwA.pdf;	NASC, Hidden	Cork, 2007. Available at: http://www.integratingireland.ie/userfiles/File/Database/NASC%20Hidden%20Cork%20DP%20Report.pdf;
+Free Legal Advice Centres, One Size	Doesn't Fit	All	2009. Available	at:
+http://www.flac.ie/download/pdf/one size doesnt fit all full report final.pdf.
+49 Germany received 33,033 applications for asylum in 2009 as compared to Ireland which had only 5,260. UNHCR Global Trends 2009 annexes: http://www.unhcr.org/pages/49c3646c4d6.html.
+50 Oxfam & Refugee Council, “Poverty and Asylum in the UK”, 2002.
+51 Ibid.
+52 Europe: Uneven distribution trends, UNHCR Refugees Daily, 5th October 2000.
+53 Special Standing Committee Hansard, Col 470, 22nd March 1999. 54 http://www.salaam.co.uk/themeofthemonth/august02_index php?l=5. 55 Reception & Integration Agency (2001) Information Pack for Applicants Seeking Asylum in Ireland.
+56 See Irish Refugee Council (2001) Direct Provision and Dispersal 18 Months On, Irish Refugee Council: Dublin; AkiDwA, ‘Am Only Saying it Now’, 2010 p. 12. Available at: http://www.akidwa.ie/AmOnlySayingItNowAkiDwA.pdf; NASC, Hidden Cork, 2007 . Available at: http://www.integratingireland.ie/userfiles/File/Database/NASC%20Hidden%20Cork%20DP%20Report.pdf; Free Legal Advice Centres, One Size Doesn’t Fit All 2009. Available at: http://www.flac.ie/download/pdf/one_size_doesnt_fit_all_full_report_final.pdf.
+57	http://www.flac.ie/news/2010/06/23/joint-release-support-groups-seek-independent-complaints-mechanism- for-direct-provision/.
+58	See: http://www.ombudsman.gov.ie/en/Publications/Guidelines/InternalComplaints/.
+59	United Nations Committee on the Elimination of Racial Discrimination Concluding Observations: ‘The Committee is concerned at the negative impact that the policy of ‘direct provision' has had on the welfare of asylum seekers who, due to the inordinate delay in the processing of their applications, and the final outcomes of their appeals and reviews, as well as poor living conditions, can suffer health and psychological problems that in certain cases lead to serious mental illness. The Committee is further concerned at the failure by the State party to provide for an independent appeals tribunal considering that the remit of the Office of the Ombudsman does not extend to asylum and immigration matters (article 2, 5 and 6) The Committee encourages the State party to take all necessary steps with a view to expediting the processing of asylum applications so that asylum seekers do not spend unreasonable periods of time in asylum centres which might have negative consequences on their health and general welfare. The State party should take all necessary measures to improve the living conditions of asylum seekers by providing them with adequate food, medical care and other social amenities including also a review of the direct provision system'. See full report: http://www2.ohchr.org/english/bodies/cerd/docs/co/Ireland AUV.pdf.
