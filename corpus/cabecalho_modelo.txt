@@ -1,0 +1,23 @@
+<Header>
+	<title>
+		<tit> Título do Documento </tit>
+		<fileName> Etiqueta </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Tipologia textual </textType>
+		<subcorpus> Original American English </subcorpus>
+	</title>
+	<sourceText>
+		<language> Língua e variedade </language>
+		<source> Link para o documento </source> 
+		<publisher> Nome de quem publicou </publisher>
+		<pubDate> Data de publicação </pubDate>
+		<pubPlace> Meio em que foi publicado </pubPlace>
+		<accessDate> Data de acesso </accessDate>
+		<researcher> Quem adicionou o arquivo </researcher> 
+		<comments> comentários relevantes para o leitor </comments>
+	</sourceText>
+	<author>
+		<institution> Quem escreveu o documento? [Se for um autor só, pode apagar as tags institutions] </institution>
+	</author>
+</Header>

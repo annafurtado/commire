@@ -1,0 +1,34 @@
+﻿pchave: refugiados
+
+freq.t: 1.582
+
+doc.t: 93
+
+UTEs:
+
+-  protección de los refugidados:
+    freq: 305
+    doc: 46
+
+-  ex refugiados:
+    freq: 8
+    doc: 6
+
+-  comunidades de refugiados:
+    freq: 134
+    doc: 20
+
+-  ley de refugiados:
+    freq: 6
+    doc: 5
+
+-  protección internacional de los refugiados:
+    freq: 33
+    doc: 18
+
+-  reasentamiento de refugiados:
+    freq: 158
+    doc: 21
+
+id:
+ - 0172

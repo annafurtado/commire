@@ -1,0 +1,125 @@
+p.chave: asile
+
+freq.t: 6790
+
+doc.t: 123
+
+UTEs:
+
+-  demander asile:
+    freq: 268
+    doc: 56
+
+-  requérants d'asile déboutés:
+    freq: 14
+    doc: 10
+
+-  chercher asile:
+    freq: 18
+    doc: 6
+
+-  obtenir l'asile:
+    freq: 36
+    doc: 24
+
+-  accorder l'asile:
+    freq: 19
+    doc: 10
+
+-  déposer une demande d'asile:
+    freq: 86
+    doc: 40
+
+-  présenter une demande d'asile:
+    freq: 26
+    doc: 11
+
+-  requérants d'asile mineurs non accompagnés:
+    freq: 26
+    doc: 9
+
+-  système d'asile national:
+    freq: 33
+    doc: 4
+
+-  demandeur d'asile:
+    freq: 1.488
+    doc: 65
+
+-  procédure d'asile:
+    freq: 678
+    doc: 69
+
+-  pays d'asile:
+    freq: 84
+    doc: 10
+
+-  demande d'asile:
+    freq: 1901
+    doc: 109
+
+-  asile:
+    freq: 7.251
+    doc: 106
+
+-  système d'asile:
+    freq: 63
+    doc: 15
+
+-  politique d'asile:
+    freq: 52
+    doc: 27
+
+-  statut de refugié:
+    freq: 13
+    doc: 6
+
+-  examiner une demande d'asile:
+    freq: 22
+    doc: 11
+
+-  faire une demande d'asile:
+    freq: 32
+    doc: 16
+
+-  destitute asylum seekers:
+    freq: 20
+    doc: 6
+
+-  officier de protection:
+    freq: 139
+    doc: 15
+
+-  traiter une demande d'asile:
+    freq: 16
+    doc: 14
+
+-  procédure normale:
+    freq: 52
+    doc: 13
+
+-  pays de premier asile:
+    freq: 21
+    doc: 4
+
+-  formulaire de demande d'asile:
+    freq: 6
+    doc: 4
+
+-  droit d'asile:
+    freq: 263
+    doc: 38
+
+-  décision d'asile négative:
+    freq: 8
+    doc: 4
+
+-  recevoir l'asile:
+    freq: 3
+    doc: 3
+
+-  demandeur d’ asile mineur:
+    freq: 8
+    doc: 5
+
+id: 0176
