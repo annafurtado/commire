@@ -1,0 +1,458 @@
+﻿<Header>
+	<title>
+		<tit> PROTEGENDO REFUGIADOS NO BRASIL E NO MUNDO </tit>
+		<fileName> PT_004 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Manual </textType>
+		<subcorpus> PT-BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.acnur.org/fileadmin/Documentos/portugues/Publicacoes/2018/Cartilha_Protegendo_Refugiados_No_Brasil_2018.pdf?file=fileadmin/Documentos/portugues/Publicacoes/2018/Cartilha_Protegendo_Refugiados_No_Brasil_2018#:~:text=A%20prote%C3%A7%C3%A3o%20de%20refugiados%20e,e%20duradouras%20para%20estas%20popula%C3%A7%C3%B5es. </source> 
+		<publisher> ACNUR </publisher>
+		<pubDate> 2018 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 06 mar 2021 </accessDate>
+		<researcher> Ester Saraiva </researcher> 
+		<comments> Esse arquivo era repleto de imagens que sumiram e/ou tiveram que ser apagadas na conversão do pdf para o word e do word para o txt </comments>
+	</sourceText>
+	<author>
+		<institution> ACNUR </institution>
+	</author>
+</Header>
+
+UNHCR ACNUR Agência da ONU para Refugiados
+
+PROTEGENDO REFUGIADOS NO BRASIL E NO MUNDO
+
+ACNUR – AGÊNCIA DA ONU PARA REFUGIADOS 
+UNHCR – THE UM REFUGEE AGENCY
+www.acnur.org.br
+www.acnur.org
+www.unhcr.org
+
+
+
+Quem são os refugiados?
+Os refugiados estão fora de seu país de origem devido a fundados temores de perseguição relacionados à sua raça, religião, nacionalidade, grupo social ou opinião política. Também são consideradas refugiadas aquelas pessoas que foram obrigadas a deixar seus países devido a conflitos armados, violência generalizada e graves violações dos direitos humanos.
+Todos os anos, ao redor do mundo, milhões de refugiados e um número ainda maior de pessoas deslocadas dentro de seus próprios países são forçados a abandonar tudo - suas casas, seus empregos, familiares, amigos e bens - para preservar sua liberdade, garantir sua segurança e assegurar sua vida. Não se trata de uma escolha, mas, sim, da única opção possível.
+No ponto de passagem da fronteira de Anjuman Para, cerca de 13.000 refugiados Rohingya entraram em Bangladesh entre 15 e 18 de outubro de 2017. O ACNUR fornece kits emergenciais ao grande fluxo de pessoas que buscam proteção e segurança depois de sofrerem ameaças e violações de seus direitos.
+
+A proteção de refugiados e das populações deslocadas por guerras, conflitos e perseguições é a principal missão do Alto Comissariado das Nações Unidas para Refugiados (ACNUR) - também conhecido como Agência da ONU para Refugiados -, que busca soluções adequadas e duradouras para estas populações. A participação desses grupos nas decisões que impactam suas vidas é um princípio essencial da ação do ACNUR.
+Esta cartilha traz respostas às principais questões sobre refugiados no Brasil e no mundo, mostrando como o ACNUR e seus parceiros humanitários trabalham para garantir proteção e assistência às populações sob seu mandato.
+Capa: crianças que retornaram recentemente ao bairro de Qaterji, no leste de Aleppo, Síria, posam para foto após brincarem. Mesmo entre as ruínas e escombros, lojas estão sendo reabertas, assim como escolas aos poucos voltam a funcionar.
+UNHCR ACNUR Agência da ONU para Refugiados
+O ACNUR
+O ACNUR, Agência da ONU para Refugiados, foi criado em dezembro de 1950 por resolução da Assembleia Geral das Nações Unidas. Iniciou suas atividades em janeiro de 1951, com um mandato inicial de três anos para reassentar refugiados europeus que estavam sem lar após a Segunda Guerra Mundial. Seu trabalho tem como base a Convenção de 1951 da ONU sobre Refugiados.
+O Protocolo de 1967 reformou a Convenção de 1951 e expandiu o mandato do ACNUR para além das fronteiras europeias e das pessoas afetadas pela Segunda Guerra Mundial. Em 1995, a Assembleia Geral designou o ACNUR como responsável pela proteção e assistência dos apátridas em todo o mundo. Em 2003, foi abolida a cláusula que obrigava a renovação do mandato do ACNUR a cada triênio.
+Nas últimas décadas, os deslocamentos forçados atingiram níveis sem precedência. Estatísticas recentes revelam que mais de 67 milhões de pessoas no mundo deixaram seus locais de origem por causa de conflitos, perseguições e graves violações de direitos humanos. Entre elas, aproximadamente 22 milhões cruzaram uma fronteira internacional em busca de proteção e foram reconhecidas como refugiadas. A população de apátridas (pessoas sem vínculo formal com qualquer país) é estimada em 10 milhões de pessoas.
+
+ACNUR atua no fornecimento de kits de emergência no campo Hammam al-Alil, no distrito de Mossul, Iraque. Cerca de 30.000 pessoas deixaram suas casas em apenas uma semana, no final de fevereiro de 2017. Em sete dias o campo já estava lotado, abrigando 24.500 pessoas.
+
+O ACNUR já auxiliou dezenas de milhões de pessoas a recomeçarem suas vidas. Por seu trabalho humanitário, recebeu duas vezes o Prêmio Nobel da Paz (1954 e 1981). Atualmente, a agência conta com aproximadamente 12 mil funcionários e está presente em cerca de 130 países com mais de 460 escritórios. Por meio de parcerias com centenas de organizações não governamentais, o ACNUR presta assistência e proteção a mais de 67 milhões de pessoas.
+O ACNUR se mantém por meio de contribuições voluntárias de países, além de doações arrecadadas do setor privado e de doadores individuais. O orçamento anual da agência ultrapassa os US$ 7,5 bilhões.
+
+Ao longo de 2016, milhares de refugiados passam pelo centro de recepção do ACNUR em Vinojug, na Macedônia. Longas filas se formaram constantemente na tentativa de embarcar por trem para o centro da Europa. Além da acolhida e registro, o ACNUR e seus parceiros prestaram assistência humanitária como proteção, alimentação, água e assistência médica.
+
+
+Proteção às pessoas refugiadas
+A Convenção de 1951 da ONU sobre Refugiados e seu Protocolo de 1967 são os fundamentos da proteção das pessoas refugiadas e estabelecem os princípios legais sobre os quais se baseiam inúmeras legislações e práticas internacionais, regionais e nacionais. Atualmente, quase 150 países são signatários da Convenção de 1951 e/ou do Protocolo de 1967.
+
+Durante atividades com artistas do coletivo iraquiano AptArt, jovens refugiados pintam em lonas recicladas do ACNUR, fazendo desta atividade um canal para a sua criatividade e uma forma de expressão que represente suas angústias e desejos por um futuro pacífico.
+
+
+Proteção internacional
+
+Refúgio a quem precisa
+A maioria das pessoas pode contar com seus países para garantir e proteger seus direitos humanos básicos e sua integridade física e mental. Entretanto, no caso dos refugiados, o país de origem mostrou-se incapaz de prover essa garantia.
+O ACNUR trabalha para assegurar que qualquer pessoa, em caso de necessidade, possa exercer o direito de buscar e receber refúgio em outro país e, caso deseje, regressar a seu país de origem de forma segura.
+O ACNUR não é e nem deseja ser uma organização supranacional. Portanto, não pode substituir a proteção dada pelas autoridades nacionais. Seu papel principal é garantir que os países estejam conscientes de suas obrigações de conferir proteção aos refugiados e a todas as pessoas que buscam refúgio, atuando em conformidade com esses compromissos.
+Os sistemas nacionais de proteção e refúgio existem para decidir quais solicitantes de refúgio precisam de proteção internacional. É por isso que a questão central da proteção é o princípio da não devolução (ou non refoulement): solicitantes de refúgio e pessoas refugiadas não podem ser retornadas a nenhum país ou território onde sua vida e integridade estejam em risco.
+
+A Convenção da ONU de 1951 sobre Refugiados
+
+Proteção às pessoas ameaçadas
+Um dos principais pontos da Convenção de 1951 é que os refugiados não podem ser expulsos ou devolvidos “para fronteiras ou territórios onde suas vidas ou liberdade estejam ameaçadas”. A convenção também estabelece os direitos básicos que os países signatários devem garantir aos refugiados.
+A Convenção de 1951 nunca teve o objetivo de solucionar todos os problemas relacionados às migrações. Seu objetivo é proteger pessoas refugiadas. Um desafio atual da comunidade internacional é encontrar mecanismos eficientes para lidar com as migrações econômicas e os deslocamentos forçados pelas mudanças climáticas, garantindo mecanismos de proteção humanitária complementar ao refúgio.
+
+Direitos e deveres das pessoas refugiadas
+
+Direitos, assistência e obrigações
+Os refugiados devem ter ao menos os mesmos direitos e a mesma assistência básica recebida por qualquer outro estrangeiro que resida regularmente no país de acolhida, entre eles direitos civis básicos (como liberdade de pensamento e deslocamento, propriedade e não sujeição à tortura e a tratamentos degradantes) e direitos econômicos e sociais (como assistência médica, direito ao trabalho e educação). As pessoas refugiadas têm também obrigações, entre elas o cumprimento das leis e o respeito aos costumes do país onde se encontram.
+
+ACNUR instala uma nova planta solar construída no campo de refugiados de Azraq, na Jordânia.
+A campanha “Vidas Mais Brilhantes para Refugiados”, feita em parceria com a Fundação Ikea, trouxe energia renovável para quem até então vivia com acesso esporádico a eletricidade.
+
+
+Populações sob o mandato do ACNUR
+Refugiados: estão fora de seu país de origem devido a fundados temores de perseguição relacionados a questões de raça, religião, nacionalidade, pertencimento a um determinado grupo social ou opinião política, como também devido à grave e generalizada violação de direitos humanos e conflitos armados.
+Solicitantes de refúgio: alguém que solicita às autoridades competentes ser reconhecido como refugiado, mas que ainda não teve seu pedido avaliado definitivamente pelos sistemas nacionais de proteção e refúgio.
+Deslocados internos: são pessoas deslocadas dentro de seu próprio país, pelos mesmos motivos de um refugiado, mas que não atravessaram uma fronteira internacional para buscar proteção. Mesmo tendo sido forçadas a deixar seus lares por razões similares às dos refugiados (perseguições, conflito armado, violência generalizada, grave e generalizada violação dos direitos humanos), os deslocados internos permanecem legalmente sob proteção de seu próprio Estado - mesmo que esse Estado seja a causa de sua fuga. Como cidadãos, eles devem ser protegidos por seus países e têm seus direitos previstos nos tratados internacionais de direitos humanos e do direito humanitário. Civis afetados por desastres naturais também podem ser considerados deslocados internos.
+
+Banan e seu marido Omar deixaram a Síria depois que sua cidade foi bombardeada. Após passarem pela Turquia, foram para a Grécia, onde encontraram abrigo em Nea Kavala, um acampamento com tendas pré-fabricadas do ACNUR. Aqui a família se sente segura e aquecida.
+
+Apátridas: são pessoas que não têm sua nacionalidade reconhecida por nenhum país. A apatridia ocorre por várias razões, tais como discriminação contra minorias na legislação nacional, falha em reconhecer todos os residentes do país como cidadãos quando este país se torna independente (secessão de Estados) e conflitos de leis entre países.
+Retornados: refugiados e solicitantes de refúgio que retornam voluntariamente a seus países de origem.
+
+Crianças Rohingya brincam no campo de refugiados em Kutupalong, Bangladesh. Com mais de 600.000 pessoas da minoria Rohingya em busca de proteção, o ACNUR redobrou seus esforços para prover abrigos, kits emergenciais e assistência à esta população.
+
+Laila Begum é mãe de quatro filhos. O mais velho, Mohammed (à esquerda), tem 13 anos e, assim como seus irmãos, não entende ao certo os motivos que os levaram a abandonar suas casas, muito embora tenham sentido medo, fome e sede. Eles vivenciaram momentos de tensão até a chegada a um campo de refugiados gerido pelo ACNUR.
+
+
+Diferenças entre migração e refúgio
+Enquanto as pessoas refugiadas estão em uma situação muito vulnerável, pois não têm proteção de seus respectivos países e sofrem ameaças e perseguições, os migrantes internacionais escolheram viver no exterior principalmente por motivações econômicas, podendo voltar com segurança a seu país de origem se assim desejarem. Estes não recebem assistência e proteção do ACNUR, pois não estão sob seu mandato.
+Refugiados e migrantes são cada vez mais confundidos entre si e tratados com desconfiança, preconceito e intolerância. Os sistemas de proteção internacional estão sob intensa pressão. Em muitos países, os controles de fronteiras estão cada vez mais rigorosos por questões de segurança interna, impedindo a entrada de migrantes em situação irregular. Como muitas situações atuais se referem ao contexto de fluxos mistos, é necessário garantir que pessoas refugiadas sejam devidamente identificadas e protegidas de acordo com os protocolos internacionais.
+
+
+Em busca de soluções duradouras
+Para assegurar os direitos e o bem-estar dos refugiados e de outras populações sob seu mandato, o ACNUR busca prover soluções duradouras que permitam a eles reconstruir suas vidas com paz e dignidade, assegurando seus direitos. Neste sentido, o ACNUR trabalha com três soluções para estas populações: repatriação voluntária, integração local e reassentamento.
+Repatriação voluntária: é a solução de longo prazo preferida pela maioria dos refugiados, que optam por voltar para seu país de origem com condições de segurança (geralmente quando um conflito termina e um nível mínimo de estabilidade é restaurado). O ACNUR frequentemente fornece transporte e auxílio para que os repatriados possam recomeçar sua vida, por meio de doações financeiras e projetos de geração de renda, entre outros.
+Integração local: o ACNUR trabalha para que as pessoas refugiadas tenham plena inserção jurídica, social, econômica e cultural no país de refúgio, além de seus direitos respeitados. Um refugiado está plenamente integrado quando tem a residência permanente ou a cidadania do país de refúgio, podendo acessar as políticas públicas disponíveis a todas as pessoas cidadãs deste país.
+Reassentamento: implementado pelo ACNUR para quem não pode voltar a seu país de origem - por temor de perseguição ou situação de violência generalizada - e nem permanecer no país de refúgio onde se encontra devido a problemas de segurança, integração local ou falta de proteção legal e física. Nestes casos, o ACNUR procura a ajuda de terceiros países que estejam dispostos a receber refugiados.
+
+Há quase 40 anos, Vicky Baril e Leona Heuver abriram as portas de suas casas no Canadá para receber uma família vietnamita em processo de reassentamento. Elas então conheceram a Sra. Tran, uma costureira viúva, e logo se tornaram amigas próximas, o que facilitou a adaptação da família no novo país.
+
+Na sede das Nações Unidas, em Genebra, Suíça, o secretário-geral recebeu uma petição assinada por mais de 1,2 milhão de pessoas de 193 países, que teve como mensagem proteger as vidas e os direitos das pessas refugiadas pelo mundo. A petição #ComOsRefugiados foi um marco nas redes sociais do ACNUR.
+
+
+O Comitê Executivo
+O Comitê Executivo do ACNUR (ExCom, na sigla em inglês) é um órgão subsidiário da Assembleia Geral das Nações Unidas que assessora o ACNUR no exercício de suas funções, revisando anualmente seu orçamento e os programas propostos ou em execução. O Comitê Executivo reúne-se uma vez por ano, durante uma semana, em Genebra, na Suíça. Em 2017, o ExCom contava com 101 Estados-membros, entre eles o Brasil.
+
+
+O Alto Comissário
+O diplomata italiano Filippo Grandi é o Alto Comissário das Nações Unidas para Refugiados. Ele foi eleito para o cargo em novembro de 2015, e assumiu suas funções em janeiro de 2016. Atuando em cooperação internacional há mais de 30 anos, Grandi ocupou o cargo de comissário-geral da Agência da ONU de Assistência aos Refugiados da Palestina (UNRWA) e tem vasta experiência de trabalho com questões humanitárias, abrangendo as áreas de proteção, gestão de emergências, relações com doadores e assuntos políticos. Grandi é o 11° Alto Comissário da história do ACNUR. Com a perspectiva de piora do cenário internacional, forçando cada vez mais pessoas a se deslocar, Grandi afirma que um dos desafios do ACNUR é “manter a gestão dos recursos internacionais acessíveis de forma inteligente, ágil e eficiente para concretizar o planejamento, a coordenação e as ações endereçadas à causa dos refugiados, contribuindo para que os Estados encontrem soluções duradouras diante das dificuldades dos deslocados e apátridas”.
+
+Em agosto de 2017, o Alto Comissário do ACNUR, Filippo Grandi, visitou a Guatemala, onde se encontrou com jovens em situação de refúgio. Guatemala, El Salvador e Honduras buscam prover segurança aos deslocados diante da violenta atuação de gangues na América Central.
+
+
+Declaração de Nova York e o Pacto Global sobre Refugiados
+No ato da histórica Declaração de Nova York para Refugiados e Migrantes de 2016, os então 193 Estados-membros das Nações Unidas concordaram em prover proteção às pessoas forçadas a abandonar seus países de origem e apoiar os demais países que os abrigam, compartilhando as responsabilidades internacionais que devem ser financiadas de forma mais equitativa e previsível.
+A declaração concedeu ao ACNUR a atribuição para desenvolver um “Pacto Global sobre Refugiados”, atuando em consulta com os governos e outras partes interessadas. Este pacto é uma oportunidade única para fortalecer a resposta internacional aos grandes movimentos de refugiados, tanto as situações mais recentes quanto as mais prolongadas, e tem os seguintes objetivos principais:
+1) aliviar as pressões sobre os países que recebem e acolhem refugiados;
+2) construir autossuficiência e autonomia entre as pessoas em situação de refúgio;
+3) expandir o acesso ao reassentamento em países terceiros e prover outros caminhos legais para a proteção e soluções duradouras; e
+4) fomentar condições que permitam aos refugiados voltarem voluntariamente para seus países de origem de forma digna e segura.
+Por meio da Declaração de Nova York, o ACNUR está contribuindo para o fortalecimento de esforços conjuntos a fim de implementar o Pacto Global para o deslocamento seguro, ordenado e regular. Um pacto forte impactará de forma positiva, dentro da perspectiva de direitos humanos de refugiados e migrantes.
+Todos esses compromissos devem ser trabalhados em conjunto, com as devidas responsabilidades sendo compartilhadas para que sejam implementados e gerem resultados práticos e efetivos.
+
+Adbu Malak, de 35 anos, carrega seu filho de um ano no campo de refugiados em Kutupalong, Bangladesh. Famílias inteiras, jovens mães e crianças desacompanhadas estavam entre as pessoas que deixaram Mianmar após atos violentos do exército myanmarense.
+
+
+Objetivos de Desenvolvimento Sustentável
+
+Aprendizes de gastronomia refugiados e italianos se juntam em Roma, Itália, para celebrar a campanha #ComOsRefugiados. Projetos que visam à integração e autossuficiência de refugiados possibilitam aprendizados, trocas e formação profissional para quem busca recomeçar sua vida em um novo país.
+
+Em um mundo cada vez mais moldado pelos conflitos armados, pelas mudanças climáticas e pela pobreza, os Objetivos de Desenvolvimento Sustentável (ODS) não podem ser alcançados sem levar em conta os direitos e as necessidades das pessoas em situação de refúgio e apátridas.
+A Agenda 2030 - que dialoga com a declaração dos 17 ODS - busca garantir que todas as pessoas e nações sejam atingidas e incluídas na realização desses objetivos. O ACNUR está firmemente comprometido com esta agenda, que oferece uma visão universal, integrada, transformadora e baseada nos direitos humanos para o desenvolvimento sustentável, a paz e a segurança de todos os povos.
+A declaração indica a necessidade de incluir refugiados. O parágrafo 4 propõe que “ninguém será deixado para trás e que objetivos e metas serão atendidos para todas as nações e povos e todos os segmentos da sociedade”. Por sua vez, o parágrafo 23 afirma que
+“aqueles cujas necessidades estão refletidas na agenda incluem [...] pessoas refugiadas e deslocadas internas (para que se possa) tomar novas medidas e ações efetivas, de acordo com o direito internacional, a fim de remover obstáculos e restrições, fortalecer o apoio e atender às necessidades específicas das pessoas que vivem em áreas afetadas por emergências humanas complexas e em áreas afetadas pelo terrorismo”.
+Conforme descrito em suas Diretrizes Estratégicas 2017-2021, o ACNUR atua para:
+1) basear-se no compromisso da Agenda para o Desenvolvimento Sustentável de 2030 de não deixar ninguém para trás, bem como nos Objetivos de Desenvolvimento Sustentável, para promover a inclusão de refugiados, deslocados internos e apátridas nas estruturas nacionais de desenvolvimento; e
+2) envolver fortemente os Estados, as comunidades de acolhimento, a sociedade civil e os principais parceiros e prestadores de serviços para promover a inclusão de refugiados, deslocados internos e apátridas nos sistemas nacionais existentes, incluindo saúde e educação, enquanto aguardam soluções duradouras para seu deslocamento.
+O ACNUR continua a defender a implementação inclusiva dos ODS, fortalecendo e diversificando suas parcerias para reunir uma ampla gama de atores - incluindo o setor privado - para inovar, criar e mobilizar soluções para o deslocamento forçado e a apatridia.
+
+
+Protegendo as pessoas refugiadas no Brasil
+
+Projetos realizados no Brasil pelo ou em parceria com o ACNUR promovem a autonomia, o empoderamento e as trocas de saber e cultura entre pessoas em situação de refúgio e brasileiros, propiciando um ambiente de aprendizagem coletivo e com foco em resultados.
+
+Na região das Américas, o Brasil tem uma legislação de refúgio considerada moderna (Lei n° 9.474, de 22 de julho de 1997) por adotar um conceito ampliado para o reconhecimento de refugiados. Para além do conceito estabelecido pela Convenção de 1951, a legislação brasileira também reconhece como refugiado todas as pessoas que buscam segurança diante de situações de grave e generalizada violação de direitos humanos.
+Em 2017, o país registrou uma população de 10.141 refugiados reconhecidos, provenientes de mais de 80 países diferentes, havendo mais de 30 mil pedidos de refúgio a serem analisados pelo CONARE. A grande maioria dos refugiados no Brasil vive em cidades, estando estes concentrados nos grandes centros urbanos.
+A responsabilidade de proteção e integração de refugiados é primariamente do Estado brasileiro. No território nacional, o refugiado pode obter documentos, trabalhar, estudar e exercer os mesmos direitos civis que qualquer cidadão estrangeiro em situação regular no Brasil.
+Criado pela Lei n° 9.474/1997 com o objetivo de reconhecer e tomar decisões sobre a condição de refugiado no Brasil, além de promover a integração local dessa população, o Comitê Nacional para os Refugiados (CONARE) é um órgão multiministerial do qual participam o governo, a sociedade civil e a ONU, por meio do ACNUR. Compõem o CONARE:
+• Ministério da Justiça e Segurança Pública, que o preside;
+• Ministério das Relações Exteriores;
+• Ministério do Trabalho e Emprego;
+• Ministério da Saúde;
+• Ministério da Educação;
+• Departamento de Polícia Federal;
+• Cáritas Arquidiocesana do Rio de Janeiro, como representantes da sociedade civil organizada, e a Caritas Arquidiocesana de São Paulo, como suplente; e
+• ACNUR, como membro consultivo com direito à voz, sem voto.
+O Instituto de Migração e Direitos Humanos (IMDH) e a Defensoria Pública da União (DPU) também participam como membros consultivos.
+A Agência da ONU para Refugiados no Brasil tem seu escritório central em Brasília e unidades descentralizadas em São Paulo (SP), Manaus (AM) e Boa Vista (RR). O ACNUR atua em cooperação com o CONARE e em coordenação com os governos federal, estaduais e municipais, além de outras instâncias do Poder Público.
+O ACNUR contribui para a formulação das políticas sobre refúgio e das normas que esclarecem os termos da legislação nacional sobre o tema. Para garantir a assistência humanitária e a integração dos refugiados no Brasil, o ACNUR implementa projetos com organizações da sociedade civil em diferentes cidades do país, contando ainda com parcerias no setor privado e no mundo acadêmico para ampliar o apoio às populações sob seu mandato.
+
+Pessoas refugiadas de diferentes nacionalidades participam, em São Paulo, do maior festival de inovação e criatividade do Brasil. Elas foram selecionadas para atuar com os brasileiros em diferentes áreas, tais como infraestrutura de TI, organização de palestras e recepção do público inscrito.
+
+O envolvimento do setor privado é fundamental para que o processo de integração das pessoas refugiadas no Brasil e no mundo aconteça de maneira assertiva e produtiva, seja propiciando oficinas de aprimoramento de conhecimentos ou pelas oportunidades de empreender em diferentes áreas.
+
+
+Mecanismos de proteção e integração
+Apesar de o Brasil ser internacionalmente reconhecido como um país acolhedor, os refugiados podem encontrar dificuldades para se integrar à sociedade brasileira. Geralmente, os obstáculos iniciais estão relacionados ao idioma português e às questões culturais. Problemas comuns aos brasileiros também são enfrentados pelos refugiados, como dificuldades no mercado de trabalho e acesso à educação superior ou aos serviços públicos de saúde e moradia.
+Para facilitar o acesso de refugiados e outras populações de interesse às políticas públicas existentes no Brasil, o ACNUR atua em cooperação com governos e embaixadas, envolvendo atores sensíveis à causa do refúgio, como organizações da sociedade civil, o Poder Judiciário, o setor privado, universidades e indivíduos que contribuem para o fortalecimento de uma grande rede de apoio.
+Por meio de parcerias estabelecidas com a sociedade civil, refugiados e o Poder Público, o ACNUR busca fortalecer iniciativas que apresentem soluções inovadoras para os desafios enfrentados pelas populações sob seu mandato.
+No Brasil, o ACNUR tem colaborado com projetos de empreendedorismo, sendo um dos países escolhidos para implementar uma ferramenta inovadora de acesso à informação: a plataforma UNHCR Help (help.unhcr.org). Por meio dela, pessoas refugiadas e solicitantes de refúgio têm acesso a informações básicas sobre o procedimento de reconhecimento da condição de refúgio, além de informações que auxiliam o processo de integração local.
+A Rede Solidária para Migrantes e Refugiados reúne aproximadamente 67 entidades que atuam em todo o território brasileiro, muitas delas em pontos isolados de fronteira. A rede funciona como um ambiente de diálogo e de defesa de refugiados e outras pessoas em mobilidade, monitorando as fronteiras e identificando os solicitantes de refúgio ou possíveis refugiados, para orientá-los e preservar seu direito de não devolução para locais ou países onde sua vida e liberdade estão ameaçadas.
+Em diversos estados do Brasil, autoridades locais e a sociedade civil atuam em comitês estaduais para facilitar o acesso de solicitantes de refúgio, refugiados, migrantes e apátridas às políticas públicas estaduais e municipais. Já foram estabelecidos comitês em São Paulo, Rio de Janeiro, Paraná, Rio Grande do Sul, Amazonas, Minas Gerais e Mato Grosso do Sul. Neles, diversas secretarias e organizações da sociedade civil discutem demandas específicas dessas populações e articulam soluções viáveis que garantam uma melhor integração social, econômica e cultural.
+
+Eventos de capacitação e formação de grupos específicos de pessoas refugiadas tornaram-se frequentes em São Paulo. Com a chegada a um novo país, mesmo os refugiados com formação superior e experiência profissional buscam novas profissões para se readequar às demandas do mercado local.
+
+
+Cátedra Sérgio Vieira de Mello
+Promover a educação, pesquisa e extensão acadêmica voltada a população em condição de refúgio é um dos objetivos da Agência da ONU para Refugiados (ACNUR). Desde 2004, o ACNUR implementa a Cátedra Sérgio Vieira de Mello (CSVM), em cooperação com centros universitários nacionais e com o Comitê Nacional para Refugiados (CONARE).
+Nesse acordo de cooperação com as instituições de ensino superior, o ACNUR estabelece um termo de referência com objetivos, responsabilidades e critérios para adesão à iniciativa dentro de três linhas de ação: educação, pesquisa e extensão. Além de difundir o ensino universitário sobre temas relacionados ao refúgio, a CSVM também visa promover a formação acadêmica e a capacitação de professores e estudantes dentro dessa temática. Além disso, o trabalho realizado diretamente com as pessoas refugiadas em projetos de extensão também é definido como prioritário. Como exemplos de iniciativas implementadas, diversas universidades têm desenvolvido ações para fomentar o acesso e a permanência ao ensino, a revalidação de diplomas e o ensino da língua portuguesa à população refugiada.
+
+Conferência internacional promovida pela Cátedra Sérgio Vieira de Mello é realizada com a participação de pesquisadores e profissionais brasileiros e internacionais, tendo como foco debater temas atuais e os desafios do processo de integração de refugiados.
+
+A importância dessa iniciativa foi reconhecida pela Declaração e Plano de Ação do México para Fortalecer a Proteção Internacional dos Refugiados na América Latina, assinada em 2004 por 20 países da região, que recomenda a investigação interdisciplinar da promoção e da formação do direito internacional dos refugiados. Nesse mesmo ano, a CSVM foi criada no Brasil e, desde seu início, tem se revelado um ator fundamental para garantir que pessoas refugiadas e solicitantes de refúgio tenham acesso a direitos e serviços no país, apoiando efetivamente o processo de integração local.
+Esta cátedra, como seu nome indica, é uma homenagem ao brasileiro Sérgio Vieira de Mello, morto no Iraque em 2003, o qual dedicou grande parte da sua carreira profissional nas Nações Unidas trabalhando com refugiados, como funcionário do ACNUR.
+
+O uso da internet por meio de dispositivos móveis, como smartphones, é uma realidade no cotidiano das pessoas refugiados. O acesso à informação confiável é um elemento central que possibilita a tomada de decisões seguras que impactam diretamente nas suas vidas.
+
+
+Plataforma Help
+As cerca de 22 milhões de pessoas refugiadas no mundo têm direito a proteção e a integração no país de acolhida. Elas podem enfrentar muitos desafios nesse processo, especialmente quando é difícil ter acesso à informação confiável e coordenada sobre seus direitos e serviços.
+Por isso, a Agência da ONU para Refugiados (ACNUR) desenvolveu o UNHCR Help, uma plataforma on-line para servir como fonte de informações úteis e relevantes para refugiados, solicitantes de refúgio e apátridas que chegam ou já vivem no Brasil.
+O site foi criado a partir de uma metodologia de projeto centrada no ser humano (human- -centered design), que explora o poder da inovação para criar produtos e serviços que atendam às necessidades do usuário. Após diversas consultas com a população refugiada, o ACNUR desenvolveu a estrutura da plataforma, seu conteúdo e design. A versão brasileira está disponível em help.unhcr.org/brazil.
+O conteúdo do site estará disponível em cinco idiomas (português, inglês, espanhol, francês e árabe) e tem como base áreas relevantes escolhidas pelos próprios refugiados para acessarem direitos e serviços. O ACNUR compilou essas informações do governo, polícia federal, sociedade civil e academia. Na plataforma Help, por exemplo, o solicitante de refúgio pode encontrar informações confiáveis e atuais sobre: trâmites legais; acesso ao sistema de saúde; acesso à educação em vários estados do país; meios para encontrar oportunidades de emprego; abertura de contas bancárias; entre outras referências essenciais à melhor acolhida e integração dessas pessoas.
+
+Em um acampamento de verão na Armênia, 40 adolescentes da Síria e do Iraque encontram-se para reestabelecer laços de confiança e fazer novas amizades por meio da realização de atividades como teatro, música, arte e esportes.
+
+
+Idade, gênero e diversidade
+A missão de salvaguardar os direitos e o bem-estar das pessoas sob o mandato do ACNUR só pode ser alcançada se as necessidades de homens, mulheres, crianças, jovens, idosos e pessoas LGBTI de diversas realidades sociais forem equitativamente atendidas.
+Em 1999, o ACNUR adotou uma estratégia para integrar a perspectiva de gênero em todos os seus programas e relatórios de atividades. Cinco anos depois, começou a implementar uma estratégia de idade, gênero e diversidade em toda a organização. Equipes multifuncionais e avaliações participativas são elementos integrantes dessa estratégia institucional.
+No Brasil, o ACNUR tem oferecido treinamentos sobre questões de gênero e orientação sexual a seus parceiros. Também tem buscado promover o acesso de crianças, incentivando atividades relacionadas à causa e outros assuntos correlatos.
+Ao adotar uma abordagem que contempla transversalmente os critérios de idade, gênero e diversidade para desenvolver, implementar e monitorar suas políticas, programas e atividades, o ACNUR garante que todos esses grupos tenham acesso igualitário a serviços e políticas de proteção disponíveis. Também garante a participação deles nas tomadas de decisão que afetem suas vidas.
+
+
+A proteção de pessoas LGBTI
+Pessoas cuja orientação sexual, identidade ou expressão de gênero diferem das normas vigentes podem enfrentar discriminação, rejeição e violência dentro de sua família ou comunidade. Em muitos países, as pessoas LGBTI (lésbicas, gays, bissexuais, travestis, transexuais e intersex) enfrentam assédio, discriminação e detenções arbitrárias por parte das autoridades governamentais, com base em sua orientação sexual ou identidade de gênero, incluindo os 74 Estados nos quais as relações homossexuais consensuais são criminalizadas atualmente. Em alguns países, pessoas trans enfrentam sanções penais e crianças intersex são submetidas a cirurgias e esterilização sem o seu consentimento.
+O ACNUR estima que 37 países já concederam refúgio a indivíduos cujo fundado temor de perseguição relacionava-se à orientação sexual e/ou identidade de gênero. Contudo, ainda há muitos que não o fizeram e cujas práticas e procedimentos estão aquém dos padrões internacionais.
+O Brasil já processou mais de 200 solicitações cujo fundamento da perseguição diz respeito a questões relacionadas a sexo, orientação sexual e/ou identidade de gênero.
+
+Funcionários e parceiros do ACNUR posam em frente à bandeira do arco- íris, símbolo LGBTI que representa a diversidade humana. Pendurada na sede da Agência da ONU para Refugiados, em Genebra, a ação integra a celebração o Dia Internacional Contra a Homofobia, Transfobia e Bifobia.
+
+Além de reconhecer solicitações dessa natureza, o Brasil tem realizado esforços para garantir que pessoas LGBTI tenham acesso a um procedimento de determinação da condição de refugiado sensível às necessidades de proteção específicas dessa população. Desde 2016, o ACNUR Brasil tem trabalhado em parceria com a campanha Livres & Iguais para garantir a proteção de refugiados LGBTI no Brasil.
+
+
+Campanha Livres & Iguais
+A campanha Livres & Iguais da ONU visa promover a igualdade de pessoas LGBTI, atuando como mecanismo para aumentar a conscientização sobre a violência e a discriminação homofóbica e transfóbica, promovendo maior respeito pelos direitos das pessoas LGBTI. Mais informações em: https://nacoesunidas.org/campanha/livreseiguais.
+
+
+Década Internacional de Afrodescendentes
+A Assembleia Geral da ONU proclamou o período de 2015 a 2024 como a Década Internacional de Afrodescendentes (Resolução 68/237), afirmando a necessidade de reforçar a cooperação nacional, regional e internacional visando o pleno aproveitamento dos direitos econômicos, sociais, culturais, civis e políticos de pessoas de afrodescendentes, bem como sua participação plena e igualitária em todos os aspectos da sociedade. Os principais objetivos da Década Internacional são:
+• promover o respeito, a proteção e o cumprimento de todos os direitos humanos e liberdades fundamentais das pessoas afrodescendentes, como reconhecido na Declaração Universal dos Direitos Humanos;
+• promover maior conhecimento e respeito pelo patrimônio diversificado, a cultura e a contribuição de afrodescendentes para o desenvolvimento das sociedades; e
+• adotar e reforçar os quadros jurídicos nacionais, regionais e internacionais de acordo com a Declaração e Programa de Ação de Durban e da Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial, bem como assegurar sua plena e efetiva implementação.
+DÉCADA INTERNACIONAL DE AFRO DESCENDENTES
+2015-2024
+
+
+Campanha Vidas Negras
+Reafirmando o compromisso de implementação da Década Internacional de Afrodescendentes, o Sistema ONU Brasil lançou, no Mês da Consciência Negra de 2017, a campanha nacional Vidas Negras.
+A iniciativa busca ampliar, entre sociedade, gestores públicos, sistema judicial, setor privado e movimentos sociais, a visibilidade do problema da violência contra a juventude negra no país. O objetivo é chamar atenção e sensibilizar a população para os impactos do racismo na restrição da cidadania de pessoas negras, influenciando atores estratégicos para realizar e apoiar ações de enfrentamento da discriminação e violência.
+A campanha Vidas Negras chama atenção para o fato de que cada perda é um prejuízo para o conjunto da sociedade. A campanha defende que atos violentos precisam ser evitados e, para isso, é necessário que Estado e sociedade se comprometam com o fim do racismo, elemento-chave na definição do perfil das vítimas da violência.
+
+
+Declaração e Plano de Ação do Brasil
+Em 1984, diversos países da América Central e do Caribe reuniram-se em Cartagena das Índias (Colômbia) para debater os problemas legais e humanitários que afetavam as pessoas em situação de refúgio na América Central. Nesse encontro, foi adotada a Declaração de Cartagena sobre Refugiados, considerada um marco para o trabalho humanitário em toda a América Latina e Caribe.
+Em comemoração ao 30° aniversário da Declaração de Cartagena, o Brasil sediou o evento Cartagena+30, que promoveu um diálogo regional sobre questões de refúgio, apatridia e deslocamentos com diversos países e a sociedade civil da América Latina e do Caribe. Nesse evento, realizado em dezembro de 2014, foram adotadas a Declaração e o Plano de Ação do Brasil, em que novas metas e ações concretas foram estabelecidas para proteção internacional e soluções duradouras durante a próxima década.
+Entre os programas contidos no Plano de Ação, o Brasil escolheu priorizar os temas: apatridia, asilo de qualidade e integração local. Em 2017, os estados que adotaram o Plano de Ação do Brasil organizaram, em parceria com o ACNUR, consultas nacionais e regionais para elaborar seus primeiros relatórios trienais de desafios e avanços na implementação do plano, a serem apresentados em 2018.
+Esse marco reforça mecanismos de proteção regional, como a Declaração de Cartagena de 1984, a Declaração de São José sobre Refugiados e Pessoas Deslocadas (1994), a Declaração e o Plano de Ação do México para Fortalecer a Proteção Internacional dos Refugiados na América Latina (2004) e a Declaração de Brasília sobre a Proteção de Pessoas Refugiadas e Apátridas (2010).
+
+O então Alto Comissário do ACNUR, António Guterres, discursa na abertura do 30° aniversário da Declaração de Cartagena, evento realizado em dezembro de 2014 em Brasília/DF, quando foi adotado o Plano de Ação do Brasil. Atualmente, Guterres ocupa o cargo de secretário-geral da ONU.
+
+Em maio de 2016, a atriz Cate Blanchett foi nomeada embaixadora da Boa Vontade do ACNUR. Ela realizou missões de busca no Líbano e na Jordânia para encontrar refugiados e apátridas deslocados pelo conflito sírio.
+
+
+Embaixadores da Boa Vontade e Enviada Especial
+Artistas, intelectuais, atletas e cantores famosos dedicam parte de seu tempo e sua imagem a causas humanitárias internacionais. Muitos trabalham em parceria com agências, fundos e programas da ONU, como o ACNUR. Os chamados Embaixadores da Boa Vontade do ACNUR têm algo em comum: a disposição em dedicar seu tempo e influência para dar visibilidade à causa das pessoas que foram forçadas a abandonar seus locais de origem.
+Entre os Embaixadores da Boa Vontade do ACNUR estão a cantora lírica norte-americana Barbara Hendricks, o ator uruguaio Osvaldo Laport, o escritor americano Khaled Hosseini, o apresentador de TV espanhol Jesús Vázquez, a top-model britânica Alek Wek, o ator francês Julien Clerc, o músico grego George Dalaras, a atriz e blogueira chinesa Yao Chen e a atriz australiana Cate Blanchett.
+Blanchett está empenhada em conscientizar a sociedade acerca das questões que envolvem o deslocamento forçado e, em particular, sobre o flagelo da apatridia, que afeta milhões de pessoas em todo o mundo, negando-lhes os direitos básicos, incluindo o acesso à educação, aos cuidados de saúde e a capacidade de trabalhar e viajar.
+Em 2012, o ACNUR nomeou a atriz norte-americana Angelina Jolie como Enviada Especial do Alto Comissariado para Refugiados. A atriz dialoga com as vítimas dos deslocamentos forçados, representando o ACNUR em nível diplomático, além de se envolver com tomadores de decisão sobre temas do mandato do ACNUR.
+
+
+Parcerias com o setor privado
+Muitos são os desafios que as milhares de pessoas em situação de refúgio enfrentam pelo mundo. São pessoas que sonham em continuar seus estudos, aprimorar seus saberes, pôr em prática seus conhecimentos profissionais. Para isso, é preciso o engajamento de toda a comunidade internacional, envolvendo governos, organizações da sociedade civil e o setor privado. Somente com a articulação conjunta desses setores as instabilidades existentes poderão ser enfrentadas com maior possibilidade de êxito, sendo necessário novas propostas e modalidades inovadoras de parcerias.
+O ACNUR tem buscado diferentes formas de sensibilização e parcerias com o setor privado, seja com projetos de geração de empregos e renda com foco em pessoas refugiadas, seja por meio de cursos de qualificação, de empoderamento de mulheres refugiadas e iniciativas de acesso a trabalho. São exemplos o Programa de Apoio a Recolocação de Refugiados (PARR); o projeto Empoderando Refugiadas, em parceria com o Pacto Global e ONU Mulheres; o Global Minds, parceria com o Migraflix e Linkedin; além da campanha Talentos Invisíveis.
+
+As parcerias com o setor privado se sustentam na solidariedade com os refugiados, mas também, e principalmente, no reconhecimento das habilidades e competências desse grupo de pessoas, que enriquecem a diversidade dos perfis profissionais nas empresas, trazem inovações para os processos internos, novas experiências e visões, que contribuem para a solução de problemas e o aumento da eficiência e sustentabilidade dos negócios.
+Com o desenvolvimento dos projetos em parceria com o setor privado, o ACNUR vem buscando formas de fortalecer os vínculos da organização com grupos de empresas, de modo a sustentar uma ação mais sistêmica, em que mais empresas possam se engajar com modalidades de apoio a refugiados, gerando benefícios mútuos entre as partes envolvidas.
+
+Jim Estill, CEO da Danby Appliances (à direita), conversa com Ahmed Abed, refugiado sírio que chegou recentemente a Ontário, Canadá. Enquanto Estill patrocinou a chegada de mais de 200 refugiados sírios, Abed se sentia feliz e realizado por encontrar emprego em sua área de formação no novo país.
+
+
+Como apoiar o ACNUR
+O ACNUR é uma agência humanitária financiada por contribuições voluntárias de governos, mas também de pessoas, empresas e fundações. Como menos de 2% do orçamento do ACNUR vem de contribuições regulares da própria ONU, as doações de pessoas e empresas são cada vez mais importantes para financiar os programas de proteção e assistência aos refugiados.
+
+Seja um doador mensal
+Neste momento, mais de 67 milhões de pessoas foram forçadas a abandonar suas casas devido a conflitos armados, violência e violação dos direitos humanos.
+O ACNUR é uma organização internacional dedicada a salvar vidas, protegendo direitos e construindo um futuro melhor para os refugiados, mas não conseguiríamos fazer isso sem o apoio de pessoas como você.
+Como as doações são utilizadas
+88% vão diretamente para prestar ajuda humanitária às pessoas em situação de refúgio
+5% são empregados na contratação de especialistas e desenvolvimento de programas para assistir às pessoas em situação de refúgio
+7% são utilizados na manutenção da organização.
+
+Com apenas um clique, você pode ajudar o ACNUR a proteger vidas e a garantir os direitos de milhares de famílias, crianças, idosos e adultos que são forçados a abandonar seus sonhos e aspirações todos os dias.
+As doações mensais ajudam o ACNUR a acolher milhões de famílias nos campos de refugiados e nos centros urbanos, atendendo a suas necessidades básicas de alimentação, saúde, moradia, educação, água potável e saneamento básico. Refugiados passam, em média, 17 anos em um campo. As contribuições mensais são fundamentais para a sobrevivência e continuidade dos sonhos dessas famílias.
+Acesse doar.acnur.org e ajude os refugiados a terem uma vida digna e segura.
+
+Seja um grande doador do ACNUR
+O ACNUR reserva benefícios adicionais para indivíduos interessados em fazer doações expressivas, apresentar o ACNUR para sua rede de contatos e buscar soluções inovadoras para a crise dos refugiados.
+
+Empresas
+Diante da complexidade das crises humanitárias atuais, o apoio financeiro significativo de empresas é fundamental para ampliar o alcance e o impacto dos programas do ACNUR. Empresas que colaboram com o ACNUR obtêm ganhos de imagem e visibilidade junto a seus públicos de interesse. O ACNUR deseja construir parcerias com empresas que se comprometam a realizar, além de doações, ações com colaboradores e consumidores, marketing relacionado à causa e divulgação em situações de emergência. Empresas inovadoras como Ikea, Google, AirBnb, Facebook e UPS já apoiam o ACNUR em outros países.
+Para conhecer os benefícios que o ACNUR oferece para grandes doadores e empresas que apoiam seu trabalho no Brasil, entre em contato pelo e-mail ONU_refugiados@unhcr.org ou pelo telefone (11) 2500-5286.
+
+
+Organizações parceiras do ACNUR no Brasil
+Parcerias são essenciais para a concretização das ações do ACNUR e, como as crises humanitárias têm se tornado mais complexas, a agência tem ampliado tanto o número quanto o tipo de organizações com as quais trabalha conjuntamente.
+No Brasil, o ACNUR conta com parcerias em diversas localidades do país. Todas essas organizações ofertam assistência direta e apoio aos refugiados e solicitantes de refúgio no país. Ademais, com o aumento da população refugiada no país, o ACNUR realiza periodicamente um processo público de seleção de parcerias para desenvolver projetos em diferentes localidades do país, tendo como foco a integração dessa população no Brasil.
+Por meio do CONARE, o ACNUR se relaciona com diferentes instâncias do Governo Federal, contribuindo para a formulação das políticas sobre refúgio e das normas que esclarecem os termos da legislação nacional sobre o tema.
+
+
+África do Coração
+São Paulo (SP)
+www.africadocoracao.org
+africadocoracao.diretor@gmail.com
+www.facebook.com/Africora
+Tel.: (11) 95361-7320
+Associação Antônio Vieira (ASAV)
+Porto Alegre (RS)
+www.asav.org.br | refugiados9474@asav.org.br www.facebook.com/ASAV www.twitter.com/asav_jesuitas 
+Tel.: (51) 3343-2466
+Associação Compassiva
+São Paulo (SP)
+www.compassiva.org.br | contato@compassiva.org.br
+www.facebook.com/compassiva
+Tel.: (11) 2537-3449
+Caritas Arquidiocesana de Manaus
+Manaus (AM)
+caritasarquimanaus@gmail.com
+www.facebook.com/caritasmanaus
+Tel.: (92) 3212-9030 | (92) 3234-2567
+Caritas Arquidiocesana de São Paulo (CASP)
+São Paulo (SP)
+http://caritassp.org.br | casp.refugiados@uol.com.br
+www.facebook.com/caritassp
+Tel.: (11) 4873-6363
+Caritas Arquidiocesana do Rio de Janeiro (CARJ)
+Rio de Janeiro (RJ)
+www.caritas-rj.org.br
+carj.refugiados@caritas-rj.org.br
+www.facebook.com/caritasrj
+Tel.: (21) 2567-4105
+Caritas Brasileira Regional Paraná
+Curitiba (PR)
+http://pr.caritas.org.br | caritaspr@caritas.org.br
+www.facebook.com/caritaspr
+Tel.: (41) 3023-9907
+Comitê Nacional para os Refugiados (CONARE) Brasília (DF)
+conare@mj.gov.br
+Tel.: (61) 2025-9226
+Eu Conheço Meus Direitos / I Know My Rights (IKMR) 
+São Paulo (SP)
+www.ikmr.org | contato@ikmr.org
+www.facebook.com/ikmr.euconhecomeusdireitos 
+Tel.: (11) 2891-5253
+Fraternidade
+Boa Vista (RR)
+www.fraterinternacional.org
+secretaria@fraterinternacional.org
+www.facebook.com/FraternidadeFederacaoHumanitariaInternacional
+Tel.: (35) 3225-1233
+Instituto Adus
+São Paulo (SP)
+www.adus.org.br | adus@adus.org.br
+www.facebook.com/adusbrasil
+Tel.: (11) 3225-0439
+Instituto Migrações e Direitos Humanos (IMDH) 
+Brasília (DF) www.migrante.org.br | imdh@migrante.org.br
+www.facebook.com/institutomigracoes 
+Tel.: (61) 3340-2689
+Migraflix
+São Paulo (SP)
+www.migraflix.com.br | support@migraflix.com
+www.facebook.com/migraflix
+www.instagram.com/migraflix
+Missão Paz
+São Paulo (SP)
+www.missaonspaz.org | contato@missaonspaz.org
+www.facebook.com/missaopazsaopaulo
+Tel.: (11) 3340-6950
+Museu do Amanhã
+Rio de Janeiro (RJ)
+http://museudoamanha.org.br
+contato@museudoamanha.org.br
+www.facebook.com/museudoamanha
+https://twitter.com/museudoamanha
+Programa de Apoio para a Recolocação dos Refugiados (PARR)
+São Paulo
+www.refugiadosnobrasil.com.br | parr@emdoc.com 
+www.facebook.com/RefugiadosnoBrasil.PARR
+www.linkedin.com/company/refugiadosnobrasil 
+Tel.: (11) 94149-6903 e 3405-7800
+Fontes de informação
+Site do ACNUR Brasil: www.acnur.org.br
+Site internacional do ACNUR: www.unhcr.org
+Site do ACNUR para as Américas: www.acnur.org
+Operações do ACNUR no mundo: reporting.unhcr.org/
+Estatísticas: www.unhcr.org/figures-at-a-glance.html
+Banco de imagens: media.unhcr.org
+Operações de emergência: data.unhcr.org/
+Declaração de Nova York: refugeesmigrants.un.org
+Ações inovadoras com refugiados: innovation.unhcr.org/
+
+Redes Sociais
+ACNUR Brasil: www.facebook.com/ACNURportugues
+ACNUR Américas: www.facebook.com/AcnurAmericas
+ACNUR Global: www.facebook.com/UNHCR
+
+ACNUR Brasil: twitter.com/ACNURBrasil
+ACNUR Américas: twitter.com/ACNURamericas
+ACNUR Global: twitter.com/Refugees
+
+ACNUR Américas: www.youtube.com/user/AcnurLasAmericas
+ACNUR Global: www.youtube.com/user/unhcr
+
+ACNUR Brasil: www.instagram.com/acnurbrasil
+ACNUR Américas: www.instagram.com/acnur_unhcr_americas
+ACNUR Global: www.instagram.com/unrefugees
+
+UNHCR ACNUR Agência da ONU para Refugiados
+Caixa Postal 8560 – Brasília (DF) Brasil – CEP 70312-970
+(61) 3044.5744 
+brabr@unhcr.org
+
+www.facebook.com/ACNURportugues
+twitter.com/acnurbrasil
+www.instagram.com/acnurbrasil
+www.youtube.com/AcnurLasAmericas
+
+www.acnur.org.br
+www.acnur.org
+www.unhcr.org
+
+PARCEIROS DO ACNUR NO BRASIL
+
+JESUÍTAS BRASIL Associação Nacional de Instrução- ANI
+COMPASSIVA Compaixão que transforma
+CÁRITAS ARQUIDIOCESANA DE MANAUS
+Caritas Arquidiocesana de SÃO PAULO
+Pares Caritas – RJ
+CÁRITAS BRASILEIRA Regional Paraná
+CONARE Comitê Nacional para os Refugiados
+IKMR Eu Conheço Meus Direitos
+FRATERNIDADE FEDERAÇÃO HUMANITÁRIA INTERNACIONAL
+Instituto ADUS
+IMDH Instituto Migrações e Direitos Humanos
+MigraFlix
+Missão Paz São Paulo
+Museu do Amanhã
+INSTITUTO DE DESENVOLVIMENTO E GESTÃO
+PARR Programa de Apoio a Recolocação de Refugiados
+
+CONARE Comitê Nacional para os Refugiados
+MINISTÉRIO DA JUSTIÇA E CIDADANIA
+MINISTÉRIO DAS RELAÇÕES EXTERIORES
+BRASIL GOVERNO FEDERAL
+
+
+
+
+
+
+
+

@@ -1,0 +1,1568 @@
+﻿<Header>	<title>		<tit> Manual para parlamentares Nº11 - Nacionalidade e Apatridia </tit>		<fileName> PT_044 </fileName>		<generalDomain> Migration </generalDomain>		<specificDomain> Refugees </specificDomain>		<textType> Manual </textType>		<subcorpus> PT-BR </subcorpus>	</title>	<sourceText>		<language> Inglês </language>		<source> http://archive.ipu.org/pdf/publications/nationality_p.pdf </source> 		<publisher> IPU.org </publisher>		<pubDate> 2005 </pubDate>		<pubPlace> Internet </pubPlace>		<accessDate> 07 jun 2021 </accessDate>		<researcher> Joyce Santos </researcher> 		<comments> Encontrei textos para corpus paralelo em EN, ES e FR <comments>	</sourceText>	<author>		<institution> ACNUR e UIP </institution>	</author></Header>
+Manual para parlamentares n°11 - 2005
+Nacionalidade e Apatridia:
+Manual para parlamentares 
+
+
+
+
+UNHCR
+            United Nations High Commissioner for Refugees
+  Nacionalidade e Apatridia
+   Manual para parlamentares
+    Reconhecimentos
+Este Manual foi preparado em cooperação com o Comité Permanente para a Democracia e os Direitos Humanos da União Interparlamentar (UIP)
+     Pesquisa e análise: Carol Batchelor e Philippe Leclerc (ACNUR)
+     Autora: Marilyn Achiron
+     Comité editorial:
+     ACNUR: Erika Feller, Philippe Leclerc, José Riera e Sara Baschetti
+     UIP: Anders B. Johnsson e Kareen Jabre
+     Versão original: Inglês
+Tradução: Unidade Legal Regional do Escritório do ACNUR para as Américas com o apoio do Conselho Português para os Refugiados
+     Actualizado: Outubro de 2009
+     Capa desenhada por Jacques Wandfluh, Studio Infographie, Suíça
+     Impresso em Suíça por SRO Kundig
+Prefácio
+“Todo o indivíduo tem direito a ter uma nacionalidade. Ninguém pode ser arbitrariamente privado da sua nacionalidade nem do direito de mudar de nacionalidade”. Com estas sucintas declarações, o artigo 15° da Declaração Universal dos Direitos Humanos confere a cada indivíduo em todo o mundo o direito a um vínculo jurídico com um Estado. A cidadania ou nacionalidade (os dois termos são utilizados indistintamente neste manual, da mesma forma que o são em direito internacional) não só fornece às pessoas um sentido de identidade, como garante aos indivíduos a protecção de um Estado, assim como vários direitos civis e políticos. De facto, a cidadania tem sido descrita como “o direito a ter direitos”.
+Apesar do conjunto de normas internacionais em matéria de aquisição, perda, ou denegação da cidadania, há milhões de pessoas no mundo que não têm nacionalidade. São apátridas. A apatridia pode ter várias causas, incluindo conflitos de leis, transferências de território, legislação matrimonial, práticas administrativas, discriminação, falta de registo de nascimento, privação da nacionalidade e renúncia (quando um indivíduo rejeita a protecção de um Estado).
+Muitos apátridas no mundo também são vítimas de deslocação forçada. As pessoas que foram expulsas de suas terras são particularmente vulneráveis à apatridia, especialmente se a deslocação é acompanhada ou seguida de uma redefinição das fronteiras territoriais. Por outro lado, as pessoas apátridas ou privadas da sua nacionalidade são frequentemente forçadas a fugir da sua residência habitual. É essa afinidade com situações que envolvem os refugiados que inicialmente levou a Assembleia Geral das Nações Unidas a designar o Alto Comissariado das Nações Unidas para os Refugiados (ACNUR) como o órgão responsável para a prevenção e redução da apatridia.
+Segundo estimativas recentes, existem cerca de onze milhões de apátridas em todo o mundo. Trata-se todavia de uma estimativa grosseira. Tem sido muito difícil para as organizações recolherem informação detalhada sobre o número de apátridas, porque o conceito de apatridia é debatido entre os países, porque os governos são muitas vezes relutantes em divulgar informações sobre os apátridas e porque o assunto não é uma prioridade na agenda da comunidade internacional.
+Contudo, nos últimos anos, a comunidade internacional está mais consciente de que o respeito pelos direitos humanos ajuda a impedir os êxodos massivos e as deslocações forçadas. Além disso, existe uma maior consciencialização, com base nos princípios contidos nos tratados internacionais, da obrigação dos Estados resolverem os problemas da apatridía. Os governos devem reconhecer, formalmente e na prática, que não têm o direito de retirar ou negar os benefícios da cidadania aos indivíduos que tenham demonstrado um vínculo genuíno e efectivo com o país.
+A melhor forma para os parlamentares poderem demonstrar a sua determinação em reduzir ou eliminar a incidência da apatridia, é através da adopção de uma legislação nacional conforme ao direito internacional, que assegure que os indivíduos não serão arbitrariamente privados da sua nacionalidade, que terão acesso a nacionalidade naquelas circunstâncias em que, de outro modo, seriam apátridas e que aqueles que são ou se tornarão apátridas gozarão da protecção adequada. Os parlamentares também podem desempenhar um importante papel de “vigilância”, contribuindo para assegurar que as políticas estatais não geram, inadvertida ou deliberadamente, situações de apatridia, encorajando os governos a resolver os casos dos indivíduos que são apátridas e sensibilizando os eleitores para os problemas associados com a apatridia.
+Este manual expõe temas que se relacionam, indicando possíveis soluções e sugerindo acções que os membros dos parlamentos podem adoptar, sem perder de vista a dimensão humana da apatridia. Pretende-se que possa servir de ferramenta útil para os parlamentares tomarem todas as medidas necessárias para reduzir e finalmente eliminar este fenómeno, que afecta negativamente a vida de milhões de homens, mulheres e crianças em todo o mundo.
+     António Guterres
+Alto Comissário das Nações Unidas para os Refugiados
+Índice
+   Reconhecimentos 	 2
+   Prefácio 	 3
+   Introdução	 6
+   Capítulo 1: Regime Legal Internacional do Direito à Nacionalidade e
+para a	Redução	da	Apatridia 	 8
+Capítulo 2: Identificação e protecção dos apátridas	 18
+Capítulo 3:	Eliminar	as causas	da apatridia	29
+Capítulo 4: O papel do ACNUR	 47
+Capítulo 5: De que forma podem os parlamentares ajudar?	 53
+Anexo 1: Estados Partes da Convenção das Nações Unidas sobre o Estatuto dos Apátridas de 1954 	 59
+Anexo 2: Estados Partes da Convenção das Nações Unidas para a Redução dos casos de Apatridia de 1961	61
+   Anexo 3:	Modelos dos instrumentos de adesão	 63
+   Anexo 4:	Representações do ACNUR	 65
+   Breve informação relativa ao ACNUR e à UIP	 73
+    Introdução
+Os que são cidadãos de um país muitas vezes tomam por garantidos os direitos e obrigações conferidos pela nacionalidade. A maioria de nós pode inscrever os filhos na escola, aceder a cuidados médicos quando estamos doentes, procurar emprego quando for preciso e votar para eleger os nossos representantes. Sentimos que temos uma participação no país em que vivemos; temos um profundo sentimento de pertença a algo que é maior do que nós enquanto indivíduos.
+Mas como é a vida para as pessoas que não têm nacionalidade, para os que são apátridas? Sem nacionalidade, uma pessoa não se pode registar para votar no país onde vive, não pode requerer um documento de viagem, não se pode casar. Em alguns casos, os indivíduos que são apátridas e se encontram fora do seu país de origem ou país de anterior residência habitual podem ser detidos por períodos prolongados, se tais países se recusarem a conceder-lhes a reentrada nos seus territórios. Muitas vezes, até mesmo os direitos mais básicos, como o direito à educação, à saúde e ao trabalho, são negados a indivíduos que não podem provar um vínculo jurídico com um país.
+“Quando me dizem “Não” no país onde eu moro; quando me dizem “Não” no país onde eu nasci; quando me dizem “Não” no país dos meus pais; escutar continuamente “A senhora não é dos nossos”! Sinto que sou ninguém e nem sequer sei porque estou a viver. Como apátrida, estás sempre rodeada por um sentimento de desprezo.
+Lara, antiga apátrida
+Uma pesquisa sobre apatridia realizada pelo ACNUR em 2003 confirma que nenhuma região do mundo está isenta dos problemas que geram a apatridia. No entanto, o número exacto de apátridas no mundo é desconhecido. Os Estados são muitas vezes relutantes ou incapazes de fornecer informações pontuais, e poucos dispõem de mecanismos para registar os apátridas. De facto, não existe uma clara obrigação para os Estados de registar as pessoas apátridas que vivem nos seus territórios. O ACNUR estima que milhões de pessoas no mundo vivam sem uma nacionalidade efectiva.
+A apatridia, que foi reconhecida pela primeira vez como um problema mundial na primeira metade do século XX, pode ocorrer como resultado de disputas entre Estados sobre a identidade jurídica dos indivíduos, da sucessão de Estados, da marginalização prolongada de grupos específicos dentro da sociedade, ou ao privar grupos ou indivíduos da sua nacionalidade. A apatridia está normalmente associada a períodos de mudanças profundas nas relações internacionais. O traçado de novas fronteiras internacionais, a manipulação dos sistemas políticos por parte de líderes nacionais a fim de alcançar fins políticos questionáveis e/ou a denegação ou privação da nacionalidade para excluir e marginalizar impopulares minorias raciais, religiosas ou étnicas, têm produzido apatridia em cada região do mundo. Nos últimos 20 anos, um número crescente de pessoas foi privado da sua nacionalidade ou não pôde obter uma nacionalidade efectiva. Se essas situações continuarem, o sentimento de exclusão nas populações afectadas poderá levá-las à deslocação.
+Ser privado da nacionalidade é como ser privado da pertença ao mundo, é como retornar ao estado natural, como homens das cavernas ou selvagens... O homem que não é nada mais que um homem perdeu aquelas qualidades que tornaram possível para outras pessoas o tratarem como igual... Pode viver ou morrer sem deixar vestígios, sem ter contribuído em nada para o mundo comum.
+Hannah Arendt, As Origens do Totalitarismo
+Este manual pretende oferecer aos parlamentares uma visão panorâmica dos princípios internacionais que regulam a nacionalidade e apatridia. O direito internacional confere aos Estados uma ampla discricionaridade em definir o corpo inicial de cidadãos e as condições de aquisição, perda e manutenção da cidadania. Contudo, os princípios de direitos humanos desenvolvidos ao longo do século XX limitam essa discricionaridade se conduzir à apatridia e/ou se for aplicada de forma discriminatória.
+Apesar de os Estados estarem a trabalhar juntos para resolver os problemas associados à apatridia, ainda existem milhões de pessoas em todo o mundo sem uma nacionalidade efectiva. Este manual descreve os direitos e obrigações dos apátridas, como pessoas protegidas pelo direito internacional, especialmente através da Convenção sobre o Estatuto dos Apátridas de 1954. (Apesar dos esforços de promoção do ACNUR, até 15 de Outubro de 2009 apenas 65 Estados tinham ratificado a Convenção de 1954; em comparação, 147 Estados ratificaram ou aderiram à Convenção de 1951 e/ou ao Protocolo relativo ao Estatuto dos Refugiados de 1967). Este manual também descreve as principais causas da apatridia e assinala como os governos podem garantir que a aplicação das suas leis de nacionalidade não leve, inadvertidamente, a situações de apatridia.
+O ACNUR é a agência da ONU encarregada de ajudar a reduzir a incidência da apatridia e a prestar assistência a pessoas apátridas a conseguirem uma nacionalidade efectiva. Este manual descreve o que o ACNUR faz para cumprir esse papel. Também sugere medidas práticas que os parlamentares podem tomar para ajudar a reduzir a incidência da apatridia, revendo e, se necessário, reformando as leis de nacionalidade do próprio país, promovendo a adesão dos seus governos aos tratados internacionais sobre a apatridia, consciencializando a opinião pública sobre os problemas associados à apatridia.
+Este manual também oferece exemplos positivos de como situações prolongadas de apatridia foram resolvidas, graças à vontade política dos Estados interessados, à participação da sociedade civil e à assistência da comunidade internacional. Estas “boas práticas” demonstram que quando os governos, a sociedade e a comunidade internacional trabalham juntos, os apátridas podem finalmente desfrutar “do direito a ter direitos”.
+    Capítulo 1
+Regime Legal Internacional do Direito à Nacionalidade e para a Redução da Apatridia
+A nacionalidade é um tema muito sensível, pois é uma manifestação da soberania e da identidade de um país. Não surpreende que as disputas sobre a nacionalidade possam, como às vezes ocorre, causar tensões dentro do Estado, bem como entre Estados. Durante o século XX, houve um aumento da incidência da apatridia no mundo e uma crescente sensibilização e preocupação para com os direitos humanos. Portanto, o direito internacional relativo à nacionalidade desenvolveu-se em duas vertentes: proteger e assistir os indivíduos que já são apátridas e tentar eliminar, ou pelo menos reduzir, a incidência da apatridia.
+     Quem determina se uma pessoa é um nacional de um país específico?
+Em princípio, as questões relativas à nacionalidade recaem sob a jurisdição interna de cada Estado. Ainda assim, a aplicabilidade das decisões internas pode ser limitada por acções similares de outros Estados e pelo direito internacional.
+No Parecer Consultivo relativo aos Decretos de nacionalidade promulgados na Tunísia e em Marrocos, de 1923, o Tribunal Permanente de Justiça Internacional decretou que:
+“A questão de saber se uma determinada matéria está ou não submetida à jurisdição exclusiva de um Estado é uma questão essencialmente relativa: depende do desenvolvimento das relações internacionais”.
+O Tribunal Permanente referiu que, embora as questões da nacionalidade sejam, em princípio, de jurisdição interna, os Estados também têm que cumprir as suas obrigações para com outros Estados em conformidade com as normas do direito internacional.
+Esta abordagem foi reiterada sete anos depois na Convenção da Haia sobre Determinadas Questões Relativas aos Conflitos de Leis sobre a Nacionalidade. Com efeito, muitos Estados comentaram o parecer consultivo do Tribunal Permanente de 1923 porque se relacionava com a preparação da Convenção da Haia sobre a Nacionalidade de 1930. A maioria dos Estados interpretou o parecer consultivo como uma limitação à aplicabilidade no estrangeiro das decisões relativas à nacionalidade tomadas por um Estado, especialmente quando essas decisões estão em conflito com decisões sobre a nacionalidade tomadas por outros Estados.
+A Convenção da Haia de 1930, realizada sob os auspícios da Assembleia da Liga das Nações, foi a primeira tentativa internacional para garantir que todas as pessoas tenham uma nacionalidade. O Artigo 1° da Convenção estabelece que:
+“Cabe a cada Estado determinar, segundo a sua própria legislação, quem são os seus cidadãos. Essa legislação será reconhecida por outros Estados na medida em que seja compatível com as convenções internacionais, o costume internacional e os princípios de direito geralmente reconhecidos em matéria de nacionalidade”.
+Por outras palavras, a forma como um Estado exerce o seu direito de definir quem são os seus cidadãos deve ser conforme às normas pertinentes do direito internacional. Ao longo do século XX, estas disposições foram gradualmente desenvolvidas para favorecer os direitos humanos relativamente às reivindicações da soberania dos Estados.
+O Artigo 15° da Declaração Universal dos Direitos Humanos de 1948 estabelece que:
+“Todo o indivíduo tem direito a ter uma nacionalidade. Ninguém pode ser arbitrariamente privado da sua nacionalidade nem do direito de mudar de nacionalidade”.
+Este direito é baseado na existência de um vínculo genuíno e efectivo entre o indivíduo e o Estado. Esse vínculo foi reconhecido como a base da nacionalidade pela primeira vez num caso decidido pelo Tribunal Internacional de Justiça em 1955: o caso Nottebohm. O Tribunal estabeleceu que:
+De acordo com a prática dos Estados, as decisões arbitrais e judiciais e a opinião da doutrina, a nacionalidade é um elo legal que tem como base um facto social de vinculação, uma genuína conexão de existência, interesses e sentimentos, junto com a subsistência de direitos e deveres recíprocos.
+O vínculo genuíno e efectivo que se manifesta em razão de nascimento, residência e/ou descendência, actualmente é contemplado nas disposições legislativas sobre a nacionalidade da maioria dos Estados, bem como em recentes instrumentos relativos à nacionalidade, como a Convenção Europeia sobre a Nacionalidade, de 1997.
+Da mesma forma, a nacionalidade é definida pela Corte Interamericana de Direitos Humanos como:
+“O elo político e jurídico que vincula uma pessoa com um determinado Estado, que a compromete para com este com laços de lealdade e fidelidade e que lhe confere o direito à protecção diplomática daquele Estado”. (Castillo-Petruzzi e outros contra Peru, Sentença de Maio de 1999, CIDH (Ser.C) N°52, 1999).
+   Como se protegem os direitos dos refugiados e apátridas?
+Apesar do artigo 15° da Declaração Universal dos Direitos Humanos afirmar que todo indivíduo tem direito à nacionalidade, não assinala a que nacionalidade específica a pessoa tem direito. Para garantir que os indivíduos não sejam privados de um conjunto mínimo de direitos relativos à nacionalidade, a comunidade internacional desenvolveu dois instrumentos fundamentais: a Convenção relativa ao Estatuto dos Refugiados, de 1951 e a Convenção sobre o Estatuto dos Apátridas, de 1954.
+Existe algum vínculo entre a Convenção relativa ao Estatuto dos Refugiados de 1951 e a questão da apatridia?
+No rescaldo da Segunda Guerra Mundial, uma das questões mais prementes para os Estados-membros da recém-criada Organização das Nações Unidas, foi como responder às necessidades dos milhões de pessoas que por causa da guerra se tornaram refugiados ou apátridas. Uma resolução do Conselho Económico e Social das Nações Unidas (ECOSOC), de 1949, levou à designação de um comité ad hoc, cuja tarefa foi a de considerar a redacção de uma Convenção sobre o estatuto dos refugiados e apátridas, e considerar propostas para eliminar a apatridia.
+Finalmente, os membros do comité redigiram um projecto de Convenção sobre o estatuto dos refugiados, assim como um Protocolo à convenção dedicado aos apátridas. O Comité não se dedicou plenamente à eliminação da apatridia porque se presumiu que a recém-formada Comissão de Direito Internacional (CDI) se iria ocupar do assunto.
+Historicamente, tanto os refugiados como os apátridas receberam protecção e assistência das organizações internacionais para os refugiados que precederam o ACNUR. O projecto de Protocolo sobre a apatridia pretendia reflectir esta relação entre refugiados e apátridas. Mas a urgência das necessidades dos refugiados e a iminente dissolução da Organização Internacional para os Refugiados não permitiram tempo suficiente para uma análise detalhada da situação dos apátridas na Conferência de Plenipotenciários de 1951, que tinha sido convocada para apreciar os dois temas. Na Conferência foi adoptada a Convenção relativa ao Estatuto dos Refugiados de 1951, enquanto a adopção do Protocolo sobre a apatridia foi adiada para uma data posterior.
+Segundo a Convenção relativa aos refugiados de 1951, um refugiado apátrida recebe protecção como refugiado, pois a negação arbitrária da cidadania por motivos de raça, religião, nacionalidade, grupo social ou opiniões políticas pode indicar que o indivíduo deve ser reconhecido como refugiado.
+     O que estabelece a Convenção sobre o Estatuto dos Apátridas de 1954?
+O Protocolo relativo aos apátridas, que tinha sido elaborado como adenda à Convenção relativa aos refugiados de 1951, tornou-se uma convenção por direito próprio em 1954. A Convenção de 1954 é o principal instrumento internacional que visa regulamentar e melhorar a condição das pessoas apátridas e garantir que gozem dos seus direitos e liberdades fundamentais, sem discriminação. (Ver Anexo 1 para a lista dos Estados Partes da Convenção de 1954).
+As disposições da Convenção são, em muitos aspectos, muito similares às da Convenção relativa aos Refugiados de 1951. A adesão à Convenção não substitui a outorga da nacionalidade às pessoas nascidas ou habitualmente residentes no território de um Estado. Sem importar quão amplos possam ser os direitos reconhecidos a uma pessoa apátrida, estes não são equivalentes à aquisição da nacionalidade.
+A Convenção de 1954 inclui uma definição estritamente jurídica de apátrida: “Toda a pessoa que não seja considerada por qualquer Estado, segundo a sua legislação, como seu nacional” (o que se conhece como apátrida de jure).
+Quem é um nacional? Quem é um refugiado?
+Ser considerado um nacional segundo a legislação significa que um indivíduo é considerado automaticamente um cidadão nos termos dos instrumentos legais relativos à cidadania vigentes no Estado ou que a cidadania foi outorgada ao indivíduo através de uma decisão tomada pelas autoridades competentes. Tais instrumentos podem ser uma Constituição, um decreto presidencial ou uma lei de nacionalidade.
+A maioria das pessoas são consideradas nacionais segundo a legislação de um só Estado; geralmente de acordo com as leis do Estado em que a pessoa nasceu (jus soli) ou com as leis do Estado de que eram nacionais os pais da pessoa quando esta nasceu (jus sanguinis).
+Toda a vez que um procedimento administrativo permite discricionariedade na outorga da nacionalidade, os requerentes de cidadania não podem ser considerados como nacionais, até os seus pedidos estarem instruídos, forem aprovados e lhes seja reconhecida a nacionalidade do Estado conforme a lei. Aquelas pessoas que têm que solicitar a cidadania e que segundo a lei são elegíveis para solicitá-la, mas cujos pedidos são recusados, não são nacionais desse Estado segundo a sua legislação.
+As pessoas que não receberam a cidadania automaticamente ou através de uma decisão individual, segundo a legislação de um Estado, são conhecidos como apátridas de jure: pessoas que são apátridas, nos termos da legislação aplicável.
+Supõe-se que um indivíduo tem uma nacionalidade a menos que haja prova em contrário. Todavia, às vezes, os Estados com os quais um indivíduo pode ter um vínculo genuíno não chegam a um acordo com respeito a qual deles será o Estado que tem que reconhecer a cidadania a essa pessoa. Portanto, o indivíduo não pode demonstrar que é um apátrida de jure, não tendo, ainda assim, uma nacionalidade efectiva, nem gozando da protecção de um Estado. Essas pessoas são definidas apátridas de facto.
+Embora os redactores da Convenção tenham considerado necessário fazer uma distinção entre apátridas de jure (os que não tenham adquirido a cidadania automaticamente ou através de uma decisão individual, segundo a legislação de um Estado) e apátridas de facto (os que não conseguem estabelecer a sua nacionalidade), reconheceram certa analogia entre as duas posições. A Acta Final da Convenção refere-se ao problema das pessoas apátridas de facto, com uma recomendação não vinculativa:
+“que todo o Estado Contratante que reconheça como válidos os motivos para um indivíduo ter renunciado à protecção do Estado do qual é cidadão, considerará favoravelmente a possibilidade de conceder a essa pessoa o tratamento que a Convenção concede aos apátridas”.
+A decisão sobre se uma pessoa pode valer-se dos benefícios da Convenção é tomada por cada Estado Parte em conformidade com os procedimentos estabelecidos pelo próprio Estado. O ACNUR, se solicitado, pode fornecer assessoria sobre a criação e execução de tais procedimentos através das suas representações ou dos seus serviços na Sede. (Ver Anexo 4 com lista das representações do ACNUR).
+Um apátrida pode também ser um refugiado?
+As pessoas que são apátridas de facto não estão incluídas na definição de apátrida da Convenção de 1954. Os redactores da Convenção de 1954 presumiram que todos os indivíduos sem uma nacionalidade efectiva, portanto, todos os apátridas de facto, eram refugiados. (Os redactores da Convenção assumiram que um indivíduo se ia tornar um apátrida de facto depois de fugir do seu país de nacionalidade por causa da perseguição do Estado e que a mesma perseguição estava relacionada com a falta de uma nacionalidade efectiva). Considerando esta assumpção, muitas pessoas que foram inicialmente consideradas como apátridas de facto receberam protecção internacional ao abrigo das disposições da Convenção relativa ao Estatuto dos Refugiados de 1951.
+Contudo, ser um apátrida de jure ou de facto, não comporta necessariamente perseguição (o “fundado receio de perseguição” é o ponto crucial da definição de refugiado estabelecida na Convenção relativa ao Estatuto dos Refugiados de 1951). Tornou-se claro ao longo dos anos que existem apátridas de facto que não adquirem a nacionalidade do seu país de residência habitual e que, no entanto, não se qualificam como refugiados ou apátridas de jure. Com efeito, a maioria dos apátridas que precisam da assistência do ACNUR, independentemente de serem apátridas de jure ou de facto, não são refugiados nem requerentes de asilo.
+O que estabelece a Convenção para a Redução dos Casos de Apatridia de 1961?
+Em Agosto de 1950, uma resolução do ECOSOC solicitou à CDI que elaborasse um projecto de convenção ou convenções para a eliminação da apatridia. A Comissão apresentou dois projectos de convenções à consideração, ambas com enfoque no problema da apatridia resultante dos conflitos de leis. Uma convenção sobre a eliminação da apatridia futura continha disposições que iam muito além das previstas no segundo projecto de convenção, focada na redução da incidência da apatridia no futuro. Os participantes numa conferência convocada para considerar o assunto determinaram que a última convenção era muito radical e resolveram concentrar os trabalhos sobre o Projecto de Convenção para a Redução da Apatridia Futura. O instrumento que finalmente surgiu desse processo é a Convenção para a Redução dos Casos de Apatridia de 1961 (ver Anexo 2: lista dos Estados Partes da Convenção de 1961).
+Os artigos da Convenção de 1961 tendem a evitar a apatridia no momento do nascimento, mas não proíbem a possibilidade da revogação da cidadania em determinadas circunstâncias, nem a outorga retroactiva da cidadania a pessoas que são apátridas. A Convenção estabelece também a criação de um organismo ao qual as pessoas possam recorrer para examinar os pedidos e solicitar assistência para a apresentação de um pedido às autoridades competentes. Posteriormente, a Assembleia Geral solicitou ao ACNUR o cumprimento desta função.
+A CDI e os delegados estatais determinaram que a assistência internacional era necessária porque, quando for negada a cidadania de um Estado a um indivíduo, ele/ela não tem os recursos financeiros nem os conhecimentos necessários para requerer a cidadania às autoridades desse Estado. Como não é plausível que nenhum outro Estado queira advogar em favor do indivíduo, considerou-se crucial estabelecer um organismo internacional independente responsável por essa representação. A representação por parte de um organismo internacional também deixava de lado a questão de saber se o indivíduo era ou não sujeito de direito internacional. Além disso, um organismo dedicado a essa tarefa iria desenvolver competências no assunto e podia ser útil não só para aconselhar as pessoas envolvidas, mas também para propor formas de adquirir uma nacionalidade efectiva e reduzir a apatridia em geral.
+Na tentativa de reduzir a incidência dos casos de apatridia, a Convenção de 1961 exige que os Estados signatários adoptem uma legislação sobre nacionalidade que contemple os parâmetros prescritos para a aquisição ou perda da nacionalidade. Caso ocorram litígios relativos à interpretação ou aplicação da Convenção entre os Estados contratantes, e no caso de não poderem ser resolvidos por outros meios, poderão ser submetidos ao Tribunal Internacional de Justiça, a pedido de uma das partes em disputa.
+A Acta Final da Convenção inclui uma recomendação semelhante à que consta na Acta Final da Convenção de 1954, que incentiva os Estados a esender as disposições da Convenção aos apátridas de facto, sempre que possível.
+“Um dia fiquei parado entre duas fronteiras e não podia entrar em nenhum país. Foi o dia mais inesquecível da minha vida! Não podia entrar no país de onde vinha, também não podia entrar no país onde nasci, cresci e vivi! A que país pertenço? Ainda não esqueci o grande sentimento de perda que experimentei no aeroporto”.
+Chen, antigo apátrida
+   Como é que o Direito dos Direitos Humanos garante a nacionalidade?
+Existem vários outros instrumentos jurídicos internacionais relativos ao direito à nacionalidade. A Convenção sobre a Nacionalidade da Mulher Casada, de 1957, faz eco à Declaração Universal dos Direitos Humanos ao estabelecer o direito à nacionalidade e o direito a não ser privado de uma nacionalidade. Também pretende promover “o respeito e a observância universais dos Direitos Humanos e das liberdades fundamentais para todos, sem distinção de sexo”. Os três primeiros artigos da Convenção contêm disposições específicas sobre a nacionalidade da mulher casada:
+O Artigo 1° estabelece que “nem a celebração ou dissolução do matrimónio entre nacionais ou estrangeiros, nem a mudança de nacionalidade do marido durante o matrimónio, poderão afectar automaticamente a nacionalidade da mulher”.
+O Artigo 2° estabelece que “se um de seus nacionais adquira voluntariamente a nacionalidade de outro Estado ou o de que renuncie a sua nacionalidade, não impedirá que a conjugue conserve a nacionalidade que possua”.
+O Artigo 3°, que está dividido em duas partes, estabelece que “uma mulher estrangeira casada com um de seus [de um Estado Contratante] nacionais poderá adquirir, se o solicitar, a nacionalidade do marido, mediante um procedimento especial de naturalização privilegiada, com sujeição às limitações que possam ser impostas por razões de segurança ou de interesse público”. Também estipula que o Estado Contratante não interpretará a Convenção “no sentido em que afecte a legislação ou a prática judicial que permitam à mulher estrangeira de um dos seus nacionais adquirir de pleno direito, se ela o solicitar, a nacionalidade do marido”.
+A Convenção sobre a Eliminação de todas as Formas de Discriminação Racial, de 1965, obriga o Estado a “garantir o direito de cada um à igualdade perante a lei, sem distinção de raça, de cor ou de origem nacional ou étnica”, particularmente no gozo de vários direitos humanos fundamentais, incluindo o direito à nacionalidade (Artigo 5°).
+O Artigo 24° do Pacto Internacional Sobre Direitos Civis e Políticos de 1966 estabelece que:
+“Toda criança, terá direito, sem discriminação alguma por motivo de cor, sexo, religião, origem nacional ou social, situação económica ou nascimento, às medidas de protecção que a sua condição de menor requerer por parte de sua família, da sociedade e do Estado”.
+“Toda criança deverá ser registada imediatamente após seu nascimento e deverá receber um nome”.
+        “Toda criança terá o direito de adquirir uma nacionalidade”.
+O Artigo 26° do Pacto também assevera que “Todas as pessoas são iguais perante a lei e têm direito, sem discriminação alguma, a igual protecção da lei. A este respeito, a lei deverá proibir qualquer forma de discriminação e garantir a todas as pessoas protecção igual e eficaz contra qualquer discriminação por motivo de raça, cor, sexo, língua, religião, opinião política ou de outra natureza, origem nacional ou social, situação económica, nascimento ou qualquer outra situação”.
+O Artigo 9° da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher de 1979 estabelece que:
+“Os Estados Partes concedem às mulheres direitos iguais aos dos homens no que respeita à aquisição, mudança e conservação da nacionalidade. Garantem, em particular, que nem o casamento com um estrangeiro nem a mudança de nacionalidade do marido na constância do casamento produzem automaticamente a mudança de nacionalidade da mulher, a tornam apátrida ou a obrigam a adquirir a nacionalidade do marido”.
+“Os Estados Partes concedem às mulheres direitos iguais aos dos homens no que respeita à nacionalidade dos filhos”.
+A Convenção sobre os Direitos da Criança de 1989, que foi já ratificada por quase todos os Estados, contém dois importantes artigos que dizem respeito à nacionalidade:
+O Artigo 2° estipula que “Os Estados Partes respeitarão os direitos enunciados na presente Convenção e assegurarão sua aplicação a cada criança sujeita à sua jurisdição, sem distinção alguma, independentemente de raça, cor, sexo, idioma, crença, opinião política ou de outra índole, origem nacional, étnica ou social, posição económica, deficiências físicas, nascimento ou qualquer outra condição da criança, de seus pais ou de seus representantes legais”.
+O Artigo 7° estabelece que: “A criança será registada imediatamente após seu nascimento e terá direito, desde o momento em que nasce, a um nome, a uma nacionalidade e, na medida do possível, a conhecer seus pais e a ser cuidada por eles”. O artigo também estipula que: “Os Estados Partes zelarão pela aplicação desses direitos de acordo com sua legislação nacional e com as obrigações que tenham assumido em virtude dos instrumentos internacionais pertinentes, sobretudo se, de outro modo, a criança se tornaria apátrida”.
+“Estou a viver no campo desde 1971 e espero mudar-me para fora do campo em breve, com meus filhos. Quero os mesmos direitos que têm os cidadãos do Bangladeche. Não estamos a ter uma vida decente: meus filhos não estão a crescer adequadamente no campo, não têm educação, e só podem esperar um trabalho miserável, se não tiverem educação”.
+Seydaha, um apátrida que mora no Bangladeche
+Existem tratados regionais que se referem ao direito à nacionalidade?
+Os instrumentos regionais reforçam a base jurídica do direito à nacionalidade. O Artigo 20° da Convenção Americana sobre Direitos Humanos, de 1969 estabelece que:
+“Toda pessoa tem direito a uma nacionalidade. Toda pessoa tem direito à nacionalidade do Estado em cujo território tiver nascido, se não tiver direito a outra. A ninguém se deve privar arbitrariamente da sua nacionalidade nem do direito a mudá-la”.
+Estes princípios foram posteriormente reafirmados pela jurisprudência da Corte Interamericana. Embora a Corte tenha confirmado que as condições segundo as quais se outorga a cidadania permanecem dentro da jurisdição estatal, também estabeleceu que:
+“Apesar de ser tradicionalmente aceite que a determinação e regulação da nacionalidade são assuntos da competência de cada Estado, a evolução contemporânea nessa matéria mostra-nos que o direito internacional impõe certos limites à discricionariedade dos Estados e que, no estado actual, na regulamentação da nacionalidade não concorrem só as competências dos Estados”. (Corte Interamericana de Direitos Humanos. Parecer consultivo OC-4/84 do 19 de Janeiro de 1984 “Proposta de modificação à Constituição Política da Costa Rica relacionada com a naturalização”, parágrafos 32-34; texto disponível em espanhol em www.acnur.org).
+Por outras palavras, os Estados têm que ter em conta as repercussões internacionais das suas legislações internas sobre a nacionalidade, especialmente quando da aplicação dessas legislações pode resultar em apatridia.
+Em 1963 adoptou-se a nível europeu a Convenção sobre a redução dos casos de nacionalidade múltipla e sobre as obrigações militares em caso de nacionalidade múltipla. A Convenção está baseada na noção, aceite por muitos Estados da Europa Ocidental naquela altura, de que possuir diferentes nacionalidades não é desejável e deveria ser evitado. Como a Convenção de 1963 se limitava ao tema das nacionalidades múltiplas, dois protocolos foram adicionados, em 1977 e 1993, para cobrir questões relacionadas, bem como reflectir o desenvolvimento do pensamento e da prática no que diz respeito à nacionalidade. Por exemplo, o Segundo Protocolo da Convenção permite a aquisição de nacionalidades múltiplas nos casos dos imigrantes de segunda geração e dos casamentos mistos e os seus filhos.
+A Convenção Europeia sobre a Nacionalidade de 1997, outro instrumento regional elaborado pelo Conselho da Europa, nasceu da percepção da exigência de criar um texto único que consolidasse todos os desenvolvimentos no direito nacional e internacional relativos à cidadania, desde que a Convenção da Haia de 1930 tratou o tema dos conflitos de leis em matéria de nacionalidade. A Convenção não altera a Convenção de 1963 nem é incompatível com ela. Com efeito, a Convenção de 1997 sobre a Nacionalidade permite a aquisição de nacionalidades múltiplas para as pessoas casadas de diferentes nacionalidades e seus filhos. Mas a Convenção também abrange as questões da aquisição, retenção, perda e recuperação da nacionalidade, dos direitos procedimentais, da nacionalidade no contexto da sucessão de Estados, das obrigações militares e de cooperação entre os Estados Partes. Contém, igualmente várias disposições destinadas a prevenir a apatridia. A Convenção refere-se à Convenção de 1954 sobre o Estatuto dos Apátridas para a definição de pessoa apátrida: ou seja, apenas as pessoas apátridas de jure são abrangidas pelas disposições da Convenção Europeia sobre a Nacionalidade.
+A recente experiência europeia com a sucessão de Estados, levou a reconhecer que um grande número de pessoas correm o risco de se tornarem apátridas, pois podem perder a sua nacionalidade antes de adquirir outra. Buscando impedir a apatridia causada pela sucessão de Estados, que pode resultar da transferência de território de um Estado para outro, da unificação de Estados, da dissolução de um Estado ou da separação de parte ou de partes de um território, o Conselho da Europa adoptou a Convenção sobre a prevenção da apatridia relacionada com a sucessão de Estados. A Convenção, adoptada no 15 de Março de 2006, contém normas específicas sobre este tema. Os seus 22 artigos fornecem orientações práticas sobre temas como as responsabilidades dos Estados sucessores e predecessores, normas sobre prova, prevenção da apatridia no momento do nascimento e a facilitação da aquisição da nacionalidade por parte dos apátridas.
+Em 1999 a Organização da Unidade Africana (hoje União Africana) aprovou a Carta Africana sobre os Direitos e Bem-Estar da Criança. Inspirando-se na Convenção sobre os Direitos da Criança, a Carta compartilha com aquela alguns princípios fundamentais, como a proibição da discriminação e consideração do interesse superior da criança. O Artigo 6° da Carta, sobre o nome e nacionalidade, estabelece que:
+• Qualquer criança tem direito a um nome desde o seu nascimento;
+• Qualquer criança deverá ser registada imediatamente após o seu nascimento;
+• Qualquer criança tem direito a adquirir uma nacionalidade;
+• Os Estados Partes da presente Carta empenham-se em velar para que as suas legislações reconheçam o princípio segundo o qual a criança tem direito a adquirir a nacionalidade do Estado do território no qual ele/ela tenha nascido, se no momento do seu nascimento, ele/ela não poder pretender a nacionalidade de nenhum outro Estado em conformidade com as leis deste.
+  Capítulo 2
+  Identificação e protecção dos apátridas
+Apesar dos esforços para reduzir a incidência da apatridia através de leis nacionais em matéria de nacionalidade e da aplicação da Convenção para a Redução dos Casos de Apatridia de 1961 e de outros instrumentos internacionais, o ACNUR estima que existam milhões de pessoas no mundo que não têm nacionalidade. A Convenção das Nações Unidas sobre o Estatuto dos Apátridas de 1954 identifica quem é um apátrida, promove a aquisição de uma identidade legal para estes indivíduos e garante que os apátridas gozem de direitos e liberdades fundamentais sem discriminação.
+“Não podemos conseguir empregos regulares, somos como navios sem porto. O acesso à educação e aos serviços de saúde é um problema. Eu não pude terminar a escola secundária nem ir para a universidade. Só posso ver um médico nos hospitais privados, nos públicos não ”.
+       Abdullah, um apátrida Bidun que vive nos Emirados Árabes Unidos
+   Quem é um apátrida?
+A Convenção de 1954 define uma pessoa apátrida como “a que não seja considerada por qualquer Estado, segundo a sua legislação, como seu nacional” (Artigo 1°). Esta é uma definição meramente jurídica. Não se refere à qualidade da nacionalidade, à maneira como a nacionalidade é concedida ou ao acesso à nacionalidade. A definição refere-se simplesmente a uma operação legal por meio da qual a legislação sobre a nacionalidade de um Estado define ex lege, ou automaticamente, quem é que tem a nacionalidade.
+Segundo esta definição, para uma pessoa ser considerada como “apátrida”, deve ser provada uma negação: que ele/ela não possui um vínculo legal com nenhum país de relevância.
+Para provar uma situação de apatridia, os Estados deveriam rever a legislação sobre a nacionalidade dos Estados com os quais o indivíduo tenha tido laços anteriores (em razão de nascimento, residência habitual ou anterior, o Estado ou os Estados do qual ou dos quais o cônjuge ou os filhos são nacionais, o Estado ou os Estados do qual ou dos quais os pais ou os avós são nacionais), consultar-se com esses Estados e, se for necessário, solicitar provas. Os Estados deveriam também solicitar a plena cooperação dos indivíduos interessados, que deverão fornecer todos os dados e informações pertinentes. O ACNUR pode facilitar as consultas entre os Estados e prover informações técnicas sobre as normas de relevância e a aplicação delas em diferentes Estados, se assim for solicitado.
+A documentação fornecida pelas autoridades governamentais competentes por meio da qual se certifica que o indivíduo interessado não é um nacional é geralmente uma forma fiável de prova de apatridia. Contudo, nem sempre pode estar disponível esse tipo de prova. As autoridades competentes do país de origem ou do país de residência anterior podem recusar-se a emitir documentos que atestam que a pessoa não é um nacional ou podem simplesmente não responder aos pedidos de informação. Algumas autoridades governamentais podem considerar que não têm a responsabilidade de indicar quais são as pessoas que não têm vínculos com o país. Pode deduzir-se então que quando um Estado se recusar a confirmar que uma pessoa é um dos seus cidadãos, a mesma negação constitui uma forma de prova, pois geralmente os Estados oferecem protecção diplomática aos seus cidadãos.
+Pode um indivíduo ser excluído das disposições da Convenção de 1954?
+O preâmbulo da Convenção de 1954 indica que a Convenção de 1951 relativa ao Estatuto dos Refugiados abrange os refugiados apátridas, portanto, eles não são considerados pela Convenção de 1954.
+Além de definir o termo “apátrida”, o Artigo 1° da Convenção de 1954 define quais são os indivíduos que, apesar de estarem incluídos dentro do alcance da definição (ou seja, apesar de serem apátridas) são excluídos da sua aplicação por razões determinadas, seja por não precisarem de protecção, pois já estão a beneficiar de estruturas legais específicas ou de assistência internacional, seja por não merecerem protecção internacional por causa de actos criminosos individuais. Isto inclui as pessoas:
+• “que actualmente beneficiam de protecção ou assistência por parte de organismos ou agências das Nações Unidas, que não seja o Alto Comissariado das Nações Unidas para os Refugiados, enquanto estiverem a receber essa protecção ou assistência”.
+O Organismo da ONU de Obras Públicas e Socorro aos Refugiados da Palestina no Próximo Oriente é a única agência actualmente abrangida por esta cláusula.
+• “a quem as autoridades competentes do país onde tenham fixado a sua residência reconheçam os direitos e obrigações inerentes à posse da nacionalidade desse país”.
+Isto significa que se uma pessoa apátrida tem fixado legalmente a sua residência num Estado e goze de direitos mais amplos dos estabelecidos pela Convenção de 1954, em particular de plenos direitos económicos e sociais, equivalentes aos dos nacionais, e essa pessoa esteja protegida contra a expulsão, não há necessidade de aplicar as disposições da Convenção a esse indivíduo, apesar de ele ser um apátrida.
+• “que cometeram um crime contra a paz, um crime de guerra ou um crime contra a Humanidade, como definido nos instrumentos internacionais;
+que cometeram um grave crime de direito comum fora do país da sua residência antes da sua admissão no referido país; ou
+    que praticaram actos contrários aos objectivos e princípios das Nações Unidas”.
+Quando se considera que uma pessoa deixa de ser apátrida?
+A condição de apátrida deixa de existir quando o indivíduo adquire uma nacionalidade efectiva.
+A legislação sobre a nacionalidade adoptada na Etiópia em Dezembro de 2003 e na República Democrática do Congo em Novembro de 2004 pode finalmente pôr fim a duas situações prolongadas nas quais um grande número de pessoas não tinha uma nacionalidade efectiva. A legislação da Etiópia permite que muitos indivíduos residentes no país possam readquirir a nacionalidade etíope, enquanto as novas leis da RDC ajudam a identificar os nacionais desse país.
+   Quais são os procedimentos para determinar se uma pessoa é apátrida?
+Embora a Convenção de 1954 defina a pessoa apátrida, não elabora um procedimento para identificar quem é apátrida. Portanto, é no interesse dos Estados e dos indivíduos abrangidos pela Convenção, que os Estados adoptem uma legislação para indicar de que forma se identifica toda pessoa apátrida. Esta legislação também deve designar a autoridade responsável pela tomada de decisões e estabelecer as consequências da identificação de uma pessoa como apátrida.
+Alguns Estados adoptaram leis executivas para designarem entes governamentais específicos, por exemplo, organismos competentes em matéria de asilo, refugiados e apátridas, ou o Ministério do Interior, para a avaliação e adjudicação dos pedidos de apatridia. Outros Estados, que não adoptaram leis específicas que estabelecem um procedimento para reconhecer os apátridas, designaram uma autoridade judicial ou administrativa encarregada de determinar se uma pessoa for apátrida. Muitos outros estados não têm um procedimento específico. Em muitos desses Estados o tema da apatridia surge geralmente durante os procedimentos de determinação da condição de refugiado. Os apátridas podem então ser “considerados” dentro desse regime, que inclui a protecção humanitária ou a protecção subsidiária. Com efeito, os apátridas podem ver-se obrigados a encaminhar o seu pedido através do sistema de asilo, simplesmente porque não existe outro procedimento.
+Alguns países não têm um procedimento específico para o reconhecimento dos apátridas, mas a questão pode surgir se um indivíduo solicitar uma autorização de residência ou um documento de viagem, ou se um pedido de asilo for rejeitado e o requerente solicitar permanecer no país de asilo por outros motivos.
+Em França, o procedimento de reconhecimento da condição de apátrida é da competência do Escritório para a Protecção dos Refugiados e Apátridas (OPFRA), que tem o mandato de oferecer protecção judicial e administrativa aos apátridas. Os requerentes devem apresentar o seu pedido directamente à OPFRA.
+Em Espanha, a lei que regula a imigração prevê que o Ministro do Interior reconheça a condição de apátrida com um procedimento regulamentado por decreto real. Os candidatos podem dirigir-se a uma esquadra de polícia ou ao Departamento de Asilo e Refugiados (OAR). Concluída a fase de investigação, o Departamento, encarregue do procedimento, apresenta ao Ministro do Interior uma avaliação argumentada.
+Em Itália, o decreto de 1993 que implementa as reformas à lei da nacionalidade aprovada no ano anterior, outorga ao Ministro do Interior a autoridade para reconhecer a condição de apátrida.
+Sem procedimentos específicos para a identificação das pessoas apátrida é impossível determinar quantos casos de apatridia permanecem não identificados e, portanto, resulta impossível determinar a magnitude do problema.
+Que tipo de prova é requerido?
+Geralmente, é o requerente que tem que apresentar a documentação das representações consulares ou embaixadas do seu “país de origem”, o país de nascimento ou de um país que anteriormente tenha concedido alguma documentação de viagem, que confirme que o indivíduo não é um nacional. Como descrito anteriormente, isto nem sempre será possível. Se a documentação necessária não estiver disponível, alguns Estados podem aceitar outros elementos probatórios, como a revisão das leis relativas à nacionalidade, declarações de testemunhas e de outras pessoas. A procura de informações pode requerer a colaboração entre vários departamentos e ministérios do mesmo país, assim como de países diferentes.
+No momento da redacção deste Manual, não existe um enfoque homogéneo entre os Estados na identificação das pessoas apátridas. Visto que os critérios para estabelecer a prova da apatridia podem mudar de um Estado para outro, um indivíduo que pode ser reconhecido como apátrida por um Estado, pode não o ser por outros países.
+Em 2005, o ACNUR lançou um Relatório sobre a aplicação da Convenção de 1954 nos países membros da União Europeia. O estudo concluiu que a maioria dos países da UE ainda não tinham estabelecido mecanismos específicos para identificar e reconhecer os apátridas; em vez disso, os procedimentos de asilo estavam a ser geralmente utilizados para essa tarefa. Consequentemente, tornou-se impossível determinar a magnitude do problema da apatridia na União Europeia. Porém, ao emitir o relatório, o ACNUR salientou as boas práticas a nível nacional que podem ser utilizadas para harmonizar os procedimentos de identificação e reconhecimento entre os países da União Europeia e para orientar os Estados que ratificaram ou aderiram à Convenção de 1954.
+   Quem deve decidir se um indivíduo é apátrida?
+Para a determinação da apatridia é necessário designar funcionários qualificados, especializados na área, capazes de realizar uma análise do pedido e das provas apresentadas de forma objectiva e imparcial. Uma autoridade central responsável pela determinação reduziria o risco de decisões inconsistentes, seria mais eficaz na recolha e divulgação de informações sobre os países de origem e, graças ao carácter específico do seu trabalho, poderia desenvolver de forma mais ampla as suas competências em matéria de apatridia. A determinação da condição de apátrida exige a recolha e análise de leis, regulamentos e práticas de outros Estados. Mesmo que não haja uma autoridade central, os responsáveis pela tomada de decisões beneficiam da colaboração com colegas especializados em legislação sobre nacionalidade e apatridia, tanto no mesmo país como noutros Estados.
+   Como é que os indivíduos obtêm acesso ao procedimento?
+A Convenção de 1954 não obriga os Estados a concederem a permanência legal a um indivíduo enquanto o seu pedido de reconhecimento da condição de apátrida estiver a ser considerado. Ainda assim, uma vez que um indivíduo se encontre no território de um Estado, a determinação da sua situação de cidadania pode ser a única forma de identificar uma solução para os seus problemas. Se for determinado que o indivíduo é apátrida e não houver nenhuma possibilidade de retorno ao país de residência anterior, ou se tal país não existir, a admissão nesse país e algum tipo de autorização de permanência legal podem ser a única solução.
+Se um indivíduo tiver apresentado um pedido de reconhecimento da sua condição de apátrida, ou se as autoridades estiverem a determinar se um indivíduo é ou não é um apátrida, pode resultar necessária a concessão da permanência temporária enquanto o processo estiver em curso. A Convenção não se pronuncia sobre a outorga duma permanência legal enquanto estiver em curso o pedido de reconhecimento da condição de apátrida. As práticas dos Estados que dispõem de procedimentos específicos podem variar.
+O principio da tutela jurisdicional efectiva exige que os requerentes gozem de certas garantias, que incluem:
+• o direito a um exame individual do pedido, ao qual o requerente possa participar;
+• o direito a um tratamento objectivo do seu pedido;
+• um prazo limite para a duração do procedimento;
+• o acesso à informação sobre o procedimento numa língua que o requerente possa perceber;
+• o acesso à assessoria legal e a um intérprete;
+• o direito à confidencialidade e à protecção da informação;
+• a entrega da decisão e das razões nas quais a decisão está fundamentada; e
+• a possibilidade de questionar a legalidade da decisão;
+Algumas categorias de requerentes de reconhecimento da condição de apátrida, principalmente as crianças não acompanhadas, têm necessidades especiais que requerem regras procedimentais diferentes. Estas podem incluir a nomeação de um tutor para representar ou assistir a criança durante o procedimento administrativo.
+Um Estado pode deter um apátrida que não esteja em situação de permanência legal?
+Normalmente os apátridas não devem ser detidos. Os apátridas frequentemente carecem de documentos de identidade, como bilhetes de identidade ou passaportes, que possam estabelecer as suas identidades. Embora tenha sido identificado o país de residência anterior, este país dificilmente aceitará imediatamente a readmissão do indivíduo. Nestas situações, a detenção deve ser evitada e pode recorrer-se a ela apenas nos termos prescritos na legislação nacional, conforme o direito internacional dos direitos humanos. Devem ser exploradas primeiro as alternativas à detenção, salvo se existir evidência de que as alternativas não seriam eficazes para o indivíduo em causa.
+Os apátridas que não tenham uma permanência legal apenas deveriam ser detidos após consideradas todas as possíveis alternativas. Se as autoridades tomarem a decisão excepcional de os deterem, deveriam estabelecer se a detenção é razoável e proporcional aos objectivos a atingir. Se for considerada necessária, a detenção só deverá ser imposta durante um período mínimo de tempo e de forma não discriminatória. Se for solicitado, o ACNUR pode fornecer assessoria nestes casos.
+
+Grupo de Trabalho sobre Detenções Arbitrarias
+A antiga Comissão de Direitos Humanos das Nações Unidas tem-se debruçado sobre a alarmante expansão da detenção arbitrária desde 1985. A Comissão solicitou à Subcomissão para a Prevenção da Discriminação e a Protecção das Minorias a realização de um estudo detalhado sobre o assunto e a emissão de recomendações para reduzir essas práticas. Ao mesmo tempo, manifestou preocupação pelas garantias das pessoas privadas de liberdade no momento da adopção por parte da Assembleia Geral da ONU, em Dezembro de 1988, do Conjunto de Princípios para a Protecção de Todas as Pessoas Sujeitas a Qualquer Forma de Detenção ou Prisão. Em 1990, no acompanhamento das recomendações formuladas no relatório da Subcomissão, a Comissão de Direitos Humanos estabeleceu um Grupo de Trabalho sobre Detenções Arbitrárias. O Grupo de Trabalho adoptou logo os seguintes princípios orientadores sobre a detenção:
+     Princípio 1
+Todo o requerente de asilo ou imigrante será informado, quando interrogado na fronteira ou, em caso de ingresso irregular, no território nacional, pelo menos verbalmente e numa língua que ele ou ela entenda, da natureza e dos fundamentos da decisão que está a ser considerada de lhe recusar o ingresso ou a residência temporária.
+     Princípio 2
+Todo o requerente de asilo ou imigrante terá a possibilidade, enquanto estiver sob detenção, de comunicar com o exterior, especialmente por telefone, fax ou correio electrónico, e de contactar um advogado, um representante consular ou os membros da sua família.
+     Princípio 3
+Todo o requerente de asilo ou imigrante sob detenção deve comparecer sem demora perante um juiz ou outra autoridade.
+     Princípio 4
+Enquanto estiver detido, todo o requerente de asilo ou imigrante assinará um registo oficial, ou que ofereça garantias equivalentes, no qual se anotarão a sua identidade, os motivos da detenção e a autoridade competente que tomou a decisão, bem como a data e hora de ingresso e saída.
+     Princípio 5
+No momento do ingresso no centro de detenção, todo requerente de asilo ou imigrante será informado acerca do regulamento interno e, quando apropriado, sobre os processos disciplinares aplicáveis e a eventualidade de ser colocado em isolamento, assim como sobre as garantias que acompanham essa medida.
+
+   Princípio 6
+A decisão deve ser tomada por uma autoridade competente para esse efeito e com um nível suficiente de responsabilidade, e deve ser fundamentada em critérios de legalidade estabelecidos por lei.
+   Princípio 7
+A lei deve prever um prazo máximo de detenção que em caso algum poderá ser indefinido, nem ter uma duração excessiva.
+   Princípio 8
+A medida de detenção será notificada por escrito ao requerente de asilo ou imigrante numa língua que ele ou ela entenda e será acompanhada da sua fundamentação; especificará as condições nas quais o requerente de asilo ou imigrante poderá apresentar recurso perante uma autoridade judiciária, que decidirá sem demora sobre a legalidade da medida e, quando apropriado, ordenará a libertação da pessoa em causa.
+   Princípio 9
+A detenção será efectuada numa instituição pública especificamente designada para esse efeito; Quando, por razões práticas, assim não acontecer, o requerente de asilo ou imigrante será colocado em locais separados dos destinados às pessoas detidas pela prática de infracções penais.
+   Princípio 10
+Será permitido o acesso aos locais de detenção ao Alto Comissariado das Nações Unidas para os Refugiados, ao Comité Internacional da Cruz Vermelha (CICV) e, quando apropriado, às organizações não governamentais devidamente autorizadas.
+Quais são os direitos e obrigações das pessoas reconhecidas como apátridas?
+Existem alguns direitos humanos fundamentais que se aplicam a todas as pessoas independentemente da sua condição ou do tipo de permanência numa determinada jurisdição. Estes incluem, por exemplo, a proibição da tortura e o princípio de não discriminação. Com efeito, a Convenção de 1954 afirma que as suas disposições deverão aplicar-se aos apátridas “sem discriminação por motivos de raça, religião ou país de origem” (Artigo 3°).
+Todo o apátrida tem o dever de obedecer às leis e regulamentos do país onde se encontra (Artigo 2°). Tendo em conta o cumprimento dessa obrigação, o Artigo 7° da Convenção de 1954 define o nível básico de protecção ao qual um apátrida tem direito. O artigo estipula que, com a excepção dos casos em que a Convenção explicitamente prever um tratamento mais favorável, “todo o Estado Contratante concederá aos apátridas o mesmo tratamento que conceder aos estrangeiros em geral”.
+No que diz respeito à maior parte dos direitos enumerados na Convenção de 1954, os apátridas deveriam ter pelo menos o mesmo acesso aos direitos e benefícios garantidos aos estrangeiros, particularmente em relação ao emprego remunerado (Artigos 17°, 18° e 19°), à educação pública (Artigo 22°), ao alojamento (Artigo 21°) e à liberdade de circulação (Artigo 26°). A respeito de outros direitos específicos, os Estados Contratantes têm que conceder aos apátridas (que residam legalmente no seu território) um tratamento tão favorável como o concedido aos nacionais, particularmente em relação à liberdade de praticar a sua religião (Artigo 4°), aos direitos de propriedade intelectual (Artigo 14°), ao acesso aos tribunais (Artigo 16°), à assistência pública (Artigo 23°) e à legislação do trabalho e segurança social (Artigo 24°).
+Os apátridas reconhecidos têm direito a documentos de identidade e de viagem?
+A Convenção de 1954 prevê que os Estados Contratantes deverão fornecer documentos de identidade a todo o apátrida que se encontrar no seu território e não tenha documentos de viagem válidos. O Artigo 28° estabelece que os Estados Contratantes emitirão documentos de viagem para os apátridas que residam legalmente no seu território, a menos que a isso se oponham razões imperiosas de segurança nacional ou de ordem pública.
+A emissão de um documento não implica a concessão da cidadania a um indivíduo, não muda a sua condição nem implica o direito à protecção diplomática.
+A segunda parte do Artigo 28° convida os Estados a emitir documentos de viagem para todos os apátridas que estejam no seu território, incluindo os que não são residentes legais. Os Estados são convidados a considerar a concessão dos documentos de viagem da Convenção aos apátridas que se encontrem no seu território e que não estejam em condição de obter um documento de viagem do país em que tenham a sua residência legal. Esta disposição é particularmente importante, pois muitos apátridas podem não ter um país de residência legal. Um documento de viagem pode ajudar para a identificação de um apátrida e permitir ao indivíduo procurar o ingresso num Estado apropriado.
+Os documentos de viagem são particularmente importantes para os apátridas porque lhes permitem viajar para outros países para estudar, trabalhar, por motivos de saúde ou para reinstalação. Em conformidade com o Anexo da Convenção, cada Estado Contratante reconhecerá a validade dos documentos de viagem emitidos por outros Estados Partes. O ACNUR pode oferecer assessoria técnica na emissão de tais documentos.
+   Um Estado pode expulsar uma pessoa reconhecida como apátrida?
+Nos termos da Convenção, os apátridas que se encontrem legalmente no país não podem ser expulsos a não ser por razões de segurança nacional ou de ordem pública. As expulsões estão sujeitas às garantias processuais, a não ser que a isso se oponham razões imperiosas de segurança nacional. Portanto, deverão existir garantias processuais para permitir que a pessoa possa responder e apresentar provas contra a acusação, ser representada por um advogado e interpor um recurso. A Acta Final da Convenção indica que a não devolução (non-refoulement) é um princípio geralmente aceite. O princípio de não devolução (non-refoulement), que prevê a proibição de devolver uma pessoa a um território onde ele ou ela correria o risco de perseguição, é expressamente estabelecido ou interpretado nas disposições de diferentes instrumentos internacionais, incluindo o Artigo 33° da Convenção relativa ao Estatuto dos Refugiados de 1951, o Artigo 3° da Convenção Contra a Tortura e Outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes, o Artigo 7° do Pacto Internacional sobre os Direitos Civis e Políticos e vários instrumentos regionais de direitos humanos. Como a proibição da devolução é aceite como um princípio de direito internacional, os redactores da Convenção não consideraram necessário incluir esse princípio nos artigos duma Convenção que regula o estatuto de pessoas apátridas de jure.
+Logo que for tomada a decisão final sobre a expulsão, a Convenção solicita aos Estados que concedam ao indivíduo envolvido o tempo suficiente para ele procurar obter a admissão noutro país.
+Que tipo de procedimento de naturalização deve estar disponível para as pessoas reconhecidas como apátridas?
+Requere-se aos Estados Partes da Convenção que facilitem a integração e a naturalização dos apátridas na medida do possível (a palavra “integração”, não significa aqui a perda da identidade específica das pessoas envolvidas, mas sim a integração na vida económica, social e cultural do país). Em particular, os Estados são chamados a esforçar-se para apressar o processo de naturalização reduzindo, na medida do possível, as taxas e encargos do processo.
+Depois de Timor-Leste declarar a independência da Indonésia, aos timorenses que viviam na Indonésia foi dada a oportunidade de manter a nacionalidade indonésia ou adquirir a nacionalidade timorense, com a qual podiam permanecer na Indonésia como estrangeiros com uma autorização de residência válida.
+Alguns países têm incluído nas suas leis de nacionalidade prazos reduzidos de residência legal para os refugiados e apátridas que quisessem solicitar a naturalização.
+A Convenção Europeia sobre a Nacionalidade (CEN) de 1997 desenvolve ainda mais esta recomendação, exigindo que as legislações nacionais contenham normas para permitir a naturalização dos estrangeiros residentes habituais, de forma legal nos seus territórios. Além disso, a CEN estabelece um máximo de dez anos como um dos requisitos de residência para apresentar o pedido de naturalização. A Convenção também incentiva os Estados a utilizar procedimentos de naturalização expeditos para os apátridas e refugiados reconhecidos.
+Qual é a importância da Acta Final da Convenção?
+A Acta Final recomenda que se um Estado Contratante reconhecer como válidos os motivos pelos quais um indivíduo renunciara à protecção do Estado do qual é cidadão, considere favoravelmente a possibilidade de conceder a essa pessoa o tratamento que a Convenção concede aos apátridas. Esta recomendação foi incluída a respeito dos apátridas de facto, que tecnicamente ainda têm uma nacionalidade, mas que não recebem todos os benefícios que são geralmente associados à nacionalidade, principalmente o da protecção nacional.
+   Quais são as melhores formas de proteger os apátridas?
+A maneira mais eficaz para proteger os apátridas é essencialmente através da adopção de legislação que torne impossível a criação de uma situação de apatridia. (Ver o Capítulo 3 para uma ampla discussão sobre a Convenção para a Redução dos Casos de Apatridia de 1961 e as medidas que os Estados podem tomar para reduzir ou eliminar apatridia).
+Até que o problema da apatridia seja eliminado, as pessoas definidas como apátridas devem ser protegidas. A adesão e aplicação da Convenção de 1954 sobre o Estatuto dos Apátridas e a adopção de legislação de implementação garantirão o respeito dos direitos e obrigações dos apátridas.
+Como exposto anteriormente, a Convenção de 1954 não muda a nacionalidade de um indivíduo, nem obriga os Estados a admitir apátridas não refugiados no seu território. A aplicação das disposições da Convenção de 1954 não substitui a concessão da nacionalidade. Sempre que possível, os Estados deverão facilitar a integração e a naturalização dos apátridas que vivem no seu território por meio de leis de nacionalidade e da prática estatal. Esta solução é conhecida como integração local.
+Em 2005, os governos do Quirguistão e do Turcomenistão garantiram o acesso expedito à nacionalidade de muitos refugiados apátridas originários do Tajiquistão, para que eles pudessem reconstruir as suas vidas nos países de asilo.
+Em casos excepcionais, pode não ser possível que os apátridas gozem de um estatuto jurídico normal no país onde estão a viver. Portanto, a reinstalação para outro país pode ser a única solução apropriada para estas pessoas. Uma vez que os critérios de reinstalação dos Estados geralmente não consideram as situações de apatridia (a reinstalação é utilizada mais frequentemente como solução para os refugiados), o Comité Executivo do ACNUR recentemente exortou os Estados a ampliar tais critérios para incluir os apátridas. Na Resolução 95 (2003), o Comité Executivo:
+“Alenta os Estados a cooperar com o ACNUR no que diz respeito aos métodos destinados a resolver os casos de apatridia e a considerar a possibilidade de oferecer oportunidades de reinstalação quando a situação do apátrida não puder se resolver no actual país de acolhimento ou no país onde tiver tido anteriormente a sua residência habitual e quando essa situação permanecer precária...”
+O ACNUR pode oferecer assessoria e assistência aos Estados, tanto para a integração, como para a reinstalação dos apátridas.
+Capítulo 3
+Eliminar as causas da apatridia
+A apatridia pode ser provocada por várias circunstâncias. Serão abordadas seguidamente algumas das principais causas da apatridia, bem como algumas das acções que os Estados podem levar a cabo para evitar essas circunstâncias, especialmente através da revisão da legislação sobre a nacionalidade.
+Causas Técnicas
+Conflito de leis
+Podem surgir problemas quando a legislação nacional de um Estado entrar em conflito com a de outro Estado, deixando o indivíduo sem nacionalidade. Ambos os regimes legais podem estar redigidos correctamente, mas os problemas surgem quando se implementam conjuntamente. Por exemplo, o Estado A, onde o indivíduo nasceu, outorga a nacionalidade apenas por descendência (jus sanguinis), mas os pais do indivíduo são nacionais do Estado B. Por outro lado, o Estado B outorga a nacionalidade apenas com base no lugar de nascimento (jus soli), mas o indivíduo nasceu no Estado A. Portanto, o indivíduo torna-se apátrida.
+        Para evitar este problema:
+• Conforme estabelece a Convenção da Haia de 1930, cada Estado determina, segundo a sua legislação, quem são os seus nacionais. Esta legislação, reconhecida por outros Estados, deve ser consistente com as convenções internacionais, o costume internacional e os princípios reconhecidos de direito aplicável à matéria da nacionalidade. Portanto, os Estados devem ter um conjunto actualizado de leis sobre a nacionalidade e devem perceber a sua aplicação na prática de maneira a resolver os conflitos de leis em matéria de nacionalidade.
+•	A Convenção para a Redução dos Casos de Apatridia de 1961 prescreve que
+a nacionalidade deve ser concedida a toda a pessoa que, doutra forma, seria apátrida:
+- De pleno direito, no momento do nascimento, a uma pessoa nascida no território do Estado;
+- De pleno direito, numa idade estabelecida, a uma pessoa nascida no território do Estado, sob as condições prescritas na sua legislação nacional;
+- Mediante requerimento, a uma pessoa nascida no território do Estado (o requerimento pode estar sujeito a uma ou mais das seguintes condições: um período determinado dentro do qual deve ser apresentado, requisitos específicos de residência, a ausência de condenações penais de natureza determinada e que o interessado sempre tenha sido apátrida);
+- No momento do nascimento, ao filho legítimo cuja mãe seja nacional do Estado onde a criança nasceu;
+- Por descendência, no caso em que o indivíduo não possa adquirir a nacionalidade do Estado Contratante em cujo território nasceu, por causa de requisitos de idade ou residência (isto pode estar sujeito a uma ou mais das seguintes condições: um período determinado dentro do qual deve ser apresentado o requerimento, requisitos específicos de residência e/ou que o interessado tenha sempre sido apátrida);
+- Aos menores abandonados encontrados no território do Estado Contratante;
+- No momento do nascimento, de pleno direito, à pessoa nascida noutro lugar, se um dos seus pais possuía a nacionalidade do Estado Contratante nesse momento;
+- Mediante requerimento, em conformidade com a legislação nacional, à pessoa nascida noutro lugar, se um dos seus pais possuía a nacionalidade do Estado Contratante no momento do nascimento (o requerimento pode estar sujeito a uma ou mais das seguintes condições: um período determinado dentro do qual deve ser apresentado, requisitos específicos de residência, a ausência de condenações penais de natureza determinada e que o interessado tenha sempre sido apátrida);
+   •	A maioria dos Estados combinam os princípios de jus soli e jus sanguinis nas
+suas legislações da nacionalidade para determinarem o corpo inicial dos nacionais do Estado e a forma em que é outorgada a nacionalidade no momento do nascimento. Os Estados que não aceitarem a dupla nacionalidade devem assegurar-se que, numa idade determinada, o indivíduo e os seus pais tenham a opção de escolherem por uma nacionalidade.
+   Conflitos de leis relativos à renúncia
+Alguns Estados têm leis sobre a nacionalidade que permitem que os indivíduos renunciem à sua nacionalidade sem ter previamente adquirido, ou sem ter garantida a aquisição, de outra nacionalidade. Esta situação é frequentemente causa de apatridia. Os conflitos de leis neste caso podem surgir quando um Estado não permite renunciar à nacionalidade até o indivíduo adquirir outra, enquanto o outro Estado interessado pode não conceder a nacionalidade até que o indivíduo renuncie à sua nacionalidade de origem. Às vezes, um indivíduo é obrigado a renunciar à nacionalidade noutro lugar antes de poder requerer a nacionalidade no lugar em que reside, isto torna-o um apátrida até que lhe seja concedida a nova nacionalidade.
+        Para evitar este problema:
+Conforme à Convenção de 1961, a perda da nacionalidade ou a sua renúncia devem ser condicionadas à titularidade prévia ou à garantia de aquisição de outra nacionalidade. Uma excepção pode ser feita para as pessoas naturalizadas que, apesar de serem notificadas sobre procedimentos e prazos, residam no estrangeiro durante um determinado número de anos e não tenham manifestado a intenção de manter a nacionalidade. Uma pessoa naturalizada, neste caso, é uma pessoa que tenha adquirido a nacionalidade com um pedido ao Estado Contratante interessado, o qual tenha a faculdade de o recusar. A perda da nacionalidade só pode ocorrer em conformidade com a lei e deve ser acompanhada de garantias processuais, tais como o direito a uma audiência justa por parte de um tribunal ou outra autoridade independente.
+A legislação sobre a nacionalidade deve prever que nenhum cidadão possa renunciar à sua nacionalidade sem ter adquirido outra ou ter recebido garantias formais e por escrito, por parte das autoridades competentes, de que vai adquirir outra.
+Alguns Estados adoptaram normas que permitem a reaquisição da nacionalidade, no caso de um indivíduo ter perdido, ou não adquirido, outra.
+Nos Estados que não aceitarem a dupla ou múltipla nacionalidade, a legislação sobre a nacionalidade deveria garantir que a condição da renúncia ou perda de outra nacionalidade como requisito prévio para a aquisição ou o mantimento da nacionalidade, não tem efeito quando a renúncia ou perda não for possível. Por exemplo, não se pode exigir que os refugiados regressem ou contactem as autoridades do seu país de origem para renunciar à sua nacionalidade.
+Boas práticas: Ucrânia
+Em 1944, mais de 200.000 tártaros da Crimeia foram deportados da Crimeia para várias regiões da União das Repúblicas Socialistas Soviéticas (URSS), acusados de terem colaborado com as forças de ocupação nazis. A maioria deles foi deportada para a República Socialista Soviética do Uzbequistão. Duas décadas mais tarde, o presidente do Soviete Supremo da URSS declarou que as acusações contra os tártaros da Crimeia eram infundadas e que os tártaros podiam viver em qualquer parte do território da União Soviética, incluindo a península da Crimeia.
+Contudo, os tártaros que decidiram retornar à Crimeia encontraram problemas na obtenção de registo, emprego e acesso à terra e ao alojamento. Em 1987 o Conselho de Ministros da URSS aprovou uma resolução para restringir o repatriamento dos tártaros da Crimeia apenas a oito distritos da península, impedindo o seu regresso à zona mais fértil e desenvolvida da costa sul. Dois anos mais tarde, depois do Soviete Supremo declarar “ilegais e criminosas” as acções utilizadas para negar os direitos das “pessoas sujeitas à deportação forçada”, houve um afluxo maciço de repatriados para a Crimeia.
+Após a dissolução da URSS, em Dezembro de 1991, surgiram de repente problemas políticos e legais complexos relativos à sucessão de Estados, que incluíam as questões das fronteiras e da nacionalidade.
+A Ucrânia, que inclui o território da Crimeia, tornou-se o Estado sucessor da URSS da Ucrânia. Segundo a primeira Lei da Nacionalidade (1991), as pessoas cidadãs da URSS que residiam permanentemente no território ucraniano, incluindo a Crimeia, no momento da declaração de independência, o 24 de Agosto de 1991, tornavam-se automaticamente (ex lege) cidadãos ucranianos, independentemente da sua origem, condição social, raça, nacionalidade, educação, língua materna, opinião política ou religião. As únicas condições sob as quais essas pessoas não podiam adquirir automaticamente a cidadania ucraniana, eram que fossem cidadãs doutro Estado e colocassem objecções a tornar-se cidadãs ucranianos. Também os que tinham registado a sua residência legal na Ucrânia no período entre a independência e a entrada em vigor da Lei de Nacionalidade, três meses depois, obtiveram automaticamente a cidadania ucraniana. Cerca de 150.000 tártaros da Crimeia obtiveram a cidadania ucraniana por meio destas disposições.
+Uns 108.000 tártaros da Crimeia que voltaram para a Ucrânia depois da promulgação da Lei de Nacionalidade, em Novembro de 1991, enfrentaram novos problemas para obter a nacionalidade ucraniana. Cerca de 28.000 deles, que tinham cancelado o seu estatuto de residência permanente noutros países antes da entrada em vigor da legislação sobre a nacionalidade nesses países, tornaram-se apátridas de jure. Outros 80.000, que permaneceram registados nos seus anteriores países de residência, tornaram-se cidadãos de jure desses Estados no momento da entrada em vigor das respectivas legislações sobre a nacionalidade. Portanto, eles não receberam automaticamente a nacionalidade ucraniana. Apesar de lhes ter sido oferecido adquirir a cidadania ucraniana através de processos individuais de naturalização, a maioria dos repatriados que esperavam obter a nacionalidade ucraniana não conseguiu cumprir os rigorosos requisitos desses procedimentos, que incluíam cinco anos de residência na Ucrânia, rendimentos suficientes e o conhecimento da língua ucraniana.
+O ACNUR, a Organização para a Segurança e Cooperação na Europa (OSCE) e o Conselho da Europa encorajaram o governo ucraniano a reformar a Lei de Nacionalidade para resolver esses problemas. O ACNUR forneceu treino e assistência técnica ao Serviço ucraniano de Passaportes e Naturalização e organizou uma campanha de sensibilização sobre o tema da nacionalidade. As ONG locais parceiras
+do ACNUR prestaram assessoria legal aos requerentes da nacionalidade ucraniana representando-os nas audiências perante as autoridades ucranianas.
+Num esforço para reduzir e prevenir a apatridia, o Parlamento ucraniano, em consulta com o ACNUR, reviu a Lei de Nacionalidade sete vezes durante os seus primeiros dez anos de vigência. Em Maio de 1997 foram removidos os requisitos da língua e do rendimento e os descendentes dos deportados da Crimeia puderam adquirir a nacionalidade ucraniana em razão da origem dos seus ascendentes. Estas reformas positivas permitiram que 28.000 repatriados apátridas de jure finalmente obtivessem a nacionalidade ucraniana.
+Enquanto essas reformas contribuíram grandemente para resolver os problemas dos apátridas, permaneciam outros obstáculos para a obtenção da nacionalidade ucraniana, como a proibição constitucional da dupla cidadania. Os repatriados que se tinham tornado cidadãos de jure do Uzbequistão antes de regressarem para a Crimeia, por exemplo, tinham que renunciar oficialmente à nacionalidade uzbeque, antes de poderem obter a ucraniana. A renúncia à nacionalidade uzbeque, todavia, requeria o pagamento de US$100, apresentar-se pessoalmente na embaixada do Uzbequistão em Kiev e um longo processo administrativo que normalmente levava mais de um ano.
+O ACNUR e a OSCE agiram como intermediários nas negociações entre os dois países, que em 1998 chegaram a um acordo bilateral para a simplificação dos procedimentos para mudar de nacionalidade. O Uzbequistão aceitou eliminar os custos e permitir que os serviços locais de passaportes do Ministério do Interior da Ucrânia recebessem os pedidos de renuncia e os transmitissem às autoridades do Uzbequistão. Em resposta às preocupações exprimidas pelo ACNUR, foi aprovada uma política administrativa que exigia que a aquisição de nacionalidade ucraniana coincidisse com a renúncia à nacionalidade uzbeque, evitando assim a possibilidade de um indivíduo se tornar apátrida durante o processo. Nos três anos de vigência deste tratado bilateral, cerca de 80.000 repatriados do Uzbequistão conseguiram a nacionalidade ucraniana. Logo a seguir, a Ucrânia estipulou acordos bilaterais similares com a Bielorrússia (1999), o Cazaquistão (2000), o Tajiquistão (2001) e o Quirguistão (2003).
+Em Janeiro de 2001 o Parlamento ucraniano aprovou uma nova Lei de Nacionalidade ainda mais avançada a respeito da prevenção da apatridia. Entre outras disposições, a Lei, que foi revista em 2005, permite aos requerentes renunciar à nacionalidade estrangeira num prazo de um ano após ter adquirido a nacionalidade ucraniana e elimina o requisito da renuncia formal, se os custos procedimentais ultrapassarem um salário mínimo mensal na Ucrânia.
+
+   Leis e práticas que afectam especialmente as crianças
+Em conformidade com o Pacto Internacional sobre os Direitos Civis e Políticos (PIDCP) e a Convenção sobre os Direitos da Criança (CDC), qualquer criança, independentemente de onde nascer, deve ser registada imediatamente após o nascimento. Toda a criança têm o direito de adquirir uma nacionalidade. A nacionalidade de uma criança deve ser determinada pelas leis dos Estados envolvidos e os Estados exigem conhecer onde a criança nasceu e quem são os seus pais. Sem uma prova de nascimento, ou seja, sem uma certidão de nascimento oficial, é quase impossível para a criança determinar a sua identidade e, portanto, adquirir uma nacionalidade.
+Para evitar este problema:
+• Os Estados devem fornecer às administrações locais competentes os recursos necessários para garantir que o registo de nascimento seja levado a cabo de forma sistemática, conforme o Artigo 7° da CDC e Artigo 24° do PIDCP. Se for necessário, deverá ser procurado o apoio da comunidade internacional, nomeadamente através do UNICEF.
+• No acto da inscrição do nascimento, os Estados devem identificar os casos de nacionalidade disputada e conceder a nacionalidade nos casos em que a criança se tornaria apátrida. As disposições pertinentes da Convenção para a Redução dos Casos de Apatridia de 1961 devem ser incluídas na legislação nacional depois da adesão à Convenção. Estas disposições deveriam ser incluídas na legislação nacional, mesmo que o Estado não tenha ratificado a Convenção de 1961.
+• A legislação sobre a nacionalidade deveria incluir disposições relativas à aquisição da nacionalidade do país de nascimento da criança. Isto preveniria a apatridia nos casos em que fosse cometido um erro na determinação da nacionalidade da criança no momento do nascimento.
+• As crianças nascidas fora do casamento deveriam ter, na medida do possível, o mesmo acesso à nacionalidade desde o momento do nascimento tal como as crianças nascidas de pais casados, em conformidade com a legislação nacional.
+Em muitos países não é permitido que as mulheres transmitam a sua nacionalidade aos filhos, ainda que a criança tenha nascido no Estado do qual a mãe é cidadã e o pai não possua nacionalidade. Nestas situações a criança é apátrida.
+          Para evitar este problema:
+• Em conformidade com a Convenção sobre a Nacionalidade da Mulher Casada de 1957 e a Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher de 1979, no que diz respeito à nacionalidade dos filhos, as mulheres devem ter os mesmos direitos que os homens. A aplicação destes princípios permitirá evitar tanto a discriminação contra as mulheres, como a possibilidade de uma criança herdar a condição de apátrida de seu pai, no caso em que fosse um apátrida.
+• Os Estados devem incluir disposições que proíbam a discriminação em função do sexo nas legislações nacionais relativas à nacionalidade.
+Frequentemente, as crianças órfãs e abandonadas não têm uma nacionalidade certa. Os filhos ilegítimos podem também enfrentar obstáculos para a aquisição da nacionalidade.
+        Para evitar este problema:
+• Às crianças abandonadas encontradas no território de um Estado tem que ser concedida a nacionalidade desse Estado. Este princípio encontra-se nas legislações de muitos Estados, assim como nos instrumentos internacionais relativos à nacionalidade.
+• No momento da determinação da nacionalidade, a primeira consideração sempre deve ser o interesse superior da criança.
+As práticas relacionadas com a adopção em certos Estados poderiam gerar a apatridia se, por exemplo, as crianças não puderem adquirir a nacionalidade dos pais adoptivos.
+        Para evitar este problema:
+• Os Estados devem incluir nas suas legislações umas disposições que possam garantir que as adopções realizadas no estrangeiro conforme o direito internacional sejam reconhecidas pelas legislações nacionais. A Convenção Europeia em Matéria de Adopção de Crianças de 1967 encoraja os Estados a facilitar a outorga da nacionalidade às crianças adoptadas pelos seus cidadãos.
+Práticas administrativas
+Muitas questões administrativas e procedimentais acompanham a aquisição, recuperação e perda da nacionalidade. Ainda no caso em que uma pessoa seja elegível para a cidadania, ou mesmo no caso de um indivíduo ter levado a cabo com êxito o pedido de nacionalidade, custos administrativos excessivos, prazos difíceis de cumprir e/ou a impossibilidade de apresentar os documentos requeridos por eles estarem na possessão do Estado da nacionalidade anterior, podem impedir que o indivíduo adquira a nacionalidade.
+        Para evitar este problema:
+• Os pedidos relacionados com a aquisição, a manutenção, perda, recuperação ou certificação da nacionalidade, deveriam ser processados num prazo razoável.
+• O registo da aquisição automática (ex lege) ou perda da nacionalidade, inclusive nas situações de sucessão de Estados que envolverem residentes habituais e legais, não deveria requerer a apresentação de pedidos por escrito, embora aos Estados seja geralmente recomendado manter registos escritos de todas as resoluções sobre a nacionalidade.
+• As taxas relacionadas com a aquisição, a manutenção, a perda, a recuperação ou a certificação da nacionalidade e com os respectivos procedimentos administrativos e judiciais deveriam ser razoáveis.
+   Leis e práticas que afectam especialmente as mulheres
+Certos Estados alteram automaticamente o estatuto nacional da mulher quando ela se casa com um estrangeiro. Uma mulher poderia então tornar-se apátrida se não adquirir automaticamente a nacionalidade do seu marido ou se o marido não possuir uma nacionalidade.
+Uma mulher também poderia tornar-se apátrida se, depois de receber a nacionalidade do marido, o casamento se dissolver e ela perdesse a nacionalidade assim adquirida sem readquirir automaticamente a sua antiga nacionalidade.
+          Para evitar este problema:
+• A Convenção de 1957 sobre a Nacionalidade da Mulher Casada e a Convenção de 1979 sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher visam garantir às mulheres os mesmos direitos dos homens para adquirir, mudar ou manter a sua nacionalidade. Em conformidade com os princípios estabelecidos nessas convenções, a nacionalidade do marido não deveria mudar automaticamente a nacionalidade da esposa, nem torná-la apátrida ou obrigá-la a adquirir a nacionalidade dele.
+• Os Estados onde as mulheres não têm direitos iguais aos dos homens e podem perder automaticamente a sua nacionalidade com o casamento ou onde as mulheres têm que renunciar à sua antiga nacionalidade quando se casarem, deveriam introduzir disposições nas respectivas legislações sobre a nacionalidade para permitir às mulheres readquirirem automaticamente a sua antiga nacionalidade, por meio duma simples declaração, em caso de dissolução do casamento.
+   Perda automática da nacionalidade
+Certos Estados revogam automaticamente a cidadania aos indivíduos que deixaram o país ou que residirem no exterior. A revogação da nacionalidade, que pode ocorrer apenas alguns meses após o indivíduo deixar o país, está geralmente relacionada com práticas administrativas deficientes que não informam o indivíduo envolvido que corre o risco de perder a sua nacionalidade se não se apresentar regularmente às autoridades do país. Se o indivíduo é um cidadão naturalizado, e não nasceu no Estado em causa nem adquiriu a nacionalidade desse país por descendência, até um registo regular poderá não ser suficiente para garantir que a sua nacionalidade não seja revogada. Geralmente, essas práticas levam directamente à apatridia.
+        Para evitar este problema:
+• Artigo 7° (3) da Convenção de 1961 para a Redução dos Casos de Apatridia, prevê que um indivíduo não perderá a sua nacionalidade e, portanto, não se tornará apátrida, pelo facto de abandonar o país, residir no exterior, deixar de inscrever-se no registo correspondente, ou por razões semelhantes. A Convenção prevê uma excepção a este princípio no que diz respeito aos cidadãos naturalizados que residam no estrangeiro por mais de sete anos consecutivos. Estas pessoas devem declarar às autoridades competentes a sua intenção de conservar a nacionalidade. Portanto, os Estados deveriam informar adequadamente sobre estas políticas os cidadãos naturalizados no seu território, como no estrangeiro, através dos seus serviços consulares.
+• Instrumentos mais recentes, como a Convenção Europeia sobre a Nacionalidade, não permitem aos Estados revogar a uma pessoa a sua cidadania em razão da sua residência no estrangeiro, se desta forma a pessoa se tornar apátrida.
+Causas ligadas à sucessão de Estados
+Transferência de território ou de soberania
+Embora esteja só parcialmente abrangida por instrumentos e princípios internacionais específicos, a transferência de território ou soberania tem sido uma causa de apatridia há muito tempo. As leis e práticas nacionais serão inevitavelmente alteradas quando um Estado passar por alterações territoriais profundas ou mudanças de soberania; quando um Estado obtiver a independência de um poder colonial; quando um Estado se dissolver, se um novo Estado ou novos Estados sucederem ao Estado dissolvido ou quando um Estado for restaurado depois de um período de dissolução. Cada um desses eventos pode levar à adopção de novas leis ou decretos sobre a nacionalidade e/ou novos procedimentos administrativos. Em tais situações os indivíduos podem tornar-se apátridas, se não obtiverem a nacionalidade segundo as novas leis ou decretos ou segundo os novos procedimentos administrativos ou se a nacionalidade lhes for denegada por uma nova interpretação das leis e práticas precedentes.
+        Para evitar este problema:
+• O Artigo 10° da Convenção para a Redução dos Casos de Apatridia de 1961 estipula que os Estados Partes deverão assegurar que não surja apatridia como resultado da transferência de território. Os Estados deverão assinar tratados bilaterais ou multilaterais que incluam disposições para garantir que não seja gerada apatridia como resultado dessa transferência. Na ausência de tais tratados, o Estado ou os Estados envolvidos deverão garantir a nacionalidade às pessoas que de outra forma se tornariam apátridas.
+Na prática, as populações geralmente são vinculadas aos territórios, mas alguns tratados internacionais, disposições constitucionais e legislações sobre a nacionalidade, também oferecem a opção de escolher a nacionalidade entre os Estados sucessores.
+Os tratados de sucessão podem também incluir disposições específicas quanto à forma como a dissolução ou separação de Estados podem afectar a nacionalidade.
+Em resposta à necessidade de codificar e desenvolver o direito internacional em matéria de nacionalidade em relação à sucessão de Estados, a Comissão de Direito Internacional (CDI) das Nações Unidas redigiu um anteprojecto de artigos sobre o assunto, contido no Anexo à Resolução 55/153 da Assembleia Geral da ONU de 2001. O anteprojecto estabelece que:
+- Todos os Estados envolvidos deverão tomar as medidas apropriadas para que as pessoas que, no momento da sucessão de Estados, tinham a nacionalidade do Estado predecessor não se tornem apátridas como resultado da sucessão;
+- Presume-se que, no momento da sucessão, uma pessoa cuja residência habitual estava localizada no território afectado pela sucessão, adquira a nacionalidade do Estado sucessor;
+- Um Estado sucessor não deverá outorgar a nacionalidade a pessoas cuja residência habitual estava noutro Estado contra a intenção das pessoas envolvidas, a não ser que, de outra forma, se tornem apátridas;
+- Os Estados envolvidos deverão considerar a intenção das pessoas interessadas, no caso em que essas pessoas tenham os requisitos para adquirir a nacionalidade de dois ou mais Estados. Cada Estado envolvido deverá garantir o direito de escolha da nacionalidade às pessoas que tenham vínculos apropriados com esse Estado, se essas pessoas, de outra forma, se tornarem apátridas;
+- Os Estados envolvidos não recusarão às pessoas interessadas o direito de manter ou adquirir uma nacionalidade ou o direito de escolher uma nacionalidade, em razão de qualquer tipo de discriminação.
+A Convenção Europeia sobre a Nacionalidade e a Convenção do Conselho da Europa sobre a Prevenção dos Casos de Apatridia relacionados com a Sucessão de Estados contêm muitas das disposições da Convenção de 1961 e dos princípios contidos no anteprojecto de artigos da CDI. A Convenção Europeia sobre a Nacionalidade dedica um capítulo inteiro à Sucessão de Estados e Nacionalidade, destacando quatro princípios básicos relativos à aquisição da nacionalidade em caso de sucessão de Estados:
+- O vínculo genuíno e efectivo entre o indivíduo em causa e o Estado;
+- A residência habitual do indivíduo em causa à data da sucessão de Estados;
+        - A vontade do indivíduo em causa;
+        - A origem do indivíduo em causa.
+Além disso, a Convenção Europeia sobre a Nacionalidade estabelece que os nacionais de um Estado predecessor, habitualmente residentes no território cuja soberania for transferida para um Estado sucessor e que não tenham adquirido a sua nacionalidade, terão o direito de permanecer naquele Estado e gozarão dos mesmos direitos sociais e económicos dos nacionais do Estado sucessor.
+A Convenção do Conselho da Europa sobre a Prevenção dos Casos de Apatridia relacionados com a Sucessão de Estados desenvolveu normas específicas relativas à prova da nacionalidade em caso de sucessão de Estados (Artigo 8):
+“Um Estado sucessor não insistirá nos requisitos típicos de prova exigidos para a concessão da nacionalidade, no caso de pessoas que sejam ou se tornariam apátridas como resultado da sucessão de Estados e quando não for razoável que estas pessoas cumpram esses requisitos.
+Um Estado sucessor não exigirá a prova de não aquisição de outra nacionalidade antes de conceder a sua nacionalidade a pessoas habitualmente residentes no seu território no momento da sucessão de Estados e a pessoas que sejam ou se tornariam apátridas como resultado da sucessão de Estados”.
+O primeiro parágrafo do Artigo 8° considera a situação em que é impossível ou muito difícil para uma pessoa reunir os requisitos de prova exigidos para cumprir as condições para a aquisição da nacionalidade. Em certos casos poderia ser impossível para uma pessoa apresentar provas documentais completas da sua descendência, por exemplo se os registos civis terem sido destruídos. Também poderia resultar impossível apresentar provas documentais da residência nos casos em que o lugar de residência não tenha sido registado. Esta disposição abrange também as situações nas quais uma pessoa teria a possibilidade de apresentar a prova, mas exigí-la não seria razoável se, por exemplo, para a fornecer o requerente puser em risco a sua vida ou saúde. As circunstâncias que tornam difícil apresentar provas podem não estar directamente ligadas à sucessão de Estados. Elas podem depender dum evento que aconteceu antes ou depois da sucessão, por exemplo, se o registo civil tiver sido destruído sob o regime do Estado predecessor ou não tiverem sido concedidos documentos essenciais a certos sectores da população. Em todos esses casos, uma alta probabilidade de prova e/ou testemunha independente será suficiente para cumprir os requisitos para a aquisição da nacionalidade do Estado sucessor.
+O segundo parágrafo do Artigo 8° é relevante apenas no caso em que o Estado predecessor tenha desaparecido e todas as pessoas com a nacionalidade desse Estado a tenham perdido automaticamente, em consequência da dissolução do Estado. Caso o Estado sucessor pretenda proibir ou reduzir a pluralidade de nacionalidades, esse Estado pode exigir à pessoa interessada a prova que não tenha adquirido outra nacionalidade, ou que seja apátrida. O requisito da prova de não possuir outra nacionalidade, ou de ser apátrida, é muitas vezes impossível de cumprir, pois depende da cooperação de outros Estados. Quando houver o risco de que a pessoa envolvida possa tornar-se apátrida como resultado da sucessão de Estados, o Estado sucessor não deverá exigir a prova de que essa pessoa não tenha outra nacionalidade, ou seja apátrida, antes de conceder-lhe a nacionalidade. Esta norma tem fundamento na opinião predominante de que a prevenção da apatridia é um assunto de importância fundamental para a comunidade internacional, enquanto a aceitação ou rejeição da pluralidade de nacionalidades é uma questão do domínio interno de cada Estado.
+Estas disposições não impedem que um Estado que queira reduzir o número de nacionalidades múltiplas dentro do seu território não possa colaborar com outros Estados e trocar informações sobre a aquisição ou perda da nacionalidade. A pluralidade de nacionalidades pode ser impedida recorrendo à disposição sobre o não reconhecimento de outras nacionalidades contida na Convenção da Haia sobre Determinadas Questões Relativas aos Conflitos de Leis sobre a Nacionalidade e ao Artigo 7.1° da Convenção Europeia sobre a Nacionalidade, que estabelece a possibilidade da perda automática da nacionalidade quando uma pessoa voluntariamente adquirir outra. Um Estado também pode exigir que a pessoa interessada apresente uma declaração escrita na qual afirme que não possui e não irá possuir outras nacionalidades. Isto permitiria ao Estado revogar-lhe a nacionalidade se descobrisse logo que a pessoa interessada tiver apresentado uma declaração falsa.
+Boas práticas: a República Checa
+Quando o Estado da Checoslováquia foi formalmente dissolvido, o 1 de Janeiro de 1993, os dois Estados sucessores, a República Checa e a República Eslovaca, adoptaram novas leis sobre a cidadania que definiram o corpo inicial dos nacionais de cada país e o procedimento através do qual as pessoas podiam adquirir a nacionalidade de cada país. Contudo, ambas as legislações baseavam-se nas leis de nacionalidade da antiga Checoslováquia, que foram redigidas em 1969 e não eram aplicáveis à nova realidade.
+Conforme as legislações internas sobre nacionalidade dos dois novos Estados, as pessoas nascidas antes de 1954, ou seja as que tinham 15 anos ou mais quando a República Socialista da Checoslováquia se tornou uma federação composta por duas repúblicas, foram consideradas nacionais do Estados em cujo território nasceram (jus soli). As pessoas nascidas depois de 1954 foram consideradas cidadãs de um dos dois Estados pelo jus soli (as pessoas nascidas de uniões mistas, com pais de nacionalidade checa e eslovaca, geralmente adquiriram a nacionalidade de acordo com o lugar de nascimento) ou pela nacionalidade dos seus pais (jus sanguinis), quando ambos os pais tivessem a mesma nacionalidade. Assim, foi atribuída a cidadania eslovaca a muitas pessoas que viveram toda a sua vida na República Checa e vice-versa. A maioria da minoria étnica Roma que vivia na República Checa, foi presa neste limbo legal, pois a maioria deles nasceu na Eslováquia, ou eram descendentes de indivíduos nascidos na Eslováquia.
+Enquanto as novas leis de nacionalidade eslovacas outorgavam o direito irrestrito de nacionalidade aos cidadãos formais da Checoslováquia, a nova lei de nacionalidade checa introduziu condições estritas para a aquisição da cidadania checa. Para adquirir a nacionalidade checa, uma pessoa:
+• Tinha que ter mantido e registado uma residência contínua e permanente no território da República Checa pelo menos durante dois anos antes da dissolução da federação;
+   • Tinha que ter sido isenta da nacionalidade eslovaca; e
+• Não podia ter sido condenada por um crime internacional nos cinco anos precedentes.
+Em meados dos anos 90, os governos checo e eslovaco solicitaram o apoio do ACNUR para resolver centenas de casos de apatridia que surgiram como resultado do conflito de leis. O ACNUR enviou duas missões de pesquisa para a região e realizou consultas com os governos sobre as respectivas leis de nacionalidade.
+Num ano, o Centro assistiu 6.000 pessoas, incluindo 900 menores sob tutela, mais de 3.500 presos e mais de 2.000 pessoas que não podiam determinar ou exercer a sua cidadania.
+Seguindo a orientação do ACNUR e do Conselho da Europa, o governo checo começou a afrouxar as restrições sobre a aquisição da nacionalidade. Em Abril de 1996, a Assembleia legislativa checa aprovou uma emenda à Lei de Nacionalidade que outorgou ao Ministro do Interior o poder de dispensar do requisito do registo criminal aos requerentes que eram ou tinham sido cidadãos eslovacos que tivessem residido continuamente na República Checa e tivessem prova oficial dessa residência.
+Mais tarde, em 1999, a Assembleia checa aprovou outra reforma que permitia que os cidadãos da antiga Checoslováquia que tivessem residido permanentemente no território que passou a pertencer à República Checa, mas que não tinham uma certidão de residência oficial, se tornassem nacionais da República Checa. Com base nesta reforma, estas pessoas podiam apresentar prova da residência com contratos de trabalho ou de habitação e/ou testemunhas. Além disso, essas pessoas também foram isentas da obrigação de apresentar um registo criminal. Gradualmente, graças aos esforços concertados do ACNUR, das ONG e das autoridades checas, os checos que tinham vivido de forma permanente na República Checa desde a dissolução da federação tiveram acesso ilimitado à nacionalidade da República Checa.
+Causas ligadas à discriminação ou à privação arbitraria da nacionalidade
+   Discriminação
+Uma das principais limitações à discricionariedade dos Estado para conceder ou recusar a nacionalidade é a proibição da discriminação racial. Este princípio encontrase na Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial e em muitos outros instrumentos internacionais. Na sua Recomendação Geral sobre a Discriminação contra os Não Cidadãos de 1 de Outubro de 2004, o Comité para a Eliminação da Discriminação Racial das Nações Unidas afirmou que “a privação da cidadania em razão de raça, cor, descendência, ou origem nacional ou étnica constitui uma violação das obrigações dos Estados Partes para garantir o gozo não discriminatório do direito à nacionalidade”.
+Contudo, às vezes os indivíduos não podem adquirir a nacionalidade de um determinado Estado, apesar de terem para com esse Estado fortes vínculos, suficientes para gerar a aquisição da nacionalidade. A discriminação em razão de raça, cor, etnia, religião, género, opinião política, ou outros factores, pode ser evidente ou provocada inadvertidamente pelas formas como estão a ser aplicadas as leis. Pode-se dizer que as leis são discriminatórias se contiverem linguagem prejudicial ou da sua aplicação resultar discriminação.
+          Para evitar este problema:
+• Deve garantir-se que o princípio da não discriminação esteja contemplado na Constituição e nas leis de nacionalidade e garantir, por meio de medidas judiciais e administrativas, a aplicação desse princípio.
+• Os Estados devem tomar todas as medidas adequadas, tanto internamente quanto em cooperação com outros Estados, para garantirem que toda a criança tenha uma nacionalidade no momento do nascimento. Assim, as crianças nascidas fora ou dentro do casamento, assim como os filhos de pais apátridas, têm o mesmo direito à nacionalidade segundo o direito internacional.
+• A Convenção sobre a Nacionalidade da Mulher Casada de 1957 e a Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher de 1979, visam garantir às mulheres direitos iguais aos dos homens no que respeita à aquisição, mudança e conservação da nacionalidade. Em conformidade com os princípios estabelecidos nestas convenções, a situação de nacionalidade do marido não deve produzir automaticamente a mudança da nacionalidade da mulher, torná-la apátrida, ou obrigá-la a adquirir a nacionalidade do marido.
+Privação ou denegação da nacionalidade
+A Declaração Universal dos Direitos Humanos estabelece que ninguém pode ser arbitrariamente privado da sua nacionalidade. A Convenção de 1961 e a Convenção Europeia sobre a Nacionalidade de 1997 limitam rigorosamente os casos relativamente aos quais os Estados podem prever a perda da nacionalidade. Todo o tipo de perda da nacionalidade deve ser acompanhado de plenas garantias processuais e não deverá resultar em apatridia.
+A desnacionalização acontece quando um Estado priva um indivíduo da sua nacionalidade, geralmente em razão da execução de práticas discriminatórias. A expulsão do indivíduo é, geralmente, o passo seguinte.
+        Para evitar este problema:
+•	O princípio básico do direito internacional é que ninguém pode ser privado da sua nacionalidade se essa privação resultar em apatridia.
+•	A Convenção para a Redução dos Casos de Apatridia de 1961 contempla as excepções seguintes a esse princípio:
+        - Nacionalidade obtida por declaração falsa ou fraude;
+- Perda da nacionalidade em razão de residência no estrangeiro (ver acima);
+- Acções incompatíveis com o dever de lealdade, como a violação duma proibição expressa de prestar serviços a outro Estado, ou uma conduta pessoal gravemente prejudicial aos interesses vitais do Estado (só se assim for especificado na legislação nacional no momento da assinatura, ratificação ou adesão à Convenção).
+- Juramento ou declaração formal de lealdade a outro Estado, ou repúdio da lealdade ao Estado (só se assim for especificado na legislação nacional no momento da assinatura, ratificação ou adesão à Convenção).
+Um Estado Parte da Convenção de 1961 só poderá privar um indivíduo da sua cidadania em razão dos motivos indicados se assim for especificado no momento da assinatura, ratificação ou adesão, em conformidade com a lei e em conjunto com todas as garantias processuais, como o direito a um julgamento justo. Um Estado Contratante não poderá privar uma pessoa, ou grupo de pessoas, da sua nacionalidade por motivos raciais, étnicos, religiosos ou políticos.
+A Convenção Europeia sobre a Nacionalidade limita ainda mais a capacidade dos Estados de privar os indivíduos da sua nacionalidade, quando essa privação resultar em apatridia. Segundo a Convenção, a privação da nacionalidade só se justifica em casos de aquisição da nacionalidade por falsas declarações ou fraude. Contudo, quando a privação da nacionalidade não resultar em apátrida, um Estado pode privar um seu cidadão da nacionalidade pelas seguintes razões:
+          - Aquisição voluntária de outra nacionalidade;
+          - Prestação voluntária de serviço numa força militar estrangeira;
+          - Conduta que prejudique seriamente os interesses vitais do Estado Parte;
+- Ausência de um vínculo genuíno entre o Estado Parte e um nacional que resida habitualmente no estrangeiro;
+- Caso as condições prévias previstas pelo direito interno que conduziram à aquisição ex lege da nacionalidade do Estado Parte deixarem de se verificar (aplicável apenas aos menores);
+- Adopção de um menor, se esse menor adquirir ou possuir a nacionalidade estrangeira de um ou de ambos os adoptantes.
+Principais disposições da Convenção das Nações Unidas
+para a Redução dos Casos de Apatridia de 1961
+     Sobre a concessão da nacionalidade (Artigos 1e, 29, 3e e 49)
+A nacionalidade será concedida às pessoas que de outro modo seriam apátridas e que tenham um vínculo efectivo com o Estado por nascimento ou descendência. A nacionalidade será concedida:
+• De pleno direito, no momento do nascimento, a uma pessoa nascida no território do Estado;
+• De pleno direito, numa idade estabelecida, a uma pessoa nascida no território do Estado, sob as condições prescritas na sua legislação nacional;
+• Mediante requerimento, a uma pessoa nascida no território do Estado (o requerimento pode estar sujeito a uma ou mais das seguintes condições: um período determinado dentro do qual deve ser apresentado, requisitos específicos de residência, a ausência de condenações penais de natureza determinada e que o interessado tenha sempre sido apátrida);
+•No momento do nascimento, ao filho legítimo cuja mãe seja nacional do Estado onde a criança nasceu;
+• Por descendência, no caso em que o indivíduo não possa adquirir a nacionalidade do Estado Contrato em cujo território nasceu, por causa de requisitos de idade ou residência (pode estar sujeito a uma ou mais das seguintes condições: um período determinado dentro do qual deve ser apresentado o requerimento, requisitos específicos de residência e/ou que o interessado tenha sempre sido apátrida);
+• Aos menores abandonados encontrados no território do Estado Contratante;
+• No momento do nascimento, de pleno direito, à pessoa nascida noutro lugar, se um dos seus pais possuía a nacionablidade do Estado Contratante nesse momento;
+• Mediante requerimento, em conformidade com a legislação nacional, à pessoa nascida noutro lugar, se um dos seus pais possuía a nacionalidade do Estado Contratante no momento do nascimento (o requerimento pode estar sujeito a uma ou mais das seguintes condições: um período determinado dentro do qual deve ser apresentado, requisitos específicos de residência, a ausência de condenações penais de natureza determinada e que o interessado tenha sempre sido apátrida);
+Sobre a perda da nacionalidade ou a sua renúncia (Artigos 5e, 6e e 79)
+A perda da nacionalidade ou a sua renúncia devem ser condicionadas à titularidade prévia ou à garantia de aquisição de outra nacionalidade. Uma excepção pode ser feita para as pessoas naturalizadas que, apesar de serem notificadas sobre procedimentos e prazos, residam no estrangeiro durante um determinado número de anos e não tenham manifestado a intenção de manter a nacionalidade. Uma pessoa naturalizada, neste caso, é uma pessoa que tenha adquirido a nacionalidade com um pedido ao Estado Contratante interessado, o qual tenha a faculdade de o recusar. A perda de nacionalidade só pode ocorrer em conformidade com a lei e deve ser acompanhada de garantias processuais, tais como o direito a uma audiência justa por parte de um tribunal ou outra autoridade independente.
+Sobre a privação da nacionalidade (Artigos 89 e 99)
+Ninguém deverá ser privado da sua nacionalidade se essa privação resultar em apatridia, a não ser quando:
+• A nacionalidade for obtida por declaração falsa ou fraude;
+• O indivíduo tiver cometido acções incompatíveis com o dever de lealdade, como a violação duma proibição expressa de prestar serviços a outro Estado, ou uma conduta pessoal gravemente prejudicial aos interesses vitais do Estado;
+•O indivíduo tiver feito um juramento ou uma declaração formal de lealdade a outro Estado, ou repúdio da lealdade ao Estado;
+•O cidadão naturalizado que tenha perdido o vínculo efectivo com o Estado Contratante, apesar da notificação, não tiver declarado a intenção de manter a sua nacionalidade.
+Um Estado Parte da Convenção de 1961 só poderá privar um indivíduo da sua cidadania em razão dos motivos indicados se assim for especificado no momento da assinatura, ratificação ou adesão, em conformidade com a lei e em conjunto com todas as garantias processuais, como o direito a um julgamento justo. Um Estado Contratante não poderá privar uma pessoa, ou grupo de pessoas, da sua nacionalidade por motivos raciais, étnicos, religiosos ou políticos.
+     Sobre a transferência de território (Artigo 10e)
+Os tratados garantirão que não seja gerada apatridia como resultado da transferência de território. Na ausência de tais tratados, o Estado ou os Estados envolvidos deverão garantir a nacionalidade às pessoas que de outra forma se tornariam apátridas como resultado da transferência ou aquisição de território.
+     Sobre um organismo internacional (Artigo II9)
+A Convenção prevê a criação, dentro da estrutura das Nações Unidas, dum órgão perante o qual uma pessoa que reivindique o beneficio da Convenção possa solicitar o exame da sua reivindicação, bem como assistência na sua apresentação à autoridade competente. A Assembleia Geral das Nações Unidas solicitou ao ACNUR para assumir esta responsabilidade.
+     Sobre a resolução de controvérsias (Artigo 149)
+As disputas entre os Estados Contratantes referentes à interpretação ou à aplicação da Convenção que não possam ser solucionadas por outros meios poderão ser submetidas à Corte Internacional de Justiça por iniciativa de qualquer uma das partes.
+     Acta Final
+A Acta Final recomenda que as pessoas que são apátridas de facto sejam consideradas, na medida do possível, como apátridas de jure, possibilitando assim a aquisição de uma nacionalidade efectiva.
+
+Capítulo 4
+O papel do ACNUR
+O ACNUR tem estado envolvido na temática da apatridia e das pessoas apátridas desde o início das suas operações, em 1950. A organização tem o mandato das Nações Unidas para proteger os refugiados e ajudá-los a encontrar soluções para os seus problemas. Muitos dos refugiados que a organização tem assistido ao longo dos anos também eram apátridas. De facto, ao longo de várias décadas, tem existido uma estreita relação entre a perda ou a denegação da protecção nacional e a perda ou a denegação da nacionalidade. Também é geralmente reconhecido que uma nacionalidade efectiva e a capacidade de exercer os direitos inerentes à cidadania ajudam a evitar as deslocações involuntárias e forçadas de pessoas.
+Como se envolveu o ACNUR com o assunto da apatridia?
+Ao longo dos anos, o papel do ACNUR na redução da incidência da apatridia e na assistência às pessoas apátridas ampliou-se, enquanto a organização também crescia. O seu trabalho em matéria de apatridia tem fundamento no mandato conferido por um tratado internacional, em diferentes resoluções da Assembleia Geral das Nações Unidas e em várias recomendações do órgão consultivo do ACNUR, o Comité Executivo do Programa do Alto Comissariado (ExCom).
+Não existe disposição sobre a criação de um órgão de acompanhamento para assegurar a aplicação eficaz da Convenção sobre o Estatuto dos Apátridas de 1954. Contudo, o Artigo 11° da Convenção para a Redução dos Casos de Apatridia de 1961 prevê a criação de “um órgão perante o qual uma pessoa que reivindique o beneficio da Convenção possa solicitar o exame da sua reivindicação, bem como assistência na sua apresentação à autoridade competente”. Quando a Convenção entrou em vigor, em 1975, a Assembleia Geral das Nações Unidas solicitou ao ACNUR o desempenho desta função. As responsabilidades da organização foram ulteriormente definidas em resoluções posteriores.
+Em 1995, o Comité Executivo do Programa do Alto Comissariado aprovou um conjunto abrangente de directrizes sobre o tema da apatridia: a Conclusão sobre a Prevenção e Redução da Apatridia e a Protecção dos Apátridas (Conclusão N. 78 de 1995). O Comité Executivo, está composto por representantes de países (78 países-membros em Agosto de 2009), seleccionados pelo ECOSOC em função do interesse demonstrado em encontrar soluções para os problemas dos refugiados. A Conclusão do Comité Executivo de 1995 sobre a apatridia “encoraja o ACNUR a prosseguir as suas actividades em nome dos apátridas” e “veementemente ao ACNUR para promover a adesão à Convenção de 1954 sobre o Estatuto dos Apátridas e à Convenção de 1961 para a Redução dos Casos de Apatridia”. Na Conclusão o Comité Executivo também “solicita ainda, veementemente, ao ACNUR para promover a prevenção e redução da apatridia através da divulgação da informação e da formação de pessoal e de funcionários estatais; e para reforçar a cooperação com outras organizações interessadas”.
+Em 1996, a Assembleia Geral das Nações Unidas aprovou uma resolução no mesmo sentido (A/RES/50/152), encorajando o Alto Comissariado na prossecução da realização de actividades em nome das pessoas apátridas e promover a adesão às convenções de 1954 e 1961, bem como a sua implementação. A Resolução também solicita ao ACNUR para “fornecer aos Estados interessados os serviços técnicos e de assessoria pertinentes à preparação e aplicação de leis sobre a nacionalidade”.
+Na mesma resolução a Assembleia Geral “insta os Estados a adoptarem leis sobre a nacionalidade com vista a reduzir os casos de apatridia, em conformidade com os princípios fundamentais do direito internacional, em particular, proibindo a privação arbitrária da nacionalidade e eliminando as disposições que permitem a renúncia à nacionalidade sem prévia posse ou aquisição doutra nacionalidade, reconhecendo, ao mesmo tempo, o direito dos Estados de adoptar leis que regulem a aquisição, renúncia ou perda da nacionalidade”.
+A apatridia foi reconhecida como uma das principais causas de deslocações e fluxos de refugiados na Agenda para a Protecção, cuja realização foi propiciada pelo Comité Executivo do ACNUR (Conclusão N. 92 [LIII] a) e apoiada pela Assembleia Geral da ONU em 2002. A Agenda para a Protecção, a culminação das Consultações Globais sobre a Protecção Internacional do ACNUR, consiste numa declaração de fins e objectivos e numa resenha de acções para reforçar a protecção internacional dos refugiados. A Agenda para a Protecção recolhe diferentes preocupações e recomendações de Estados, organizações intergovernamentais, ONG e refugiados e também serve como guia para acções concretas. A busca de soluções para o problema da apatridia é reconhecida como uma forma de contribuir para evitar o deslocamento forçado e assegurar a realização do direito à nacionalidade.
+Preocupado pelo número intoleravelmente elevado de apátridas cujos casos ficaram sem solução durante muitos anos, em 2004 o Comité Executivo solicitou ao ACNUR para desempenhar um papel mais activo, trabalhando com os Estados interessados para encontrar soluções para essas situações. O Comité Executivo também reafirmou a necessidade do ACNUR continuar a prestar apoio técnico e operacional aos Estados.
+Mais recentemente, em 2005, numa resolução sobre os direitos humanos e a privação arbitrária da nacionalidade (E/CN.4/2005/L.58), a Comissão dos Direitos Humanos das Nações Unidas encorajou o ACNUR a continuar na recolha de informações sobre este assunto e a abordar o problema da privação da nacionalidade, tanto nos seus relatórios como nas suas actividades no terreno.
+   O que faz o ACNUR para resolver o problema dos apátridas?
+O ACNUR apoia os governos na elaboração e aplicação da legislação sobre a nacionalidade, fornecendo formação a funcionários governamentais. Em 2003 e 2005 o ACNUR trabalhou com mais de 40 Estados apoiando-os na adopção de nova legislação sobre a nacionalidade e na revisão da antiga legislação. O ACNUR forneceu pareceres sobre disposições constitucionais na legislação relativa à nacionalidade em Estados com significativos segmentos de população apátrida ou de nacionalidade indeterminada.
+O ACNUR trabalha com os parlamentares para garantir que a legislação sobre a nacionalidade não provoque deslocações, nem contenha disposições que possam provocar a apatridia (ver Anexo 4: lista das representações do ACNUR no mundo).
+Como previsto na Agenda para a Protecção, o ACNUR lançou a primeira pesquisa global sobre as medidas adoptadas pelos países membros das Nações Unidas para reduzir a apatridia e satisfazer as necessidades de protecção dos apátridas. A pesquisa constatou que nenhuma região do mundo está isenta da apatridia e que subsistem grandes lacunas legais e políticas, tanto a nível internacional quanto nacional. O ACNUR elaborou um conjunto abrangente de recomendações com base na análise das respostas fornecidas por 74 Estados.
+O ACNUR tem apoiado campanhas sobre a nacionalidade através das quais os Estados permitiram aos apátridas adquirirem a nacionalidade do país em que tivessem tido uma residência habitual de longo prazo.
+O ACNUR também oferece ajuda directamente aos apátridas através de consultas aos Estados interessados, num esforço para encontrar soluções para indivíduos ou grupos apátridas. A organização encoraja os Estados a definirem o estatuto jurídico do indivíduo envolvido e promove o reconhecimento de vínculos legítimos entre o indivíduo, ou grupo de indivíduos, e o Estado, no caso em que as pessoas em causa se tornassem, apátridas.
+Enquanto esperam a definição da sua situação jurídica, aos apátridas é assegurado o gozo de um conjunto de direitos fundamentais nos respectivos países de residência. O ACNUR promove a implementação da Convenção sobre o Estatuto dos Apátridas de 1954, que estabelece um conjunto essencial de direitos e obrigações para com os apátridas, e apoia os Estados na aplicação, quando necessário e dependendo dos recursos disponíveis, de programas de protecção e assistência para os apátridas.
+Com que outras organizações trabalha o ACNUR para enfrentar os problemas relacionados com a apatridia?
+As principais agências das Nações Unidas que trabalham com o ACNUR para enfrentar a apatridia são o Alto Comissariado para os Direitos Humanos, o Fundo das Nações Unidas para a Infância (UNICEF) e o Fundo de Desenvolvimento das Nações Unidas para a Mulher (UNIFEM). Para resolver situações prolongadas de apatridia, às vezes o ACNUR também trabalha com a Organização Internacional do Trabalho (OIT), o Programa das Nações Unidas para o Desenvolvimento (PNUD) e o Programa Alimentar Mundial (PAM) na execução de programas conjuntos para a habitação, a educação e a criação de rendimentos, destinados à integração, ou reintegração, de comunidades marginais na sociedade nacional.
+Além das organizações das Nações Unidas acima mencionados, o ACNUR trabalha em estreita cooperação com os Órgãos das Nações Unidas de Controlo da Aplicação dos Tratados em matéria de Direitos Humanos, como o Comité dos Direitos Humanos, o Comité dos Direitos da Criança, o Comité para a Eliminação da Discriminação Racial e o Comité para a Eliminação da Discriminação contra as Mulheres.
+O ACNUR colabora com organismos regionais, como o Conselho da Europa, a Organização para a Segurança e Cooperação na Europa, a Organização dos Estados Americanos, a União Africana, a Liga dos Estados Árabes e a Organização da Conferência Islâmica. O ACNUR participa no Comité de Peritos sobre a Nacionalidade do Conselho da Europa, que desenvolve novos instrumentos para a determinação de parâmetros gerais, como a Convenção do Conselho da Europa sobre a Prevenção dos Casos de Apatridia relacionados com a Sucessão de Estados.
+As organizações não governamentais também trabalham em estreita colaboração com o ACNUR no terreno, promovendo os programas do ACNUR e contribuindo a desenvolver as suas actividades. Em 2007, o ACNUR assinou 629 acordos com ONG internacionais e 467 com ONG nacionais.
+O ACNUR trabalha estreitamente com a União Interparlamentar (UIP) para sensibilizar os parlamentares sobre as normas jurídicas internacionais em matéria de apatridia e informá-los sobre as multiplas recomendações e boas práticas que podem prevenir a apatridia. A organização encoraja os parlamentares a aprovarem legislação sobre a nacionalidade que contribua para eliminar a apatridia, assegurando, ao mesmo tempo, o direito à nacionalidade das pessoas que tenham sido privadas desta e ajuda, além disso, a garantir que os tratados sobre a dupla ou múltipla nacionalidade não provoquem a apatridia inadvertidamente.
+Boas práticas: Sri Lanka
+A maioria da força de trabalho que produz o chá do Sri Lanka, reconhecido mundialmente, é originária da Índia. Conhecidos oficialmente como “tâmeis de origem indiana recente”, mas correntemente chamados de “tâmeis do interior” (Up-Country Tamil), estes trabalhadores são descendentes de pessoas trazidas para o então Ceilão da Índia pela administração britânica, que governou a ilha entre 1815 e 1948. Desde a independência do Sri Lanka, em 1948, até 1984, vários acordos entre a Índia e o Sri Lanka definiram o estatuto jurídico desses trabalhadores. A alguns tâmeis do interior foi concedida a nacionalidade por parte de um dos dois países através de arranjos legislativos ou bilaterais. Contudo, muitos deles não tinham uma nacionalidade nem gozavam dos direitos básicos e não podiam aceder ao procedimento para adquirir a nacionalidade do Sri Lanka ou da Índia.
+Em 1982 o governo indiano informou o governo do Sri Lanka que considerava que os acordos prévios sobre os tâmeis do interior já não eram válidos porque o período de implementação dos acordos já tinha expirado. De facto, desde essa data qualquer tâmil ainda apátrida ficou sem possibilidade de obter uma nacionalidade.
+O Congresso dos Trabalhadores do Ceilão, um sindicato e também um partido político, durante anos fez pressão pelos direitos dos tâmeis do interior. Em resposta, o parlamento do Sri Lanka elaborou um projecto de lei e em Outubro de 1983 aprovou por unanimidade a “Lei para a a concessão da cidadania às pessoas de origem indiana”. A Lei concede automaticamente a cidadania a qualquer pessoa de origem indiana que:
+• Tenha residido permanentemente no Sri Lanka desde 30 de Outubro de 1964; ou
+• Seja um descendente, residente no Sri Lanka, de uma pessoa que tenha residido permanentemente no Sri Lanka desde 30 de Outubro de 1964.
+Depois da adopção da Lei o Gabinete do Comissário Geral, o ACNUR e o Congresso dos Trabalhadores do Ceilão começaram a divulgar informações sobre a nova lei. A informação relativa à lei e aos procedimentos para requerer a nacionalidade foi publicada nos jornais e anunciada em rádios e televisões em tâmil, inglês e cingalês.
+Os procedimentos administrativos, definidos pelos Ministério do Interior e da Imigração, são simples, rápidos e justos. Dois procedimentos diferentes foram estabelecidos para os apátridas:
+• Aos apátridas de facto, geralmente detentores de passaportes indianos expirados após a declaração da Índia de 1982, é requerido manifestar voluntariamente a sua intenção de obter a nacionalidade do Sri Lanka, incumbência geralmente atribuída ao chefe de família. As autoridades de imigração têm que autenticar o documento. Uma vez aprovado o pedido é concedida a cidadania a todos os membros da família.
+• Os apátridas de jure não têm que apresentar uma declaração escrita, apesar de serem encorajados a assinar uma declaração especial que, uma vez autenticada pelas autoridades governamentais, vai tornar mais fácil para eles a obtenção dos documentos de identidade.
+Ambos os procedimentos são gratuitos e não há um prazo limite para apresentar o pedido.
+Em Dezembro de 2003 o ACNUR e o Congresso dos Trabalhadores do Ceilão organizaram um seminário de um dia para uns 500 voluntários colocados em 50 centros móveis espalhados na região das plantações de chá, onde os apátridas puderam solicitar a nacionalidade. Os voluntários receberam formação acerca das características básicas da apatridia, as leis aprovadas desde 1948, e a nova lei e os seus critérios de elegibilidade.
+O pessoal dos centros móveis recolheu os pedidos de nacionalidade durante 10 dias, em Dezembro de 2003. O ACNUR financiou a campanha e acompanhou o processo para garantir que os requerentes estivessem a tomar as suas decisões duma maneira informada e voluntária. No final do mês, uns 190.000 chefes de família tinham adquirido a nacionalidade do Sri Lanka. Destes, cerca de 80.000 possuíam passaportes indianos, os outros eram apátridas de jure.
+Em Julho e Agosto de 2004, foi organizada uma segunda campanha, mais pequena, no nordeste do país. Mais de 2.000 apátridas requereram e obtiveram a nacionalidade. Desde então, um pequeno número de tâmeis do interior tem solicitado satisfatoriamente a nacionalidade, recorrendo tanto aos funcionários públicos dos seus distritos locais, como à Divisão de Nacionalidade do Ministério da Segurança Pública, Lei e Ordem na capital, Colombo.
+   Quem financia as actividades do ACNUR?
+O ACNUR é uma das poucas agências da ONU que depende quase inteiramente das contribuições voluntárias para financiar as suas operações. Cerca de dois por cento do orçamento anual do ACNUR provem de contribuições regulares do orçamento da ONU e o resto provém das contribuições voluntárias de governos, indivíduos e do sector privado.
+No final de 2008, existiam mais de 34 milhões de pessoas de interesse para o ACNUR. O orçamento do ACNUR para esse ano foi de US$ 1.600 milhões.
+Em 2008, o ACNUR recebeu 75% do seu financiamento de 10 países doadores. Ao mesmo tempo, recebeu mais de US$ 50 milhões do sector privado, principalmente na Europa, na Austrália, no Japão e nos Estados Unidos. As ONG contribuíram para o orçamento anual do ACNUR lançando apelos públicos para algumas operações. Nos últimos anos, as contribuições do sector privado e das ONG têm aumentado, como resultado dum esforço concertado para sensibilizar a opinião pública através da rádio, da televisão, de jornais e outros meios de comunicação.
+Capítulo 5
+De que forma podem os parlamentares ajudar?
+Os parlamentares encontram-se numa posição única para ajudar a reduzir a incidência dos casos de apatridia e para assegurar que as pessoas apátridas gozem dos direitos e cumpram as obrigações estabelecidas pelo direito internacional. Podem fazê-lo de diferentes maneiras: revendo a legislação relativa à nacionalidade e assegurando-se que seja conforme às normas internacionais, apoiando a adesão às Convenções de 1954 e 1961 sobre a apatridia e promovendo a redução ou eliminação da apatridia e a resolução dos casos que envolvam pessoas apátridas.
+O que deveriam procurar os parlamentares ao reverem a legislação nacional relativa à nacionalidade?
+• Rever os tratados internacionais e regionais pertinentes dos quais é Parte o Estado. Rever os tratados e as declarações às quais o Estado faça referência na sua legislação nacional; isto seria de ajuda na interpretação do sistema jurídico nacional.
+• Pois muitos Estados incluem disposições relativas à nacionalidade em diferentes instrumentos legais, rever a Constituição, as leis da nacionalidade, os decretos e todas aquelas fontes do direito nacional que possam ajudar na interpretação das leis do Estado.
+• Rever os acordos bilaterais e multilaterais em caso de sucessão de Estados.
+• No momento da revisão do regime jurídico nacional, determinar se o Estado garante a adopção e a aplicação sistemática de salvaguardas para prevenir a apatridia, quando esta resultar da privação, renúncia ou perda da nacionalidade.
+No momento da revisão do sistema jurídico nacional, tentar responder às seguintes perguntas:
+Sobre a AQUISIÇÃO da nacionalidade
+• As crianças podem adquirir a nacionalidade da mãe, especialmente quando o pai não tiver uma nacionalidade ou não estiver presente?
+• Qual é o procedimento administrativo para registar os nascimentos? É aplicado na prática? A legislação do Estado sobre a nacionalidade prevê a aquisição da nacionalidade para as pessoas nascidas dentro do território do Estado que, a não ser assim, se tornariam apátridas?
+• O princípio da não discriminação é aplicado às normas sobre a nacionalidade?
+• Se a criação do Estado tiver acontecido como resultado duma sucessão de Estados, no momento de determinar se a nacionalidade for concedida aos cidadãos do Estado predecessor, são considerados os vínculos genuínos e efectivos entre a pessoa interessada e o Estado, a residência habitual da pessoa interessada no momento da sucessão, a intenção da pessoa interessada e a origem territorial da pessoa interessada?
+   Sobre a PERDA da nacionalidade
+• As disposições relativas à mudança do estado civil estão a garantir que seja evitada a apatridia?
+   • Como é que se perde a nacionalidade? A prevenção da apatridia está prevista?
+• A renúncia à nacionalidade é condicionada à aquisição, ou à garantia da aquisição, de outra nacionalidade?
+• O pedido de naturalização num país estrangeiro altera a situação da nacionalidade de um indivíduo, se o interessado não tiver recebido nenhuma garantia a respeito da aquisição da outra nacionalidade?
+• Nos casos em que for prevista a privação da nacionalidade, os motivos da privação estão claramente definidos? Existem garantias procedimentais?
+   Sobre a RECUPERAÇÃO da nacionalidade
+• A recuperação da nacionalidade por parte de antigos nacionais que residam de forma legal e habitual dentro do território do Estado está a ser facilitada?
+• É possível restituir a antiga nacionalidade a um indivíduo que tenha perdido a nacionalidade adquirida em razão de uma mudança do seu estado civil? Se for possível, a restituição acontecerá de forma automática, ou a pessoa interessada deverá solicitá-la quando se tornar apátrida? Existem garantias procedimentais?
+   Sobre a NATURALIZAÇÃO
+• Se um estrangeiro solicitasse a naturalização, deveria provar que renunciou formalmente à sua antiga nacionalidade? Ou é suficiente a garantia de que perderá a antiga nacionalidade no momento da aquisição da nova cidadania?
+   • O procedimento e os requisitos para a naturalização estão claramente definidos?
+• Existem algumas práticas administrativas, como procedimentos prolongados, custos excessivos, requisição de documentos que o requerente não pode apresentar e/ou prazos que o requerente não pode cumprir, que possam provocar a apatridia?
+Porque os Estados deveriam aderir à Convenção sobre o Estatuto dos Apátridas de 1954 e à Convenção para a Redução dos Casos de Apatridia de 1961?
+A nível nacional, a adesão às Convenções sobre a apatridia de 1954 e 1961:
+• Reforça a protecção dos direitos humanos e a dignidade dos indivíduos;
+• Demonstra o reconhecimento dum vínculo genuíno e efectivo entre os indivíduos e o Estado;
+• Melhora o sentido de estabilidade e identidade legal dos indivíduos que estão numa situação de apatridia;
+• Outorga aos indivíduos o acesso à protecção nacional, bem como às obrigações e aos direitos; e
+• Reafirma a solidariedade e a estabilidade nacional.
+A nível internacional, a adesão às Convenções sobre a apatridia de 1954 e 1961:
+• Demonstra o compromisso para com a comunidade internacional para reduzir e eliminar a apatridia;
+• Reforça as proibições internacionais contra as expulsões individuais e colectivas;
+• Melhora as relações internacionais e a estabilidade;
+• Demonstra o compromisso para com os patrões internacionais sobre os direitos humanos;
+• Ajuda a prevenir a deslocação forçada, enfrentando as suas causas;
+• Ajuda a desenvolver o direito internacional relativo à aquisição e conservação duma nacionalidade efectiva;
+• Ajuda o ACNUR na mobilização do apoio internacional para a adesão aos princípios contidos nas Convenções; e
+• Ajuda a resolver as disputas relativas à nacionalidade.
+Como é que um Estado adere às Convenções?
+Os Estados podem aderir às Convenções de 1954 e/ou de 1961 em qualquer momento, depositando um instrumento de adesão junto do Secretário-Geral das Nações Unidas. O instrumento de adesão deverá ser assinado pelo Chefe de Estado ou de Governo ou pelo Ministro de Relações Exteriores e logo transmitido através do Representante do país na sede das Nações Unidas em Nova Iorque (exemplos dos instrumentos de adesão encontram-se no Anexo 3).
+   Pode um Estado formular reservas às Convenções?
+Reconhecendo que condições particulares podem interessar Estados determinados no momento da ratificação ou adesão, as Convenções permitem aos Estados Contratantes formularem reservas a algumas das disposições das Convenções, com a excepção das disposições que foram consideradas fundamentais pelos Estados Contratantes iniciais:
+Convenção sobre o Estatuto dos Apátridas de 1954: as reservas são permitidas, com a excepção dos Artigos 1° (definição/cláusulas de exclusão), 3° (não-discriminação), 4° (liberdade de religião), 16° (1) (acesso aos tribunais) e do 33 ao 42 (cláusulas finais).
+Convenção para a Redução dos Casos de Apatridia de 1961: as reservas são permitidas só a respeito dos Artigos 11° (órgão), 14° (submetimento das controvérsias ao Tribunal Internacional de Justiça) e 15° (territórios sob a responsabilidade dum Estado Contratante).
+   Para cada Convenção é permitido um número limitado de reservas.
+Como é que os parlamentares podem assegurar a aplicação efectiva das Convenções?
+Devem ser aprovadas, ou revistas, leis nacionais para que as disposições das Convenções sejam implementadas de forma efectiva. O ACNUR pode oferecer a sua assessoria técnica para ajudar a garantir que a tradição jurídica específica de cada Estado e seus recursos sejam compatíveis com as obrigações internacionais assumidas.
+Quais as medidas práticas a serem tomadas pelos parlamentares para encorajar os seus governos a aderirem às Convenções?
+• Estabelecer se o Estado é Parte de uma ou ambas as Convenções.
+• Se o Estado ainda não tiver aderido a estes instrumentos, considerar submeter a questão ao governo, de forma verbal ou escrita, ou apresentar um projecto de lei.
+• Se for apresentada uma proposta de ratificação ou adesão ao Parlamento dentro de um prazo razoável, depois de rever as informações necessárias, votar em favor da adesão.
+• Se o governo não tiver apresentado o assunto ao Parlamento dentro de um prazo razoável, recorrer ao procedimento parlamentar para questionar o Governo para que explique qual a razão, encorajando-o a iniciar o processo de ratificação/ adesão sem demora.
+• Se o governo tiver assinado uma ou ambas as Convenções, mas tiver adiado o processo de ratificação, recorrer ao procedimento parlamentar para questionar acerca da demora e encorajar o governo a apressar o processo. Recorrer ao direito de iniciativa legislativa para propor um projecto de lei sobre a matéria.
+• Se o governo se opuser à ratificação/adesão, tentar conhecer em detalhe a razão. Se necessário, ajudar a eliminar as dúvidas e mal-entendidos, e utilizar as redes políticas para apressar o processo. Promover a causa da ratificação/adesão com os seus eleitores.
+• Se for um parlamentar dum Estado surgido como resultado da separação ou dissolução doutros Estados, os tratados aos quais aderiu o Estado predecessor não são automaticamente vinculativos para o novo Estado. Os novos Estados podem assumir as obrigações dos Estados predecessores por sucessão, ou aderir como novos Estados, ou declarar a intenção de não se considerarem vinculados pelos tratados concluídos pelo Estado predecessor.
+• Depois do Estado se tornar Parte das Convenções através da ratificação ou adesão, e estas tenham entrado em vigor, assegurar-se que o Parlamento adopte uma legislação interna que corresponda às disposições contidas nas Convenções. Recorrer aos procedimentos parlamentares para garantir que o governo apresente um projecto de lei ou de emenda à legislação existente ao parlamento dentro de um prazo razoável.
+• Se o governo tiver apresentado ao Parlamento uma proposta de ratificação/adesão acompanhada de reservas que limitem o âmbito da aplicação do tratado, objecções ou declarações interpretativas e o parlamentar tenha comprovado que essas limitações são infundadas, promover o interesse geral sobre os interesses sectários ou circunstanciais.
+• Se as reservas do governo que limitam o âmbito da aplicação do tratado, as objecções ou as declarações interpretativas não não serem consideradas válidas, recorrer aos procedimentos parlamentares para averiguar as intenções do Governo e tomar medidas para efeitos de eliminar as restrições.
+• Se for preciso receber assessoria e assistência no que diz respeito à adesão e/ou à redacção de legislação nacional compatível com os princípios contidos nas Convenções, contactar a representação do ACNUR no seu país ou o que é responsável pelo seu país (ver Anexo 4: lista das representações do ACNUR).
+Como podem os parlamentares sensibilizar a opinião pública para a apatridia?
+Como responsáveis pela redacção das leis do país, os parlamentares estão numa posição excelente para promover a redução ou eliminação da apatridia e para garantir que os direitos dos apátridas sejam protegidos. Os parlamentares não só devem encorajar os respectivos governos a adoptar leis consistentes com os padrões internacionais, mas também obter o apoio do seu eleitorado. Só quando a sociedade civil entender os problemas associados com a apatridia apoiará os esforços dos parlamentares para resolver estes problemas.
+Os parlamentares podem sensibilizar os seus eleitores sobre a apatridia com discursos sobre o assunto e sobre a importância duma apropriada legislação sobre a nacionalidade, escrevendo artigos nos jornais sobre a necessidade de eliminar a apatridia, trabalhando com as ONG e outros actores da sociedade civil que prestem apoio a apátridas e, se necessário, promovendo a rápida resolução dos casos individuais de apatridia.
+Os parlamentares podem resolver as situações de apatridia promovendo os direitos das minorias e doutros grupos para que façam parte do corpo dos nacionais, que constituam o Estado e facilitando o diálogo entre as comunidades, o que irá resultar na aceitação dos apátridas como nacionais.
+O que podem fazer os parlamentares para incentivar a cooperação internacional no assunto?
+A cooperação internacional é essencial para reduzir a incidência da apatridia no mundo. Os parlamentares devem garantir que os seus governos participem activamente nos esforços internacionais para reduzir ou eliminar a apatridia e em todo o esforço para resolver os casos individuais de apatridia.
+Os parlamentares podem considerar convidar parlamentares de países vizinhos para realizar uma revisão regional da legislação relativa à nacionalidade. A harmonização das leis da nacionalidade entre os Estados é uma boa maneira de reduzir a incidência da apatridia.
+     Estados Partes da Convenção sobre o Estatuto dos
+Apátridas de 1954
+Data da entrada em vigor: 6 de Junho de 1960
+Estados Partes (até 15 de Outubro de 2009): 65
+País   Assinatura    Ratificação (r)
+    Adesão (a)
+    Sucessão (s)Albânia    23 Junho 2003 (a)Alemanha   28 Setembro 1974    26 Outubro 1976 (r)Argélia    15 Julho 1964 (a)Antígua e Barbuda    25 Outubro 1988 (s)Argentina    1 Junho 1972 (a)Arménia    18 Maio 1994 (a)Austrália    13 Dezembro 1973 (a)Áustria    8 Fevereiro 2008 (a)Azerbaijão    16 Agosto 1996 (a)Barbados    6 Março 1972 (s)Bélgica   28 Setembro 1974    27 Maio 1960 (r)Belize    14 Setembro 2006 (a)Bolívia    6 Outubro 1983 (a)Bósnia e Herzegovina    1 Setembro 1993 (s)Botswana    25 Fevereiro 1969 (s)Brasil   28 Setembro 1974    30 Abril 1996 (r)Colômbia   30 Dezembro 1954Costa Rica   28 Setembro 1974    2 Novembro 1977 (r)Croácia    12 Outubro 1992 (s)Chade    12 Agosto 1999 (a)Dinamarca   28 Setembro 1974    17 Janeiro 1956 (a)Equador   28 Setembro 1974    2 Outubro 1970 (r)El Salvador
+Eslováquia   28 Setembro 1974    3 Abril 2000 (a)Eslovénia    6 Julho 1992 (s)Espanha
+Fiji    17 Maio 1997 (a)
+    12 Junho 1972 (s)Filipinas
+Finlândia   22 Junho 1955    1o Outubro 1968 (a)França   15 Janeiro 1955    8 Março 1960 (r)Grécia    4 Novembro 1975 (a)Guatemala   28 Setembro 1974    28 Novembro 2000 (a)Guiné    21 Março 1962 (a)
+Estados Partes da Convenção sobre o Estatuto dos Apátridas de 1954 (continuação)
+Honduras  28 Setembro 1974Hungria    21 Novembro 2001 (a)Irlanda    17 Dezembro 1962 (a)Israel  1 Outubro 1954    23 Dezembro 1958 (r)Itália  20 Outubro 1954    3 Dezembro 1962 (r)Lesoto    4 Novembro 1974 (s)Letónia    5 Novembro 1999 (a)Libéria    11 Setembro 1964 (a)Líbia    16 Maio 1989 (a)Liechtenstein  28 Setembro 1954    25 Setembro 2009 (r)Lituânia    7 Fevereiro 2000 (a)Luxemburgo  28 Outubro 1955    27 Junho 1960 (r)Macedónia    18 Janeiro 1994 (s)Madagáscar*    [20 Fevereiro 1962 (a)]Malawi    7 Outubro 2009 (a)México    7 Junho 2000 (a)Montenegro    23 Outubro 2006 (s)Noruega  28 Setembro 1954    19 Novembro 1956 (r)Países Baixos  28 Setembro 1954    12 Abril 1962 (r)Quiribati    29 Novembro 1983 (s)Reino Unido  28 Setembro 1954    16 Abril 1959 (r)República Checa    19 Julho 2004 (a)República da Coreia    22 Agosto 1962 (a)Roménia    27 Janeiro 2006 (a)Ruanda    4 Outubro 2006 (a)Santa Sé  28 Setembro 1954São Vicente e Granadinas    27 Abril 1999 (s)Senegal    21 Setembro 2005 (a)Sérvia    12 Março 2001 (s)Suazilândia    16 Novembro 1999 (a)Suécia  28 Setembro 1954    2 Abril 1965 (r)Suíça  28 Setembro 1954    3 Julho 1972 (r)Trindade e Tobago    11 Abril 1966 (s)Tunísia    29 Julho 1969 (a)Uganda    15 Abril 1965 (a)Uruguai    2 Abril 2004 (a)Zâmbia    1 Novembro 1974 (s)Zimbabué    1 Dezembro 1998 (s)
+Estados Partes da Convenção para a Redução dos casos de Apatridia de 1961
+Data da entrada em vigor: 13 de Dezembro de 1975
+Estados Partes (até 15 de Outubro de 2009): 37
+
+
+
+País
+Albânia
+Alemanha
+Arménia
+Austrália
+Áustria
+Azerbaijão
+Bolívia
+Bósnia e Herzegovina
+Brasil
+Canadá
+Costa Rica
+Chade
+Dinamarca
+Eslováquia
+Finlândia
+França
+Guatemala
+Hungria
+Irlanda
+Israel
+Lesoto
+Letónia
+Libéria
+Líbia
+Liechtenstein
+Países Baixos
+Quiribati
+Níger
+Noruega
+Nova Zelândia
+Reino Unido
+República Checa
+República Dominicana
+Ratificação (r) Adesão (a) Sucessão (s)
+9 Junho 2003 (a)
+31 Agosto 1977 (a)
+18 Maio 1994 (a)
+13 Dezembro 1973 (a)
+22 Setembro 1972 (a)
+16 Agosto 1996 (a)
+6 Outubro 1983 (a)
+13 Dezembro 1996 (a)
+25 Outubro 2007 (a)
+17 Julho 1978 (a)
+2 Novembro 1977 (a)
+12 Agosto 1999 (a)
+11 Julho 1977 (a)
+3 Abril 2000 (a)
+7 Agosto 2008 (a)
+19 Julho 2001 (a)
+12 Maio 2009 (a)
+8 Janeiro 1973 (a)
+24 Setembro 2004 (a)
+14 Abril 1992 (a)
+24 Setembro 2004 (a)
+16 Maio 1989 (a)
+25 Setembro 2009 (r)
+13 Maio 1985 (r)
+29 Novembro 1983 (s)
+17 Junho 1985 (a)
+11 Agosto 1971 (a)
+20  Setembro 2006 (a)
+19 Dezembro 2001 (a)
+Estados Partes da Convenção para a Redução dos casos de Apatridia de 1961 (continuação)
+Roménia27 Janeiro 2006 (a)Ruanda4 Outubro 2006 (a)Senegal21 Setembro 2005 (a)Suazilândia16 Novembro 1999 (a)Suécia19 Fevereiro 1969 (a)Tunísia12 Maio 1966 (r)Uruguai21 Setembro 2001 (a)
+Modelo de instrumento de adesão à Convenção sobre o
+Estatuto dos Apátridas de 1954
+      CONSIDERANDO que a Convenção sobre o Estatuto dos Apátridas foi adoptada pela Assembleia Geral das Nações Unidas a 28 de Setembro de 1954 e que fica aberta às adesões, em conformidade com o seu Artigo 35°;
+      CONSIDERANDO que o inciso 4° do referido Artigo 35° estabelece que a adesão deverá ser efectuada pelo depósito de um instrumento de adesão junto do Secretario-Geral das Nações Unidas;
+      PORTANTO, o(a) abaixo-assinado(a) (Título do Chefe do Estado, Chefe do Governo, ou Ministro de Relações Exteriores) por este meio notifica a adesão de (Estado concernido);
+      FEITO em 	 no dia 	
+do mês de 	 do ano 	.
+
+Modelo de instrumento de adesão à Convenção para a Redução dos Casos de Apatridia de 1961
+      CONSIDERANDO que a Convenção para a Redução dos Casos de Apatridia foi adoptada pela Conferência de Plenipotenciários a 13 de Agosto de 1961 e que fica aberta às adesões, em conformidade com o seu Artigo 16°;
+      CONSIDERANDO que o inciso 4° do referido Artigo 16° estabelece que a adesão deverá ser efectuada pelo depósito de um instrumento de adesão junto do Secretario-Geral das Nações Unidas;
+      PORTANTO, o(a) abaixo-assinado(a) (Título do Chefe do Estado, Chefe do Governo, ou Ministro de Relações Exteriores) por este meio notifica a adesão de (Estado concernido);
+      FEITO em 	 no dia 	
+do mês de 	 do ano 	.
+
+Escritórios do ACNUR
+
+
+AFEGANISTÃO
+Representação do ACNUR no Afeganistão PO Box 3232
+Kabul
+ou
+41 Jadi Solh (Peace Avenue) Kabul
+Tel: +92 51 922 1125
+Fax: +92 51 282 05 11
+ÁFRICA DO SUL Representação Regional do ACNUR na África do Sul PO Box 12506 The Tramshed
+Pretoria
+ou
+8th floor
+Metro Park Building 351 Cnr. Schoaman & Prinsloo Str.
+Pretoria 0002 Gauteng Province Tel: +27 12 354 8303 Fax: +27 12 354 8390
+ALBÂNIA
+Representação do ACNUR na Albânia
+Rruga “Donika Kastrioti” Tirana
+Tel: +355 42 50 207
+Fax: +355 42 28 492
+ALEMANHA Representação do ACNUR na Alemanha
+Wallstrasse 9 - 13
+10179 Berlin
+Tel: +49 302022020
+Fax: +49 30 2022 0220
+ANGOLA
+Representação do ACNUR em Angola
+C.P. 1342
+Luanda
+ou
+Rua Eduard Mondlaine/SN
+Luanda
+Tel: +244 2332 046
+Fax: +244 2331 652
+ARÁBIA SAUDITA Representação Regional do ACNUR na Arábia Saudita PO Box 94003
+Riyadh 11693
+ou
+Fazari Square
+Pension Fund Commercial
+Complex
+Block C-13
+Dipomatic Quarters
+Riyadh
+Tel: +966 1 482 8835
+Fax: +966 1 482 8737
+ARGÉLIA
+Representação do ACNUR na Argélia
+Boite Postal 444
+Hydra
+Alger
+ou
+20 Rue Emile Payen
+Hydra
+Alger
+Tel: +213 21 69 1212
+Fax: +213 21 69 2374
+ARGENTINA Representação Regional do ACNUR para o Sul da América do Sul
+Cerrito 836
+10 Piso - 1010
+Buenos Aires
+Tel: +54 11 4815 7870
+Fax: +54 11 4815 4352
+ARMÉNIA
+Representação do ACNUR na Arménia
+14 Petros Adamyan Str.
+Yerevan 375010
+Tel: +37 41 56 47 71 Fax: +37 41 56 78 17
+AUSTRÁLIA Representação Regional do ACNUR para Austrália, Nova Zelândia, Papua Nova Guiné e o Pacífico do Sul 15 Hunter Street Yarralumla ACT 2600 Canberra
+Tel: +61 2 6273 2733 Fax: +61 2 6273 6822
+AUSTRIA
+Representação do ACNUR na Áustria
+Vienna International Centre (Building J, 1st floor) Wagramerstrasse 5
+PO Box 550 1400 Vienna Tel: +431 260604047 Fax: +43 1 2634115
+AZERBAIJÃO Representação do ACNUR no Azerbaijão
+3, Azer Aliyev Street Baku
+Tel: +99 412 92 1443 Fax: +99 412 98 11 34
+BANGLADECHE Representação do ACNUR no Bangladeche PO Box 3474 Dhaka 1000 ou
+House N/E (N) 8, Road 90, Gulshan 2, Dhaka 1212 Tel: +8802 88 2 68 02 Fax: +8802 88 2 65 57
+BÉLGICA Representação Regional do ACNUR para Bélgica,
+Luxemburgo e as Instituições Europeias Rue Van Eyck 11a
+B-1050 Bruxelles
+Tel: +32 2 649 01 53
+Fax: +32 2 627 17 30
+BENIM
+Representação Regional do ACNUR para Benim, Burkina Faso, Níger e Togo Boite Postale 08-1066 Lot 01 Patte d'Oie
+Cotonou
+Tel: +229 30 28 98
+Fax: +229 30 28 90
+BIELORRÚSSIA
+Representação do ACNUR na Bielorrússia
+Prospekt Partizanskij 6 A, 6° andar
+Minsk 220033
+Tel: +375 172983335
+Fax: +375 172982369
+BÓSNIA E HERZEGOVINA Representação do ACNUR em Bósnia e Herzegovina UNIS Building Fra Andjela Zvizdovica 1 71000 Sarajevo
+Tel: +387 33 666 160
+Fax: +387 33 290 333
+BOTSWANA
+Representação do ACNUR em Botswana
+PO Box 288
+Gabarone
+ou
+UN House - Plot 22
+Khama Crescent
+Gabarone
+Tel: +267 35 21 21
+Fax: +267 57 09 96
+BRASIL
+Representação do ACNUR no Brasil
+Setor Comercial Norte Quadra 02, Bloco A 11th Floor - Ed. Corporate Financial Center
+CEP 70712-901
+Brasilia - DF
+Tel: +55 61 3038 9272
+Fax: +55 61 3038 9279
+BULGÁRIA
+Representação do ACNUR na Bulgária
+19 Denkoglu str,
+1000 Sofia
+Tel: +359 2 98 02 453
+Fax: +359 2 98 01 639
+BURUNDI
+Representação do ACNUR no Burundi
+B.P. 307, Bujumbara
+ou
+No. 1, Avenuedu Large
+4620 Bujumbara
+Tel: +257 22 3245
+Fax: +257 22 95 23/24 19 87
+CAMBOJA
+Representação do ACNUR na Camboja
+PO Box 539
+House No. 2, Street No. 352
+Beung Keng Kang
+Phnom Penh
+Tel: +855 23 216005
+Fax: +855 23 216274
+CAMARÕES
+Representação do ACNUR no Camarões
+Boite Postale 7077
+Yaoundé
+ou
+Quartier Nlongkak
+Rue No. 1032 Batiment no.
+46
+Yaoundé
+Tel: +237 20 29 54
+Fax: +237 21 35 91
+CANADÁ
+Representação do ACNUR no Canada
+280 Albert Street, Suite 401
+Ottawa
+Ontario
+KIP 5G8
+Tel: +1 613 232 09 09
+Fax: +1 613 230 18 55
+CAZAQUISTÃO
+Representação do ACNUR NO Cazaquistão
+67 Tole bi
+Almaty - 480091
+Tel: +7 3272 791244
+Fax: +7 3272 583982
+COLÔMBIA
+Representação do ACNUR na Colômbia
+Calle 114 No. 9-01 Office 601
+Edificio Teleport Torre A Bogotá
+Tel: +571 658 06 00
+Fax: +571 658 06 02
+CONGO (REPÚBLICA DEMOCRÁTICA Do)
+Representação Regional do ACNUR para África Central na la República Democrática do Congo
+PO Box 7248
+Kinshasa 1
+ou
+6729 Avenue de l'OUA Kinshasa
+Tel: +243 81 880 1245
+Fax: +243 81 301 0435
+CONGO (REPÚBLICA DO)
+Representação do ACNUR na República do Congo BP 1093
+Brazzaville
+ou
+6, Rue 18 Mars 1977
+Quartier Cathedrale Brazzaville
+Tel: +242 811 169/+242 815 763(UNDP)
+Fax: +242 815 912
+COREIA (REPÚBLICA DE)
+Representação do ACNUR na República de Coreia 7F Kumsegi Bldg.
+16, Euljiro 1 Ga
+Joong-Ku
+Seoul 100-191
+Tel: +82 2 773 7011
+Fax: +82 2 773 7014
+COSTA RICA
+Representação do ACNUR na Costa Rica
+Barrio Rohrmoser
+Apartado Postal 12-1009 - FECOSA
+Tel: +506 2296 6800
+Fax: +506 2231 3604
+COSTA DO MARFIM Representação do ACNUR na Costa do Marfim 01 BP 7982
+Abidjan 01
+ou
+Angle Rue Des Jardins -
+Boulevard
+Latrille
+Cocody, II Plateaux
+Abidjan
+Tel: +225 22 515 577
+Fax: +225 22 515 588
+CROÁCIA
+Representação do ACNUR na Croácia
+3° andar
+24 Slovenska Ulica
+10000 Zagreb
+Tel: +385 1 3713 555
+Fax: +385 1 3713 588/+385 1 3713
+CHADE
+Representação do ACNUR no Chade
+B.P. 906
+N'Djamena
+ou
+Quartier Cardalé, Avenue
+Felix Eboué
+Immeuble STAT
+N'Djamena
+Tel: +235 51 86 10
+Fax: +235 51 5340
+CHINA (REPÚBLICA
+POPULAR DE)
+Representação Regional do ACNUR na China
+1-2-1, Tayan Diplomatic Office,
+Building 14
+Liang Ma He Nan Lu
+Beijing 100600
+Tel: +86 10 6 532 68 06
+Fax: +86 10 6532 16 47
+CHIPRE
+Representação do ACNUR em Chipre PO Box 1642 1590 Nicosia ou
+South: C/O UNFICYP
+Secretariat UNPA
+Nicosia
+Tel: +357 2 35 90 25
+Fax: +357 2 35 90 37
+DJIBOUTI
+Representação do ACNUR em Djibouti
+BP 1885
+Djibouti
+ou
+Rue Abdoulkader Waberi, Heron
+Lot No. TF 1148
+Quartier Marabout
+Djibouti
+Tel: +253 35 22 00
+Fax: +253 35 86 23
+EQUADOR
+Representação do ACNUR no Equador
+Avenida Amazonas 2889 y la
+Granja
+Edificio Naciones Unidas
+Piso 2
+Quito
+Tel: +593 2 2460 272
+Fax: +593 2 2460 280
+EGIPTO
+Representação Regional do ACNUR na la República Árabe do Egipto PO Box 1844 Cairo ou
+No.8 el Fawakeh Street Mohandessin, Giza Cairo
+Tel: +20 2 762 1570
+Fax: +20 2 762 1576
+ERITREIA
+Representação do ACNUR na Eritreia
+PO Box 1995, Asmara ou
+House Number 108
+Emperor Yohannes Avenue Asmara
+Tel: +291 1 12 61 21
+Fax: +291 1 12 72 55
+ESLOVÁQUIA Representação do ACNUR na Eslováquia
+Sturova 6
+811 02 Bratislava
+Tel: +421 2 52 92 78 75
+Fax: +421 2 52 92 78 71
+ESLOVÉNIA Representação do ACNUR na Eslovénia
+Miklosiceva Cesta 18/II 1000 Ljubljana
+Tel: +386 1 4328 240
+Fax: +386 1 4328 224
+ESPANHA
+Representação do ACNUR em Espanha
+Avenida General Pero 32-2a
+PO Box 36-121
+E-28020 Madrid
+Tel: +34 91 556 36 49
+Fax: +34 91 417 5345
+ESTADOS UNIDOS DE AMÉRICA
+Representação Regional do
+ACNUR para os Estados
+Unidos de América e o Caribe
+1775 K Street, NW, Suite 300
+Washington DC 20006
+Tel: +1 202 296 5191
+Fax: +1 202 296 5660
+ETIÓPIA
+Representação do ACNUR na Etiópia
+PO Box 1076
+Addis Ababa ou
+Bole Road, Wereda 1
+Kebele 23
+House No. 1255/01-02 Addis Ababa Tel: +251 1 612 822 Fax: +251 1 611 666
+FEDERAÇÃO RUSSA Representação do ACNUR na Federação Russa United Nations Office 6 Obukh Pereulok Moscow 103064 Tel: +7 503 232 30 11 Fax: +7 503 232 30 16
+FILIPINAS Representação do ACNUR nas Filipinas
+PO Box 2074 (MCPO) G. Puyat Avenue 1260 Makati Metro Manila ou
+3rd Floor, JAKA II Building 150 Legaspi Street 1200 Makati, Metro Manila Tel: +63 2 818 5121 Fax: +63 2 817 4057
+FRANÇA
+Representação do ACNUR em França
+9, rue Keppler F-75016 Paris Tel: +33 1 44 43 48 58 Fax: +33 1 40 70 07 39
+GABÃO
+Representação Regional do ACNUR no Gabão
+BP 20472 Libreville ou
+Quartier Sotega
+Libreville
+Tel: +241 77 8262
+Fax: +241 77 8278
+GÂMBIA
+Representação do ACNUR em Gâmbia
+PO Box 4249
+Bakau ou 6th Street East
+Kotu Lauout
+Bakau
+Tel: +220 4 460 850
+Fax: +220 4 464 169
+GANA
+Representação do ACNUR no Gana
+No. 25 Sir Arku Korsah
+Street
+Roman Ridge
+Airport Residential Area
+Accra
+Tel: +233 21776 108
+Fax: +233 21 773158
+GEÓRGIA
+Representação do ACNUR na Geórgia
+2a Kazbegi Ave. - 4th floor
+380060 Tbilissi
+Tel: +995 32 779 612
+Fax: +995 32 441 302
+GRÉCIA
+Representação do ACNUR na Grécia
+23 Taygetou Street
+Palaio Psychico
+15452 Athens
+Tel: +30 2106726462
+Fax: +30 2106726417
+GUINÉ
+Representação do ACNUR na Guiné
+B.P. 4158
+Coleah Corniche-Sud
+Conakry
+Tel: +224 46 47 09
+Fax: +224 46 58 08
+HUNGRIA
+Representação do ACNUR na Hungria
+Felvinci ut 27
+1022 Budapest
+Tel: +36 13363062
+Fax: +36 13363080
+IÉMEN
+Representação do ACNUR no Iémen
+PO Box 12093
+Sana'a
+ou
+Algeria Street, No. 38
+Building No. 2
+Sana'a
+Tel: +967 1 469 771
+Fax: +967 1 469 770
+ÍNDIA
+Representação do ACNUR na Índia
+PO Box 3135
+14 Jor Bagh
+New Delhi 110003
+Tel: +91 11 2469 0730
+Fax: +91 11 2462 0137
+INDONÉSIA
+Representação Regional do
+ACNUR na Indonésia PO Box 6602/JKPWK
+Jakarta 10310
+Menova Ravindo
+J1. Kebon Sirih Kav.75
+Jakarta Pusat 10340
+Tel. +62 21 391 28 88
+Fax. +62 21 391 27 77
+IRAQUE
+Representação do ACNUR no Iraque
+PO Box 10141 Karrada
+Baghdad ou
+District Number 904
+Hay Al-Wahda
+Street Number 42
+Building Number 52 Baghdad
+Tel: +964 1 719 0670
+Fax: +1 212 963 3009
+IRÃO (REPÚBLICA
+ISLÁMICA DO) Representação do ACNUR na República Islâmica de
+Irão
+No 5, East Emdad Street, Vanak sq.
+North Shiraz Ave.
+Tehran 19917
+Tel: +98 21 8805 72 01
+Fax: +98 21 8805 72 12
+IRLANDA
+Representação do ACNUR na Irlanda
+Suite 4
+Merrion House
+1/3 Lower Fitzwilliam Street
+Dublin 2
+Tel: +353 1 631 4510
+Fax: +353 1 631 4616
+ISRAEL
+Representação Honoraria do ACNUR em Israel
+PO Box 3489
+Jerusalem ou
+Shlomztsion Ha Malka 10
+Jerusalem
+Tel: +972 2 621 4109
+Fax: +972 2 623 4392
+ITÁLIA
+Representação Regional do ACNUR em Itália
+Via Caroncini 19 00197 Roma Tel: +39 06 802121 Fax: +39 06 80212324
+JAPÃO
+Representação do ACNUR no Japão
+UNU Bldg., 6F - 5-53-70,
+Jingumae
+Shibuya-ku, Tokyo 159-0001
+Tel: +81 33 499 20 11
+Fax: +81 33 499 2272
+JORDÂNIA
+Representação Regional do ACNUR na Jordânia
+PO Box 17101
+1195 Amman
+ou
+5 Hafez Abdul-Haija Street
+Deir Ghbar
+Amman
+Tel: +962 6 550 2030
+Fax: +962 6 592 4658
+KUWAIT
+Representação do ACNUR no Kuwait
+PO Box 28742
+13148 Safat
+Kuwait City ou
+Khaitan Area
+Block No. 04
+Al Walid Ebin Abdel Malek
+Street No. 206
+Building No. 90009
+Kuwait City
+Tel: +965 476 4982
+Fax: +965 476 4257
+LÍBANO
+Representação do ACNUR no Líbano
+PO Box 7332
+Beirut
+ou
+Michel Bustrus Street
+Nasr Building
+Achrafieh
+Tel: +961 1 560 699
+Fax: +961 1 560 717
+LIBÉRIA
+Representação do ACNUR na Libéria
+PO Box 9077
+Monrovia ou
+Haider Building
+Mamba Point
+Monrovia
+Tel: +231 22 6233
+Fax: +231 22 6235
+LÍBIA (JAMAHIRIYA
+ÁRABE )
+Representação do ACNUR na República Árabe de Líbia PO Box 80708 Tripoli ou
+Uthman Ibn Affan St
+Ben Ashour
+Tripoli
+Tel: +218 21 361 9662
+Fax: +218 21 361 9661
+LUXEMBURGO
+Oficina do ACNUR no Luxemburgo
+1 rue Jean Pierre Brasseur b.p. 567
+2015 Luxembourg
+Tel: +352 454 018
+Fax: +352 454 303
+MACEDÓNIA (ANTIGA REPÚBLICA JUGOSLAVA DE)
+Representação do ACNUR na Antiga República Jugoslava da Macedónia PO Box 873 1000 Skopje ou
+Zeleznicka 53
+1000 Skopje
+Tel: +389 2 3118 641
+Fax: +389 2 3131 040
+MALAWI
+Representação do ACNUR no Malawi
+PO Box 30230
+Lilongwe 3 ou 7th Floor
+Kang'ombe Building
+City Centre
+Lilongwe 3
+Tel: +265 177 2155
+Fax: +265 177 4128
+MALÁSIA
+Representação do ACNUR na Malásia
+PO Box 10185
+50706 Kuala Lumpur ou
+570 Jalan Bukit Petaling 50460 Kuala Lumpur Tel: +60 3 2141 1322 Fax: +60 32141 1780
+MARROCOS
+Representação Honraria do ACNUR em Marrocos 12, Rue de Fes-Hassan Rabat
+Tel: +212 377 676 06
+Fax: +212 377 661 96
+MAURITÂNIA
+Representação do ACNUR na Mauritânia
+C/O UNDP, BP 4405, Nouakchott
+ou
+Ilot K No. 159-160-161 Route de la Corniche Nouakchott Tel: +222 5 257 414 Fax: +222 5 256 176
+MÉXICO
+Representação Regional do ACNUR para México, América Central e Cuba Presidente Masaryk 29
+6° andar
+Colonia Polanco 11570 Mexico, D.F.
+Tel: +52 5 55263 9851 Fax: +52 5 55250 9360
+MOLDÁVIA Representação do ACNUR na República de Moldávia 31 August 1989 Street, #57 MD-2012 Chisinau Tel: +373 22 271 853 Fax: +373 22 271 953
+MOÇAMBIQUE Representação do ACNUR em Moçambique
+PO Box 1198
+Maputo ou
+Avenida dos Presidentes 33 Maputo
+Tel: +258 1 490 242
+Fax: +258 1 490 635
+MIANMAR
+Representação do ACNUR no Mianmar
+PO Box 1485, Yangon ou
+287 Pyay Road Sanchaung Township
+Yangon
+Tel: +951 524022 Fax: +951 524 031
+NAMÍBIA
+Representação do ACNUR na Namíbia
+Private Bag 13310, Windhoek ou 2nd Floor, Sanlam Building
+Independence Avenue
+Windhoek
+Tel: +264 61 237 143
+Fax: +264 61 230 055
+NEPAL
+Representação do ACNUR no Nepal
+PO Box 2374, Kathmandu ou
+Dhara Marga Anil Kuti
+Maharajgunj
+Kathmandu
+Tel: +977 1441 2521
+Fax: +977 1441 2853
+NIGÉRIA
+Representação do ACNUR na Nigéria
+UN House Plot no. 617/618 Diplomatic Zone Central Area District
+PMB 2851, Garki
+Abuja
+Tel: +234 9 461 8569
+Fax: +234 9 461 8598
+PANAMÁ
+Representação do ACNUR no Panamá
+La Ciudad del Saber
+Gaillard Street,
+Building 812-B
+Panama City
+Tel: +507 317 1630
+Fax: +507 317 1633
+PAQUISTÃO Representação do ACNUR no Paquistão
+PO Box 1263
+Islamabad
+ou
+No. 2 Diplomatic Enclave QUAID-E-AZAM, University Road
+Sector G-4
+Islamabad
+Tel: +92 51 282 9502
+Fax: +92 51 227 9455
+PAPUA NOVA GUINÉ Representação do ACNUR em Papua Nova Guiné
+PO Box 1909, Port Moresby
+ou
+4th Floor - ADF House
+(Next St. Mary's Catholic
+Church)
+Musgrave Street, Town Port Moresby.
+Tel: +675 321 7422
+Fax: +675 321 5977
+POLÓNIA
+Representação do ACNUR na República de Polónia
+2, Aleja Roz
+PL-00 556 Warsaw
+Tel: +48 22 628 69 30
+Fax: +48 22 625 61 24
+QUÉNIA
+Representação do ACNUR no Quénia
+PO Box 43801, Nairobi
+ou
+Chiromo Road
+(next to Caltex Station)
+By Consulata church Westlands
+Nairobi
+Tel: +254 20 444 2000
+Fax: +254 20 423 2080
+QUIRGUISTÃO Representação do ACNUR
+no Quiruistão
+UN House (3rd foor)
+160 Chui Avenue
+Bishkek 720010
+Tel: +996 312 611 264
+Fax: +996 312 611 271
+REINO UNIDO Representação do ACNUR no Reino Unido
+Stand Bridge House
+138-142 Strand
+London
+WC2R 1HH
+Tel: +44 20 7759 8090
+Fax: +44 20 7759 8119
+REPÚBLICA ÁRABE DE SÍRIA
+Representação do ACNUR na Síria
+PO Box 30891
+Damascus
+ou
+Al Malki
+Mohamed Al Bazm Street No. 14
+Al Nabelsi Building Damascus
+Tel: +963 11 373 5940 Fax: +963 11 373 6108
+REPÚBLICA CENTRO- AFRICANA
+Representação do ACNUR na República Centro- Africana
+Boite Postale 950
+Bangui
+ou
+Rue Joseph Degrain (Route de Sofitel)
+Bangui
+Tel: +236 61 40 76
+Fax: +236 61 98 34
+REPÚBLICA CHECA Representação do ACNUR na República Checa Namesti Kinskych 6
+PO Box 210 150 00 Prague 5
+Tel: +420 2 57199866 Fax: +420 2 571 998 62
+ROMÉNIA Representação do ACNUR na Roménia
+25, Armeneasca Street, Sector 2 70228 Bucharest Tel: +40 1 211 29 44 Fax: +40 1 210 15 94
+RUANDA Representação do ACNUR no Ruanda
+BP 867
+Kigali ou
+Bd de L'Umuganda Commune Kacyiru Secteur Kimihurura Cellule Kamukina Kigali
+Tel: +250 58 5107
+Fax: +250 58 3485
+SENEGAL
+Representação Regional do ACNUR no Senegal
+BP 3125, 59 rue Docteur Theze
+Dakar
+Tel: +221 823 66 03
+Fax: +221 823 66 00
+SÉRVIA
+Representação do ACNUR na Sérvia
+Krunska 58 11000 Belgrade
+Tel: +381 38 308 2100 Fax: +381 38 344 2947
+SERRA LEOA Representação do ACNUR na Serra Leoa
+PO Box 475, Freetown
+ou
+29 Wilkinson Road Freetown
+Tel: +232 22 234 321
+Fax: +232 22 234 347
+SOMÁLIA
+Representação do ACNUR na Somália
+PO Box 43801, Nairobi ou
+Lion Place
+Waiyaki Way
+(Next to St Marks Church) Westlands
+Nairobi
+Kenya
+Tel: +254 20 422 2200
+Fax: +254 20 422 2280
+SRI LANKA Representação do ACNUR no Sri Lanka
+97 Rosmead Place Colombo 07
+Tel: +94 11 268 3968
+Fax: +94 11 268 3971
+SUDÃO
+Representação do ACNUR no Sudão
+PO Box 2560, Khartoum ou
+Mohammed Nageeb Road
+(North of Farouk Cemetery) Khartoum No. 2 Tel: +249 11 47 11 01 Fax: +249 11 47 31 01
+SUÉCIA Representação Regional do ACNUR para os países nórdicos e bálticos na Suécia
+Ynglingagatan 14 - 6th Floor S-11347 Stockholm Tel: +46 8 457 4880 Fax: +46 8 457 4887
+SUÍÇA
+Escritório de ligação do ACNUR para Suíça e Liechtenstein
+Case Postale 2500 94 Rue Montbrillant CH-1211 Geneve 2 Tel: +41 22 739 8755 Fax: +41 22 739 7379
+TAILÂNDIA
+Representação Regional do ACNUR para Tailândia, Camboja e Vietname
+PO Box 2-121 Rajdamnern Avenue United Nations Building 3rd Floor, Block A Bangkok 10200 Tel: +66 2 288 1234 Fax: +66 2 280 0555
+TAJIQUISTÃO Representação do ACNUR no Tajiquistão
+Prospekt Drujba Naradov 106
+Dushanbe, 734013 Tel: +992 372 214406 Fax: +992 372 510039
+TANZÂNIA (REPÚBLICA UNIDA DE ) Representação do ACNUR na República Unida de
+Tanzânia
+PO Box 2666 Dar-es-Salaam ou
+Plot 18 Kalenga Street
+Dar-es-Salaam
+Tel: +255 22 215 00 75 Fax: +255 22 215 28 17
+TIMOR-LESTE Representação do ACNUR em Timor-Leste
+PO Box 456
+Dili
+ou
+Estrada de Balido
+Dili
+Tel: +670 33 13 547
+Fax: +670 33 13 554
+TUNÍSIA
+Representação Honraria do ACNUR na Tunísia BP 863 1035 Tunis ou
+61 Boulevard Bab Benat 1035 Tunis
+Tel: +216 715 73586
+Fax: +216 715 70168
+TURCOMENISTÃO Representação do ACNUR no Turcomenistão 40, Galkynysh Street 744013 Ashgabat Tel: +993 12 425 684 Fax: +993 12 425 691
+TURQUIA
+Representação do ACNUR na Turquia
+12. Cadde, 212. Sokak No: 3 3 Sancak Mahallesi, Cankaya
+Ankara
+Tel: +90 312 409 7000
+Fax: +90 312 441 2173
+UCRÂNIA
+Representação Regional do ACNUR na Ucrânia
+PO Box 122
+Kyiv 01015
+ou
+32A, Sichnevogo Povstannya Str.
+Kyiv 01015
+Tel: +380 44 573 9424
+Fax: +380 44 288 9850
+UGANDA
+Representação do ACNUR no Uganda
+PO Box 3813, Kampala ou
+Plot 18 Prince Charles Drive
+Kololo
+Kampala
+Tel: +256 41 231 231
+Fax: +256 41 256 989
+UZBEQUISTÃO Representação do ACNUR no Uzbequistão
+14 Mahmood Torobi Str 700090 Tashkent Tel: +998 71 120 68 93 Fax: +998 71 120 68 91
+VENEZUELA Representação Regional do ACNUR para o Norte da América do Sul Apartado Postal 69045 Caracas 1062-A ou
+Parque Cristal, Torre Oeste Piso 4, Oficina 4-4, 4-5 y 4-6 Av. Francisco de Miranda Urbanización Los Palos Grandes
+Caracas
+Tel: +58 212 286 3883
+Fax: +58 212 286 9687
+VIETNAME
+Representação do ACNUR na República Socialista do Vietname
+60 Rue Nguyen Thai Hoc
+Ba Dinh District
+ZÂMBIA
+Representação do ACNUR na Zâmbia
+PO Box 32542 10101 Lusaka ou
+17C Leopards Hill Road
+Kabulonga
+10101
+Lusaka
+Tel: +260 1 265 619
+Fax: +260 1 265 914
+ZIMBABUÉ
+Representação do ACNUR no Zimbaué PO Box 4565 Harare ou
+2° andar, Takura House
+67-69 Union Avenue
+Harare
+Tel: +263 4 793 274
+Fax: +263 4 708 528
+NAÇÕES UNIDAS
+(Nova Iorque)
+Escritório do ACNUR em
+Nova Iorque
+PO Box 20
+Grand Central
+New York
+NY 10017
+ou
+220 East 42 Street
+Suite 3000
+New York
+Tel: +1 212 963 00 32
+Fax: +1 212 963 00 74
+Breve Informação relativa ao ACNUR e à UIP
+
+
+ACNUR
+O Alto Comissariado das Nações Unidas para os Refugiados (ACNUR) tem o mandato para dirigir e coordenar a acção internacional para a protecção dos refugiados e procurar soluções para os seus problemas a nível mundial. O ACNUR trabalha para que cada indivíduo possa exercer o direito de procurar asilo e encontrar protecção noutro Estado e possa voltar para a sua casa voluntariamente. Facilitando o retorno dos refugiados aos seus países de origem ou o seu estabelecimento noutro país, o ACNUR procura oferecer soluções duradouras para os seus problemas.
+O Comité Executivo do ACNUR e a Assembleia Geral das Nações Unidas também autorizaram esta organização a assistir outros grupos de pessoas, incluindo as pessoas apátridas ou cuja nacionalidade é controvertida e, em determinadas circunstâncias, os deslocados internos.
+O ACNUR procura reduzir a incidência da deslocação forçada, encorajando os Estados e as instituições a criar condições propícias para a protecção dos direitos humanos e a solução pacífica das controvérsias.
+A organização oferece protecção e assistência aos refugiados e outras pessoas de forma imparcial, com base nas suas necessidades e sem distinção de raça, cor, religião, opinião política ou género. O ACNUR está comprometido com o princípio da participação e consultação dos refugiados em todas as decisões que atingem as suas vidas. O ACNUR trabalha em parceria com governos, organizações regionais, organizações internacionais e ONG.
+
+
+UIP
+Criada em 1889, a União Interparlamentar (UIP) é uma organização internacional que reúne os representantes dos parlamentos de Estados soberanos. Até Agosto de 2009 estavam representados na UIP os parlamentos de 153 países.
+A UIP trabalha para a paz e a cooperação entre os povos, com o objectivo de reforçar as instituições representativas. Para esse efeito, a UIP promove contactos e intercâmbios de experiências entre os parlamentos e os parlamentares de todos os países, considera questões de interesse internacional e exprime o seu ponto de vista sobre essas questões, contribui para a protecção e promoção dos direitos humanos e sensibiliza a opinião pública sobre o trabalho das instituições representativas.
+A UIP compartilha os objectivos das Nações Unidas e trabalha em estreita colaboração com os seus órgãos. Também trabalha com organizações interparlamentares regionais e organizações internacionais, intergovernamentais e não governamentais, motivados pelos mesmos ideais.
+© União Interparlamentar 2005
+Publicado pela União Interparlamentar, em conjunto com o
+Alto Comissariado das Nações Unidas para os Refugiados
+Todos os direitos reservados. Nenhuma parte desta publicação pode ser reproduzida, arquivada ou transmitida de forma ou por meio algum- electrónico, mecânico, via fotocópia, gravação, ou através de qualquer outra forma - sem a prévia autorização da União Interparlamentar ou do Alto Comissariado das Nações Unidas para os Refugiados.
+Esta publicação é divulgada sujeita à condição de não poder ser comercializada ou, por qualquer meio, emprestada, vendida ou contratada, ou de qualquer outra forma veiculada sem o prévio consentimento do editor, em qualquer outra forma que não seja esta na qual é publicada e sem condição similar, sendo esta condição imposta a outra editora posterior.
+ISBN 978-92-9142-451-1 (UIP)
+
+
+
+
+
+
+
+Sede da UIP
+União Interparlamentar
+Chemin du Pommier 5
+Case Postale 330
+CH-1218 Le Grand Saconnex,
+Genebra
+Suíça
+Tel: +41 22 919 41 50
+Fax: +41 22 9919 41 60
+E-mail: postbox@mail.ipu.org
+Website: www.ipu.org
+Gabinete do Observador Permanente da UIP junto das Nações Unidas
+União InterParlamentar
+220 East 42d Street
+Suite 3102
+New York, N.Y. 10017 Estados Unidos de América
+Tel: +1 212 557 58 80
+Fax: +1 212 557 39 54
+E-mail: ny-office@mail.ipu.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUNHCR
+            United Nations High Commissioner for Refugees
+
+
+* Mediante notificação recebida pelo Secretário Geral a 2 de Abril de 1965 o Governo do Madagáscar denunciou a Convenção. A denúncia tornou-se efectiva a 2 de Abril de 1966.
+
+
+
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

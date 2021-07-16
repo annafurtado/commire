@@ -1,0 +1,147 @@
+﻿<Header>
+	<title>
+		<tit> Apatridia Toda pessoa tem direito a uma nacionalidade </tit>
+		<fileName> PT_037 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Cartilha </textType>
+		<subcorpus> PT-BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.acnur.org/fileadmin/Documentos/portugues/Publicacoes/2012/Apatridia_-_ACNUR_2012.pdf?file=t3/fileadmin/Documentos/portugues/Publicacoes/2012/Apatridia_-_ACNUR_2012 </source> 
+		<publisher> UNHCR ACNUR </publisher>
+		<pubDate> 2012 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 06 abr 2021 </accessDate>
+		<researcher> Ester Saraiva </researcher> 
+		<comments> </comments>
+	</sourceText>
+	<author>
+		<institution> UNHCR ACNUR Agência da ONU para Refugiados </institution>
+	</author>
+</Header>
+
+Apatridia
+Toda pessoa tem direito a uma nacionalidade
+Artigo XV da Declaração Universal dos Direitos Humanos
+
+No Sri Lanka, um trabalhador da etnia Tamil exibe documento comprovando a obtenção de cidadania da sua esposa.
+
+
+Esta é uma publicação do Alto Comissariado das Nações Unidas para Refugiados (ACNUR) com o objetivo de auxiliar todos os homens e mulheres que perderam ou que não têm acesso a uma nacionalidade.
+Edição Final
+Gabriel Gulano de Godoy/ACNUR
+Projeto Gráfico e Diagramação
+Compasso Comunicação www.artecompasso.com.br
+Foto da capa
+ACNUR/G. Amarasinghe - Maio de 2007
+Criança da etnia Tamil frequenta a sala de aula em uma escola nos campos de chá do Sri Lanka. Há décadas, trabalhadores desta etnia contribuem para a economia do Sri Lanka, colhendo folhas de chá. Mas leis rigorosas dificultam que essa população obtenha cidadania no país.
+ACNUR/G. Amarasinghe – Maio de 2007
+Quem são os apátridas?
+Apátridas são todos os homens e mulheres (incluindo idosos, jovens e crianças) que não possuem vínculo de nacionalidade com qualquer Estado, seja porque a legislação interna não os reconhece como nacional, seja porque não há um consenso sobre qual Estado deve reconhecer a cidadania dessas pessoas. Estima-se que em todo o mundo existam 12 milhões de apátridas.
+Aqueles que tiveram a sua nacionalidade negada arbitrariamente por motivos de raça, religião, pertencimento a um grupo social ou por suas opiniões políticas podem ser reconhecidos como refugiados no Brasil, devendo solicitar ao Comitê Nacional para os Refugiados (CONARE) a proteção estabelecida na Convenção da ONU Relativa ao Estatuto dos Refugiados de 1951.
+No entanto, ainda que não possuam vínculo de nacionalidade com qualquer Estado, algumas pessoas não poderão obter a condição de apátrida. São elas: as pessoas que já se encontram sob a proteção das Nações Unidas (exceto se a proteção for conferida pelo Alto Comissariado das Nações Unidas para Refugiados - ACNUR); as pessoas que possuam residência fixa em um país que reconheça seus direitos e deveres como equivalentes aos dos nacionais; as pessoas culpadas de atos contrários aos propósitos e princípios das Nações Unidas ou suspeitas de haver cometido crimes de guerra, crimes contra a paz, crimes contra a humanidade ou crimes graves de índole não-política antes da sua admissão no país de residência.
+
+Por que solicitar o reconhecimento da condição de apátrida?
+Toda pessoa tem direito a uma nacionalidade que complemente a sua identidade cultural e permita uma participação integral na sociedade. Além disso, somente por meio da cidadania uma pessoa pode exercer plenamente seus direitos civis e políticos.
+Na falta de uma nacionalidade, os indivíduos devem buscar a proteção de um dos países que ratificaram a Convenção de 1954 sobre o Estatuto dos Apátridas, da qual o Brasil é parte, a fim de obter uma identidade legal que lhes permita gozar dos mesmos direitos e deveres que um estrangeiro possui naquele país.
+Como solicitar o reconhecimento da condição de apátrida pelo Estado Brasileiro?
+Ao entrar no Brasil, o estrangeiro que se considera apátrida por não possuir vínculo de nacionalidade com qualquer país deve comunicar a sua situação a qualquer delegacia da Polícia Federal para que seja estabelecido um contato com o Departamento de Estrangeiros do Ministério da Justiça, órgão responsável por analisar as solicitações de reconhecimento da condição de apátrida.
+O estrangeiro pode ainda recorrer a qualquer unidade da Defensoria Pública da União e obter acompanhamento e assessoria jurídica gratuita no processo de reconhecimento da sua condição de apátrida.
+Cerca de 300 mil pessoas da etnia Bihari vivem em Bangladesh, e por muitos anos foram considerados apátridas. Em 2008, a justiça daquele país determinou que o governo concedesse cidadania aos Biharis, que ainda são uma minoria em Bangladesh. Nesta foto, jovens Biharis frequentavam uma escola primária em um acampamento administrado pelo governo.
+
+ACNUR/G.M.B.Akash – Junho de 2006
+
+Visto de trânsito para pessoas em condição de apátrida
+Para as pessoas em condição de apátrida pode ser concedido um documento de Viagem para Estrangeiro, como prevê os artigos 53 e 54 do Estatuto do Estrangeiro (Lei n ° 6.815, de 19 de agosto de 1980).
+Art 53. São documentos de viagem o passaporte para estrangeiro e o “laissez-passer”
+Parágrafo único. Os documentos de que trata este artigo são de propriedade da União, cabendo a seus titulares a posse direta e o uso regular.
+Art 54. Poderá ser concedido passaporte para estrangeiro:
+I - no Brasil:
+a) ao apátrida e ao de nacionalidade indefinida.
+Direitos e Deveres de apátridas residentes no Brasil e de solicitantes de reconhecimento da condição de apátrida
+
+DIREITOS
+Os solicitantes do reconhecimento da condição de apátrida têm direito a:
+■ Ter o seu pedido de reconhecimento da condição de apátrida examinado individualmente, de maneira objetiva e em procedimento com duração determinada;
+Os apátridas residentes no Brasil têm direito a:
+■ Receber tratamento o mais favorável possível e não receber tratamento inferior àquele concedido aos demais estrangeiros que se encontram no país;
+■ Ter os mesmos direitos e a mesma assistência básica dada a qualquer outro estrangeiro que resida legalmente no país, entre eles o direito a emprego remunerado, educação pública, moradia e liberdade de circulação, além dos direitos humanos fundamentais como a não-discriminação e a não-sujeição a tortura e tratamentos cruéis e degradantes;
+■ Ter os mesmos direitos e a mesma assistência básica dada a qualquer nacional do país no que diz respeito a liberdade de culto, direitos de propriedade intelectual, acesso à justiça, assistência judiciária gratuita, assistência pública e legislação do trabalho e segurança social;
+■ Receber toda a documentação assegurada pela legislação: Registro Nacional de Estrangeiros (RNE), Cédula de Identidade de Estrangeiro (CIE) quando aplicável, Cadastro de Pessoa Física (CPF) e Carteira de Trabalho;
+■ Receber mediante requerimento o Passaporte para Estrangeiro, documento que permite viagens de apátridas ao exterior;
+■ Escolher livremente o lugar de residência no território nacional;
+■ Solicitar a permanência após ter mantido residência fixa no país por 04 anos contínuos, saber ler e escrever na língua portuguesa, exercer uma profissão que permita a sua própria manutenção e a de sua família, ter bom procedimento e não ter sido denunciado por crime doloso de pena superior a 01 (um) ano de prisão.
+DEVERES
+■ Não praticar atos contrários à segurança nacional ou à ordem pública, sob pena de perder a proteção do Estado brasileiro;
+■ Respeitar a Constituição Federal e as leis brasileiras, como todos os brasileiros e estrangeiros residentes no país. Qualquer crime ou infração cometidos terão o mesmo tratamento legal dado aos cidadãos brasileiros;
+■ Observar cuidadosamente as leis específicas de proteção às crianças, aos adolescentes e à mulher;
+■ Informar à Polícia Federal, no prazo de 30 dias, qualquer mudança de endereço;
+■ Manter sua documentação atualizada.
+
+
+Contatos úteis
+Polícia Federal - PF
+Telefones: Brasília: (61) 3223 2302 / 2024 8450 / 2024 8452 
+Manaus: (92) 3655 1515
+São Paulo: (11) 3538 5000
+Rio de Janeiro: (21) 2203 4000 / 2203 4008
+Departamento de Estrangeiros do Ministério da Justiça
+Telefone: (61) 2025 3325 
+Website: www.mj.gov.br/estrangeiros
+
+Ministério da Justiça
+Telefone: (61) 2025 3587
+Website: www.mj.gov.br
+
+Ministério do Trabalho e Emprego – TEM
+Telefone: (61) 3317 6000
+Website: http://portal.mte.gov.br
+
+Defensoria Pública da União
+Telefones: Brasília: (61) 3347 7767 / 3214 1700 / 3214 1701 / 3105 7300
+São Paulo: (11) 3627 3400
+Guarulhos: (11) 2928 7800
+Santos: (13) 3325 4900
+Rio de Janeiro: (21) 2460 5000
+Manaus: (92) 3133 1600
+Salvador: (71) 3114 1850 / 3114 1877
+Fortaleza: (85) 3474 8750
+Porto Alegre: (51) 3216 6946
+Cuiabá: (65) 3611 7400
+Cáceres: (65) 3211-2300
+Website: www.dpu.gov.br
+
+Conselho Nacional de Imigração – CNIg
+Telefone: (61) 3317 6470
+Website: http://portal.mte.gov.br/cni
+
+Secretaria Especial de Direitos Humanos – SEDH
+Telefone: (61) 2025 3536
+Website: www.sedh.gov.br
+Correio Eletrônico: direitoshumanos@sedh.org.br
+Ouvidoria Geral da Cidadania – Telefone: (61) 2025 3116
+
+Alto Comissariado das Nações Unidas para Refugiados – ACNUR
+Telefones: Escritório Brasília: (61) 3044 5744
+Escritório Manaus: (92) 3233 0288
+Website: www.acnur.org.br
+Correio Eletrônico: brabr@unhcr.org
+Caixa Postal: 8560
+CEP: 70715-900
+Este homem, como milhares de outros apátridas no Quirguistão, possui somente um passaporte vencido da ex-União Soviética como documento de identidade. Ele precisou do apoio de uma ONG local para solicitar cidadania e passaporte quirguizes.
+
+ACNUR/A. Zhorobaev – Dezembro de 2010.
+Artigo 20° - Direito à nacionalidade
+1. Toda pessoa tem direito a uma nacionalidade.
+2. Toda pessoa tem direito à nacionalidade do Estado em cujo território houver nascido, se não tiver direito a outra.
+3. A ninguém se deve privar arbitrariamente de sua nacionalidade nem do direito de mudá-la.
+Convenção Americana de Direitos Humanos
+UNHCR ACNUR Agência da ONU para Refugiados
+www.acnur.org.br / brabr@unhcr.org
+Twitter: @acnurbrasil
+
+
+
+

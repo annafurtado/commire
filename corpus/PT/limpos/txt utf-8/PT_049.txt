@@ -1,0 +1,445 @@
+﻿
+
+
+
+
+<Header>
+	<title>
+		<tit> Promovendo Meios de Subsistência e Autossuficiência </tit>
+		<fileName> PT_054 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Guia Operacional </textType>
+		<subcorpus> PT-BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.acnur.org/portugues/wp-content/uploads/2018/02/Promovendo-Meios-de-Subsist%C3%AAncia-e-Autossufici%C3%AAncia_Guia-Operacional.pdf </source> 
+		<publisher> ACNUR </publisher>
+		<pubDate> 2012 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 13 mai 2021 </accessDate>
+		<researcher> Vitor </researcher> 
+		<comments> comentários relevantes para o leitor </comments>
+	</sourceText>
+	<author>
+		<institution> ACNUR </institution>
+	</author>
+</Header>
+
+
+
+Promovendo Meios de Subsistência e Autossuficiência
+Guia Operacional para a Proteção de refugiado(as) e Soluções em Áreas Urbanas
+
+UNHCR
+ACNUR
+The UN Refugee Age
+© ACNUR, 2011. Direitos reservados.
+Está autorizada a reprodução e disseminação para educação e outros propósitos não comerciais sem necessidade de permissão anterior por escrito dos
+detentores dos direitos autorais, desde que a fonte seja devidamente citada. A reprodução para revenda ou outros propósitos comerciais ou a tradução para
+qualquer fim estão autorizadas somente mediante consentimento dos detentores dos direitos autorais. Os pedidos de autorização devem ser endereçados a Seção de Educação do escritório do Alto Comissariado das Nações Unidas para Refugiados (ACNUR), por HQTS00@unhcr.org
+Todas as devidas precauções foram tomadas pelo Alto Comissariado das Nações Unidas para Refugiados para verificar as informações contidas nesta publicação. No entanto, o material publicado está sendo distribuído sem qualquer tipo de garantia, seja expressa ou implícita. A responsabilidade para interpretação e uso do material é do leitor. Em nenhuma circunstância o Alto Comissariado das Nações Unidas para Refugiados poderá ser responsabilizado pelos danos decorrentes do seu uso.
+Cópias deste documento podem ser obtidas em: Division of Programme Support and Management OSTS /Livelihood Unit
+Rue de Montbrillant 94 1202 Geneva, Switzerland Email: HQLIVELI@unhcr.org
+Foto de Capa: Iêmen / refugiado / Área urbana de Basateen, Aden / Mohammed cobra US$ 10 para consertar um refrigerador. “Quando eu estou atrás da minha mesa de trabalho, eu coloco minhas muletas de lado e esqueço a minha deficiência”. Com um lucro de US$ 20 diários, Mohammed ganha quarto vezes mais que o salário médio de um funcionário público no Iêmen. / ACNUR/ R. Nuri / Abril , 2009
+Design Gráfico: A. Mannocchi / Roma
+Promovendo Meios de Subsistência
+e Autossuficiência
+Guia Operacional para a Proteção de
+Refugiados(as) e Soluções em Áreas Urbanas
+Índice
+I. Siglas 	 ... 	 	 	 	 	 	 	 	 ... 	 ... 	 ... 	 .. 2
+II. Visão geral 	 	 	 	 	 	 	 	 	 ... 	 ... 	 ... 	 ... 3
+III. Objetivo 	 . . 	 	 	 	 	 	 	 	 ... 	 ... 	 ... ... 5
+IV. Princípios fundamentais ... 	 	 	 	 	 	 ... 	 ... 	 ... 	 ... 5
+V. Guia operacional 	 	 	 	 	 	 	 	 ... 	 ... 	 ... 	 . . 7
+1. Acesso 	 	 	 	 	 	 	 ... 	 ... 	 ... 	 .. 7
+2. Integração 	 9
+3. Diagnóstico 	 11
+4. Destinatários 	 	 	 	 	 	 	 	 ... 	 ... 	 ... 	 ... 14
+5. Autossuficiência	 15
+6. Parcerias 	 	 	 	 	 	 	 	 	 ... 	 ... 	 ... 	 17
+7. Participação 	 	 	 	 	 	 	 	 ... 	 ... 	 ... 	 ... . 20
+8. Monitoramento e avaliação ... 	 	 	 	 	 	 ... 	 ... 	 ... . 22
+9. Transferência 	 	 	 	 	 	 	 	 ... 	 ... 	 ... 	 . . 24
+VI. Anexo: Lista indicativa de Atividades de Subsistência 	 ... . 27
+VII. Bibliografia	28
+
+
+
+
+
+
+Promovendo Meios de Subsistência e Autossuficiência
+
+Guia operacional para a Proteção de Refugiados(as) e Soluções em Áreas Urbanas
+
+
+Siglas
+IGD	Idade, Gênero e Diversidade
+SDN	Serviço de Desenvolvimento de Negócios
+PAC	Processo de Apelo Consolidado
+OC	Organização Comunitária
+ACT	Acesso Comunitário à Tecnologia
+OIT	Organização Internacional do Trabalho
+PIM	Parceiro Implementador
+TIC	Tecnologia da Informação e Comunicação
+IMF	Instituição de Micro-Finanças
+GMF	Grupo Multi-Funcional
+ONG	Organização Não-Governamental
+PIP	Políticas, Instituições e Processos
+PERP	Plano Estratégico de Redução da Pobreza
+PI	População de Interesse
+VSG	Violência Sexual e de Gênero
+PFFOA 		Pontos Fortes, Fraquezas, Oportunidades e Ameaças
+UNCT	Grupo dos Chefes das Nações Unidas no País
+UNDAF	Quadro das Nações Unidas para Assistência ao Desenvolvimento
+Visão Geral
+O Direito ao Trabalho está previsto no Artigo 23.1 da Declaração Universal dos Direitos Humanos e no Artigo 6 do Pacto Internacional dos Direitos Econômicos, Sociais e Culturais.
+O trabalho permite que homens e mulheres de todas as idades e formação vivam com dignidade e se tornem autossuficientes. O direito ao trabalho estende-se aos refugiados(as) conforme previsto nos Artigos 17, 18 e 19 da Convenção de Genebra de 1951.
+Em ambientes urbanos, a proteção e o acesso aos meios de subsistência estão estreitamente interligados. Pessoas deslocadas precisam adquirir bens e serviços todos os dias, porém muitos aspectos das áreas urbanas tornam a busca pelos meios de subsistência arriscada. Geralmente, os governos adotam políticas que não garante ao refugiado(a) o direito a trabalhar, adquirir bens ou possuir seu próprio negócio. Mesmo em situações em que os(as) refugiados(as) podem trabalhar legalmente, o acesso a um emprego digno continua sendo um enorme desafio. Casos de discriminação e assédio por parte do Estado (polícia e autoridades de imigração) podem gerar grandes dificuldades para os(as) refugiados(as) se moverem livremente para trabalhar ou participar de atividades econômicas. Usualmente, os(as) refugiado(as) têm mais despesas do que outras pessoas pobres que residem em zonas urbanas devido aos custos associados a subornos, muitas vezes relacionados à falta de documentação. Os(as) refugiado(as) são discriminados pelos proprietários e empregadores que geralmente cobram aluguéis mais caros e “taxas” extras. Também são alvo de criminosos, que sabem que eles são menos propensos a recorrer às autoridades. Aqueles que se encontram em condições de pobreza tendem a depender do trabalho infantil e a se envolver em situações arriscadas, atividades ilegais ou criminosas, tais como a prostituição e o contrabando. O acesso à saúde pública e aos serviços de educação pode representar um encargo financeiro para o (a) refugiado(a), o qual pode ser superior ao valor pago por outras pessoas pobres que vivem na região. Em diversos casos, os problemas financeiros advêm dos custos com escolas e consultas médicas que excedem suas rendas mensais, endividando-os com a comunidade e com os empregadores.
+Além de buscar a proteção desta população, o ACNUR considera que a defesa dos direit os relacionados aos meios de subsistência e o apoio aos refugiados (as) na conquista desses direitos são apropriados e necessários também em ambientes urbanos, pelas seguintes razões:
+§ Muitos refugiados(as) vão para as cidades porque possuem habilidades que poderão ser aproveitadas de modo mais efetivo nas áreas urbanas do que nas rurais. Programas de subsistência promovem e preservam o uso destas habilidades, que podem resguardar
+as famílias e os indivíduos da pobreza, garantindo ao mesmo tempo o apoio às suas próprias comunidades;
+§ Aumentar a produtividade econômica das famílias pode promover soluções duradouras, particularmente uma repatriação bem-sucedida. Refugiados(as) capazes de criar e proteger seus meios de subsistência são mais propensos a retornar aos seus países de origem quando for seguro fazê-lo;
+§ Programas de subsistência que também beneficiem as populações locais podem chamar a atenção dos governos para a presença de refugiados(as) nas cidades de acolhida (competição econômica, pressão sobre recursos, etc.) e melhorar as condições para o refúgio;
+§ A busca por meios de subsistência ajuda a restaurar a dignidade e a independência dos(as) refugiados(as).
+Este guia operacional para programas de subsistência ou meios de subsistência é direcionado a representações regionais e tomadores de decisões da Sede, mas principalmente às Operações de Campo do ACNUR, começando por seus representantes e funcionários de alto escalão; para Grupos Multi-Funcionais (GMF) que incluem Proteção, Programa, Serviços Comunitários, Oficiais de Campo e de Subsistência, quando aplicável; e para membros do governo e parceiros operacionais ou implementadores, incluindo potenciais novos parceiros, como instituições de microcrédito, do setor privado, fundações e instituições acadêmicas.
+Estas orientações são direcionadas a toda população de interesse (PI) atualmente sob o mandato do ACNUR, incluindo refugiados(as), solicitantes de refúgio, pessoas deslocadas internamente, apátridas e repatriados e repatriadas. As orientações também especificam onde e quando as abordagens sobre os diferentes grupos podem variar. Para o propósito deste manual, o termo “refugiado(a)” refere-se geralmente à população (homens e mulheres) de interesse do ACNUR. Embora o ACNUR não possua o mandato para apoiar a população local, é de conhecimento geral que ela deve ser incluída nas atividades planejadas nas áreas com grande concentração de refugiados(as).
+Este guia operacional é baseado em lições aprendidas e boas práticas reunidas durante as operações em áreas urbanas desde 2008. É complementado por orientações gerais sobre meios de subsistência, microfinanças e promoção do direito ao trabalho, disponíveis nas páginas de Livelihood na Intranet (Protection and Operational themes > Livelihoods).
+Objetivo
+Fornecer orientação para os programas nacionais do ACNUR a fim de promover e facilitar o acesso da população refugiada a serviços de subsistência de qualidade equivalentes àqueles disponíveis para a população nacional.
+Princípios Fundamentais
+Os princípios fundamentais estão ancorados nas melhores práticas e padrões estabelecidos a nível mundial, nas boas práticas surgidas nas operações de campo do ACNUR e na abordagem sobre Idade, Gênero e Diversidade (IGD) que esta agência promove, estimulando um enfoque participativo, comunitário e baseado em direitos. Os princípios fundamentais são:
+1. Acceso. Promover e garantir o direito de acesso da população refugiada ao trabalho e a outros meios de subsistência que estejam disponíveis aos nacionais;
+2. Integração. Evitar a prestação e a criação de serviços paralelos. Utilizar medidas de promoção e fortalecimento institucional para melhorar a integração do(a) refugiado(a) nos serviços públicos, privados e nas instituições que possam impulsionar o desenvolvimento de sua subsistência e autossuficiência. Contribuir para o planejamento de processos de desenvolvimento local e investir recursos do ACNUR nos serviços existentes;
+3. Diagnóstico. Conduzir avaliações abrangentes sobre meios de subsistência de acordo com o perfil socioeconômico e definir planos estratégicos com base em dados de qualidade. Identificar o ambiente político, bem como as instituições e programas existentes, e entender a diversidade econômica da população de refugiados(as);
+4. Destinatários: Combinar as ações do programa com os níveis correspondentes de subsistência (capacidades de subsistência existentes tais como habilidade e experiências profissionais anteriores) com as demandas do mercado e as necessidades identificadas
+na população de refugiados(as). Desenvolver um plano estratégico e abrangente que inclua objetivos de curto e longo prazo e atividades relacionadas.
+5. Autossuficiência. Apoiar os(as) refugiados(as) a se tornar autossuficientes. Como parte do planejamento de longo prazo, a concessão de dinheiro/ alimentação/ aluguel por meio das agências humanitárias deve ser de curto prazo, condicionada e deve conduzir gradualmente a atividades autossuficientes,
+6. Parcerias. Convidar os parceiros para conhecer os resultados obtidos nas avaliações
+sobre os meios de subsistência para identificar conjuntamente oportunidades de apoiar
+as atividades e desenvolver planos estratégicos plurianuais. Garantir a implementação,
+monitoramento e avaliação do plano estratégico sobre meios de subsistência de acordo com a vantagem comparativa de diferentes parceiros e partes interessadas, incluindo o desenvolvimento de novas parcerias com instituições do setor privado e representações da comunidade.
+7. Participação. Envolver as comunidades no planejamento, implementação e monitoramento do programa. Aumentar a interação com as comunidades de refugiados(as) e manter uma comunicação frequente; organizar atividades procurando incluir a todos e informar os(as) refugiados(as) sobre as opções de apoio a seus meios de subsistência e sobre os critérios de elegibilidade.
+8. Monitoramento e avaliação. Acompanhar e avaliar regularmente o progresso dos objetivos do programa e os resultados esperados, tendo em vista a retirada gradual da assistência direta, uma mudança necessária de estratégia e abordagem, que atende também à questão de disponibilização recursos.
+9. Transferência. Desenvolver e implementar uma estratégia de redução gradual dentro de um plano de meios de subsistência sustentáveis com o propósito de substituir, ao longo prazo, gradualmente as ações de assistência direta, reduzindo gradativamente o número de pessoas que precisam de assistência e apoiando as condições de subsistência por meio de soluções duradouras.
+Guia operacional
+1. Acesso
+Defender e garantir o direito dos(as) refugiados(as) ao acesso ao trabalho e à subsistência em igualdade de condições com os nacionais. O ACNUR tem a obrigação de assegurar que refugiados (as) possam desfrutar da liberdade de escolha de emprego que lhes permita gerar renda para cobrir suas necessidades básicas sem que tenham que se submeter a qualquer tipo de assédio, exploração, intimidação ou discriminação por parte das autoridades governamentais ou da sociedade civil.
+Medidas práticas para facilitar o acesso
+1.1 Promover um marco legal efetivo
+Analisar as leis relevantes e as diretivas de cada país e entender a implicação prática destas leis em termos de acesso à subsistência e provisão de serviços.
+-- Analisar a Lei de Refúgio ou outra legislação e diretivas que descrevam os direitos do (a)
+refugiado(a) a acesso ao trabalho e meios de subsistência. Identificar as reservas aos Artigos 24, 17 e 18 da Convenção de 1951 que estão relacionados ao emprego. Monitorar qualquer mudança política e manter atualizada a informação sobre o “Direito ao Trabalho”.
+-- Juntamente com os parceiros do ACNUR, lembrar os governos sobre suas obrigações para com os(as) refugiados(as) que vivem em seu território, de modo a permitir que tenham acesso a trabalho e serviços relevantes.
+-- Identificar restrições quanto ao tipo ou áreas de emprego e negócios que são permitidos aos trabalhadores estrangeiros. Defender a remoção de qualquer diretiva discriminatória ou práticas que impeçam o acesso ao trabalho e aos meios de subsistência. Isto inclui taxa mais elevadas para refugiados(as), marginalização de grupos de refugiados(as) ou indivíduos com necessidades especiais, rejeição de refugiados(as) que perderam seus documentos/ diplomas, etc., ou discriminação e hostilidades com outros grupos minoritários.
+-- Defender que os(as) refugiados(as) tenham carteira de identidade ou documentos apropriados que facilitarão seu acesso ao trabalho e a serviços relativos à subsistência. Negociar permissões de trabalho para refugiados(as) e solicitantes de refúgio cujas habilidades correspondem a lacunas do mercado de trabalho.
+-- Analisar as condições de trabalho no país de acolhida, especialmente no setor informal, já que este costuma ser o setor com maior oferta de emprego para os(as) refugiados(as).
+1.2 Identificar e promover o acesso a serviços
+Identificar as oportunidades de apoio público e privado disponíveis para o acesso a meios de subsistência nas áreas urbanas. Definir modalidades efetivas para melhorar o acesso.
+-- Identificar e avaliar as fontes de apoio e capacitação relativas aos meios de subsistência existentes. Isto deve incluir:
+§ Bancos e/ou instituições de microcrédito formais ou informais que ofereçam uma gama de serviços financeiros como poupança, empréstimo, transferência e seguros;
+§ Educação técnica e vocacional, formal ou informal, instituições de treinamento e universidades; algumas podem oferecer ensino à distância ou por meio de Centros Comunitários de Acesso à Tecnologia1;
+§ Instituições que ofereçam cursos técnicos em empreendedorismo;
+§ Instituições que ofereçam apoio ao desenvolvimento empresarial;
+§ Serviços de contratação e de fornecimento de informações sobre o mercado de trabalho; aprendizado e estágios profissionais;
+§ Serviços jurídicos relativos a emprego e autorizações de trabalho ou registro de negócios/empresas
+-- Advogar e negociar com autoridades nacionais e locais (Ministério do Trabalho / Governo local, municípios), setor privado e parceiros existentes (tais como Organização Internacional do Trabalho e outros) para que o acesso aos serviços esteja disponível aos refugiados(as) com custos similares ou menores que para os nacionais, particularmente para jovens e mulheres.
+-- Adotar uma estratégia de promoção integrada para tornar os serviços públicos existentes acessíveis aos refugiados(as) e para melhorar as condições de saúde e educação (ver Guia Operacional para a Proteção de Refugiados(as) e Soluções em Áreas Urbanas: Garantir Acesso à Educação e à Saúde, ACNUR 2011).
+-- Apoiar os serviços do governo diretamente ou por meio de uma organização parceira nas áreas com grande concentração de população refugiada.
+-- Envolver instituições acadêmicas, universidades e escolas técnicas e mobilizar apoio de programas que oferecem bolsas de estudo.
+-- Promover o acesso de pessoas com necessidades específicas para evitar a exclusão de mulheres, crianças e grupos minoritários, idosos e pessoas com deficiências. 
+1 CTA é um Programa Global com o objetivo de aprimorar o acesso à subsistência e a oportunidades de educação através da tecnologia, tais como o ensino de informática e a distância. Foi desenvolvido em janeiro de 2011.
+2. Integração
+Evitar a prestação ou criação de serviços paralelos. Utilizar medidas de promoção e fortalecimento institucional para facilitar a integração do refugiado(a) nos serviços públicos e privados e nas instituições que podem impulsionar o desenvolvimento da subsistência e da autossuficiêcia. O ACNUR deve contribuir para o processo e o planejamento do desenvolvimento local e investir recursos em serviços locais.
+Medidas práticas para promover a integração
+2.1 Trabalhar com líderes locais e instituições
+Evitar o surgimento de estruturas paralelas e advogar com os parceiros para que as necessidades da população refugiada sejam incluídas no plano estratégico nacional e nas propostas dos doadores.
+-- Conseguir mobilização nacional por meio do maior envolvimento possível de autoridades nacionais e locais na avaliação, planejamento, implementação e monitoramento de atividades de subsistência.
+-- Utilizar os mecanismos de coordenação existentes ao invés de criar novos, e garantir a existência de ferramentas de comunicação e gerenciamento eficazes entre o ACNUR e as instituições públicas. Utilizar sistemas de informação e comunicação efetivos tendo o apoio das instituições do governo locais para monitorar o acesso dos(as) refugiados(as) aos serviços.
+-- Defender a inclusão das questões do refúgio nas estratégias do país, nas propostas para doadores e programas nacionais, intermediando com o governo, doadores bilaterais, equipe das Nações Unidas no país (através da UNDAF) e grupos ou fóruns de coordenação sobre meios de subsistência.
+-- Sensibilizar as comunidades de acolhida sobre questões de refúgio, em particular, os líderes locais, empresários e organizações da sociedade civil.
+2.2 Integrar serviços do governo
+Advogar para que os(as) refugiados(as) sejam tratados de forma semelhante aos nacionais e promover sua integração no sistema nacional.
+-- Defender o acesso dos(as) refugiados(as) a instituições públicas e serviços com custos menores ou semelhantes aos dos nacionais.
+-- Identificar programas de trabalho e emprego financiados por doadores e que possam beneficiar refugiados(as) e nacionais.
+-- Advogar pelo reconhecimento de diplomas e certificados obtidos no exterior.
+-- Prover serviços temporários caso inexistam serviços públicos adequados em determinadas áreas, ao mesmo tempo em que se constrói e fortalece a capacidade do governo de oferecêlos.
+-- Apoiar para que as atividades de subsistência das comunidades locais sejam oficialmente reconhecidas e registradas nas instituições públicas ou privadas competentes.
+2.3 Aliviar o ônus sobre os serviços governamentais
+Discutir e decidir junto ao governo/município medidas de apoio complementar para aumentar a capacidade das instituições públicas e melhorar a qualidade dos serviços, evitando a sobrecarga que a integração local pode criar em caso de grandes concentrações de refugiados (as) em áreas urbanas.
+-- Prover apoio ao fortalecimento institucional por meio de aconselhamento jurídico, incentivo à gestão da informação, remanejamento de pessoal, integração dos funcionários do governo em treinamentos e cursos relevantes oferecidos pelo ACNUR.
+-- Fornecer equipamentos e suprimentos.
+-- Estimular sessões informativas sobre os direitos dos refugiados(as) para parceiros nacionais e atores da sociedade civil a fim de expandir o alcance dos serviços públicos e incluir a comunidade refugiada.
+-- Investir na capacitação de prestadores de serviços nacionais e locais, públicos ou privados, para ampliar o acesso dos(as) refugiados(as) aos mesmos; e desenvolver serviços específicos tais como formação profissional e ensino do idioma, fortalecimento do espírito empreendedor, educação financeira, serviços de apoio aos negócios, oferta de emprego e estágios, assistência jurídica e serviços de documentação para fins de trabalho, servindo a instituições locais e refugiados(as).
+2.4 Integração nas comunidades locais
+Assegurar que os(as) refugiados(as) sejam aceitos e integrados na comunidade local, desfrutando
+dos mesmos direitos que os nacionais. O objetivo é aumentar a “coesão social” por meio de projetos
+conjuntos de subsistência como veículos para uma coexistência pacífica.
+-- Promover treinamentos e sessões informativas sobre a situação política, econômica e social, e cursos do idioma local para os(as) refugiados(as) recém-chegados se familiarizarem com o país de acolhida e especificamente com o ambiente urbano.
+-- Avaliar os níveis de conhecimento técnico dos(as) refugiados(as) e dos membros da comunidade de acolhida e oferecer treinamento conjunto sobre empreendedorismo e conhecimentos de informática para facilitar a integração e reforçar a coesão social.
+-- Facilitar o acesso de refugiados(as) empreendedores aos serviços de treinamento empresarial, capacitação (incluindo treinamentos online por meio dos Centros Comunitários de Acesso à Tecnologia, caso existam) e inserção nas redes de negócios locais.
+
+3. Diagnóstico
+Conduzir avaliações abrangentes sobre os meios de subsistência de acordo com o perfil socioeconômico do(a) refugiado(a), com o intuito de desenvolver e definir respostas individualizadas com o apoio de dados de qualidade. Devem ser realizadas avaliações em relação aos aspectos políticos e sociais que permitam ou inibam o acesso ao trabalho e a outras oportunidades de subsistência; em relação à diversidade socioeconômica da população de refugiados(as), ou seja, os meios de subsistência e as estratégias que as famílias e indivíduos, homens e mulheres, utilizam para sobreviver; e aos desafios de proteção que os(as) refugiados(as) enfrentam nas áreas urbanas. Também devem ser identificadas institições e programas que apoiam ou que podem apoiar o desenvolvimento de meios de subsistência e criar oportunidades econômicas nas áreas de acolhida.
+Medidas práticas para realizar avaliações abrangentes
+3.1 Definir o escopo da avaliação
+Uma avaliação sobre os meios de subsistência corresponde a um processo consultivo envolvendo a participação e contribuição de um Grupo Multi-Funcional, representantes da comunidade de refugiados(as), comunidade acolhedora e setores privado e público, assim como organizações relevantes tais como o Parceiro Implementador do ACNUR e Organizações Comunitárias.
+-- Decidir se a avaliação envolverá tanto refugiados(as) quanto populações locais -recomenda- se incluir as populações locais porque oferecem uma referência do que esperar da área em questão.
+-- Identificar e demarcar “zonas de subsistência” onde reside um grande número de refugiados (as) que compartilhem características similares, estratégias de subsistência e vulnerabilidades.
+-- Detectar grupos socioeconômicos que tenham acesso a oportunidades de trabalho típicas de determinada zona de subsistência; analisar se estes grupos estão expostos a desafios semelhantes, tendências e mudanças sazonais.
+3.2 Avaliar o contexto dos meios de subsistência em zonas urbanas
+Realizar um mapeamento dos fatores que influenciam as oportunidades de subsistência. Estratégias de subsistência são combinações de atividades que os(as) refugiados(as) desenvolvem para alcançar sua subsistência. As escolhas das famílias sobre as estratégias de subsistência são determinadas por suas capacidades e pela medida em que o uso de tais habilidades é restringido por Políticas, Instituições e Processos (PIPs).
+-- Analisar os meios de subsistência e estratégias utilizadas pelas famílias. O conjunto de
+recursos relativos aos meios de subsistência compreende tanto bens e recursos tangíveis
+como intangíveis, tais como reivindicações e acesso aos capitais financeiro, humano, físico e social.
+-- Avaliar o contexto político, legal e institucional, incluindo as políticas do governo local, assim como leis, regulações e instrumentos internacionais que possam apoiar a subsistência; mercados de trabalho, serviços e mercadorias, instituições financeiras e sociais, governo local, organizações de desenvolvimento e humanitárias, organizações comunitárias, instituições acadêmicas; deve-se analisar também a forma em que as políticas são colocadas em prática, o nível de tolerância e as atitudes da sociedade civil.
+-- Reunir as primeiras informações por meio de entrevistas com profissionais-chave. O detalhamento dos recursos familiares (o que possuem) e das estratégias de subsistência (o que fazem para sobreviver) deve ser feito por meio de grupos de discussão focal e/ou pesquisas.
+-- Analisar as estratégias de subsistência levando em conta que elas são utilizadas diferentemente entre homens e mulheres e que mudam com o decorrer do tempo.
+-- Avaliar atividades econômicas em curso e aquelas planejadas pelos refugiados(as): autônomos ou microempresários; trabalho temporário e trabalho regular.
+-- Identificar os desafios de proteção surgidos das estratégias de subsistência em uma determinada área urbana assim como as necessidades específicas dos indivíduos e grupos de risco, como mulheres que sofreram abusos (ex-trabalhadoras sexuais), vítimas de tráfico de seres humanos de violência sexual e de gênero, pessoas idosas e pessoas com necessidades especiais.
+3.3 Identificar grupos socioeconômicos
+Analisar a informação sobre recursos e estratégias de subsistência das famílias de refugiados(as)
+para identificação do nível socioeconômico. Detectar os principais grupos socioeconômicos dentro da população em questão utilizando a família como a principal unidade de análise. Para efeitos da avaliação dos meios de Subsistência, a população alvo deve ser classificada em grupos socioeconômicos, que incluem:
+-- Famílias e indivíduos em situações de extrema pobreza e/ou indigência: pessoas sem qualquer renda ou com apoio social muito limitado. Este grupo normalmente inclui pessoas idosas, indivíduos com necessidades especiais e doentes com pouco apoio familiar/social.
+
+-- Famílias pobres economicamente ativas: a renda principal advém da venda da força de trabalho, tendo poucos recursos e habilidades, reduzido número de membros familiares
+economicamente ativos, ausência de mecanismos de superação de curto prazo em
+momentos de dificuldades.
+-- Famílias de renda média: fontes de renda diversificadas e, de certo modo, regulares, com capacidade de emprestar e tomar emprestado pequenas quantias de dinheiro, possuir ou ter acesso a bens de produção - equipamentos e habilidades; alguns recebendo remessas.
+-- Famílias de renda superior: estas famílias são capazes de emprestar dinheiro para outras famílias da comunidade, possuem uma maior visibilidade pública, empregam outros indivíduos da comunidade, têm diversidade de bens produtivos e habilidades, além de extensivos laços econômicos e sociais fora da sua comunidade e localidade.
+-- Outros grupos que não se encaixam nestas categorias e que precisam de atenção incluem famílias cuja renda é significativamente maior que a daquelas de renda superior.
+África do Sul / Langton Sanyanga, um solicitante de refúgio do Zimbábue que concluiu um curso de garçom financiado pelo ACNUR por meio de seu parceiro, Cape Town Refugee Centre.
+Emprego remunerado em um dos hotéis de Cape Town, Sanyanga, demonstrando sua habilidade ao servir bebida para um oficial do ACNUR, CTRC Self Reliance Officer, Phaladi Kotsies. / ACNUR / P. Rulashe
+
+
+4. Destinatários
+Uma vez que a avaliação sobre os meios de subsistência for finalizada, o próximo passo é se engajar no processo de planejamento estratégico, novamente em consulta e coordenação com uma ampla gama de parceiros e partes interessadas. Ações ou intervenções relativas aos meios de subsistência devem ser feitas de modo a contornar normas obstrutivas e encontrar formas de trabalhar dentro das restrições existentes para continuar apoiando os(as) refugiados(as) (e comunidades de acolhida quando aplicável). Com base na avaliação, um conjunto de ações adequadas para os grupos-alvo escolhidos pode ser implementado de forma planejada, com o objetivo de apoiar metas múltiplas.
+Meios práticos para determinar a priorização
+4.1 Identificar as recomendações do diagnóstico
+Identificar e entender as estratégias dos atores, a fim de reforçar os aspectos positivos e reduzir as restrições causadas por Políticas, Instituições e Processos (PIPs).
+-- Especificar determinadas forças/capacidades e fraquezas/necessidades próprias de cada grupo socioeconômico, para homens, mulheres e adolescentes. Identificar as lacunas e os meios para abordar estes fatores com os grupos correspondentes.
+-- Aproveitar as oportunidades existentes e responder às ameaças externas: priorizar os desafios externos (relativos às PIPs) para criar um ambiente político, social e econômico mais favorável à influência política.
+-- Aproveitar as forças existentes e responder às fraquezas internas: reagir às fraquezas internas (relativas aos meios de subsistência ou indivíduos em determinados grupos de renda) para criar ou construir recursos/meios, ajudando ao mesmo tempo a satisfazer as necessidades básicas.
+-- Apoiar serviços que tenham sido identificados como necessidades reais tanto para os (as) refugiados(as) como para a comunidade local, sem questionar significativamente as normas políticas, culturais e de gênero existentes.
+4.2 Definir objetivos estratégicos
+Um plano estratégico abrangente para apoiar os meios de subsistência buscará normalmente atingir objetivos de curto, médio e longo prazo por meio da execução de uma série de atividades.
+-- Implementar um vasto leque de atividades, sendo que algumas serão específicas e outras deverão apoiar a todos os(as) refugiados(as), independentemente de suas capacidades. Os beneficiários deverão ser selecionados com base nos grupos socioeconômicos identificados.
+-- As intervenções para a provisão de meios de subsistência têm efeito direto e imediato no bem-estar socioeconômico das pessoas, visando reduzir suas vulnerabilidades. Exemplo: conceder assistência, subsidiar moradias e serviços básicos.
+-- As intervenções para a proteção dos meios de subsistência possuem impacto direto e efeito de curto a médio prazo sobre o bem-estar socioeconômico das pessoas. Exemplo: subsídios condicionais para o desenvolvimento de microempresas, orientação vocacional ou capacitação empresarial ou técnica e inserção laboral.
+-- As intervenções para a promoção dos meios de subsistência geram impacto indireto e efeitos de médio a longo prazo sobre o bem-estar socioeconômico das pessoas. Exemplo:
+promoção, fortalecimento institucional e investimento em instituições de capacitação, acesso
+a serviços financeiros formais, e a serviços de orientação vocacional e apoio empresarial.
+-- Ver no anexo Lista Indicativa de Atividades de Subsistência.
+5. Autossuficiência
+Autossuficiência é a habilidade social e econômica de um indivíduo, família ou comunidade de satisfazer suas necessidades básicas (incluindo proteção, alimentação, água, moradia, segurança pessoal, saúde e educação) de forma sustentável e digna. Autossuficiência, como uma abordagem de Programa, refere-se ao desenvolvimento e fortalecimento dos meios de subsistência das pessoas de interesse (PoC) e à redução de suas vulnerabilidades e da dependência ao longo prazo de assistência humanitária ou externa. O programa e o planejamento dos meios de subsistência devem ajudar os(as) refugiados(as) a se tornar autossuficientes. A assistência direta com dinheiro / alimentação / aluguel deve ser temporária e condicional, e deve levar gradualmente a atividades independentes como parte do desenvolvimento a longo prazo.
+Medidas práticas para apoiar atividades autossuficientes
+5.1 Passar de um nível de assistência a outro na medida em que as capacidades e necessidades das pessoas evoluírem com o tempo
+Seguir uma “abordagem gradual” (Passo 1 a 3) para o planejamento dos meios de subsistência,
+considerar as capacidades e necessidades de ajuda identificadas em cada grupo socioeconômico durante a avaliação de subsistência. Gradualmente reduzir o número de assistências necessárias e apoios para subsistência por meio da obtenção de soluções duradouras.
+-- Atividades de promoção e proteção social devem ser contínuas já que fornecem a base para todas as outras formas de apoio. Enquanto as atividades de promoção podem aumentar com o tempo, espera-se que a quantidade do apoio financeiro concedido diminua gradualmente
+-- Passo 1 combina a maioria das concessões básicas e o fortalecimento institucional e de capacidades direcionadas às famílias e indivíduos mais pobres.
+-- Passo 2 está dirigido a indivíduos economicamente ativos que já adquiriram competências sólidas (ou que tenham desenvolvido habilidades produtivas e experiência profissional anterior). Normalmente estas famílias não precisariam mais de assistência, embora ainda sejam qualificadas para o acesso a educação e saúde gratuitas ou subsidiadas. Elas poderiam receber apoio para o desenvolvimento de pequenas empresas e eventualmente poderiam empregar outras famílias, e/ou receber suporte para acessar autorizações de trabalho para exerce suas habilidades e experiências no mercado de trabalho local.
+-- Passo 3 se dirige a indivíduos economicamente ativos, com melhores condições, e que mostram um grande potencial de se integrar social e economicamente na comunidade acolhedora, mas que ainda precisam de apoio durante um prazo determinado para se tornarem totalmente autossuficientes.
+5.2 Reduzir a vulnerabilidade
+Retirar gradualmente as medidas de provisão de curto prazo relativas aos meios de subsistência que sejam mais custosas que as medidas de promoção de médio a longo prazo.
+-- Criar capacidades por meio de medidas de provisão e proteção dos meios de subsistência, em direção à promoção dos meios de subsistência a longo prazo.
+-- Gradualmente reduzir o investimento direto do ACNUR sobre as medidas de promoção dos meios de subsistência, de forma a transferir os programas para os atores que promovem o desenvolvimento e/ou do governo.
+-- Apoiar a refugiados(as) empreendedores e habilidosos por meio de ações coordenadas.
+-- Avaliar os riscos de vulnerabilidade ao assédio e abuso associados a alguma estratégia de subsistência (por exemplo, segurança relacionada ao transporte, trabalho noturno e corrução). As ações de subsistência direcionadas às mulheres deslocadas devem levar em consideração fatores de proteção, tais como grupos mistos de discussão de gênero para garantir que reduzam a vulnerabilidade das mulheres participantes e sua exposição à violência sexual e de gênero.
+-- Monitorar indicadores e criar critérios para identificar indivíduos/famílias que precisam de assistência social de longo prazo. Estes indivíduos/famílias teriam poucas habilidades de se tornar independentes das atividades de provisão de meios de subsistência.
+-- Identificar famílias e indivíduos em situação de risco elevado qualificados para a assistência social durante o processo de avaliação das necessidades. Tais grupos deverão receber apoio para integrá-los no sistema de bem estar social, quando aplicável.
+-- Iniciar um diálogo político com o governo para influenciar as leis e diretrizes restritivas e para apoiar as famílias refugiadas e os indivíduos em situação de risco elevado até que mudanças positivas e concretas ocorram.
+6. Parcerias
+Embora o ACNUR possa assumir um papel de liderança no planejamento de uma estratégia abrangente, geralmente seu protagonismo deve diminuir no momento de execução. Algumas atividades deverão ser lideradas por organizações locais, ONGs internacionais ou por órgãos do governo, sem o investimento direto do ACNUR. Atividades que sejam altamente relevantes, mas que não tenham meios de serem implementadas por outras entidades, serão de responsabilidade do ACNUR, demandando tanto parceiros implementadores como operacionais. O ACNUR necessita trabalhar cada vez mais com governo e autoridades nacionais e atrair parceiros que promovam o desenvolvimento para permitir uma transição suave de um estado de emergência para um estado de desenvolvimento sustentável.
+Medidas práticas para desenvolver, fortalecer e coordenar parcerias
+6.1 Conduzir uma análise sobre as partes interessadas e definir o papel dos parceiros
+Reconhecer os distintos objetivos e o modus operandi de cada uma das organizações humanitárias (curto prazo) e entidades empresariais (longo prazo), e respeitar seus diferentes mandatos, papéis e abordagens, com a intenção de deixar determinadas ações a cargo das instituições com trajetória e experiência comprovadas.
+-- Governos nacionais (ministérios, municipalidades, autoridades locais, etc.): Orientação política e coordenação geral; reconhecimento das qualificações e documentação; treinamento, apoio e supervisão.
+-- Instituições de subsistência (público e privado): Acesso e registro dos(as) refugiados(as); prestação de serviços de qualidade em ambientes seguros e acolhedores/amigáveis; infraestrutura e equipamento.
+-- Agências bilaterais: Financiamento dos meios de subsistência para o governo com base em acordos bilaterais; integração dos(as) refugiados(as) dentro do sistema público; provisão de bolsas de estudos.
+-- Nações Unidas e agências especializadas (PNUD, UNICEF, OIT, etc.): Promoção e financiamento de atividades de subsistência; apoio a treinamento; engajamento em diálogo político: integração dos(as) -- Organizações comunitárias: Execução de projetos de subsistência; participação em avaliações, planejamento, implementação e monitoramento; sensibilização comunitária e conscientização; organização de atividades conjuntas com os(as) refugiados(as) e as comunidades locais.
+-- Setor privado (empresas, fundações, instituições de treinamento, etc.): Inclusão dos(as) refugiados(as) nos programas de subsistência em andamento ou planejados; apoio ao desenvolvimento de pequenas empresas e à criação de novos negócios; treinamentos e
+estágios; envolvimento de instituições técnicas, centros vocacionais e empresas privadas;
+provisão de fundos e doações em espécie; microfinanciamentos e esquemas de crédito; bolsas de estudo por meio de fundações e empresas locais/internacionais; acordo com empresas privadas para reservar vagas de emprego para refugiados(as); desenvolvimento de parcerias com associações empresariais, instituições privadas de treinamento e redes de contatos.
+-- Refugiados(as) e comunidades locais: Participação no planejamento e execução de programas; envolvimento em atividades de promoção e conscientização; introdução de novos projetos, ou seja, financiamento em espécie e contribuições materiais; organização de atividades/ projetos em conjunto com as comunidades locais.
+6.2 Coordenar serviços de subsistência para os(as) refugiados(as)
+Colaborar de forma estreita e organizar esforços de coordenação com ministérios relevantes e outras autoridades nacionais ou locais, agências parceiras e outras partes interessadas objetivando a promoção e o planejamento de programas de maneira conjunta para integrar serviços de subsistência para os(as) refugiados(as) no sistema público.
+-- Criar um grupo de coordenação de meios de subsistência caso não haja mecanismos de coordenação apropriados, incluindo representantes do ACNUR, ONGs, parceiros implementadores, instituições públicas/governo e comunidades locais de refugiados(as). O grupo de coordenação ajudará a realizar tarefas essenciais para facilitar a troca de informações e lições aprendidas, garantindo coerência no desenvolvimento, planejamento e execução de programas e apoiando a promoção, financiamento, monitoramento e avaliação destas iniciativas.
+-- Identificar mecanismos de coordenação mais amplos a níveis de governo, doadores e Nações Unidas para participar e defender o acesso dos(as) refugiados(as) a oportunidades de subsistência nos contextos urbanos.
+-- Utilizar estas reuniões de coordenação como plataformas para promover um maior acesso e o aprimoramento dos serviços que estejam ligados a políticas e instituições adjacentes que criam barreiras para a autossuficiência, tais como inexistência de renda regular, insegurança alimentar, desnutrição, falta de moradia, saúde precária, falta de oportunidades de educação.
+-- Reconhecer as lideranças do governo e de instituições e participar nas reuniões organizadas a nível nacional, municipal ou local em que as necessidades de subsistência das populações urbanas, incluindo refugiados(as), sejam discutidas.
+-- Seguir uma estratégia de equipe multifuncional no planejamento e execução de um projeto de subsistência, por exemplo, coordenando-o estreitamente com serviços de saúde, educação e comunitários.
+-- No campo das microfinanças, referir-se ao documento Investir em soluções: um guia prático para o uso da microfinança nas operações do ACNUR, ACNUR 2011.
+6.3 Coordenar estreitamente com a ONU e outras agências internacionais
+Entrar em contato e aproveitar as oportunidades oferecidas pela coordenação nacional e pelos mecanismos e processos da cooperação com a Equipe de País das Nações Unidas (UNCT).
+-- Identificar oportunidades de subsistência por meio do Quadro das Nações Unidas para Assistência ao Desenvolvimento (UNDAF) e do Processo de Apelo Consolidado (PAC).
+-- Colaborar estreitamente com a Organização Internacional do Trabalho e outras agências da ONU envolvidas em atividades de subsistência e mapear as áreas de cooperação.
+-- Detectar as oportunidades de subsistência dos Planos Estratégicos de Redução da Pobreza (PRSP) apoiados pelo Banco Mundial, Bancos Asiático de Desenvolvimento Asiáticos, Banco Africano de Desenvolvimento e agências bilaterais.
+6.4 Envolver parceiros operacionais e implementadores na administração de um programa de subsistência urbana.
+Identificar parceiros que apoiem a execução de programas de subsistência urbana e assinar acordos de cooperação.
+-- Definir o papel e a responsabilidade do parceiro implementador no sub-acordo.
+Isto pode incluir:
+§ Desenvolver e executar uma estratégia de comunicação e informação para promover a importância de acesso ao trabalho e o desenvolvimento de meios de subsistência para melhorar a promoção e a coordenação entre as partes interessadas.
+§ Apoiar os(as) refugiados(as) a acessar os serviços existentes, por exemplo, por meio de atividades de promoção, apoio material e financeiro, coordenação com instituições locais e provedores de serviços, coordenação com as comunidades interessadas; apoio para capacitação.
+§ Melhorar a qualidade dos serviços disponíveis aos refugiados(as), apoiando as instituições
+públicas com projetos de financiamento, e fornecimento de equipamento, material e treinamento. Estes projetos devem ser regulados por uma relação contratual tripartite com a instituição correspondente, especificando as expectativas e obrigações de todos os atores envolvidos.
+§ Monitorar a qualidade dos serviços públicos e privados utilizando as ferramentas de gestão baseada em resultados do ACNUR.
+-- Identificar e desenvolver parcerias operacionais com entidades e instituições que podem oferecer serviços às pessoas de interesse por seus próprios meios, sem a necessidade de um acordo formal com o ACNUR. Isto permite que o ACNUR invista seus fundos em atividades que sejam igualmente necessárias, mas para as quais não haja provedores de serviços a curto e médio prazo.
+7. Participação
+Envolver as comunidades locais e os(as) refugiados(as) em todos os aspectos do planejamento dos programas, assim como na execução e no monitoramento. Aumentar a interação com as comunidades de refugiados(as) e manter uma comunicação frequente; organizar atividades de inclusão e informar aos refugiados(as) as opções de apoio aos meios de subsistência e os critérios de elegibilidade.
+Medidas práticas para garantir a participação da comunidade
+7.1 Engajar a comunidade e fortalecer sua participação global
+Promover a participação dos(as) refugiados(as) na avaliação dos desafios e necessidades de subsistência e na análise dos fatores internos e externos que influenciam os meios de subsistência.
+-- Identificar os recursos financeiros, humanos e materiais disponíveis a nível local.
+-- Analisar as relações existentes e em transformação entre os(as) refugiados(as) e as comunidades locais.
+-- Avaliar as dinâmicas de poder dentro da comunidade, incluindo as relações entre grupos linguísticos e quaisquer outros grupos que possam ser excluídos (minorias, gênero, etc.).
+-- Detectar problemas e ameaças de segurança; locais de trabalho e de treinamento acessíveis e seguros.
+-- Analisar modos de reduzir as ameaças de proteção no contexto de atividades de subsistência, tais como discriminação, abuso, exploração e violência sexual e de gênero.
+7.2 Promover a participação dos(as) refugiados(as) na prestação de serviços de subsistência
+Promover e facilitar o envolvimento dos(as) refugiados(as) em diversas funções dos projetos de subsistência -- Promover o potencial produtivo e criativo dos(as) refugiados(as), suas habilidades e talentos por meio de atividades de promoção.
+-- Permitir a plena participação dos jovens nas atividades de subsistência. Eles possuem não somente o direito de ser ouvidos nas questões que afetam suas vidas, mas também devem ser convidados a participar ativamente na avaliação, planejamento de programas e projetos de subsistência. Encorajar suas habilidades para iniciar uma mudança positiva e transformar-se em agentes de desenvolvimento.
+-- Fortalecimento do papel dos voluntários na promoção dos meios de subsistência para os (as) refugiados (as) nas suas comunidades, assim como sua participação ativa nas comunidades locais ou em outros mecanismos consultivos tais como comitês de desenvolvimento municipal/ distrital.
+-- Defender uma legislação progressista que permita que os(as) refugiados(as) trabalhem
+e que facilite seu acesso a empregos nos departamentos do governo, instituições de formação
+profissional/vocacional e em outros setores como educação e saúde.
+7.3 Apoiar a representação dos grupos e organizações de refugiados(as)
+Advogar e facilitar a capacitação de grupos e organizações de refugiados(as)
+-- Aumentar a efetividade e a eficiência dos grupos de representação dos(as) refugiados(as), redes, associações e organizações comunitárias por meio de atividades específicas de fortalecimento institucional. Utilizar o conhecimento das organizações comunitárias por meio de esquemas de financiamento comunitários para permitir o acesso dos(as) refugiados(as) a recursos e dinheiro.
+-- Garantir a participação da comunidade de refugiados(as) por meio da sua inclusão nos grupos, comitês e associações de subsistência local, como parte da estratégia de fortalecimento e emponderamento. Nos casos em que há restrições legais negociar uma “condição de observador”.
+-- Sensibilizar os(as) refugiados(as) sobre a importância de sua participação e representação nas atividades de subsistência, que funcionam um investimento futuro em autossuficiência e soluções duradouras.
+8. Monitoramento e avaliação
+Monitorar e avaliar regularmente o progresso dos objetivos dos programas e os resultados esperados com o intuito de retirar gradualmente a assistência direta, a necessária mudança
+de estratégia e abordagem, bem como reduzir a dependência de recursos existentes. O
+contexto operacional, ou seja, os perfis socioeconômicos e fatores externos da população de refugiados(as) devem ser monitorados em intervalos regulares uma vez que possuem influência direta na sustentabilidade das estratégias e planos de apoio aos meios de subsistência.
+Medidas práticas para um eficiente monitoramento e avaliação
+8.1 Desenvolver e utilizar um sistema efetivo de avaliação e monitoramento
+Criar um sistema efetivo de avaliação e monitoramento dos meios de subsistência no âmbito do plano estratégico de subsistência.
+-- Definir uma base de referência considerando avaliações, metas produtivas mensuráveis e indicadores de atuação dentro do plano estratégico.
+-- Considerar o tempo e a frequência das atividades de avaliação e monitoramento, e os recursos humanos, operacionais e orçamentários necessários.
+-- Atualizar as principais conclusões das avaliações sobre subsistência, em particular sobre os perfis de subsistência (meios e estratégias de subsistência) de diferentes grupos socio- econômicos em relatórios anuais, para assim acompanhar e comparar as mudanças ocorridas nas capacidades, oportunidades e níveis de renda das famílias de refugiados(as).
+-- Registrar e documentar anualmente mudanças no entorno político, institucional e processual que afetam as oportunidades de subsistência.
+-- Revisar e avaliar atividades e mecanismos de subsistência e, se necessário, alterar as ações e programas para responderem às necessidades.
+8.2 Monitorar o contexto operacional
+Monitorar mudanças que ocorram nos aspectos políticos e legais nas comunidades locais e avaliar seus impactos sobre os meios de subsistência.
+-- Monitorar mudanças políticas e legislativas sobre o direito ao trabalho e acesso ao emprego para os(as) refugiados(as), além das mudanças na economia local que influenciam os meios de subsistência dos(as) refugiados(as) tais como a situação habitacional, acesso ao mercado, terra, educação e saúde.
+-- Garantir que políticas e atitudes discriminatórias sejam reportadas e abordadas pelos atores relevantes (como governo, agências da ONU, setor privado, uniões dos trabalhadores). Assegurar que autoridades locais e parceiros-chave sejam envolvidos na procura por soluções alternativas.
+-- Permitir que o monitoramento do impacto seja conduzido por agências implementadoras
+e pelo ACNUR (por meio de um time multifuncional), pelo menos uma vez por ano, por meio
+de entrevistas com os beneficiários e visitas às suas famílias para avaliar os perfis socio- econômicos, os meios de subsistência domésticos existentes, estratégias de subsistência e níveis de renda.
+-- Organizar equipes de avaliação, incluindo doadores e membros do grupo de coordenação de subsistência, se existir, e realizar uma avaliação global dos programas e projetos, assim como dos impactos das ações sobre grupos específicos.
+8.3 Organizar uma avaliação sistemática e imparcial
+Assegurar que a avaliação seja conduzida no meio ou no final de um programa ou projeto cíclico. Deve medir e avaliar se os resultados e metas foram alcançados.
+-- Utilizar abordagens e métodos que produzam evidências oportunas e confiáveis dos resultados do programa que possam ser utilizados em ações futuras. Avaliar as mudanças a longo prazo.
+-- Conduzir avaliações conjuntas envolvendo autoridades do governo a nível nacional e local, outras agências da ONU, doadores, parceiros implementadores e comunidades.
+Iêmen / refugiados / Projeto Autossuficiente de Basateen, uma vizinhança com cerca de 30% da população somaliana de refugiados(as) localizados próximos a Aden, no sul do Iêmen. / ACNUR / R. Nuri / Abril 2009
+
+
+9. Transferência
+Desenvolver e executar uma estratégia de redução gradual e transferência (também chamada de “estratégia de saída”), dentro de um plano plurianual com o propósito de transformar gradualmente as ações de assistência direta em uma ajuda de subsistência de longo prazo. A estratégia de saída deve ser feita por meio da redução das intervenções uma vez que
+os indicadores de êxito tenham sido atingidos e que seja possível introduzir outros
+requisitos mais sustentáveis. O objetivo de tal estratégia é criar um caminho para o fim da pobreza e da dependência de ajuda humanitária, e promover uma mudança de atitude rumo à autossuficiência.
+Medidas práticas para organizar uma estratégia de transferência
+9.1 Desenvolver e concordar sobre requisitos e prazos realistas
+A redução da assistência do ACNUR e o aumento gradual das atividades de subsistência apoiadas pelos parceiros requer uma abordagem gradual e sistemática baseada em um plano estratégico plurianual.
+-- Estabelecer acordos com parceiros (governos, agências da ONU, ONGs e comunidades) que estejam dispostos e prontos, em termos de capacidades e recursos, para substituir as atividades de apoio aos meios de subsistência do ACNUR e que concordem com os requisitos e prazos para o processo de transferência.
+-- Prevenir o colapso abrupto de um programa de subsistência quando os recursos esgotarem. Um problema significativo tem sido a súbita redução ou interrupção de projetos quando se perde funcionários e fundos como resultados de cortes no orçamento. Projetos que ainda não são sustentáveis e que são encerrados abruptamente criam novas incertezas entre os(as) refugiados(as) e comunidades locais e impactam negativamente seus meios de subsistência.
+-- Realizar uma retirada gradual de subsídios e assistência direta e organizar uma transição para os serviços de subsistência tais como o microcrédito comercial, possibilitando acesso a serviços de desenvolvimento empresarial e programas nacionais de treinamento.
+-- Adotar uma abordagem participativa trabalhando conjuntamente com refugiados(as) e parceiros na identificação de requisitos e indicadores. Estes dependerão do projeto específico de subsistência e precisarão ser decididos e acordados por todas as partes interessadas, caso a caso. A realização destes requisitos indicará que o grupo está pronto para passar do apoio direto do ACNUR para a etapa seguinte, por exemplo, tornando-se clientes de instituições ou bancos locais de microcrédito.
+
+9.2 Desenvolver e concordar com metas alcançáveis
+-- Reduzir o número de refugiados(as) com necessidade de assistência em relação aos meios de subsistência por meio do programa do ACNUR.
+-- Garantir que o ACNUR e os parceiros com conhecimento na área atuem como interlocutores/intermediários levando os(as) refugiados(as) ao próximo nível de apoio (“Pós-ACNUR”), assegurando que tenham acesso contínuo aos serviços de subsistência.
+-- Permitir que os resultados obtidos permitam o acesso dos(as) refugiados(as) aos serviços
+públicos nacionais em parceria com a comunidade de acolhida, e também aos serviços do
+setor privado (tais como bancos e instituições de microfinanciamento), de modo que não sofram uma perda súbita de apoio.
+-- Assegurar que a qualidade dos serviços públicos ou privados seja igual àqueles oferecidos
+pelo ACNUR.
+-- Reduzir gradualmente as obrigações financeiras de curto prazo do ACNUR em relação às atividades de subsistência e garantir apoio duradouro de atores que promovem o desenvolvimento.
+
+Bulgária / Mulher solicitante de asilo participa de um curso de cosméticos no Centro Sofia de Recepção e Integração para Refugiados em Sofia / ACNUR / B. Szandelszky / Julho 2010
+
+
+
+Anexo
+Lista indicativa de Atividades de Meios Sustentáveis de Subsistência
+Objetivo do ProgramaAtividade IndicativaProvisão de meios de subsistênciaProvisión de medios de vida sosteni- bles para satisfacer necesidades básicasFornecer assistência (em dinheiro ou espécie) em situações emergenciais para subsidiar moradias e serviços básicos.Proteção dos Meios de SubsistênciaPara proteger e desenvolver o capital humanoTreinamento vocacional individual, como alfabetização funcional, desenvolvimento de raciocínio lógico, conhecimento financeiro básico, conhecimento do idioma local, noções básicas de Tecnologia da Informação e habilidades básicas de vida.Proteção dos meios de subsistência para evitar o esgotamento dos recursos e situações de riscoAtividades laborais em contextos de reintegração ou de acampamentos (trabalho remunerado com dinheiro ou com alimentos, contratos comunitários).Prevenir o esgotamento dos recursos e de situações de riscoInserção de pessoas qualificadas no mercado de trabalho em áreas urbanas (prestação de serviços de saúde, educação, tradução, registro e outros serviços essenciais para os(as) refugiados(as)Proteger o capital produtivo (humano,
+social, natural, físico) e diversificar as fontes de rendaConcessões condicionais de capacitações para apoiar o uso sustentável dos recursos naturais (jardinagem, agricultura, pecuária, piscicultura, apicultura, coleta de madeira e produtos florestais, fabricação de tijolo, coleta de pedra ou areia) para consumo e venda.Proteger o capital produtivo (humano, social, natural, físico) e diversificar as fontes de rendaSubsídios temporários para atividades de produção (uso de recursos naturais, artesanatos e manufaturas)Proteger e criar capital humano e social, e estratégias de trabalho decentePlanos de treinamentos específicos para desenvolver habilidades laborais em manufatura, varejo e prestação de serviços (construção e manutenção de infraestrutura, instalação de equipamento, manutenção de computador, reparos elétricos e em veículos, serviços de educação e saúde, assistência infantil, Tecnologia da Informação e Comunicação) por meio do Acesso Comunitário à Tecnologia.Proteger e desenvolver o capital socialTreinamento e capacitação em grupo tais como liderança, gestão, formação de associações, organização comunitária e organização social utilizando Tecnologia da Informação e Comunicação.Proteger e desenvolver capital humanoFormação empresarialProteger e desenvolver capital financeiro e estabilizar e diversificar as fontes de rendaPatrocinar o acesso a serviços financeiros (poupança, transferência de dinheiro, empréstimo)
+
+Objetivo do ProgramaAtividade IndicativaPromoção de SubsistênciaAperfeiçoar o capital humano e social e
+promover estratégias de trabalho decenteOrientação vocacional e serviços de apoio à inserção laboral, incluindo patrocínio para capacitação, estágios e outras formas de colocação profissional, e apoio a redes comunitárias de emprego.Aperfeiçoar o capital humano e social e promover estratégias de trabalho decenteFacilitar o acesso a serviços de apoio empresarial, como aconselhamento jurídico, financeiro e inclusão em redes para a criação de empresas.Aperfeiçoar o capital político e social e
+promover estratégias de trabalho decenteAcesso a serviços jurídicos relativos a emprego, autorizações de trabalho e registro de empresas.Para aperfeiçoar o capital financeiro e promover estratégias de trabalho decente.Facilitar o acesso a serviços financeiros (formais)
+
+
+Colômbia / IDPs / Los Altos de Cazuca, Ciudad Bolivar favela localmente chamada por “bairro”), Bogotá. / ACNUR / B. Heger / Janeiro 2006
+
+Bibliografia
+Fontes do ACNUR:
+§ Investindo em Soluções: Um Guia Prático para o Uso do Microfinanciamento nas Operações do
+ACNUR, ACNUR, 2011, Disponível em inglês em: http://www.unhcr.org/4eeb17019.pdf
+§ Estratégias e Avalaiações sobre os Meios de Subsistência: Modelo, Check-List e Princípios Orientadores, ACNUR, Departamento de Serviços Operacionais (DOS), Soluções Operacionais e Seção de Transição (OSTS), Unidade de Subsistência, Julho 2009.
+§ Soluções Operacionais e Seção de Transição do ACNUR (OSTS) - Unidade de Subsistência,
+“Refugiados Urbanos, Direito ao Trabalho, Opções de Subsistência e Implicações para a Proteção”. Janeiro 2009.
+Fontes externas:
+§ Rede de Educação e Promoção da Pequena Empresa (SEEP): Padrões de Recuperação Econômica Mínima, Segunda Edição, 2010. Disponível em inglês: http://seepnetwork.org/Pages/EconomicRecoveryStandards.aspx
+§ Criando Meios de Subsistência: Um Manual de Campo para Profissionais da Área Humanitária, criado pela Comissão da Mulher Refugiada.Disponível em inglês: http://womensrefugeecommission.org/programs/livelihoods.2
+§ Análise e Mapeamento de Mercado (EMMA), Introdução e Resumo do EMMA.
+Disponível em inglês: http://www.microlinks.org/ev.php?ID=38407 201&ID2=DO TOPIC 3
+§ Vinculando Programas de Treinamento Vocacional às Oportunidades de Mercado. Avaliação de Mercado para Provedores de Treinamento Vocacional e Comissão da Mulher e da Juventude para Crianças e Mulheres Refugiadas, e Escola de Assuntos Internacionais e Públicos, Universidade de Columbia. Outubro 2008. Disponível em inglês:
+http://womensrefugeecommission.org/search?q=market+assessment
+
+
+
+UNHCR
+ACNUR
+The UN Refugee Agency
+
+
+2 Este manual foi desenvolvido para proporcionar aos profissionais informações úteis e ferramentas necessárias para que possam criar e implementar programas mais efetivos relativos aos meios de subsistência e que tenham como base: demanda de mercado e contextos apropriados; programas elaborados sobre as habilidades e experiências existentes dentro da população-alvo; e programas que promovam a dignidade e forneça opções aos deslocados.
+3 EMMA é um conjunto de ferramentas e orientações desenhadas por grupos da sociedade civil (Practical Action, Oxfam e Cruz Vermelha Internacional) para ajudar a equipe humanitária a melhor entender, acomodar e fazer o uso de sistemas do mercado. As ferramentas do EMMA são adaptáveis e ágeis, e buscam orientar a equipe que não seja especialista em questões de mercado. Apesar do EMMA ser destinado a situações emergenciais, pode facilmente ser adaptado para o uso em áreas urbanas.
+
+
+
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

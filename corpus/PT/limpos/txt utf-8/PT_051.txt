@@ -1,0 +1,111 @@
+﻿<Header>
+	<title>
+		<tit> Refugiados - Proteção e Assistência em São Paulo </tit>
+		<fileName> PT_051 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Folheto Informativo</textType>
+		<subcorpus> PT-BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.acnur.org/portugues/wp-content/uploads/2018/02/Refugiados_Prote%C3%A7%C3%A3o-e-assist%C3%AAncia-em-S%C3%A3o-Paulo.pdf </source>
+		<publisher> UNHCR ACNUR </publisher>
+		<pubDate> 2018 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 12 maio 2021 </accessDate>
+		<researcher> Ester Saraiva </researcher>
+		<comments> </comments>
+	</sourceText>
+	<author>
+		<institution> UNHCR ACNUR Agência da ONU para refugiados e Caritas São Paulo </institution>
+	</author>
+</Header>
+
+Refugiados
+PROTEÇÃO E ASSISTÊNCIA EM SÃO PAULO
+UNHCR ACNUR Agência da ONU para refugiados
+
+Caritas São Paulo
+
+QUEM SOMOS
+
+
+
+ACNUR
+   O ACNUR foi criado para proteger e assistir às vítimas de perseguição, da violência e da intolerância. Desde então, já ajudou mais de 50 milhões de pessoas a encontrar um novo lar e a reconstruir suas vidas.
+   Atualmente, mais de 36 milhões de pessoas estão sob o mandato do ACNUR, entre solicitantes de asilo, refugiados, apátridas, deslocados internos e repatriados. A Agência da ONU para Refugiados atua em 116 países, inclusive em regiões de conflito, zonas afetadas por catástrofes naturais e em operações de repatriação de refugiados. Por causa do seu trabalho, recebeu por duas vezes o Prêmio Nobel da Paz (1954 e 1981).
+   No Brasil, o ACNUR trabalha em parceria com o Comitê Nacional para os Refugiados (CONARE), ligado ao Ministério da Justiça.
+   Além da proteção física e legal, os refugiados no país têm direito a documentação e aos benefícios das políticas públicas de educação, saúde e habitação, entre outras. Para garantir a assistência humanitária e a integração dessa população, o ACNUR trabalha com diversas ONGs no país. Entre os programas implementados estão o de integração local, que busca facilitar a inserção do refugiado na comunidade, e o de reassentamento, que recebe refugiados que continuam sofrendo ameaças e problemas de adaptação no primeiro país de asilo.
+   
+Cáritas Arquidiocesana de São Paulo
+   A Cáritas Arquidiocesana de São Paulo é uma organização da sociedade civil que integra a rede de proteção do ACNUR desde 1989, mas já trabalhava com a questão dos refugiados desde 1977, por intermédio da Comissão de Justiça e Paz. No Centro de Acolhida para Refugiados, seus funcionários atendem aqueles que chegam à cidade em busca de refúgio e os orientam para que possam receber assistência legal e pessoal.
+   Seu trabalho foi reconhecido pelo ACNUR e pela comunidade internacional em 1985, com a entrega do Prêmio Nansen ao seu então presidente, Cardeal Dom Paulo Evaristo Arns.
+   Os três focos principais da Cáritas SP são:
+§ Proteção: garantir que o refugiado tenhaos direitos previstos nos acordos internacionais e na lei brasileira;
+§ Assistência: ajudar o refugiado e sua família no atendimento às necessidades de saúde, alimentação, moradia, atendimento psicológico etc.
+§ Integração: trabalhar pela autosuficiência do refugiado por mei da revalidação dos estudos, cursos profissionalizantes e encaminhamentos para procura de trabalho.
+   A Cáritas trabalha ainda com outras instituições como: SENAI, SESI, SESC, SENAC, INSTITUTO DE PSIQUIATRIA/HC, UniFMU, entre outros. É membro do CONARE, no qual representa a sociedade civil. Dois advogados da Cáritas São Paulo dão apoio às ações do CONARE, tanto em termos de jurisprudência quanto por meio das informações que obtêm nas entrevistas com os solicitantes de refúgio.
+
+AÇÕES CONJUNTAS
+   As ações da parceria ACNUR / Cáritas São Paulo são implementadas no contexto do marco jurídico brasileiro, a lei 9.474 (de 1997), que incorpora as garantias e avanços do Estatuto dos Refugiados de 1951, do Protocolo de 1967 e da Declaração de Cartagena de 1984. A legislação brasileira considera também a grave e generalizada violação dos direitos humanos como um critério para o reconhecimento do refúgio.
+   Assim, o ACNUR e a Cáritas Arquidiocesana de São Paulo implementam diversos projetos para ajudar os refugiados (mulheres, homens, meninos e meninas) a reconstruir suas vidas em um prazo razoável.
+   
+Assistência jurídica e proteção
+  Todos os solicitantes de refugio têm acesso a procedimentos justos e eficazes de determinação de seu estatuto. Solicitantes e refugiados se beneficiam de todos os direitos garantidos pelos acordos internacionais, regionais e pela legislação nacional.
+Os solicitantes de refúgio e refugiados são devidamente documentados e desfrutam de liberdade de movimento em todo o território nacional. As crianças se beneficiam de uma proteção particular contra violência sexual, exploração e todas as formas de abuso.
+  
+Necessidades familiares
+   Refugiados e solicitantes de refúgio podem durante alguns meses, receber assistência financeira para a subsistência, de acordo com suas necessidades. Os beneficiários em situação de extrema vulnerabilidade - sobretudo mulheres chefes de família, idosos, portadores de doenças crônicas e crianças - recebem atenção particular.
+   
+Serviços comunitários
+   Os refugiados contam com programas de integração social, cultural, legal e econômica. Recebem informações sobre o Brasil, assim como encaminhamentos para o mercado de trabalho por meio de estratégias individualizadas para o desenvolvimento sócio- econômico.
+   
+Saúde / Nutrição
+   Todos os refugiados têm acesso aos serviços de saúde oferecidos pelo governo e pelas instituições da sociedade civil. O ACNUR cobre gastos de medicamentos essenciais, exames médicos e tratamentos específicos quando necessário.
+   A população feminina tem acesso aos serviços especializados e recebe orientação sobre DST/AIDS, planejamento familiar, cuidados pré-natais e pós-natais.
+   
+Educação
+   Os refugiados têm acesso ao sistema de educação pública tanto no nível primário quanto no secundário. Todos os refugiados emidade escolar estão regularmente matricula-dos.
+São organizados cursos de língua por-tuguesa em cooperação com instituições locais. Assim, todos os beneficiários terão a oportunidade de aprender o idioma e melhor se integrar à sociedade brasileira. São firmadas também parcerias com outras instituições para capacitação profissional.
+   Alguns parceiros institucionais da Cáritas Arquidiocesana de São Paulo para atendimento e assistência aos refugiados:
+1) Serviço Nacional de Aprendizagem Industrial e Serviço Social da Indústria: o SENAI e o SESI oferecem aos refugiados cursos de capacitação profissional, além de outros serviços como ensino fundamental, escola para crianças e atividades esportivas;
+2) Serviço Nacional de Aprendizagem Comercial: a Cáritas São Paulo encaminha refugiados para alguns dos 2.600 cursos de capacitação oferecidos pelo SENAC;
+3) Serviço Social do Comércio: o SESC oferece cursos de português, tratamento odontológico, atividades esportivas e alimentação - a 40% do custo total - aos refugiados;
+4) Instituto de Psiquiatria do Hospital das Clínicas: dois especialistas atendem os refugiados. Dois programas foram desenvolvidos: investigação do perfil psicológico da população e atendimento psicológico;
+5) Arsenal da Esperança: ajuda os refugiados que chegam ao Brasil e não têm onde comer ou dormir;
+6) Casa do Migrante: oferece alojamento a refugiados e famílias;
+7) Obra Social Nossa Sra. Aparecida:
+abriga algumas refugiadas recém chegadas no Brasil;
+8) UniFMU: com bolsa de estudo e pesquisas e outras atividades na área acadêmica;
+9) PUC-SP, UFSCar, UNISANTOS e UNI-CAMP: Com a Cátedra Sérgio V. de Mello.
+1) 
+
+A PROTEÇÃO AOS REFUGIADOS
+
+   Todos os anos, milhares de homens e mulheres são forçados a abandonar seus lares devido a guerras, conflitos armados, perseguições religiosas ou por motivos de nacionalidade, raça, grupo social e opinião política. Eles buscam refúgio em outros países para continuar suas vidas com dignidade, justiça e paz.
+   O refugiado é uma pessoa comum que, para preservar sua liberdade, deixou para trás emprego, família e amigos. Muitas vezes, chega sozinho e sem dinheiro a umnovo país, tendo que se adaptar a um idioma e a costumes sociais que desconhece.
+   Durante o século XX, o problema dos refugiados e de outras vítimas do deslocamento forçado se tornou objeto de preocupação da comunidade internacional. Os esforços para garantir a proteção necessária a essas pessoas (homens, mulheres, idosos, jovens e crianças) levaram à criação do Alto
+Comissariado das Nações Unidas para Refugiados (ACNUR), em 1950. Um ano depois, a Assembléia Geral da ONU adotou a Convenção sobre o Estatuto dos Refugiados, estabelecendo o marco legal da proteção humanitária aos refugiados e refugiadas em todo o mundo.
+   Os governos são os principais responsáveis por proteger os direitos humanos de todas as pessoas em seu território. No Brasil, país que é signatário da Convenção de 1951 e de outros instrumentos internacionais de proteção humanitária, o ACNUR colabora com o governo para garantir que solicitantes de refúgio, refugiados, apátridas e outros indivíduos sob seu mandato possam exercer seus direitos humanos básicos, vivendo com segurança e dignidade. Nesta tarefa, a Cáritas Arquidiocesana de São Paulo é uma das parcerias do ACNUR no Brasil.
+
+
+
+
+Alto Comissariado das Nações Unidas para Refugiados – ACNUR
+CAIXA POSTAL 8560 Brasília/DF – Brasil
+CEP: 70312-970 e-mail: brabr@unhcr.org
+Cáritas Arquidiocesana de São Paulo
+Rua Venceslau Brás, 78 - 2° andar
+CEP: 01016-000 - São Paulo - SP
+e-mail: casp.refugiados@uol.com.br
+UNHCR
+ACNUR
+Agência da ONU para refugiados
+Caritas São Paulo
+
+
+
+
+
+

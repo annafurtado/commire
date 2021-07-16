@@ -1,0 +1,133 @@
+﻿<Header>
+	<title>
+		<tit> CONTRATAÇÃO DE REFUGIADOS E REFUGIADAS NO BRASIL </tit>
+		<fileName> PT_047 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Manual </textType>
+		<subcorpus> PT-BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.acnur.org/fileadmin/Documentos/portugues/Publicacoes/2017/11329.pdf?file=fileadmin/Documentos/portugues/Publicacoes/2017/11329 </source>
+		<publisher> ACNUR </publisher>
+		<pubDate> 29 nov 2017 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 18 maio 2021 </accessDate>
+		<researcher> Ester Saraiva </researcher>
+		<comments> </comments>
+	</sourceText>
+	<author>
+		<institution> Empoderando Refugiadas com Rede Brasil do Pacto Global, UNHCR ACNUR e ONU Mulheres </institution>
+	</author>
+</Header>
+
+
+CONTRATAÇÃO DE REFUGIADOS E REFUGIADAS NO BRASIL
+DADOS E PERGUNTAS FREQUENTES
+
+Empoderando REFUGIADAS
+UM GLOBAL COMPACT Pacto Global Rede Brasil [Coordenação]
+UNHCR ACNUR Agência da ONU para Refugiados
+ONU MULHERES Entidade das Nações Unidas para a Igualdade de Gênero e o Empoderamento das Mulheres
+
+CONTRATAÇÃO DE REFUGIADOS E REFUGIADAS NO BRASIL: DADOS E PERGUNTAS FREQUENTES
+
+1. DADOS SOBRE REFUGIADOS NO BRASIL
+Segundo dados do Comitê Nacional para os Refugiados (CONARE) i, até o final de 2016 o Brasil acolhia 9.552 pessoas refugiadas, provenientes de 82 diferentes nacionalidades. Os refugiados reconhecidos no ano passado provêm principalmente da Síria (326), República Democrática do Congo (189), Paquistão (98), Palestina (57) e Angola (26). Além da situação de grave e generalizada violação de direitos humanos, também fundamentaram o reconhecimento dessas pessoas como refugiadas as situações de perseguição relacionadas à raça, religião, nacionalidade, pertencimento a determinado grupo social ou opinião política, forçando elas a abandonarem seus locais de origem, com base na Convenção das Nações Unidas de 1951 e de seu Protocolo de 1967 sobre o Estatuto dos Refugiados, refletidos no Brasil pela lei n. 9474/1997. Vale registrar também que, até dezembro de 2016,10.308 pessoas protocolaram novas solicitações de refúgio às autoridades brasileiras.
+A cidade de São Paulo é, atualmente, o principal destino de solicitações de refúgio da América Latina ii. Segundo dados do Centro de Referência para Refugiados da Caritas Arquidiocesana de São Paulo (CASP) iii, organização parceira da Agência da ONU para Refugiados (ACNUR), 6.375 pessoas foram atendidas na organização em 2016, das quais 3.234 chegaram à Caritas pela primeira vez naquele ano, provenientes de 63 países.
+De acordo com a Caritas, o perfil de seus beneficiários é uma população predominantemente jovem, com idade entre 20 e 39 anos (65%). As mulheres têm aumentado sua participação neste universo - em 2013, representavam 13% das novas pessoas registradas, ao passo em que, em 2016, este índice chegou a 36%. Este dado de gênero aproxima a realidade brasileira do contexto global, no qual as mulheres e meninas representam cerca de metade da população que foi forçada a deixar seus países de origem iv. A maioria destas pessoas recém-chegadas a São Paulo concluiu Ensino Médio (38%) ou o Ensino Superior (20%), além de dominar diversos idiomas como o inglês, francês e espanhol.
+
+2. O DIREITO AO TRABALHO
+
+O ordenamento jurídico brasileiro garante o acesso aos direitos trabalhistas a pessoas em condição de refúgio, em consonância com o disposto na Convenção de das Nações Unidas de 1951. Assim como os brasileiros, os refugiados e solicitantes de refúgio possuem Carteira de Trabalho e Previdência Social (CTPS) e, portanto, podem trabalhar regularmente no país.
+Quando uma pessoa requer o reconhecimento da condição de refugiado em unidade da Polícia Federal, esta instituição é encarregada de emitir o Protocolo de Solicitação de Refúgio, o primeiro documento de identidade que o solicitante de refúgio recebe no Brasil. Este documento é válido em todo o território nacional e comprova que seu portador está no país em situação regular. É a posse do Protocolo que permite ao solicitante de refúgio a expedição da CTPS desde sua chegada ao país. Embora estes documentos tenham validade inicial de um ano, serão renovados durante todo o período em que o solicitante aguarda a decisão do seu processo.
+Esta decisão do processo de refúgio é de competência do CONARE e tem caráter declaratório. Assim, a decisão pelo reconhecimento como refugiado garante a emissão da Cédula de Identidade do Estrangeiro, comumente conhecida como RNE (Registro Nacional de Estrangeiro), que passa a ser o documento do refugiado no Brasil.
+Finalmente, ainda que o processo de refúgio seja indeferido em primeira instância pelo CONARE, há a possibilidade de recurso ao Ministério da Justiça. Neste caso, enquanto pender a decisão de recurso, o solicitante de refúgio permanece em condição jurídica regular, incluindo a observância de seu direito ao trabalho.
+
+3. PERGUNTAS FREQUENTES
+Os refugiados e solicitantes de refúgio podem abrir contas bancárias?
+Sim, tanto o Protocolo de Solicitação de Refúgio como o RNE são documentos hábeis para a abertura de contas bancárias. Contudo, o desconhecimento dos agentes bancários em relação a estes documentos e à legislação correspondente pode resultar em dificuldades. Assim, normalmente a empresa oferece carta de encaminhamento para a abertura da conta. O Centro de Referência para Refugiados da Caritas Arquidiocesana de São Paulo também pode ser consultado caso se apresente alguma dificuldade neste sentido.
+
+Os refugiados e solicitantes de refúgio podem ser incluídos como jovens aprendizes?
+Sim. É inclusive recomendada a inclusão de pessoas refugiadas em programas de jovens aprendizes, desde que estejam devidamente matriculados no Ensino Fundamental ou Ensino Médio ou que tenham concluído o Ensino Médio.
+
+Algumas pessoas refugiadas não possuem documentos que comprovem a condição escolar/ acadêmica. Como proceder?
+Para a equivalência escolar de ensino médio, o refugiado deve ser orientado a procurar a Diretoria de Ensino de Escolas estaduais da sua região de residência. A pessoa deve levar um documento de identificação pessoal, seus documentos escolares (pode ser exigida tradução) e comprovante de residência.
+No caso do ensino superior, o ACNUR possui um projeto de revalidação de diplomas de graduação em parceria com a organização Compassiva. Contato: revalidacao@compassiva.org.br; (11) 94972-5347.
+
+O que é o Programa de Apoio para a Recolocação dos Refugiados (PARR)?
+O Programa de Apoio para a Recolocação dos Refugiados (PARR) é um projeto social, sem fins lucrativos, idealizado pela empresa de consultoria jurídica em migrações EMDOC, com apoio do ACNUR e do Centro de Referência para Refugiados da Caritas Arquidiocesana de São Paulo. Seu objetivo é promover a inserção de refugiados e solicitantes de refúgio no mercado de trabalho brasileiro. Atua na sensibilização do setor privado, no atendimento de refugiados e de solicitantes de refúgio e na gestão de um banco de currículos, que hoje conta com cerca de 2 mil profissionais cadastrados.
+Os dados que o PARR obtém são de caráter pessoal, incluindo informações sobre educação, experiências e objetivos profissionais. Além desses dados, o PARR detém uma série de outras informações obtidas por meio do atendimento presencial realizado individualmente com cada candidato cadastrado no programa.
+
+Quem é a Fox Time Recursos Humanos?
+A Fox Time é uma consultoria de Recursos Humanos presente no mercado desde 1995, realizando contratação de pessoal e administração de contratos temporários e terceirizados. Desde 2013 é signatária do Pacto Global da Rede Brasil do Pacto Global da ONU, firmando o compromisso com "Os 10 Princípios”, especialmente nas áreas de Direitos Humanos e de Relações de Trabalho. Por entender que tais áreas não podem caminhar separadas, desde 2015, a Foxtime participa do Grupo de Trabalho de Direitos Humanos da Rede Brasil do Pacto Global e, tornou-se parceira estratégica do Empoderando Refugiadas. Neste projeto, realiza sessões de coaching e mentoring com as mulheres refugiadas, além de preparar um dossiê individual para encaminhamento ao mercado de trabalho.
+
+Como funciona a renovação do Protocolo de Solicitação de Refúgio? Caso recebamos um alerta um mês antes da data de vencimento do protocolo, é possível a renovação deste documento?
+Em geral, as pessoas pedem a renovação do Protocolo de Solicitação de Refúgio com cerca de uma semana de antecedência, mas não há qualquer problema em fazê-lo um mês antes. O empregador pode orientar o solicitante a comparecer à Polícia Federal, sem necessidade de agendamento prévio, e, salvo imprevistos no atendimento desta instituição, no mesmo dia ele deverá ter acesso ao protocolo renovado. É de responsabilidade do solicitante de refúgio renovar seu protocolo, assim como do refugiado reconhecido renovar seu RNE.
+
+Como podemos mapear se a nossa empresa possui funcionários refugiados?
+O próprio documento já indica a situação de refúgio. De fato, tanto no Protocolo de Refúgio, quanto no RNE, há indicação de que a situação jurídica desta pessoa é regida pela lei brasileira para refugiados (Lei n° 9.474/1997).
+
+Quais são os benefícios em se contratar um refugiado?
+Os benefícios relatados por empresas que promovem atividades para refugiados são múltiplos: melhoria da imagem corporativa, maior engajamento de funcionários, desenvolvimento de habilidades de liderança para os funcionários que atuam como mentores de refugiados, dentre outros. As empresas relatam que os refugiados contratados trazem diversidade ao ambiente de trabalho, motivam seus colegas, têm alto comprometimento com suas funções e costumam ficar mais tempo em seus cargos do que os brasileiros (menores taxas de rotatividade). v
+
+4. EXPERIÊNCIAS NA CONTRATAÇÃO DE REFUGIADOS
+Lojas Renner
+As Lojas Renner assumiram um compromisso em 2015 com a ONU Mulheres para promover ações com o objetivo de empoderar as mulheres em sua cadeia de valor. Neste sentido, e a partir de sua participação no Projeto Empoderando Refugiadas, a empresa criou um grupo de trabalho interno para analisar o processo de contratação de pessoas refugiadas. Este grupo promoveu adequações e novos procedimentos para a contratação de refugiados, sanando eventuais obstáculos, como a falta de documentos de comprovação de escolaridade. Em um ano de projeto, as Lojas Renner e a Camicado contrataram cinco refugiados.
+Além da contratação direta, o Instituto Lojas Renner ofereceu atividades de qualificação profissional a mulheres refugiadas. Desde 2016, foram realizadas quatro turmas de costura industrial e duas turmas de atendimento e vendas para o varejo. As alunas formadas são encaminhadas para processos seletivos nas Lojas da Renner, Camicado e de outras empresas do grupo.
+
+Sodexo Serviços
+A diversidade e a inclusão fazem parte da cultura da Sodexo há cerca de 20 anos. A empresa promove ações em cinco pilares: gênero, cultura e origens, gerações, pessoas com deficiência e orientação sexual.
+No ano de 2016, a Sodexo iniciou o seu trabalho com a Rede Brasil do Pacto Global e a ONU Mulheres no Projeto Empoderando Refugiadas. Desde então, a empresa realizou a contratação de duas mulheres refugiadas, uma experiência que pretende expandir. Segundo a organização, há um retorno muito positivo das equipes em relação a estas colaboradores, além de um excelente trabalho entregue. O plano da empresa agora é promover o crescimento profissional e pessoal dessas mulheres.
+A empresa acredita que a contratação de mulheres em situação de refúgio gera um benefício não apenas às contratadas, que têm uma oportunidade de recolocação no mercado de trabalho, mas também para a empresa, que pode aprender com a nova cultura e tornar sua equipe mais diversa, produtiva e comprometida.
+
+Grupo Carrefour
+Em 2012, o Grupo Carrefour lançou o “Programa de Valorização da Diversidade” no Brasil, cujo objetivo foi garantir que todos os funcionários, clientes e parceiros fossem tratados da mesma forma e beneficiados pelas mesmas oportunidades, independente de raça, gênero, orientação sexual, nacionalidade etc. O setor de responsabilidade social e diversidade do Grupo Carrefour no Brasil relatou que a companhia passou a incluir imigrantes e refugiados como um grupo vulnerável dentro seu escopo de atuação, em razão das dificuldades que enfrentam para inserção no mercado de trabalho.
+Desde 2014, a empresa possui parceria com a Missão Paz para a contratação de imigrantes e refugiados e o oferecimento de cursos, por meio da inclusão no projeto “Conexão Varejo", que oferece curso de capacitação profissional em varejo alimentar. Em 2015, após aproximação com o ACNUR, a empresa ajustou os procedimentos internos de contratação, passando a aceitar o Protocolo de Solicitação de Refúgio como documento válido, além do Registro Nacional de Estrangeiro (RNE). A empresa também criou um alerta no sistema de folha de pagamento para poder acompanhar os prazos de vencimento da documentação e garantir a devida renovação.
+
+5. DOCUMENTOS PARA REFERÊNCIA
+Cartilha do ACNUR sobre contratação de refugiados: https://goo.gl/FQmCsa
+Lei brasileira sobre refúgio n. 9.474/1997 (direitos trabalhistas, vide artigos 6 e 21): https://goo.gl/pKvTER
+
+ESTA CARTILHA É UM PRODUTO DO PROJETO EMPODERANDO REFUGIADAS
+O Empoderando Refugiadas é um projeto coordenado pela Rede Brasil do Pacto Global vi - por meio de seu Grupo Temático de Direitos Humanos e Trabalho numa iniciativa conjunta com o ACNUR e a ONU Mulheres. O projeto tem os seguintes parceiros estratégicos: Caritas Arquidiocesana de São Paulo, Consulado da Mulher, Fox Time Recursos Humanos, ISAE, Migraflix e Programa de Apoio para a Recolocação dos Refugiados (PARR). Além disso, em suas duas edições, o projeto contou com os seguintes parceiros: Carrefour, EMDOC, Facebook, Itaipu Binacional, Lojas Renner e Sodexo.
+
+INICIATIVA
+Empoderando REFUGIADAS
+UM GLOBAL COMPACT Pacto Global Rede Brasil [Coordenação]
+UNHCR ACNUR Agência da ONU para Refugiados
+ONU MULHERES Entidade das Nações Unidas para a Igualdade de Gênero e o Empoderamento das Mulheres
+
+PARCEIROS ESTRATÉGICOS
+Caritas Arquidiocesana de SÃO PAULO
+Consulado da Mulher
+foxtime Recursos Humanos
+ISAE Escola de Negócios
+MIGRAFLIX
+PARR PROGRAMA DE APOIO PARA A RECOLOCAÇÃO DOS REFUGIADOS
+
+EMPRESAS PARCEIRAS
+Carrefour
+EMDOC Mobilidade superando fronteiras
+facebook
+LOJAS RENNER S.A. RENNER CAMICADO youcom realize
+sodexo SERVIÇOS DE QUALIDADE DE VIDA
+
+1CONARE. Dados sobre Refúgio no Brasil. Solicitações de Refúgio: por país de origem (2016). Disponível em: www.acnur.org/portugues/recursos/estatisticas/dados-sobre-refugio-no-brasil. Acesso em 24 de julho de 2017.
+2RAMIREZ, Andrés. Os desafios diante do crescimento de refugiados em São Paulo. 03/06/2015. Disponível em: https://nacoesunidas.org/artigo-os-desafios-diante-do-crescimento-de-refugiados-em-sao-paulo-andres-ramirez-representante-do-acnur-no-brasil/. Acesso em 15 de junho de 2016.
+3CARITAS ARQUIDIOCESANA DE SÃO PAULO. Projeto Centro de Referência para Refugiados: Solicitantes de Refúgio e Refugiados Cadastrados na Caritas Arquidiocesana de São Paulo - PERFIL 2016. São Paulo. 2016. vinte slides. Apresentação em Power Point.
+4UNHCR. http://www.unhcr.org/women.html.
+5Dados retirados da dissertação de mestrado: “A Integração Local dos refugiados no Brasil e os direitos humanos: o papel das empresas”, de autoria de Vanessa Celano Tarantini (Universidade de São Paulo, 2016).
+6 REDE BRASIL DO PACTO GLOBAL
+Lançado em 2000, o Pacto Global da ONU é a maior iniciativa de sustentabilidade corporativa do mundo. Reúne mais de 12 mil signatários - entre empresas e outras organizações - em quase 170 países com o objetivo de alinhar os negócios a dez princípios nas áreas de direitos humanos, trabalho, meio ambiente e combate à corrupção. Criada em 2003 e hoje a quarta maior rede do mundo e a maior das Américas, com mais de 700 signatários, a Rede Brasil do Pacto Global é vinculada ao Programa das Nações Unidas para o Desenvolvimento (PNUD Brasil). A iniciativa promove ações colaborativas lideradas pelo setor privado, por meio da construção de parcerias com diversos setores. Entre no site www.pactoglobal.org.br e saiba como a sua empresa ou organização pode se tornar signatária.
+
+
+
+
+---------------
+
+------------------------------------------------------------
+
+
+

@@ -1,0 +1,351 @@
+﻿
+<Header>
+	<title>
+		<tit> RELATÓRIO ANUAL 2017 CÁTEDRA SÉRGIO VIEIRA DE MELLO </tit>
+		<fileName> PT_001 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Relatório </textType>
+		<subcorpus> PT-BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.acnur.org/portugues/wp-content/uploads/2018/02/C%C3%A1tedra-S%C3%A9rgio-Vieira-De-Mello_Relat%C3%B3rio-Anual_ACNUR-2017.pdf </source>
+		<publisher> ACNUR </publisher>
+		<pubDate> 2017 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 25 fev 2021 </accessDate>
+		<researcher> Ester Saraiva </researcher>
+		<comments> </comments>
+	</sourceText>
+	<author>
+		<institution> ACNUR e Cátedra Sérgio Vieira de Mello </institution>
+	</author>
+</Header>
+
+
+RELATÓRIO ANUAL 2017
+CÁTEDRA SÉRGIO VIEIRA DE MELLO
+RELATÓRIO ANUAL 2017
+CÁTEDRA SÉRGIO VIEIRA DE MELLO
+ 
+UNHCR
+ACNUR
+Agência da ONU para Refugiados
+
+CSVM CÁTEDRA SÉRGIO VIEIRA DE MELLO
+
+INTRODUÇÂO
+INGRESSO E REVALIDAÇÃO
+ENSINO
+SUMÁRIO
+PESQUISA
+EXTENSÃO
+CONCLUSÃO
+INTRODUÇÃO
+O presente relatório é resultado dos dados e informações coletados1 em agosto de 2017 pelo ACNUR - a Agência da ONU para Refugiados - junto às Instituições de Ensino Superior (IES) que integram a Cátedra Sérgio Vieira de Mello (CSVM)2. Este documento tem como objetivo tornar público os esforços empreendidos pela CSVM e suas instituições parceiras na promoção, defesa e avanço dos direitos das pessoas refugiadas e solicitantes de refúgio no Brasil.
+Em 2017, a Cátedra ampliou suas atividades, elevando seu alcance em relação à cobertura do território nacional e ao número de instituições parceiras. Atualmente, 17 universidades fazem parte da rede, atuando nacional e localmente na agenda do refúgio. Além disso, houve expansão no número de iniciativas voltadas à inclusão de pessoas refugiadas e solicitantes de refúgios nos ambientes universitários. Tais iniciativas abarcam desde atividades de ensino da língua portuguesa, passando por serviços de assistência jurídica e saúde, até a implementação de políticas de ingresso e permanência nas IES.
+A CSVM foi criada em 2004 com o objetivo inicial de promover o direito internacional das pessoas refugiadas. Após 13 anos, a Cátedra tem se revelado um ator fundamental para garantir que pessoas refugiadas e solicitantes de refúgio tenham acesso a direitos e serviços no Brasil, oferecendo valioso apoio ao processo de integração local. Felizmente, a CSVM tem encontrado cada vez mais adesão, e esperamos que a rede alcance a marca de 20 instituições parceiras até o final de 2017.
+Nas próximas páginas, você encontrará os principais números e informações sobre as atividades implementadas no âmbito da CSVM. Esperamos que as informações aqui compartilhadas contribuam para a ampliação e coordenação dos esforços voltados à integração de pessoas refugiadas no Brasil.
+O QUE É A CSVM?
+Promover a educação, pesquisa e extensão acadêmica voltada a população em condição de refúgio é um dos objetivos da Agência da ONU para Refugiados (ACNUR). Desde 2004, o ACNUR implementa a Cátedra Sérgio Vieira de Mello (CSVM) em cooperação com centros universitários nacionais e com o Comitê Nacional para Refugiados (CONARE).
+Neste acordo de cooperação com as universidades interessadas, o ACNUR estabelece um Termo de Referência com objetivos, responsabilidades e critérios para adesão à iniciativa dentro das três linhas de ação: educação, pesquisa e extensão. Além de difundir o ensino universitário sobre temas relacionados ao refúgio, a Cátedra também visa promover a formação acadêmica e a capacitação de professores e estudantes dentro desta temática. O trabalho direto com os refugiados em projetos de extensão também é definido como uma grande prioridade. Como exemplos de iniciativas, diversas universidades têm desenvolvido ações para fomentar o acesso e permanência ao ensino, a revalidação de diplomas, assim como o ensino da língua portuguesa à população de refugiados.
+A importância desta iniciativa foi reconhecida pela Declaração e Plano de Ação do México para Fortalecer a Proteção Internacional dos Refugiados na América Latina, assinada em 2004 por 20 países da região e que recomenda a investigação interdisciplinar da promoção e da formação do direito internacional dos refugiados.
+A Cátedra, como seu nome indica, é uma homenagem ao brasileiro Sérgio Vieira de Mello, morto no Iraque em 2003 e que dedicou grande parte da sua carreira profissional nas Nações Unidas trabalhando com refugiados, como funcionário do ACNUR.
+
+Universidadades
+Conveniadas
+Atualmente, a CSVM é composta por 17 Instituições de Ensino Superior espalhadas em 9 estados da federação e 15 cidades. Em 20173, três novas instituições se somaram ao convênio: Universidade Federal de Roraima (UFRR), Universidade do Estado do Rio de Janeiro (UERJ) e Instituto Casa de Ruy Barbosa (ICRB). Outras 5 universidades já apresentaram planos de trabalho e estão em vias de concretizar a assinatura do convênio (Universidade de Brasília, Universidade Católica de Brasília, Universidade Federal Fluminense e Universidade Estadual de Campinas).
+As instituições com vínculo ativo são:
+• Fundação Casa de Ruy Barbosa (FCRB)
+• Pontifícia Universidade Católica de São Paulo (PUC -SP)
+• Universidade Católica de Santos (UNISANTOS)
+• Universidade de Vila Velha (UW)
+• Universidade do Vale do Rio dos Sinos (UNISINOS)
+• Universidade Estadual da Paraíba (UEPB)
+• Universidade do Estado do Rio de Janeiro (UERJ)
+• Universidade Federal da Grande Dourados (UFGD)
+• Universidade Federal de Roraima (UFRR)
+• Universidade Federal de Santa Catarina (UFSC)
+• Universidade Federal de Santa Maria (UFSM)
+• Universidade Federal de São Carlos (UFSCAR)
+• Universidade Federal do ABC (UFABC)
+• Universidade Federal do Espírito Santo (UFES)
+• Universidade Federal de São Paulo (UNIFESP)
+• Universidade Federal do Paraná (UFPR)
+• Universidade Federal do Rio Grande do Sul (UFRGS)
+
+1. INGRESSO E REVALIDAÇÃO
+
+INGRESSO
+
+Garantir o direito à educação em todos os níveis é um aspecto fundamental do processo de integração local de pessoas refugiadas. A CSVM tem se engajado cada vez mais na promoção de políticas de ingresso e permanência em Instituições de Ensino Superior. Em 2016, 6 universidades ofereciam procedimentos regulamentados de ingresso facilitado pra refugiados. Em 2017 esse número aumentou: agora são 9 as universidades conveniadas com processos de admissão facilitados, os quais reconhecem a situação atípica dos refugiados, garantindo o efetivo do acesso ao ensino superior por parte desta população. No total, essas universidades oferecem mais de 100 vagas nos mais diversos cursos e níveis (gradução e pós-graduação). Para além de políticas de ingresso, 7 universidades (UFPR, UVV, UNISINOS, UFRGS, UERJ, UFSCAR, UFES) oferecem procedimentos específicos de reingresso para pessoas refugiadas, possibilitando que prossigam com os estudos iniciados em seus países de origem ou residência habitual.
+
+Universidades conveniadas com
+Procedimento Regulamentado de Ingresso Facilitado
+• Universidade Católica de Santos (UNISANTOS)
+• Universidade de Vila Velha (UVV)
+• Universidade do Estado do Rio de Janeiro (UERJ)
+• Universidade Federal de Santa Maria (UFSM)
+• Universidade Federal de São Carlos (UFSCAR)
+• Universidade Federal do ABC (UFABC)
+• Universidade Federal do Espírito Santo (UFES)
+• Universidade Federal do Paraná (UFPR)
+• Universidade Federal do Rio Grande do Sul (UFRGS)
+
+INGRESSO
+9 UNIVERSIDADES COM PROCEDIMENTOS DE INGRESSO FACILITADO
+70 É O NÚMERO APROXIMADO DE REFUGIADOS QUE INGRESSARAM EM IES DA CSVM EM 2016/2017
++100 VAGAS OFERTADAS ANUALMENTE NOS MAIS DIVERSOS CURSOS
+
+INGRESSO
+Para além das 9 universidades que já implementaram políticas de ingresso para pessoas refugiadas e solicitantes de refúgio, outras universidades parte da CSVM ou em vias de adesão estão implementando ou já possuem políticas de ingresso para pessoas refugiadas e solicitantes de refúgio. Esse é o caso da Universidade Federal de Santa Catarina (UFSC), Universidade de Brasília (UnB), Universidade Federal de São Paulo (UNIFESP), Universidade Estadual da Paraíba (UEPB), Universidade Estadual de Campinas (UNICAMP) e Universidade Federal Fluminense (UFF). Além disso, universidades que não fazem parte da CSVM, como a Universidade Federal do Triângulo Mineiro (UFTM) e a Universidade Federal da Integração Latino-Americana (UNILA), oferecem procedimentos facilitados para pessoas refugiadas ou pessoas merecedoras de proteção internacional.
+Um dos principais desafios em relação a políticas de ingresso é sensibilizar institucionalmente os gestores universitários sobre a situação específica das pessoas refugiadas, cujo acesso à documentação pode ser restrito. Além disso, é necessário articular junto ao governo federal mecanismo específicos para comprovação de conclusão do ensino médio por parte dessa população. Por fim, as redes de proteção de pessoas refugiadas e solicitantes de refúgio devem trabalhar conjuntamente para garantir que oportunidades de acesso ao ensino superior sejam amplamente divulgadas.
+REVALIDAÇÃO
+A integração local de pessoas refugiadas tem maior sucesso em contextos onde existem oportunidades de aproveitamento dos investimentos e esforços anteriormente realizados nas áreas de educação e qualificação profissional. O perfil das pessoas refugiadas no Brasil é diverso e inclui um expressivo número de indivíduos com diplomas de graduação e/ou pós-graduação. A CSVM tem se engajado em estabelecer procedimentos de revalidação sensíveis à situação específica dessa população, o que inclui levar em consideração questões ligadas a barreiras linguísticas ou documentação incompleta. Com diplomas revalidados, pessoas refugiadas encontram maiores oportunidades de integração laboral, tendo melhores chances de alcançar auto-suficiência e se integrar localmente. Além disso, ao terem a possibilidade de prosseguir desenvolvendo seus projetos de vida e aspirações educacionais/profissionais, refugiados podem contribuir ativamente com o desenvolvimento de suas comunidades de acolhida. Ciente de tal fato, o ACNUR tem focado na expansão das oportunidades de revalidação de diplomas no Brasil. Em 2016, a Agência firmou um acordo com a ONG Compassiva para apoiar pessoas refugiadas neste processo.
+22 É O NÚMERO DE DIPLOMAS REVALIDADOS EM 2016 E 2017* POR UNIVERSIDADES DA CSVM E COMPASSIVA
+*até agosto de 2017.
+
+Universidades conveniadas com
+Procedimento Regulamentado de Revalidação de Diplomas para Refugiados
+• Universidade Federal do ABC (UFABC)
+• Universidade Federal do Paraná (UFPR)
+• Universidade Federal do Espírito Santo (UFES) 
+• Fundação Casa de Ruy Barbosa (FCRB)
+
+REVALIDAÇÃO
+
+Dentre os parâmetros benéficos oferecidos pelas universidades que estabeleceram procedimentos de revalidação voltados para pessoas refugiadas, podemos listar como boas práticas:
+• Isenção de Taxas
+• Dispensa de Tradução Juramentada 
+• Possibilidade de revalidação quando documentos estão incompletos 
+• Comissões ad hoc para avaliação de conhecimentos
+Para além das Universidades que já possuem procedimentos implementados ou que reconhecem diplomas de instituições estrangeiras sem necessidade de revalidação, outras 5 universidades que já são parte da CSVM ou estão em vias de adesão estão discutindo e implementando ações nesta área: UFGD, UFSM, UFSC, UFF e UNICAMP.
+O ACNUR, a CSVM e a ONG Compassiva prosseguirão trabalhando para ampliar as oportunidades de revalidação de diplomas para pessoas refugiadas, garantindo parâmetros sensíveis à situação vivenciada por essa população.
+Para saber mais sobre o trabalho da ONG Compassiva, acesse o site:
+http://compassiva.org.br
+
+
+2. ENSINO
+
+ENSINO
+A CSVM está comprometida com o tripé-universitário, fomentando atividades nas áreas de ensino, pesquisa e extensão. Desde sua criação, em 2004, a CSVM incentiva Instituições de Ensino em todo país a incorporarem às suas grades curriculares disciplinas que contemplem a temática do refúgio, abordando as mais diversas áreas. Com isso, a CSVM busca construir uma comunidade acadêmica sensível à realidade das pessoas refugiadas, promovendo a capacitação de professores e estudantes.
+Todas as universidades integrantes da CSVM possuem disciplinas que abordam a temática do refúgio em seus currículos, enquanto 13 possuem disciplinas específicas sobre a temática ou cursos especializados. 15 Universidades possuem disciplinas na graduação4, 10 em programas de mestrado5 e 2 em programas de doutorado (UERJ e UNISANTOS). No total, mais de 1.000 alunos tiveram a oportunidade de cursar tais disciplinas no ano de 2016. Os cursos são ofertados nos mais diversos departamentos: ciências sociais, antropologia, geografia, serviço social, relações internacionais, medicina, enfermagem, direito, letras, dentre outros.
+ENSINO
+16 UNIVERSIDADES COM DISCIPLINAS SOBRE O TEMA DO REFÚGIO
+12 UNIVERSIDADES COM DISCIPLINAS EM PROGRAMAS DE MESTRADO E/OU DOUTORADO
+
++1000 ESTUDANTES CURSARAM DISCIPLINAS EM 2016
+
+3. PESQUISA
+PESQUISA
+Promover , avançar e fomentar temas ligados à proteção e integração local de pessoas refugiadas no Brasil e no mundo é um dos objetivos da CSVM. Em 2016 e 2017, o engajamento da CSVM com atividades de pesquisa gerou importantes resultados como o levantamento sobre o perfil sociodemográfico e laboral das migrações venezuelanas no Brasil. A produção de dados e evidências sobre refúgio e migração, assim como estudos voltados para compreensão de dinâmicas socioculturais das comunidades de refúgio no país são elementos indispensáveis para construção de políticas públicas na área. É desejo do ACNUR garantir cada vez mais a divulgação dos resultados das pesquisa realizadas no âmbito da CSVM, assim como expandir trabalhos de pesquisa conjuntos em parceria com a sociedade civil e instituições públicas.
+Todas as universidades integrantes da CSVM possuem grupos de pesquisa sobre refúgio e 10 instituções possuem grupos registrados junto ao CNPq. Para além de fomentar a produção acadêmica relacionada ao refúgio e migração, tais grupos divulgam a temática através de seminários, conferências e palestras para a comunidade acadêmica e população em geral.
+PESQUISA
+PESQUISA
+16 UNIVERSIDADES COM GRUPOS DE PESQUISA SOBRE REFÚGIO
+10 UNIVERSIDADES COM GRUPOS DE PESQUISA REGISTRADOS JUNTO AO CNPq
+
+PESQUISA
+• FCRB: Centro de Estudos em Direito e Política de Imigração e Refugio (CEDPIR)
+• UEPB: Núcleo de Estudo e Pesquisa sobre Deslocados Ambientais (NEPDA)
+• UNISANTOS: Direitos Humanos e Vulnerabilidades
+• UFRGS: Constitucionalismo na América Latina: paradigmas, práticas jurídicas e novos sujeitos de direito 
+• UVV: Núcleo de apoio aos refugiados no Espírito Santo (NUARES)
+• UFSM: Direitos Humanos e Mobilidade Humana Internacional (MIGRAIDH)
+• UFRR: Laboratório de Estudos Sobre Migrações Internacionais, Refúgio e Apatridia (LAMIGRA)
+• UFSC: Centro de Pesquisas e Práticas Pós-coloniais e Decoloniais aplicadas às Relações Internacionais e ao Direito Internacional (EIRENÈ)
+• UFES: Núcleo de Pesquisas sobre Estrangeiros, Migrantes e Refugiados
+• UFPR: Núcleo de Estudos do Mercosul (NUPESUL) e Direitos Humanos e Desenvolvimento.
+• UFSCAR: Laboratório de Estudos Migratórios (LEM)
+
+PESQUISA
+Um dos principais resultados na área de pesquisa durante o período abrangido pelo levantamento que resultou neste relatório foi, sem dúvida, a parceria estabelecida entre o ACNUR, o Conselho Nacional de Imigrações (CNIg), o Observatório das Migrações Internacionais (OBMigra) e a CSVM para realização do levantamento sobre o perfil das imigrações venezuelanas no Brasil.
+A pesquisa - desenhada pelo OBMigra e executada pela CSVM na UFRR - analisou o perfil sociodemográfico e laboral dos imigrantes venezuelanos e forneceu importantes dados para formulação e implementação de políticas migratórias para essa população.
+Outras iniciativas como essa devem ser fomentadas, permitindo a produção de dados cada vez mais refinados sobre a população de refugiados e solicitantes de refúgio no Brasil.
+Para saber mais sobre o perfil sociodemográfico das imigrações venezuelanas, acesse o resumo executivo da pesquisa:
+https://goo.gl/9z7hhn
+4. EXTENÇÃO
+EXTENSÃO
+Quando se trata da proteção e integração local de pessoas refugiadas e solicitantes de refúgio, a extensão é - sem dúvida - o principal pilar do tripé universitário: ao garantir que a universidade seja agente dos processos de transformação social, engajando-a com as comunidades ao seu redor e integrando essas comunidades ao ambiente acadêmico, a extensão possibilita a contrução de uma sociedade (e universidade) cada vez mais plural e inclusiva. Quando se trata de extensão universitária voltada para a promoção e realização dos direitos das pessoas refugiadas e solicitantes de refúgio, as instituições ligadas à CSVM oferecem um amplo leque de projetos e iniciativas.
+Dentre as iniciativas existentes, pode-se listar atividades de assessoria jurídica, ensino da língua portuguesa, acesso à saúde, apoio psicossocial, suporte à integração no mercado laboral, dentre outros projetos. As universidades integrantes da CSVM relataram ter realizado mais de 1.000 atendimentos mensais para refugiados, solicitantes de refúgio e imigrantes, engajando um expressivo número de professores/as e estudantes.
+
+
+Assessoria Jurídica
+As universidades integrantes da CSVM são importantes atores na proteção de pessoas refugiadas e solicitantes de refúgio. O acesso à justiça é um elemento fundamental no processo de integração local e no fortalecimento da proteção dessa população, seja em relação ao acesso ao instituto do refúgio, seja em relação à garantia de direitos sociais e trabalhistas. Ao estabelecerem serviços de apoio legal por intermédio de seus núcleos de assessoria jurídica ou instituições parceiras, as universidades da CSVM colaboram com o ACNUR na implementação de seu mandato, fortalecendo a rede de apoio e proteção no Brasil e na região. Mensalmente, as Universidades da CSVM relataram realizar cerca de 250 atendimentos legais para pessoas refugiadas e solicitantes de refúgio.
+Globalmente, o ACNUR tem se empenhado em oferecer suporte para ampliação dos serviços de assessoria jurídica legal prestados a pessoas refugiadas e solicitantes de refúgio por intermédio de universidades. Em parceria com o Comitê Helsinki Húngaro para Refugiados, a Agência desenvolveu um guia para a implementação de clínicas legais em 2014, Guide on Establishing a Refugee Law Clinic (disponível em língua inglesa em: https://goo.gl/7hN3i8). Um dos objetivos do ACNUR Brasil é fortalecer os serviços de assessoria jurídica já existentes e apoiar universidades que desejam implementar serviços semelhantes em suas instituições.
+Universidades com Serviços de Assessoria Jurídica Para Pessoas Refugiadas e Solicitantes de Refúgio
+• Fundação Casa de Ruy Barbosa
+• Univesidade Estadual da Paraíba
+• Universidade de Vila Velha
+• Universidade Federal de Santa Maria
+• Universidade Federal de Roraima
+• Universidade Federal de Santa Catarina
+• Universidade Federal do Espírito Santo
+• Universidade Federal do Paraná
+• Universidade Federal do Rio Grande do Sul
+250 É O NÚMERO APROXIMADO DE ATENDIMENTOS LEGAIS REALIZADOS PELA CSVM*
+*Mensalmente
+9 UNIVERSIDADES OFERECEM SERVIÇOS DE ASSESSORIA JURÍDICA
+Serviços de Saúde
+Cada vez mais, as Universidades da CSVM têm ampliado os departamentos engajados com a agenda do refúgio. Tradicionalmente, faculdades de direito e relações internacionais costumavam capitanear a implementação dos planos de trabalho no âmbito da Cátedra. No entanto, nos últimos anos, outros departamentos - como letras, saúde, serviço social, arquitetura - têm somado esforços na realização de projetos e atividades no marco da CSVM.
+No Brasil, o direito à saúde é garantido a refugiados e solicitantes de refúgio de forma universal e irrestrita. No entanto, ainda é necessário avançar na sensibilização de prestadores de serviço em relação à condição específica de pessoas refugiadas e solicitantes de refúgio. Umas das atividades implementadas pelas instituições parte da CSVM é, justamente, oficinas de capacitação e sensibilização de agentes públicos, incluindo agentes de saúde. Além disso, 8 universidades oferecem a pessoas refugiadas e solicitantes de refúgio serviços específicos na área de saúde, incluindo saúde mental e apoio psicossocial (SMAPS). Em média, as universidades realizam 40 atendimentos mensais.
+Universidades em via de adesão à CSVM como a UnB, UFF e UNI- CAMP já incorporaram aos planos de trabalho apresentados ao ACNUR ações na área de saúde.
+Universidades com Serviços de Saúde Para Pessoas Refugiadas e Solicitantes de Refúgio
+
+• Universidade Federal de São Paulo 
+• Universidade de Vila Velha 
+• Universidade Federal de Roraima 
+• Universidade Federal do Espírito Santo 
+• Universidade Federal do Rio Grande do Sul 
+• Universidade Federal de Santa Maria 
+• Universidade Federal de Santa Catarina 
+• Universidade Federal do Paraná
+40 É O NÚMERO APROXIMADO DE ATENDIMENTOS EM SAÚDE REALIZADOS PELA CSVM*
+•Mensalmente
+9 UNIVERSIDADES OFERECEM SERVIÇOS DE SAÚDE
+Saúde Mental e Apoio Psicossocial
+Recomeçar a vida em um novo contexto e lidar com experiências de deslocamento forçado é um importante desafio para pessoas refugiadas. Quando bem recepcionadas, com acesso à informação e disponibilidade de serviços básicos, problemas relacionados à saúde mental e ao bem-estar psicossocial costumam ser mitigados e prevenidos. Reações a situações de perda, dor e violência são comuns. Quando redes de proteção e apoio comunitário estão disponíveis, essas situações podem ser rapidamente superadas, tornando os indivíduos mais resilientes. No entanto, guando redes de apoio não estão disponíveis, problemas de saúde mental e bem-estar psicossocial podem emergir ou se deteriorar. Sendo assim, um dos pilares centrais da estratégia de proteção do ACNUR é garantir que riscos e consequência de médio e longo prazo relacionados à saúde mental e ao bem-estar psicossocial sejam mitigados e prevenidos, oferecendo às pessoas de interesse do ACNUR acesso a serviços adequados de acordo com suas necessidades específicas.
+A CSVM tem se engajado em atividades de SMAPS e contribuído para o fortalecimento da rede de apoio no Brasil. Cinco universidades oferecem serviços voltados especificamente para este tema, integrando uma rede mais ampla de organizações que implementam uma variedade de serviços que vão desde orientação básica para aqueles que chegam ao país até serviços especializados.
+Universidades com serviços de
+Saúde Mental e Apoio Psicossocial
+• Universidade Federal do Rio Grande do Sul
+• Universidade de Vila Velha
+• Universidade Federal de Santa Maria
+• Universidade Federal de Santa Catarina
+• Universidade Federal do Paraná
+O ACNUR desenvolve em parceria com a Organização Mundial da Saúde e o Comitê Permanente Interagencial das Nações Unidas (IASC) diversas publicações relacionadas ao tema. Dentre as publicações disponíveis, as principais são:
+• Operational Guidance: Mental Health & Psychosocial Support Programming for Refugee Operations (2013)
+• Community-Based Protection & Mental Health & Psychosocial Support (2017)
+Ambas publicações podem ser encontradas na base de dados global do ACNUR, a plataforma RefWorld:
+http://www.refworld.org
+
+Apoio à
+Integração Laboral
+Enquanto que o principal propósito do ACNUR é assegurar os direitos e bem estar de pessoas refugiadas, o objetivo final da Agência é buscar soluções duradouras que as permitam reconstruir suas vidas com paz e dignidade. No Brasil, a solução duradoura preferida é a integração local, garantindo que refugiados possam construir vínculos com as comunidades de acolhida enquanto integram-se ao país através do acesso a fontes de geração de renda, obtenção de residência permanente/naturalização e aprendizagem do português.
+As Universidades da CSVM assumem um papel central nesse processo: para além de garantirem o acesso à educação, ampliando as possibilidade de inserção laboral, as instituições parceiras do ACNUR oferecem uma ampla gama de serviços indispensáveis ao processo de integração local.
+Algumas instituições oferecem serviços voltados especificamente ao processo de integração laboral, acompanhando de perto solicitantes de refúgio e refugiados em seu dia-a-dia no país, disponibilizando apoio e informações relevantes em relação ao mercado de trabalho. No total, 6 universidades oferecem esse apoio, realizando cerca de 250 atendimentos mensais, que incluem referenciamento para vagas de trabalho, orientação sobre obtenção de documentos, sensibilização de empregadores, dentre outras atividades.
+Universidades com serviços de Apoio à Integração Laboral
+• Universidade Estadual da Paraíba
+• Universidade de Vila Velha
+• Universidade Federal de Roraima
+• Universidade Federal de Santa Catarina
+• Universidade Federal do Espírito Santo
+• Universidade Federal do Paraná
+250 É O NÚMERO APROXIMADO DE ATENDIMENTOS VOLTADOS PARA INTEGRAÇÃO LABORAL REALIZADOS PELA CSVM*
+*Mensalmente
+6 UNIVERSIDADES OFERECEM
+SERVIÇOS DE INTEGRAÇÃO LABORAL
+Ensino da Língua Portuguesa
+Dentre as principais barreiras para integração local e acesso a direitos por parte de pessoas refugiadas e solicitantes de refúgio no Brasil, a língua portuguesa é - sem dúvida - a principal. A aprendizagem da língua garante a expansão das oportunidades de educação e trabalho, ao passo em que permite que refugiados vocalizem suas demandas e estreitem laços com a comunidade local.
+O engajamento das universidades da CSVM na oferta de cursos de língua portuguesa é fundamental para garantir que pessoas refugiadas e solicitantes de refúgio tenham a possibilidade de aprender o português, o que representa um grande avanço em relação às possibilidades de integração local.
+12 universidades da CSVM oferecem cursos de língua portuguesa, disponibilizando mais de 1.000 vagas anualmente.
+Universidades com Atividades
+Voltadas ao Ensino da Língua Portuguesa
+
+• Universidade Estadual da Paraíba
+• Universidade Federal de São Paulo
+• Universidade do Estado do Rio de Janeiro 
+• Universidade de Vila Velha 
+• Universidade Federal de Santa Maria 
+• Universidade Federal de Roraima 
+• Universidade Federal de Santa Catarina 
+• Universidade Federal de São Carlos 
+• Universidade Federal do Espírito Santo 
+• Universidade Federal do Paraná
+• Universidade do Vale do Rio do Sinos
+• Universidade Federal da Grande Dourados
+
+12 UNIVERSIDADES COM CURSOS DE PORTUGUÊS PARA REFUGIADOS E SOLICITANTES
++1000 VAGAS ANUAIS PARA REFUGIADOS E SOLICITANTES
+
+
+PERMANÊNCIA
+Para além de garantir o ingresso de pessoas refugiadas em cursos superiores, as universidades da CSVM também buscam implementar políticas de permanência para essa população. Em decorrência da situação específica que vivenciam, refugiados nem sempre podem garantir que recursos estejam disponíveis para custear gastos relacionados à educação. Assim, universidades oferecem bolsas de estudo, auxílio permanência, auxílio moradia, auxílio alimentação, residência estudantil, dentre outros benefícios visando garantir que a população de interesse do ACNUR possa concluir com sucesso o ensino superior.
+Vale mencionar que mesmo naquelas instituições onde não há políticas específicas de permanência, pessoas refugiadas têm o direito de acessar programas para pessoas em situação de vulnerabilidade desde que cumpram os requisitos etabelecidos.
+Universidades com Programas de Apoio à Permanência de Pessoas Refugiadas
+• Universidade Federal de Santa Maria
+• Universidade Católica de Santos
+• Universidade Federal de São Carlos
+• Universidade Federal do Espírito Santo 
+• Universidade Federal do Paraná
+• Fundação Casa de Ruy Barbosa
+• Universidade de Vila Velha
+
+7 UNIVERSIDADES COM POLÍTICAS DE PERMANÊNCIA PARA PESSOAS REFUGIADAS
+
+CONCLUSÃO
+A Cátedra Sérgio Vieira de Mello vem se consolidando enquanto ator indispensável para proteção e integração local de pessoas refugiadas no Brasil. Os números e atividades reportados pelas Instituições surpreendem e permitem vislumbrar o engajamento das comunidades acadêmicas com a causa do refúgio. A expectativa é que a CSVM se fortaleça cada vez mais, ampliando suas atividades e colaborando para o fortalecimento da rede de atenção a refugiados e solicitantes de refúgio no Brasil.
+O ACNUR espera que o presente relatório possa dar ainda mais visibilidade ao excelente trabalho sendo desenvolvido pelas Instituições parceiras, fortalecendo o apoio institucional aos projetos no âmbito da CSVM. A Agência está comprometida em garantir o apoio necessário para expansão e avanço da CSVM em 2018.
+Para saber mais sobre a CSVM, acesse o site do ACNUR Brasil
+http://www.acnur.org.br
+UNHCR ACNUR Agência da ONU para Refugiados
+CSVM CÁTEDRA SÉRGIO VIEIRA DE MELLO
+FUNDAÇÃO CASA DE RUY BARBOSA
+UNIVERSIDADE CATÓLICA DE SANTOS
+UNIVERSIDADE VILA VELHA
+UNISINOS
+UEPB UNIVERSIDADE ESTADUAL DA PARAÍBA
+UERJ UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO
+UFRR
+UFSC
+UNIVERSIDADE FEDERAL DE SANTA MARIA 1960
+UFSCar
+Universidade Federal do ABC
+UFES UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO
+UNIFESP UNIVERSIDADE FEDERAL DE SÃO PAULO 1933
+UFPR UNIVERSIDADE FEDERAL DO PARANÁ
+UFRGS
+
+
+6
+1 Os dados foram coletados através de um formulário online de pesquisa semiaberto desenvolvido pelo ACNUR Brasil e preenchido pelos/as professores ponto-focais da CSVM em suas respectivas instituições.
+2 Apesar de integrar a CSVM, a PUC-SP não participou deste levantamento.
+3 Até agosto
+4 Todas as universidades participantes da CSVM e que responderam ao formulário de pesquisa, com exceção da FCRB que não oferece cursos de graduação, apenas pós.
+5 UEPB, UNISANTOS, UERJ, UVV, UFSM, UFGD, UFRR, UNISINOS, UFES e UFPR.
+6 
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

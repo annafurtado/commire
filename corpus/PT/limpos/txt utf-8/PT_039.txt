@@ -1,0 +1,1674 @@
+﻿<Header>
+	<title>
+		<tit> Direito Internacional dos Refugiados Programa de ensino </tit>
+		<fileName> PT_039 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Material Didático </textType>
+		<subcorpus> PT-BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.acnur.org/portugues/wp-content/uploads/2018/02/Direito_Internacional_dos_Refugiados_-_Programa_de_ensino.pdf </source> 
+		<publisher> ACNUR </publisher>
+		<pubDate> Dez 2010 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 09 abr 2021 </accessDate>
+		<researcher> Mariana Andrade </researcher> 
+		<comments> comentários relevantes para o leitor </comments>
+	</sourceText>
+	<author>
+		<institution> Escritório Regional da a América do Sul ACNUR </institution>
+	</author>
+</Header>
+
+DIREITO INTERNACIONAL DOS REFUGIADOS
+Programa de ensino
+
+Primeira edição no Brasil: Dezembro de 2010. Edição final: Gabriel Gualano de Godoy Fotos: ©ACNUR
+Projeto gráfico e diagramação: Compasso Comunicação – www.artecompasso.com.br
+
+Para mais informações entrar em contato com o Escritório do ACNUR no Brasil.
+Caixa Postal 8560, CEP: 70312-970, Brasília / DF, Brasil Telefone: (61) 3044 5744
+Correio Eletrônico: brabr@unhcr.org Website: www.acnur.org.br
+
+Este programa foi desenvolvido pelo Escritório Regional para a América do Sul do ACNUR, com o apoio da Unidade Regional Legal do Escritório das Américas e da Divisão de Serviços de Proteção Internacional do ACNUR, e adaptado pelo Escritório do ACNUR no Brasil.
+
+Em particular os seguintes colegas contribuíram ao desenvolvimento deste programa: Eugenia Contarini, Martin Gottwald, Delfina Lawson, Martín Lettieri, Mark Manly, Federico Martínez, Juan Ignacio Mondelli, Juan Carlos Murillo e Ariel Riva. O conteúdo deste documento pode ser total ou parcialmente reproduzido, traduzido para outros idiomas ou adaptado para satisfazer as necessidades locais sem necessidade de solicitar a autorização prévia do ACNUR, desde que todo seu conteúdo seja distribuido de maneira gratuita e se mencione o ACNUR como fonte. O ACNUR agradeceria receber as copias das adaptações e/ou traduções deste documento.
+
+Índice
+1. Introdução ao programa de ensino de Direito Internacional dos Refugiados (DIR)	7
+2. Fundamentos: A importância da formação em Direito Internacional dos Refugiados (DIR), por Juan Carlos Murillo	12
+3. Objetivos do Programa de Ensino de DIR	16
+4. Como utilizar o programa de ensino de DIR?	17
+5. Programa de ensino de DIR	21
+Unidade 1: Introdução: Populações deslocadas	23
+Unidade 2: Elementos do Direito Internacional Público e marco jurídico da proteção internacional dos refugiados	29
+Unidade 3: O direito humano ao asilo. Introdução aos princípios fundamentais da proteção internacional de refugiados	35
+Unidade 4: Definições de refugiado: quem pode ser considerado refugiado?	41
+Unidade 5: O ciclo do deslocamento forçado	49
+Unidade 6: Culminação do ciclo de deslocamento: quando se deixa de ser refugiado?	59
+Unidade 7: Direitos dos refugiados e questões conexas	65
+Unidade 8: Desafios contemporâneos da proteção internacional	73
+Unidades complementárias	79
+Unidade 9: A proteção dos deslocados internos	81
+Unidade 10: A proteção dos apátridas	87
+Anexos	91
+Esquema de conteúdos temáticos	92
+Referências bibliográficas	100
+Distribuição horária	117
+
+Introdução
+1. Introdução ao Programa de Ensino de Direito Internacional dos Refugiados (DIR)
+
+O Alto Comissariado das Nações Unidas para Refugiados (ACNUR) considera que as atividades de formação e promoção do Direito Internacional dos Refugiados (DIR) constituem instrumentos que fortalecem as capacidades locais de acolhida e proteção dos refugiados e melhoram o entendimento da problemática do deslocamento forçado tanto nos países de asilo como nos países de origem1.
+
+No ano 2004, um grupo de representantes de diferentes países, organismos internacionais e diversas instituições da sociedade civil e da academia da América Latina adotaram a Declaração e Plano de Ação do México para fortalecer a proteção internacional de refugiados na América Latina2. Ali destacaram a importância das atividades de formação e promoção do DIR não apenas como uma área de trabalho autônoma, mas especialmente pela relevância para conseguir os outros objetivos estabelecidos pelo Plano em matéria de proteção e da busca de soluções duradouras para os refugiados da região.
+
+Desta forma, na América Latina se complementa a ênfase que no ano 2001 a Agenda para a Proteção3 tinha outorgado às atividades de formação e capacitação do DIR para o alcance de sua meta global (ver entre outras: Meta 1, pontos 2 e 6), criando novas perspectivas de trabalho e fomentando a participação direta de outros atores na proteção de refugiados e solicitantes dessa condição.
+
+As atividades de formação e promoção do DIR também resultam imprescindíveis frente às mudanças permanentes que acontecem nas dinâmicas do deslocamento forçado na região. Situações de deslocamento massivo de pessoas, o fenômeno crescente dos fluxos migratórios mistos, os vínculos estreitos entre situações de tráfico de migrantes, tráfico de pessoas e necessidades de proteção internacional, e a recente adoção de uma normativa legal interna em grande parte dos países da região, são algumas das temáticas que requerem uma permanente atualização para poder dar conta de cenários mutavéis e constantes desafios dentro dos quais se desenvolve a proteção internacional dos refugiados na América Latina.
+
+O ACNUR tem trabalhado regularmente com diversas Universidades e Centros de Pesquisa da região, não apenas por considerá-los atores privilegiados na promoção, formação, pesquisa e desenvolvimento progressivo do DIR, mas porque na América Latina, as Universidades e suas comunidades acadêmicas têm se caracterizado por configurar uma rede de apoio permanente para fomentar a inclusão da população de interesse do ACNUR nas sociedades de acolhida baseado em um marco de promoção do Direito Internacional dos Direitos Humanos.
+
+Na verdade, o projeto denominado “Cátedra Sergio Vieira de Mello” iniciado no ano 2004 em forma conjunta por vários escritórios do ACNUR da região, tem servido para construir uma sólida aliança com uma quantidade de centros universitários latino-americanos que têm demonstrado seu compromisso com o mandato do ACNUR através de distintas e variadas atividades voltadas a incentivar o conhecimento e formação profissional sobre esta temática, melhorar a situação dos refugiados e solicitantes da condição de refugiado na região, e facilitar seu acesso aos recursos e serviços acadêmicos e de extensão universitária que as Universidades possuem.
+
+Em razão desta experiência de trabalho adquirida com as Universidades participantes do projeto “Cátedra Sergio Viera de Mello”, o ACNUR tem percebido a preocupação crescente da comunidade acadêmica sobre a necessidade de contar com uma ferramenta pedagógica de referência para a incorporação e implementação de cursos específicos sobre DIR nos níveis de graduação e pós-graduação universitários, e também para organizar diferentes atividades de divulgação da temática.
+
+A partir desta premissa, o ACNUR tem desenvolvido o presente Programa de Ensino de Direito Internacional de Refugiados para colaborar com as Faculdades de Direito, Relações Internacionais, Ciência Política e outras carreiras afins de Universidades na América Latina em seus objetivos de promoção, pesquisa e formação em Direito Internacional dos Refugiados, desenhando uma ferramenta simples, flexível e atualizada que sirva como referência inicial para o desenho e execução de um curso universitário sobre a temática de refugiados e tomando como quadro contextual uma visão latino-americana do desenvolvimento que a proteção internacional de refugiados teve na região.
+
+No Brasil, a Cátedra Sérgio Vieira de Mello foi incorporada por diversas universidades: públicas, privadas, confessionais e leigas. O I Seminário Nacional CSVM reuniu em junho de 2010 instituições acadêmicas de diferentes partes do país, que desenvolvem atividades acadêmicas e comunitárias. Também contou com a participação de refugiados que estudam atualmente em universidades brasileiras.
+
+Com base nas exposições feitas durante o seminário, foram sugeridas as seguintes ações futuras para consolidar e dar continuidade ao trabalho da Cátedra:
+
+1) Integrar as universidades (principalmente as que estão em área de fronteira) nas Redes de Proteção mantidas pelo ACNUR e seus parceiros no Brasil, para que possam apoiar a proteção e assistência aos solicitantes de refúgio e refugiados.
+
+2) Criar mais espaços multidisciplinares nas universidades, fazendo com que o tema do refúgio seja abordado por diferentes disciplinas.
+
+3) Fomentar um maior diálogo com refugiados para, além da produção de conhecimento, alcançar uma melhor compreensão da sua realidade.
+
+4) Fomentar a cultura de paz e da diversidade no meio universitário.
+5) Aumentar as vagas para refugiados nas universidades, assegurando as condições para que eles possam concluir os cursos.
+
+6) Criar um banco de dados atualizado de trabalhos acadêmicos e glossário sobre refúgio no Brasil.
+
+7) Melhorar o tratamento e o relacionamento das universidades com os refugiados.
+
+8) Criar um grupo de trabalho para a formulação de uma proposta de diretrizes sobre revalidação e reconhecimento de diplomas a ser encaminhada ao CONARE, que a enviaria ao Conselho Nacional de Educação.
+
+9) Utilizar capacidade das universidades para capacitar agentes públicos envolvidos com o tema de refúgio
+
+Estas atividades fazem parte de uma Plano de Ação do ACNUR em parceria com as instituições envolvidas com a Catédra.
+
+A tradução para o português deste Programa de Ensino sobre DIR é mais uma iniciativa concebida no marco da troca de experiências e informações sobre as atividades acadêmicas e comunitárias desenvolvidas no âmbito da Cátedra Sérgio Vieira de Mello no Brasil. Esta publicação também servirá para abrir e estabelecer um canal mais permanente de trocas entre o ACNUR e o meio acadêmico.
+
+Andrés Ramirez
+Representante do ACNUR no Brasil	
+
+1 Plano de Ação de México: O Impacto da Solidariedade Regional 2005-2007, ACNUR, pág. 30.
+2 Declaração e Plano de Ação de México, 2004.
+3 Declaração dos Estados Partes e Programa de Ação (Agenda para a Proteção) (2001).
+
+
+2. Fundamentos: A importância da formação em Direito Internacional dos Refugiados (DIR) por Juan Carlos Murillo
+
+Por que ensinar DIR hoje?
+
+Tradicionalmente, quando falamos deste ramo do Direito internacional observamos que existem conteúdos distintos que podem ser abordados: os âmbitos de aplicação (subjetivo, normativo e orgânico): Quem é um refugiado e quem não é, qual é o marco normativo para sua proteção em nível universal ou regional, ou o papel que a comunidade internacional tem encomendado ao ACNUR, entre outros.
+
+Igualmente, podemos considerar fenômenos como o ciclo do deslocamento forçado, abordar as causas pelas quais as pessoas têm que atravessar uma fronteira internacional, como elas conseguem ter acesso a um território e a um procedimento, que direitos têm, como conseguem, o que implica conseguir essa proteção e naturalmente, como trabalhamos para que essas pessoas alcancem uma solução duradoura, ou seja, que se integrem às comunidades onde chegaram ou que tenham a oportunidade de regressar aos seus países de origem ou de reassentamento num terceiro país.
+
+Igualmente poderíamos abordar o DIR em termos de quais são os novos desafios que enfrenta, considerando que, embora vivamos em um mundo que se diz solidário e fala de uma tradição generosa de asilo, na prática levanta barreiras e muralhas frente àqueles que necessitam proteção internacional.
+
+Parafraseando o Alto Comissário das Nações Unidas para Refugiados Antonio Guterres, nos perguntamos o que acontece com este mundo, no qual, apesar das mudanças importantes que vivemos, existem milhões de pessoas que abandonam seus lares, muitas delas por violações dos seus direitos humanos ou questões de intolerância, discriminação racial, xenofobia ou perseguição, e o que vamos fazer com relação a esses novos fenômenos que as pessoas mencionam como “refugiados ambientais”, “refugiados ecológicos”, “refugiados econômicos” ou “refugiados” como termo genérico que compreende distintas situações.
+
+Certamente, essas respostas não são dadas pelo que tradicionalmente temos entendido como DIR, mas é imprescindível poder refletir permanentemente sobre a vigência do marco normativo para enfrentar os desafios de hoje.
+
+E aqui vamos dar uma resposta concreta à pergunta que formulamos no início: Por que estamos interessados em ensinar DIR?
+
+Embora a Convenção Relativa ao Estatuto dos Refugiados de 1951 tenha só quarenta e seis artigos, o fato é que ainda não alcançamos um entendimento pleno entre Estados, sociedade civil, organismos internacionais e indivíduos, de como aplicar esses poucos artigos.
+
+Portanto, existe a necessidade permanente de gerar um espaço de discussão e formação que nos permita refletir sobre quais dos desafios acima mencionados devem ser tratados no marco do DIR, quais são as oportunidades que o desenvolvimento da proteção internacional nos oferece para dar resposta a estes novos desafios e certamente, como podemos aumentar o alcance e a efetividade da proteção internacional sustentando interpretações que sejam consistentes, harmoniosas e sobretudo, coerentes com o propósito e finalidade da Convenção de 1951 e seu Protocolo de 1967.
+
+Mas, em um mundo que muda tão rapidamente, é ainda mais importante ensinar DIR para sensibilizar as pessoas sobre o fato de que ainda há necessidades de proteção internacional em nível global, e particularmente na nossa América onde – embora hoje se considere mais democrática e representativa, e em um contexto no qual não existem campos de refugiados, nem fluxo massivo de pessoas ainda persistem as necessidades humanitárias de pelo menos 3,5 milhões de pessoas, se falamos de deslocados internos, solicitantes de asilo, refugiados, apátridas e outras pessoas necessitadas de proteção.
+
+Temos de refletir sobre o problema do deslocamento forçado como um fato contemporâneo e não como um fenômeno do passado, uma vez que também na América Latina hoje existem vítimas de violência doméstica, vítimas de tráfico humano, perseguidos por causa da sua orientação sexual, e muitas outras situações que geram a necessidade de solicitar proteção internacional em distintos países de nossa região.
+
+No entanto, qual o papel que as universidades são chamadas a desempenhar na promoção e divulgação do DIR?
+
+Particularmente faz sentido ensinar DIR porque ele ajuda a promover uma cultura de respeito, uma cultura de tolerância, uma cultura de solidariedade entre os estudantes nas salas de aula da universidade e, portanto, reforçar a posição da universidade como um fator de mudança. Também porque ele se configura como um espaço que pode contribuir para a tarefa de oferecer proteção.
+
+Um espaço que possa oferecer serviços aos solicitantes de asilo e aos refugiados.
+
+Um espaço no qual os refugiados possam igualmente ser educados.
+
+E, finalmente, um espaço para a sensibilização da comunidade, da nação, sobre a importância de manter vigente um sentimento humanitário.
+
+É necessário preservar tanto esse espaço humanitário quanto reiterar que em nosso continente existem pessoas que por distintas circunstâncias necessitam de proteção internacional.
+E também os trabalhadores humanitários têm muito que aprender, em matéria de refugiados, a partir da sala de aula universitária, como, por exemplo, aproveitar o desenvolvimento progressivo do Direito Internacional dos Direitos Humanos, do Direito Internacional Humanitário, e as destacadas pesquisas que se produzem nas universidades da região.
+
+Temos de reconhecer que muitos dos padrões estabelecidos pela Convenção de 1951 e seu Protocolo de 1967 têm sido amplamente superados por outros padrões e normas em matéria de Direitos Humanos e, portanto, devemos considerar como aplicar essas normas para complementar e reforçar a proteção dos refugiados.
+
+Em nível pedagógico, também precisamos incorporar as novas ferramentas já existentes e, especialmente, buscar o uso alternativo de outras metodologias de ensino como vídeos, apresentações audiovisuais ou internet.
+
+Em suma, certamente o espaço universitário é vital para o ensino do DIR na medida em que propicia a mudança de atitudes. Como temos notado no ACNUR, não é suficiente conhecer em profundidade o DIR, e também não é suficiente fazer uma análise jurídica sobre os critérios a aplicar para a determinação da condição de refugiado.
+
+Na maioria dos casos, em nossas respectivas sociedades, é uma atitude de abertura e de tolerância, a primeira coisa que temos de alcançar, a fim de fornecer uma efetiva proteção para aqueles que precisam.
+
+É conveniente terminar reiterando uma frase de um poeta latino-americano que diz: “muda, tudo muda” e levar essa idéia para reafirmar a nossa convicção de que o ensino do DIR também deve mudar, para o qual esperamos que este programa de Ensino do DIR possa dar uma contribuição relevante.
+
+Juan Carlos Murillo
+Assessor Jurídico Regional
+Chefe da Unidade Legal Regional do Escritório do ACNUR para as Américas
+
+3. Objetivos do Programa de Ensino de DIR
+
+O Programa de Ensino de DIR é um curso modelo desenvolvido pelo ACNUR com o objetivo de promover e facilitar o ensino do Direito Internacional de Refugiados (DIR) nas Universidades da América Latina.
+
+Neste contexto, o Programa de Ensino de DIR visa cumprir os seguintes objetivos específicos:
+
+* Fortalecer os laços de cooperação mútua entre o ACNUR e as Universidades da América Latina nos diversos componentes da Proteção Internacional, incluindo a busca de soluções duradouras.
+* Promover a formação em DIR e a inclusão do tema nos Programas de Estudos de uma forma sistemática e regular.
+* Fornecer às Universidades da América Latina uma ferramenta de referência simples, flexível e atualizada, como modelo para o desenho de cursos universitários ou atividades de formação complementar em DIR.
+4. Como utilizar o “Programa de Ensino de DIR”?
+
+O Programa de Ensino de DIR é dividido em 8 Unidades principais e 2 complementares. Cada unidade contém as seguintes seções:
+* Objetivos de Aprendizagem
+* Conteúdos Temáticos
+* Comentários
+* Bibliografia principal
+* Bibliografia complementar
+
+Os “comentários” fornecem informação geral sobre a unidade, incluindo sugestões metodológicas e informação sobre a bibliografia sugerida e/ou temas específicos. Pretende-se que estes comentários sejam uma ferramenta específica para facilitar ao docente a realização e planejamento de um curso que atinja os objetivos de aprendizagem propostos. Apenas foram incluídos comentários naquelas Unidades temáticas que possam ser de apoio ao docente.
+
+As seções de “bibliografia principal” e “bibliografia complementar” são subdivididas em duas categorias devido ao tipo de material sugerido:
+
+* Jurisprudência
+* Documentos e doutrina
+A bibliografia principal e complementar sugerida foi escolhida tendo em vista os seguintes critérios:
+
+* A bibliografia principal é inteiramente em espanhol
+* Priorizou-se a bibliografia de mais fácil acesso e disponibilidade, especialmente aquela disponível na internet e de acesso sem restrições.
+* Nos temas onde foi possível identificar “Documentos e doutrina” de autores em idioma espanhol, priorizou-se a utilização de artigos doutrinários e apenas em forma adicional a utilização de documentos elaborados pelo ACNUR
+
+Grande parte da bibliografia sugerida não está disponível em português. Este Programa de Ensino de DIR não é uma lista exaustiva à bibliografia disponível para cada tópico, mas apenas uma seleção indicativa de uma bibliografia mínima necessária para desenvolver os conteúdos propostos no Programa de Ensino de DIR em um curso modelo de 48 horas de ensino.
+
+De acordo com as necessidades e disponibilidade de cada professor, poderá facilmente ser incluída bibliografia alternativa à recomendada.
+
+Enquanto o Programa de Ensino de DIR busca apresentar os distintos aspectos históricos, normativos e institucionais que têm se desenvolvido a nível mundial desde o Direito Internacional, não têm sido incluídos conteúdos específicos vinculados aos marcos normativos e institucionais nacionais que existem na América Latina. Portanto, naquelas seções em que a apresentação das particularidades de cada país é considerada especialmente relevante, foi realizado um apelo aos professores para sugerir a incorporação desses conteúdos de acordo com seu critério.
+
+Toda a bibliografia principal e complementar selecionada que não tem restrições de acesso público foi incorporada no CD que acompanha esta publicação, assim como uma versão digital do Programa de Ensino de DIR.
+
+Também podem ser encontrados no site original do Programa de Ensino de DIR acessível a partir da página do portal do ACNUR em espanhol (www.acnur.org), todos os documentos e materiais sugeridos de acesso público.
+Este Programa de Ensino de DIR inclui também 4 anexos:
+
+Anexo A: Esquema de Conteúdos sem bibliografia para referência rápida.
+
+Anexo B: Lista completa da bibliografia principal e complementar em ordem alfabética e instrumentos internacionais relevantes.
+
+Anexo C: Distribuição horária modelo do conteúdo do curso.
+
+Anexo D: Lista sucinta dos recursos de internet mais relevantes
+
+O Programa de Ensino de DIR é uma ferramenta que pode ser livremente reproduzida. Esperamos que seu uso como referência se estenda a todas aquelas instituições educativas onde possa resultar útil para o ensino do Direito Internacional de Refugiados, e a todas as pessoas interessadas em facilitar o ensino desta temática.
+
+Portanto, o ACNUR gostaria de ser informado sobre a utilização total ou parcial do Programa de Ensino de DIR assim como conhecer sugestões e comentários sobre os distintos aspectos desta ferramenta, para poder realizar modificações e melhorar seu conteúdo em futuras atualizações.
+
+Essa versão online atualizada do Programa de Ensino de DIR estará também disponível no site do ACNUR em português (www.acnur.org.br) e se atualizará periodicamente segundo as sugestões e comentários que surjam de sua implementação.
+
+Para contatos, comentários ou sugestões referidos ao Programa de Ensino de DIR podem escrever a: brabr@unhcr.org
+
+Programa de Ensino de DIR
+Unidade 1
+“Poucas vezes na história da humanidade tantas pessoas têm se deslocado de um país ou de um continente a outro.
+
+António Guterres
+Alto Comissário das Nações Unidas para os Refugiados 17 de dezembro de 2008.
+
+Introdução: as populações deslocadas
+Objetivos de aprendizagem:
+Unidade 1
+Introduzir os conceitos jurídicos básicos relativos ao deslocamento de pessoas como ferramentas para o desenvolvimento das seguintes unidades.
+Conhecer os antecedentes e as origens do sistema internacional de proteção dos refugiados no contexto geral dos movimentos internacionais de população.
+Estudar o deslocamento forçado de pessoas desde as abordagens que complementam a perspectiva jurídica e mantenham posturas críticas.
+Conteúdos temáticos:
+
+1.1 Conceitos jurídicos preliminares: emigrantes, imigrantes, deslocados internos, solicitantes de asilo, refugiados, retornados, reassentados, apátridas. A noção de proteção internacional.
+
+1.2 Origens e desenvolvimento do sistema internacional de proteção e dinâmicas atuais dos movimentos populacionais.
+
+1.3 Explicações contemporâneas sobre as causas do fenômeno do deslocamento forçado.
+
+1.4 Refugiados no mundo contemporâneo: genealogia e vigência da categoria de refugiado.
+
+
+Comentários:
+
+A aproximação que se realiza nesta unidade introdutória se baseia em estudos históricos, sociológicos e filosóficos do fenômeno do deslocamento populacional. Embora o foco do módulo seja essencialmente jurídico, é necessário partir de uma visão geral do fenômeno do deslocamento forçado.
+
+Com as leituras propostas se desenvolvem questões como o surgimento e evolução dos Estados modernos, o desenvolvimento das restrições à liberdade de circulação, as origens de um sistema de proteção internacional, a abordagem jurídica da questão do deslocamento forçado de uma população e os fundamentos filosóficos do direito de asilo, entre outras.
+
+Nesse sentido, o conteúdo da unidade é o mais dinâmico do Módulo e permite a utilização de leituras alternativas às sugeridas, dada a extensa e variada bibliografia disponível que analisa criticamente as questões atuais vinculadas aos deslocamentos populacionais.
+
+A apresentação de conceitos básicos da seção 1.1. tem caráter instrumental. A partir destes conceitos se procura facilitar o ensino de conteúdos jurídicos sobre uma base de entendimento comum, levando em conta que muitas das noções apresentadas serão posteriormente desenvolvidas, aprofundadas e revisadas criticamente nas distintas unidades.
+
+Bibliografia Principal:
+
+Jurisprudência:
+Corte Interamericana de Direitos Humanos, Condición Jurídica y Derechos de los Migrantes Indocumentados, Opinión Consultiva N° 18 del 17 de septiembre de 2003, Glosario, párrafo 69 (para sección 1.1) y Voto concurrente del juez Cançado Trindade, A. A., pp. 1 a 11 (para sección 1.4)
+
+Documentos e doutrina:
+ACNUR, Introducción a la protección internacional, Módulo autoformativo 1, 2005, cap.
+1 y cap. 5, apartado 5.1.
+
+ACNUR, La situación de los refugiados en el mundo, 2006, cap. 1.
+
+Massey, D., Las teorías de la migración: una síntesis. Conferencia Seminario Migración, ciudades y desigualdad, Instituto de Desarrollo Económico y Social (IDES), Buenos Aires, 2004.
+
+Arendt, H., “La decadencia de la Nación-Estado y el final de los derechos del hombre”, en
+Los orígenes del totalitarismo, Alianza, Madrid, 1987, pp. 392-448.
+
+Agamben, G., Medios sin fin. Notas sobre la política, Pre-Textos, Valencia, 2001, pp. 21-30.
+
+Bibliografia complementar:
+
+Documentos e doutrina:
+ACNUR, La situación de los refugiados en el mundo: Cincuenta años de acción humanitaria, 2000
+
+Benhabib, S., El derecho de los otros: extranjeros, residentes y ciudadanos, Gedisa, Buenos
+Aires, 2005.
+
+De Sousa Santos, B., La globalización del derecho. Los nuevos caminos de la regulación y la emancipación, Instituto Latinoamericano de Servicios Legales Alternativos (ILSA) de la Facultad de Derecho, Ciencias Políticas y Sociales de la Universidad Nacional de Colombia, 1998, pp. 115-149.
+
+De Lucas, J., “Fundamentos filosóficos del derecho de asilo”, en Derechos y Libertades: revista del Instituto Bartolomé de las casas, Año 2, Número 4, Instituto de Derechos Humanos Bartolomé de las Casas, Universidad Carlos III de Madrid, pp. 23-56.
+
+Mármora, L., Las políticas de migraciones internacionales, Paidós, Buenos Aires, 2002. Segal, A., An Atlas of International Migration, Hans Zell Publishers, Londres, 1993.
+ACNUR, Unión Interparlamentaria, Guía sobre el Derecho Internacional de los Refugiados, 2001, Parte IV, Anexo II: Glosario.
+
+Organización Internacional para las Migraciones (OIM), Glosario sobre migración, 2006.
+
+Unidade 2
+“A inovadora Convenção de 1951 sobre o Estatuto dos Refugiados tem ajudado milhões de civis reconstruírem suas vidas e tornou-se “o muro atrás do qual  os refugiados se encontram a salvo”.
+
+Erika Feller
+Assistente do Alto Comissário do ACNUR
+Elementos do Direito Internacional Público e marco jurídico da proteção internacional dos refugiados
+
+Objetivos da aprendizagem:
+Unidade 2
+Analisar a evolução dos mecanismos de proteção da pessoa humana no direito internacional.
+
+Introduzir o marco jurídico do direito internacional dos refugiados (DIR) e sua complementaridade com os distintos ramos da proteção internacional da pessoa humana, o Direito Internacional dos Direitos Humanos (DIDH) e o Direito Internacional Humanitário (DIH).
+
+Revisar as relações de integração e hierarquia entre o direito interno e internacional.
+
+Apresentar os atores envolvidos na tarefa de fornecer proteção internacional e seus papéis.
+
+Conhecer os aspectos institucionais e práticos do trabalho do ACNUR.
+
+Conteúdos temáticos:
+2.1 Relações entre o Direito internacional e o Direito nacional: integração e hierarquia de instrumentos internacionais.*
+2.2 A proteção internacional da pessoa humana e sua proteção internacional. O princípio pro homine.
+2.3 Direito Internacional dos Refugiados (DIR): instrumentos internacionais e regionais, normas consuetudinárias, decisões judiciais, doutrina e soft law.
+2.4 Direito Internacional dos Direitos Humanos (DIDH): instrumentos universais e regionais, mecanismos de promoção e supervisão.
+2.5 Direito Internacional Humanitário (DIH): aplicação de normas de proteção no marco de conflitos armados. 	
+2.6 Complementaridade e convergências dos sistemas de proteção da pessoa humana.
+2.7 Os distintos papéis no cenário da proteção: os Estados, o ACNUR, a sociedade civil, as Nações Unidas e outras organizações internacionais e regionais. O papel da Cooperação Internacional. A Agenda para a Proteção e o Plano de Ação do México.	
+2.8 O ACNUR: Antecedentes e história. Estatuto. Mandato. Organização interna e funcionamento.	
+
+Comentários:
+As primeiras seções da Unidade se desenvolvem a partir de uma perspectiva eminentemente jurídica. Com esse enfoque, busca-se situar a proteção internacional e, em especial, o direito internacional dos refugiados, dentro do amplo quadro geral dos sistemas de proteção internacional da pessoa humana.
+
+O eixo da unidade se refere à complementaridade dos mecanismos de proteção internacional da pessoa humana, afirmando a unidade de um sistema cujo objetivo principal é a proteção do individuo em todas suas dimensões e circunstâncias.
+
+Embora o estudo das relações entre o direito nacional e internacional não constitua uma temática própria do ensino do DIR, é indispensável revisar suas linhas principais e problemáticas para poder assegurar uma compreensão clara do conteúdo normativo e valor jurídico do DIR, como área específica do Direito Internacional Público.
+
+
+
+Bibliografia principal:
+Documentos e doutrina:
+Pinto, M., Temas de Derechos Humanos, Editores del Puerto, Buenos Aires, 1997, capítulos I, VII y VIII*
+
+ACNUR, Introducción a la protección internacional, Módulo autoformativo 1, 2005, pp. 25 a 47 (para sección 2.3) y pp. 5-9 y 13-19 (para secciones 2.7 y 2.8).
+
+Valencia Villa, A., “Los sistemas internacionales de Protección de los Derechos Humanos”, en Martin, C., Rodríguez Pinzón D., Guevara, J. A., (comp.) Derecho Internacional de los Derechos Humanos, Doctrina Jurídica Contemporánea, Ciudad de México, 2004.*
+
+Passer, H. P., El derecho internacional humanitario y la protección de las víctimas de la guerra, Comité Internacional de la Cruz Roja, 1998. *
+
+Cançado Trindade, A. A., “Derecho Internacional de los derechos humanos, derecho internacional de los refugiados y derecho internacional humanitario: aproximaciones y convergencias”, en 10 años de la Declaración de Cartagena sobre Refugiados, Memoria
+
+Coloquio Internacional, ACNUR, IIDH, Costa Rica, 1995, pp. 76-183.
+
+VVAA, La responsabilidad de supervisión: Resumen de las conclusiones de la Mesa redonda de expertos en Cambridge, ACNUR, 2001.
+
+ACNUR, Unión Interparlamentaria, Protección de los Refugiados: Guía sobre el Derecho Internacional de los Refugiados, 2003, capítulo 2.
+
+ACNUR, Plan de acción de México: el impacto de la solidaridad regional, 2007.
+
+Bibliografia complementar:
+Documentos e doutrina:
+Goodwin-Gill, G. S. and McAdam, J., The refugee in international law, Third-edition, Oxford University Press, Oxford, 2007, chapters 1 and 8.
+Hathaway, J. C., The law of refugee status, Butterworths, Canada, 1990, chapter 1. Cançado Trindade, A., “Aproximaciones y convergencias revisitadas: Diez años de interacción entre el DIDH, el DIR y el DIH”, en Memoria del Vigésimo aniversario de la Declaración de Cartagena, ACNUR, 2004, pp. 139-191.
+
+Kälin W., “Supervising the 1951 Convention Relating to the Status of Refugees: Article 35 and beyond”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, section 10.1.
+
+ACNUR, Los Derechos Humanos y la Protección de los Refugiados, Módulo Autoformativo 5, Volumen 1, Parte A, 2006.
+
+Unidade 3
+“O direito ao asilo é o símbolo dos direitos do homem no sentido mais universal.
+
+Javier de Lucas
+Professor de Filosofia do Direito
+Espanha, 1995.
+	
+O direito humano ao asilo.
+Introdução aos principios fundamentais da proteção internacional de refugiados
+
+Objetivos de aprendizagem:
+Unidade 3
+Apresentar as distintas regulações internacionais sobre o direito humano ao asilo e o desenvolvimento progressivo de seu conteúdo atual.
+
+Analisar as características particulares da teoria e a prática do direito humano ao asilo na América Latina.
+
+Introduzir o conteúdo dos Princípios fundamentais da Proteção Internacional
+
+Conteúdos temáticos:
+3.1 Regulação e conteúdo do direito humano ao asilo e sua relação com o princípio de não devolução, a não discriminação e a busca de soluções duradouras.
+
+3.2 A dualidade asilo-refugio na América Latina: o sistema latino-americano sobre asilo diplomático e territorial e o sistema universal de proteção dos refugiados.
+
+3.3 Introdução aos princípios fundamentais da proteção internacional de refugiados: não devolução, não sanção por entrada irregular, não discriminação, não expulsão, documentação e auxílio administrativo.
+
+
+Comentários:
+Em nível global, o direito ao asilo teve diversos desenvolvimentos normativos, doutrinários e jurisprudenciais, na medida em que distintos fenômenos têm impactado ou modificado as necessidades de proteção internacional e suas manifestações na prática.
+
+Neste contexto, os fenômenos sociais e políticos analisados na Unidade 1 servem de base para o desenvolvimento jurídico do direito ao asilo que esta Unidade apresenta. Em particular, esta unidade permite compreender o desenvolvimento progressivo de seu conteúdo e das obrigações assumidas pelos Estados.
+
+Na America Latina, a coexistência de um sistema tradicional de asilo diplomático e territorial com o sistema universal de proteção dos refugiados tem levado a diferentes interpretações quanto ao conteúdo da categoria. Como resultado, os diferentes usos dos termos “asilo” e “refúgio” foram expressos na elaboração de textos normativos na região.
+
+Essa confusão terminológica é amplamente abordada pela bibliografia escolhida, porque sua implicação na proteção de refugiados na América Latina foi fundamental e, em muitos casos, teve um impacto negativo na aplicação de padrões de direitos humanos e no acesso aos mecanismos regionais de proteção.
+
+
+Bibliografia principal:
+Jurisprudência:
+Comissão Interamericana de Direitos Humanos, Comité Haitiano de Derechos Humanos y otros contra Estados Unidos de América, Informe N° 51/96, Decisión de la Comisión en cuanto al mérito del caso 10.675, 13 de marzo de 1997, párr. 149 a 163.
+
+Documentos e doutrina:
+ACNUR, El derecho de asilo y el mandato del ACNUR, 2006.
+
+Manly, M., “La consagración del asilo como un derecho humano: Análisis comparativo de la Declaración Universal, la Declaración Americana y la Convención Americana sobre Derechos Humanos ”, en Franco, L., El asilo y la protección internacional de los refugiados en América latina, Siglo XXI, ACNUR, Universidad Nacional de Lanús, Buenos Aires, 2003, pp. 122 a 156.
+
+San Juan, C., Manly, M., “Informe general de la investigación. El asilo y la protección internacional de los refugiados en América latina”, en Franco, L., El asilo y la protección internacional de los refugiados en América latina, Siglo XXI, ACNUR, Universidad Nacional de Lanús, Buenos Aires, 2003, pp. 17 a 71.
+
+Esponda Fernández, J., “La tradición latinoamericana de asilo y la protección internacional de los refugiados”, en Franco, L., El asilo y la protección internacional de los refugiados en América latina, Siglo XXI, ACNUR, Universidad Nacional de Lanús, Buenos Aires, 2003. pp. 75 a 122.
+
+Bibliografia complementar:
+Documentos e doutrina:
+Edwards, A., “Human Rights, and the Right ‘to enjoy’ asylum”, en International Journal of Refugee Law, Volume 17, Number 2, 2005, Oxford Journals y Human Rights Centre University of Essex, pp. 293-330.
+
+Goodwin-Gill, G. S. and McAdam, J., The refugee in international law, Third-edition, Oxford University Press, Oxford, 2007, chapter 7.
+
+ACNUR, Los Derechos Humanos y la Protección de los Refugiados, Módulo Autoformativo 5, Volumen 1, Parte A, 2006.
+
+Mondelli, J. I., El asilo como derecho humano en el derecho argentino, ACNUR, Buenos Aires, 2008, pp. 1 a 12.
+
+López Garrido, D., El derecho de asilo, Editorial Trotta, España, 1991, pp. 13-46
+
+Unidade 4
+“Os novos refugiados eram perseguidos, não pelo que tinham feito ou pensado, mas porque eram de uma forma imutável: nascidos dentro do tipo inadequado de raça ou do tipo inadequado de classe ou alistados pelo tipo inadequado de governo…
+
+Hanna Arendt
+As origens do totalitarismo 1951
+
+Definições de refugiado: quem pode ser considerado refugiado?
+
+Objetivos de aprendizagem:
+Unidade 4
+Conhecer os distintos elementos da Definição de refugiado da Convenção de 1951 (Definição Universal)
+
+Conhecer os distintos elementos da definição de refugiado da Declaração de Cartagena de 1984 (Definição Regional)
+
+Conteúdos temáticos:
+4.1 Antecedentes de definições. O Estatuto do ACNUR.
+
+4.2 A definição de refugiado da Convenção de 1951 e o Protocolo de 1967*
+
+4.2.a Análise geral. Âmbito de aplicação geográfica e temporal.
+
+4.2.b Cláusulas de inclusão:
+
+4.2.b.1	Encontrar-se fora do país de nacionalidade ou residência habitual	
+	
+4.2.b.2 Temor fundado: Elemento subjetivo e objetivo
+
+4.2.b.3 Perseguição: Definição. Agentes de perseguição. Perseguição vs. Processo judicial legítimo. Refugiados sur place	
+	
+4.2.b.4 Motivos da convenção: raça, religião, nacionalidade, pertencer a determinado grupo social, opiniões políticas. A perseguição baseada em gênero
+
+4.2.b.5 Disponibilidade de proteção estatal. Alternativa de fuga interna.
+ 	Múltiplas nacionalidades
+	
+4.2.c Cláusulas de exclusão:
+
+4.2.c.1 Quando é necessário fazer uma análise de exclusão
+
+4.2.c.2 Delitos contra a paz, de guerra ou contra a humanidade
+
+4.2.c.3 Atos contrários às finalidades e aos princípios das Nações Unidas
+
+4.2.c.4 Grave delito comum
+
+4.2.c.5 A relevância do Direito Internacional Penal
+
+4.2.c.6 Responsabilidade individual do solicitante e proporcionalidade
+
+4.2.d Pessoas que não necessitam de proteção internacional e pessoas que recebem proteção ou assistência de um órgão distinto do ACNUR.
+
+4.3 A definição de refugiados da Declaração de Cartagena de 1984*
+
+4.3.a História e conteúdo da Declaração. A definição da Organização da Unidade Africana
+
+4.3.b Recepção da definição na America Latina
+
+4.3.c Elementos da definição
+
+4.3.d Aplicação de cláusulas de exclusão
+
+
+Comentários orientativos:
+
+O destaque da unidade é a “definição universal” ou “definição clássica” contida na Convenção de 1951 e seu Protocolo de 1967. Embora sua aplicação convencional na América Latina seja praticamente unânime, existem interpretações divergentes dos Estados em termos da prática e da adoção de normativa interna.
+
+Existem importantes desenvolvimentos doutrinários e jurisprudenciais sobre a análise da definição e uma quantidade considerável de documentos de referência do ACNUR.
+
+Estes documentos são considerados por uma grande quantidade de Estados como soft-Law no momento de utilizá-los na análise de solicitação de refúgio.
+
+Neste sentido, o “Manual de Procedimentos e critérios para a determinação da condição de refugiado” e os guias e documentos do ACNUR que complementam e/ou atualizam esse manual em temas específicos (motivos de perseguição, exclusão, outros aspectos do artigo 1.a, etc.), constituem uma referência obrigatória para os Estados latino-americanos em sua prática de aplicação da Convenção de 1951, motivo pelo qual constituem elementos centrais da bibliografia para o estudo de cada um dos elementos da Definição Universal.
+
+Tradicionalmente, a divisão entre “cláusulas de inclusão” e “cláusulas de exclusão” serviu para a aplicação cotidiana da Definição Universal na análise de casos individuais, e também nas instâncias de formação em DIR como ferramenta pedagógica para compreender quem poderia ser reconhecido como refugiado.
+
+Também, a análise da denominada “Definição Ampliada” ou “Definição Regional” da Declaração de Cartagena de 1984 é particularmente importante já que muitos dos Estados latino-
+-americanos participaram da adoção dessa Declaração, e muitos outros têm incorporado esta definição dentro de suas normativas internas ou as têm aplicado na prática. Esta realidade tem gerado um desenvolvimento progressivo na análise de seu conteúdo e na ampliação das pessoas protegidas.
+
+Bibliografia principal:
+Documentos e doutrina:
+Galindo Velez, F., “Consideraciones sobre la determinación de la condición de refugiado”, en Namihas, S. (comp.), Derecho Internacional de los Refugiados, Fondo Editorial de la Pontificia Universidad Católica del Perú, Lima, 2001, pp. 45 a 57.
+
+ACNUR, Manual de procedimientos y criterios para determinar la condición de refugiado, 1992. ACNUR, Agentes de persecución, Posición del ACNUR, 1995.
+ACNUR, Pertenencia a un determinado grupo social en el contexto del artículo 1A (2) de la Convención de 1951 sobre el Estatuto de los Refugiados y/o su Protocolo de 1967, Directrices sobre la Protección Internacional, 2002.
+
+VVAA, Pertenencia a un determinado grupo social: Resumen de las conclusiones de la Mesa Redonda de Expertos en San Remo, ACNUR, 2001.
+
+ACNUR, Solicitudes de asilo por motivos religiosos bajo el artículo 1A (2) de la Convención de 1951 y/o el Protocolo de 1967 sobre el Estatuto de los Refugiados, Directrices sobre Protección Internacional, 2004.
+
+ACNUR, La persecución por motivos de género en el contexto del artículo 1A (2) de la Convención de 1951 sobre el Estatuto de los Refugiados, y/o su Protocolo de 1967, Directrices sobre Protección Internacional, 2002.
+
+VVAA, La persecución relacionada con género: Resumen de las conclusiones de la Mesa Redonda de Expertos en San Remo, ACNUR, 2001.
+
+VVAA, El concepto de “Protección Efectiva” en el contexto de los movimientos secundários de Refugiados y solicitantes de asilo: Resumen de las conclusiones de la Mesa Redonda de Expertos en Lisboa, ACNUR, 2001.
+
+ACNUR, Interpretación del artículo 1 de la Convención de 1951 sobre el Estatuto de los Refugiados, 2001.
+VVAA, Alternativa de protección, reubicación o huida interna: Resumen de las conclusiones de la Mesa Redonda de Expertos en San Remo, ACNUR, 2001.
+
+ACNUR, La alternativa de huida interna o reubicación en el contexto del artículo 1ª (2) de la Convención de 1951o el Protocolo de 1967 sobre el Estatuto de los Refugiados.Directrices sobre Protección Internacional, 2003.
+
+ACNUR, La aplicación de las cláusulas de exclusión: El artículo 1F de la Convención de 1951 sobre el Estatuto de los Refugiados. Directrices sobre protección internacional, 2003.
+
+VVAA, La exclusión de la condición de refugiado: Resumen de las conclusiones de La Mesa Redonda de Expertos en Lisboa, ACNUR, 2001.
+
+Conferencia Internacional sobre Refugiados Centroamericanos (CIREFCA), Principios y criterios para la protección y asistencia a los refugiados, repatriados y desplazados centroamericanos en América latina, ACNUR (ed.), 1989, pp. 8 a 14.
+
+Corcuera Cabezut, S., “Reflexiones sobre la aplicación de la definición ampliada de refugiados de la Declaración de Cartagena en los procedimientos para la determinación individual de la condición de refugiado”, en Memoria del vigésimo aniversario de la Declaración de Cartagena sobre los Refugiados, ACNUR, 2005, pp. 193-224.
+
+Bibliografia complementar:
+Documentos e doutrina:
+Goodwin-Gill, G. S. and McAdam, J., The refugee in international law, Third-edition, Oxford University Press, Oxford, 2007, chapter 2.
+
+Hathaway, J. C., The law of refugee status, Butterworths, Canada, 1990, chapters 3, 4, 5 and 6.
+
+Aleinikoff, T. A., “Protected characteristics and social perceptions: an analysis of the meaning of ‘membership of a particular social group”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, section 4.1
+
+Arboleda, E., “La Declaración de Cartagena de 1984 y sus semejanzas con la Convención de la Organización de la Unidad Africana de 1969: una perspectiva comparativa”, en Namihas S. (comp.) Derecho Internacional de los Refugiados, Fondo Editorial de la Pontificia Universidad Católica del Perú, Lima, 2001.
+
+Franco, L., Santistevan de Noriega, J., “La contribución del proceso de Cartagena al Desarrollo del Derecho Internacional de los Refugiados en América Latina”, en Memoria del Vigésimo aniversario de la Declaración de Cartagena sobre los Refugiados, ACNUR, 2004, pp. 79 a 138.
+
+ACNUR, Handbook for the Protection of Women and Girls, 2008, pp. 5 a 19.
+
+Geoff, G., “Current issues in the application of the exclusion clauses”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, section 7.1.
+
+ACNUR, Documento del ACNUR sobre la aplicación de las cláusulas de exclusión: El artículo 1F de la Convención de 1951 sobre el Estatuto de los Refugiados, 2003.
+
+ACNUR, Refugee Status Determination. Identifying who is a refugeeSelf-study module 2, 2005, Chapters 2 and 3.
+
+Unidade 5
+Tivemos que deixar todos os nossos pertences, quando fugimos. Não temos roupas, nem lugar para dormir. Nunca em nossa vida tivemos que pedir ajuda. Vivíamos nossas vidas com dignidade.
+Agora é urgente que nos ajudem.
+
+O ciclo do deslocamento forçado
+
+Objetivos de aprendizagem:
+Unidade 5
+Proporcionar uma visão integral do ciclo de deslocamento forçado e os conteúdos centrais da proteção internacional em cada etapa do ciclo.
+
+Conhecer em particular o conteúdo e alcance do princípio de não devolução. Introduzir brevemente as questões gerais referidas à busca de soluções duradouras
+Conteúdos temáticos:
+
+5.1 Fuga e acesso à proteção internacional
+
+5.1.a O direito humano a permanecer e a sair do próprio país
+
+5.1.b Barreiras físicas e jurídicas para aceder ao território e à jurisdição de um país distinto ao próprio. Os fluxos migratórios mistos. A interceptação em alto mar.
+5.1.c Os procedimentos de reconhecimento da condição de refugiado:
+
+5.1.c.1	Admissão ao procedimento. Confidencialidade
+
+5.1.c.2	O ônus  e o mérito da prova e a determinação dos fatos
+
+5.1.c.3 Padrões de um procedimento justo e eficiente
+
+5.1.c.4 Procedimento de reconhecimento da condição de refugiado sob mandato do ACNUR*
+
+5.1.d Movimentos secundários de refugiados e solicitantes de asilo
+
+5.1.e Princípio de não devolução
+
+5.1.e.1 Modos de devolução: devolução, expulsão, recondução e extradição de refugiados e solicitantes de asilo
+
+5.1.e.2 Padrões internacionais aplicáveis
+
+5.1.e.3 Relação entre os processos de extradição e os procedimentos de reconhecimento da condição de refugiado.
+
+5.1.e.4 Políticas de retorno e acordos de readmissão
+
+5.1.e.5 Formas complementares de proteção contra a devolução: Convenção contra a Tortura, Pacto de Direitos Civis e Políticos, Convenção sobre os direitos da criança e outras práticas dos Estados
+
+5.1.f O princípio de não sanção por entrada irregular
+
+5.2 Marco para a busca de soluções duradouras.**
+
+5.2.a O vínculo entre o asilo, a proteção internacional e a busca de soluções duradouras
+
+5.2.b Evolução da busca de soluções duradouras na América Latina
+
+5.2.c A repatriação voluntária
+
+5.2.d O reassentamento
+
+5.2.e A integração local
+
+5.2.e.1 A naturalização de refugiados na Convenção de 1951 e o protocolo de 1967.
+
+Comentários:
+
+A unidade 5 expõe os principais conteúdos da proteção internacional seguindo a lógica do ciclo do deslocamento forçado que inclui a fuga, o acesso e efetivo gozo da proteção, e a busca de soluções duradouras (integração no país de asilo, repatriação voluntaria ou reassentamento em um terceiro país).
+
+Esta modalidade de apresentação dos distintos temas em relação ao ciclo de deslocamento forçado busca facilitar uma compreensão integral do fenômeno, na qual não se descrevam apenas os conteúdos teóricos, mas também se relacionem esses conteúdos com as situações práticas que atravessam os refugiados e solicitantes da condição de refugiado na atualidade.
+
+No início da Unidade são analisadas as distintas barreiras físicas e jurídicas que os refugiados encontram para aceder a um país distinto do próprio, como a construção de muros (barreiras físicas), o estabelecimento de centros de detenção, a interpretação de que determinados territórios não estariam sujeitos a jurisdição de nenhum estado (barreiras jurídicas), e a falta de capacitação e recursos para identificar solicitantes de asilo em zonas de fronteira, entre outras.
+
+A seguir, se propõe apresentar os princípios de não devolução e de não sanção por entrada ilegal para destacar o vínculo existente entre estes princípios e o acesso ao território e/ou ao procedimento de determinação da condição de refugiado em um Estado determinado.
+
+A partir da definição jurídica do princípio de não devolução, se enumeram os distintos modos em que pode ser vulnerável e as situações que na prática podem originar sua restrição. Também são analisados outros aspectos específicos como a relação entre o princípio de não devolução e os processos de extradição e o princípio de não devolução e a celebração de acordos de readmissão migratória.
+
+Nas distintas unidades do Módulo, outros aspectos destes princípios, que não têm relação direta com o acesso a território e procedimento, poderão ser abordados se o docente o considerar necessário.
+
+É relevante para os fins desta unidade introduzir especificamente a questão dos movimentos secundários de refugiados e solicitantes de asilo, para refletir uma tendência crescente na América Latina.
+Em particular, no âmbito dos processos de integração regional, que tendem a flexibilizar os controles de fronteira entre os estados, e ante as dificuldades de integração local dos refugiados nos países de asilo, os movimentos secundários aparecem como uma nova realidade regional.
+
+Quanto à questão de se encontrar soluções duradouras para as situações dos refugiados, houve ênfase nos aspectos mais ligados à questões jurídicas, e tem sido negligenciada a análise de outras questões relevantes de natureza social ou econômica.
+
+Bibliografia principal:
+
+Jurisprudência:
+Comissão Interamericana de Direitos Humanos, 120 ciudadanos cubanos y 8 haitianos detenidos en Las Bahamas, Informe de admisibilidad Nº 6/02, caso 12.071, del 3 de abril de 2002.
+
+Comitê de Direitos Humanos, Comentario General N° 31: Naturaleza de la obligación jurídica general impuesta a los Estados Partes en el Pacto, aprobada el 29 de may de 2004, párrafo 12.
+
+Documentos e doutrina:
+ACNUR, Protección de refugiados y soluciones duraderas en el contexto de las migraciones internacionales, 2007.
+
+OIM, ACNUR, La protección de refugiados y el control migratorio: Perspectivas del ACNUR y de la OIM, 2001.
+
+ACNUR, La interceptación de solicitantes de asilo y refugiados: el marco internacional y recomendaciones para un enfoque integral, 2000.
+
+Vallés, Jorge R., “Procedimiento para la determinación de la condición de refugiado”, en Irigoin, J. (comp.), Derecho Internacional de los Refugiados, Instituto de Estudios Internacionales de la Universidad de Chile, 1993, pp. 126-145.
+
+ACNUR, Procesos de asilo (procedimientos de asilo justos y eficientes), 2001.
+
+VVAA, El concepto de “Protección Efectiva” en el contexto de los movimientos secundários de Refugiados y solicitantes de asilo: Resumen de las conclusiones de la Mesa Redonda de Expertos en Lisboa, ACNUR, 2002.
+
+ACNUR, Nota sobre la Carga y el Mérito de la Prueba en las Solicitudes de Asilo, 1998.
+
+VVAA, El artículo 31 de la Convención de 1951 sobre el Estatuto de los Refugiados: Resumen de las Conclusiones de la Mesa Redonda de Expertos en Ginebra, ACNUR, 2001.
+Garretón, R., “Principio de No-Devolución: fuerza normativa, alcances, aplicación en los países no partes en la Convención”, en 10 años de la Declaración de Cartagena sobre Refugiados, Memoria Coloquio Internacional, ACNUR, IIDH, Costa Rica, 1995, pp. 211-232.
+
+Cançado Trindade, A. A., “Reflexiones sobre el desarraigo como problema de Derechos Humanos frente a la Conciencia jurídica Universal”, en Cançado Trindade, A. A., Ruiz de Santiago, J., La nueva dimensión de las necesidades de protección del ser humano en el siglo XXI, 3° ed., ACNUR, Corte Interamericana de Derechos Humanos, Costa Rica, 2004, pp. 56-62.
+
+ACNUR, Protección Internacional mediante formas complementarias de protección, 2005. ACNUR, El retorno de las personas no necesitadas de protección internacional, 1997.
+ACNUR, Tema Anual: La búsqueda y aplicación de soluciones duraderas, Comité Ejecutivo, 47º período de sesiones, 1996.
+
+ACNUR, Tema Anual: Problemas de la repatriación, Comité Ejecutivo, 48º período de sesiones, 1997.
+
+ACNUR, “La Repatriación Voluntaria”, en Manual para situaciones de emergencia, Segunda Edición.
+
+ACNUR, Manual de reasentamiento, 1999, capítulos 1 y 2.
+
+Bibliografia complementar:
+
+Documentos e doutrina:
+
+Goodwin-Gill, G. S. and McAdam, J., The refugee in international law, Thirdedition, Oxford University Press, Oxford, 2007, chapter 3, 5 and 9.
+
+Hathaway, J. C., The law of refugee status, Butterworths, Canada, 1990, chapter 2. ACNUR, Normas Procedimentales para determinar la condición de refugiado bajo el mandato del ACNUR.
+
+ACNUR, Refugee Status Determination. Identifying who is a refugee Self-study module 2,
+2005, Chapter 5.
+
+Lauterpacht, E., Bethlehem, D., “The scope and content of the principle of nonrefoulement: Opinion”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, Section 2.1.
+
+Goodwin-Gill, G. S., “Article 31 of the 1951 Convention Relating to the Status of Refugees: non-penalization, detention, and protection”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, Section 3.1.
+
+ACNUR, Formas complementarias de protección: su naturaleza y la relación con el régimen de protección internacional, 2000.
+
+ACNUR, El uso estratégico del reasentamiento, Documento de discusión elaborado por el Grupo de Trabajo sobre Reasentamiento, 2003.
+
+VVAA, El principio de no devolución: Resumen de las conclusiones de la Mesa redonda de expertos en Cambridge, ACNUR, 2001.
+
+Unidade 6
+
+“Sei que meu país não tem muito a nos oferecer no momento, mas se não voltarmos a reconstruí-lo, então quem o fará? Ouvi dizer que minha casa não existe mais, mas vou construir outra.
+
+Mae 
+refugiada liberiana
+
+Culminação do ciclo de deslocamento: Quando se deixa de ser refugiado?
+
+Objetivos de aprendizagem:
+Unidade 6
+Apresentar as questões vinculadas à última etapa do ciclo do deslocamento. Conhecer as questões jurídicas
+
+Conteúdos temáticos:
+
+6.1 As cláusulas de cessação
+
+6.2 Cancelamento, revogação e renúncia ao estatuto de refugiado.*
+
+6.3 Proteção de retornados: reintegração, reparação e reconstrução comunitária
+
+
+
+Comentários:
+
+As questões relativas ao cancelamento do estatuto de refugiado não têm tratamento normativo específico no âmbito do DIR, pois elas são interpretadas e executadas em conformidade com os princípios gerais do direito em matéria de elementos, validade e casos de nulidade dos atos jurídicos.
+
+Nesse sentido, seria conveniente apresentar os casos de cancelamento dentro deste quadro geral, introduzindo de forma sintética as categorias mencionadas relativas aos atos jurídicos em geral.
+
+Em relação aos processos de integração, há várias fontes que podem ser usadas alternativamente à bibliografia selecionada relativa à situação ocorrida na América Central.
+
+
+Bibliografia principal:
+
+Documentos e doutrina:
+ACNUR, Cesación de la condición de refugiado 1C (5) y (6) de la Convención de 1951 sobre el Estatuto de los refugiados, Directrices sobre protección internacional, 2003.
+
+ACNUR, Las cláusulas de cesación: directrices para su aplicación, 1999.
+
+ACNUR, Manual de procedimientos y criterios para determinar la condición de refugiado,
+1992, cap. III.
+
+VVAA, La cesación de la condición de refugiado: Resumen de conclusiones de la Mesa Redonda de Expertos en Lisboa, ACNUR, 2001.
+
+ACNUR, Directrices sobre protección internacional. La aplicación de las cláusulas de exclusión: El artículo 1F de la Convención de 1951 sobre el Estatuto de los Refugiados, 2003, pp. 1 a 4.
+
+ACNUR, La integración de los refugiados guatemaltecos en Chiapas, 2001.
+Bibliografia complementar:
+
+Documentos e doutrina:
+Goodwin-Gill, G. S. and McAdam, J., The refugee in international law, Third-edition, Oxford University Press, Oxford, 2007, chapter 4.
+
+Hathaway, J. C., The law of refugee status, Butterworths, Canada, 1990, chapter 6.
+
+ACNUR, Refugee Status Determination. Identifying who is a refugee Self-study module 2,
+2005, Chapter 4.
+
+Fitzpatrick, J., and Bonoan, R., “Cessation of refugee protection”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, Section 8.1.
+
+ACNUR, Handbookfor Repatriation and Reintegration Activities, 2004.
+Unidade 7
+“Mulheres e crianças são consideradas um lixo em campos de refugiados e é preciso coragem para sobreviver como refugiadas
+
+Emily
+refugiada em Guiné
+
+Direitos dos refugiados e questões relacionadas
+
+Objetivos de aprendizagem:
+Unidade 7
+Analisar os principais direitos dos refugiados e solicitantes de asilo em relação ao seu estatuto pessoal, documentação, questões de segurança, igualdade e não discriminação e unidade familiar
+
+Apresentar os conteúdos centrais do Direito Internacional dos Direitos Humanos em sua relação com o DIR, e a utilização dos mecanismos de garantia dos Direitos Humanos para a Proteção internacional das pessoas.
+
+Conteúdos temáticos:
+
+7.1 As categorias de titularidade e exercício de direitos no âmbito da Convenção de 1951 e seu Protocolo de 1967. Desenvolvimentos posteriores no âmbito do DIDH.	
+7.2 O estatuto pessoal de refugiados e solicitantes de asilo no âmbito da Convenção de 1951 e seu Protocolo de 1967.
+
+7.3 A documentação e o exercício de direitos.
+
+7.3.a Documentos de identidade
+
+7.3.b Documentos de Viagem
+
+7.3.c Obrigação de auxílio administrativo.
+
+7.4 O princípio de unidade familiar na proteção de refugiados e solicitantes de asilo.
+7.4.a Direito à reunificação familiar
+
+7.4.b Definição de família
+
+
+7.4.c Padrões aplicáveis.
+
+7.5 Detenção de solicitantes de asilo e refugiados.
+
+
+7.5.a Condições de detenção: padrões internacionais.
+
+7.5.b Não sanção por entrada ilegal.
+
+
+7.5.c Detenção em zonas de trânsito, portos e aeroportos.
+
+7.6 Princípios de igualdade e não discriminação e exercício de direitos econômicos, sociais e culturais. Padrões internacionais.
+
+7.7 Mecanismos internacionais e nacionais para a garantia dos direitos dos refugiados.
+
+Comentários:
+
+Esta unidade tem como objetivo apresentar a relação estreita entre os vários princípios e Direitos estabelecidos pelo DIR e o exercício efetivo de direitos humanos.
+
+Em particular, a unidade analisa a relação entre as exigências de documentação e o efetivo exercício de Direitos humanos, especialmente para a população estrangeira situada em áreas urbanas na América Latina
+
+A unidade também aborda um princípio central para a proteção dos refugiados: a unidade de família ou reunificação familiar, mediante a apresentação de seu conteúdo originário e os debates contemporâneos em torno da existência de um direito à reunificação familiar e, em particular, a respeito das diversas interpretações que podem ser dadas ao conceito de “família”.
+
+Em seguida, abordam-se questões relativas à detenção de refugiados e solicitantes de asilo, e é mencionada de novo a relação existente com o princípio de não sanção para a entrada ilegal e com circunstâncias especificas como a detenção em zonas de trânsito e a interceptação em alto mar.
+
+Bibliografia principal:
+
+Documentos e doutrina:
+Sepúlveda, M., “El tratamiento de los solicitantes de asilo y refugiados a la luz de la Declaración de Cartagena sobre refugiados y las normas del Derecho Internacional de los Derechos Humanos”, en Memoria del Vigésimo aniversario de la Declaración de Cartagena sobre los Refugiados, ACNUR, 2004, pp. 331-357.
+
+VVAA, Unidad de la Familia: Resumen de las Conclusiones de la Mesa Redonda de Expertos en Ginebra, ACNUR, 2001.
+
+ACNUR, Directrices del ACNUR sobre los criterios y estándares aplicables con respecto a la detención de solicitantes de asilo, 1999.
+
+Sepúlveda, M., Los derechos económicos, sociales y culturales de refugiados y solicitante de asilo, Cátedra Nansen. XXII Curso Interdisciplinario, IIDH, Costa Rica, 2004.
+
+Pulido, M. C., Blanchard, M., La Comisión Interamericana de Derechos Humanos y sus mecanismos de protección aplicados a la situación de los refugiados, apátridas y solicitantes de asilo, ACNUR, s/f.
+
+ACNUR, Los Derechos Humanos y la Protección de los Refugiados, Módulo Autoformativo
+5, Volumen 2, 2006, pp. 113-118 y 130-132.
+
+Bibliografía complementar:
+
+Documentos e doutrina:
+ACNUR, Los Derechos Humanos y la Protección de los Refugiados, Módulo Autoformativo 5,
+Volumen 2, 2006.
+
+Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos (OACNUDH), Folleto Informativo No.20, Los Derechos Humanos y los Refugiados. Comisión de Derechos Humanos de Naciones Unidas, Informe Final del Relator Especial David Weissbrodt, Los derechos de los no ciudadanos, 2003.
+
+Goodwin-Gill, G. S. and McAdam, J., The refugee in international law, Third-edition, Oxford University Press, Oxford, 2007, chapter 6.
+
+Edwards, A., “Human Rights, and the Right ‘to enjoy’ asylum”, en International Journal of Refugee Law, Volume 17, Number 2, 2005, Oxford Journals y Human Rights Centre University of Essex, pp. 308-319.
+
+Unidade 8
+“É hora de reconhecer que estamos enfrentando nada menos do que um novo paradigma do conceito de deslocamento no século XXI, com uma infinidade de fatores impulsionadores que levam as pessoas a deixar seus lares a uma escala sem precedentes.
+
+António Guterres
+Alto Comissionado de Nações Unidas para os Refugiados 20 de Junho de 2007
+
+Desafios contemporâneos da proteção internacional
+
+Objetivos de aprendizagem:
+Unidade 8
+Analisar situações contemporâneas que geram desafios para a tarefa de oferecer proteção internacional, como a problemática do HIV/AIDS, a exploração e
+o tráfico de pessoas, os interesses de segurança dos estados e o fenômeno da intolerância, o racismo, a xenofobia e a discriminação.
+
+Apresentar uma perspectiva de gênero, idade e diversidade transversal ao conteúdo da proteção internacional.
+
+Relacionar os conteúdos estudados nas Unidades prévias com a análise crítica de situações atuais vinculadas à proteção internacional.
+
+Promover o desenvolvimento de pesquisas sobre as temáticas apresentadas na Unidade.
+
+Apresentar brevemente algumas das questões que na atualidade geram desafios específicos para a Proteção Internacional na América Latina
+
+Conteúdos temáticos:
+
+8.1 Idade, gênero e diversidade na proteção internacional
+
+8.1.a O gênero e a proteção internacional:
+
+8.1.a.1 Práticas tradicionais e proteção de mulheres refugiadas e solicitantes de asilo. A perseguição baseada em gênero
+ 	8.1.a.2	Mecanismos especiais de proteção e Padrões internacionais aplicáveis.	
+	
+8.1.b A proteção de crianças refugiadas e solicitantes de asilo.
+
+8.1.b.1	Crianças em situações de conflitos armados. Recrutamento forçado.	
+	
+8.1.b.2	Crianças separadas e não acompanhadas.	
+	
+8.1.b.3	Determinação do superior interesse da criança.	
+	
+8.1.b.4	Mecanismos especiais de proteção e padrões internacionais aplicáveis.	
+	
+8.1.c Idosos
+
+8.1.d Indígenas
+
+8.1.e Pessoas com incapacidades
+
+8.2 O Tráfico de migrantes e a exploração de pessoas e seus vínculos com a proteção internacional	
+	
+8.2.a Definições de tráfico e exploração e seus vínculos com a proteção internacional
+
+8.2.c	Mecanismos de identificação e proteção de vítimas necessitadas de proteção internacional.	
+
+	
+8.3 Pessoas vivendo com HIV/AIDS e proteção internacional
+
+8.3.a Impacto da epidemia na população refugiada e situação de vulnerabilidade das e dos refugiados frente ao HIV/AIDS	
+
+	
+8.4 A segurança, a justiça e a proteção internacional de refugiados
+
+8.5 Intolerância, racismo, xenofobia e discriminação e a proteção internacional de refugiados.
+
+8.6 Alguns desafios atuais da proteção internacional na América Latina
+
+8.6.a A situação na Colômbia
+
+8.6.b O fenômeno das gangues na América Central
+
+
+8.6.c As fumigações e o deslocamento forçado.
+
+
+Comentários:
+
+Nas últimas décadas um crescente número de situações e temáticas levou a uma maior complexidade no conteúdo da proteção internacional, devido aos novos e crescentes desafios.
+
+A ênfase em trabalhar a partir de uma abordagem da diversidade exige refletir constantemente sobre as categorias tradicionais de proteção e atender os desafios específicos que as questões de gênero, idade e diversidade, propõem à tarefa de proporcionar proteção internacional.
+
+Além disso, no atual cenário internacional, no qual as questões de terrorismo e segurança dominam a agenda do debate público, há novos pontos de contato e conflito entre as políticas dos Estados sobre estes temas e as suas obrigações em matéria de asilo e refúgio.
+
+As questões relacionadas ao HIV / AIDS, a intolerância, o racismo, a xenofobia e a discriminação contra os estrangeiros e os problemas da exploração e o tráfico de pessoas, são desafios centrais para a tarefa de proteção, que requerem estudo em particular e de ampla atualização, porque os diferentes fenômenos evoluem constantemente em nossa região
+
+Esta unidade aborda essas e outras discussões em curso sobre o DIR, e tenta apresentar as questões centrais introdutórias de cada um destes desafios contemporâneos de proteção internacional.
+
+Ao abordar esta seção seria conveniente apresentar as situações específicas dessas populações e / ou problemas na América Latina.
+
+No que diz respeito aos distintos aspectos relativos ao gênero e à proteção internacional, embora sejam apresentados ao longo do módulo pois perpassam todos os conteúdos, esta seção reúne os diferentes componentes e são analisados criticamente, a fim de destacar os desafios apresentados para certas concepções tradicionais em matéria de proteção internacional.
+
+A unidade aborda a questão da exploração e do tráfico de pessoas, pois são importantes fenômenos globais e, embora em princípio pareçam se referir a questões de imigração, estes têm atualmente vários pontos de contato com as necessidades de proteção internacional de refugiados.
+
+Bibliografia principal:
+
+Documentos e doutrina:
+
+ACNUR, Violencia Sexual y por motivos de género en contra de personas refugiadas, retornadas y desplazadas internas. Guía para la prevención y respuesta, 2003, pp. 1-32.
+
+ACNUR, Nota resumen: Estrategia y actividades del ACNUR respecto a los niños y las niñas refugiadas, 2005.
+
+ACNUR, Los Derechos Humanos y la Protección de los Refugiados, Módulo Autoformativo 5, Volumen 2, 2006, pp. 35-45.
+
+ACNUR, Nota sobre VIH/sida y la protección de los refugiados, los desplazados internos y otras personas de la competencia del ACNUR, 2006.
+
+Global Rights, Guía anotada del Protocolo Completo de la ONU Contra la Trata de Personas, 2005.
+
+ACNUR, La aplicación del artículo 1A(2) de la Convención de 1951 o del Protocolo de 1967 sobre el Estatuto de los Refugiados en relación con las víctimas de la trata de personas y las personas que están en riesgo de ser víctimas de la trata, 2006.
+
+ACNUR, República de Colombia, Directriz para la prevención y atención integral de la población indígena en situación de deslocamento y riesgo, con enfoque diferencial, 2006.
+
+ACNUR, Cómo abordar el tema de la seguridad sin perjudicar la protección de los refugiados: La perspectiva del ACNUR, 2001
+
+Murillo, J. C., Justicia y seguridad, y su relevancia para la Protección Internacional de los refugiados, Cátedra Nansen, XXI Curso Interdisciplinario, IIDH, Costa Rica, 2003.
+
+ACNUR, Documento para discusión: El racismo, la discriminación racial, la xenofobia y la intolerancia conexa hacia los refugiados, 2000.
+Murillo, J. C., La protección internacional de los refugiados en las Américas, Presentación del ACNUR en el XXII Curso de Derecho Internacional, ACNUR, 2006.
+
+ACNUR, Consideraciones sobre la protección internacional de los solicitantes de asilo y los refugiados colombianos, 2002.
+
+ACNUR, Nota sobre asuntos relacionados con la elegibilidad para la protección internacional en el contexto de fumigaciones, 2007.
+
+Bibliografia complementar:
+
+Documentos e doutrina:
+ACNUR, Los Derechos Humanos y la Protección de los Refugiados, Módulo Autoformativo
+5, Volumen 2, 2006.
+
+ACNUR, Handbook for the Protection of Women and Girls, 2008.
+
+ACNUR, Violencia sexual y por motivos de género en contra de personas refugiadas, retornadas y desplazadas internas, Guía para la prevención y la respuesta, 2003.
+
+Relatora Especial sobre las ejecuciones extrajudiciales, sumarias o arbitrarias de la Comisión de Derechos Humanos de las Naciones Unidas, Adición al Informe de la Visita a Honduras, 2002, pp. 29 a 38)
+
+Manz, B., Central America (Guatemala, El Salvador, Honduras, Nicaragua): Patterns of Human Rights Violations, Writenet, 2008.
+Unidades Complementares
+
+Unidade 9
+“Distinguir entre seres humanos dependendo de que tenham ou não cruzado a fronteira não é nem ético nem prático. A vida humana deveria ter o mesmo valor sendo ela de um refugiado ou um deslocado interno.
+
+Kamel Morjane
+Ex Alto Comissário Adjunto do ACNUR
+	
+Unidade complementar
+A proteção dos deslocados internos
+
+Objetivos de aprendizagem:
+Unidade 9
+Apresentar o fenômeno do deslocamento interno, sua definição e marco normativo.
+
+Analisar o papel da comunidade internacional e do ACNUR frente a situações de deslocamento interno.
+
+Introduzir as distintas obrigações dos Estados em matéria de deslocamento interno e os princípios que protegem às pessoas deslocadas internamente.
+
+Conteúdos temáticos:
+
+9.1 O deslocamento interno: conceito, dinâmicas atuais e marco normativo. Vínculos do deslocamento interno com o DIR e com outros sistemas internacionais de proteção.
+9.2 Obrigações de prevenção, proteção e assistência: O papel dos Estados, as Nações Unidas e o ACNUR, e da Cooperação internacional.	
+	
+9.3 Princípios relativos à prevenção do deslocamento forçado.
+
+9.3.a Proibição de deslocamento forçado
+
+9.3.b Busca de alternativas ao deslocamento
+
+9.3.c Participação da população na tomada de decisões referidas ao deslocamento
+
+9.4 Proteção durante o deslocamento.
+
+9.4.a Proteção do direito à vida, dignidade e integridade, liberdade e segurança das pessoas afetadas
+9.4.b Proibição de retorno e recrutamento forçados.
+
+9.4.c Proteção da unidade familiar e comunitária e acesso ao exercício de direitos civis, políticos, econômicos, sociais e culturais da população deslocada.
+
+9.5 Princípios relativos à assistência humanitária: papéis e responsabilidades institucionais
+
+9.6 Princípios relativos ao retorno e reassentamento.
+
+9.6.a Direito ao retorno voluntario.
+
+9.6.b Direitos de restituição ou compensação.
+
+9.6.c Responsabilidade no retorno, reassentamento e reintegração dos deslocados internos.
+
+
+
+Bibliografia principal:
+
+Jurisprudência:
+Corte Constitucional de Colômbia, Sentencia T-025/2004.
+
+Corte Interamericana de Direitos Humanos, Caso de la “Masacre de Mapiripán” vs. Colombia, Sentencia de 15 de septiembre de 2005, pp. 167 a 189 y 313.
+
+Documentos e doutrina:
+Comissão de Direitos Humanos das Nações Unidas, Principios rectores de los deslocamentos internos, 1998
+
+Cohen R., Sánchez-Garzoli, G., El desplazamiento interno en las Américas: algunas características distintivas, ACNUR, 2001
+
+Forbes Martin, S., Guía para la aplicación de los principios rectores de los desplazamientos internos, Instituto Brookings, Oficina de Coordinación de Asuntos Humanitarios de las Naciones Unidas (OCHA), 2002.
+
+Bibliografia complementar:
+
+Jurisprudência:
+Corte Constitucional de Colômbia, Auto N° 092 de 2008 sobre Protección de los derechos fundamentales de las mujeres víctimas del desplazamiento forzado por causa del conflicto armado, en el marco de la superación del estado de cosas inconstitucional declarado en la sentencia T-025 de 2004, 2008.
+
+Corte Interamericana de Direitos Humanos, Caso de las masacres de Ituango c. Colombia,
+Sentencia de 1 de julio 2006, pp 204 a 235, 401 y 404.
+
+Documentos e doutrina:
+Defensoría del Pueblo de Colombia, Compendio normativo y jurisprudencial de Atención al
+Desplazamiento Forzado, Tomo I: Normas, Tomo II: Jurisprudencia, 2007.
+
+Kälin, W., Guiding Principles on Internal Displacement, Annotations, American Society of International Law, Brookings Institution, 2000.
+
+Unidade 10
+“Antigamente o homem tinha apenas o corpo e a alma. Agora ele precisa de um passaporte, pois sem ele não é tratado como um ser humano
+
+Stefan Zweig
+escritor nascido austríaco, depois apátrida (1881-1942).
+
+Unidade complementar:
+A proteção dos apátridas
+
+Objetivos de aprendizagem:
+Unidade 10
+Apresentar o fenômeno da apatrídia, sua definição e marco normativo
+
+Introduzir as distintas obrigações dos Estados em matéria de apatrídia, e os direitos que protegem às pessoas apátridas.
+
+Analisar o papel da comunidade internacional e do ACNUR frente a situações de apatrídia.
+
+Conteúdos temáticos:
+
+10.1 Definições, causas e efeitos da apatrídia. Direito a ter uma nacionalidade e capacidades inerentes ao exercício do direito à nacionalidade.	
+10.2 Proteção internacional das pessoas apátridas: antecedentes históricos e institucionais. Refugiados apátridas.
+
+10.3 Princípios relativos à prevenção do deslocamento forçado.
+
+10.3.a Convenção sobre o Estatuto dos Apátridas de 1954 e Convenção para reduzir os casos de Apatrídia de 1961.
+
+10.3.b Instrumentos regionais, normas consuetudinárias, decisões judiciais e doutrina. Legislações nacionais.	
+10.3.c Complementaridade com outros instrumentos internacionais e regionais de direitos humanos.
+
+10.4 Prevenção e redução de situações de apatrídia e proteção das pessoas apátridas.
+
+10.5 A responsabilidade de proporcionar proteção internacional em matéria de apatrídia. As obrigações dos Estados, das Nações Unidas e o mandato do ACNUR.
+Bibliografia principal:
+
+Jurisprudência:
+Corte Interamericana de Direitos Humanos, Opinión Consultiva N° 4 del 9 de diciembre de 1994, Responsabilidad internacional por expedición y aplicación de leyes violatoras de la Convención, pp. 7-11.
+
+Corte Interamericana de Direitos Humanos, Caso de las Niñas Yean y Bosico vs.República Dominicana, 8 de Septiembre 2005.
+
+Documentos e doutrina:
+ACNUR, Documento de Informação y Módulo de Adhesión: Convención sobre el Estatuto de los Apátridas de 1954 y Convención para Reducir los Casos de Apatridia de 1961, 1996.
+
+ACNUR, Conclusión N° 106 (LVII): Conclusión sobre la identificación, prevención y reducción de la apatridia y la protección de los apátridas, 2006.
+
+
+Bibliografia complementar:
+
+Jurisprudência:
+Corte Internacional de Justiça, Nottebohm Case (Liechtenstein v. Guatemala), Second Phase, 6 April 1955
+
+Corte Interamericana de Direitos Humanos, Caso Ivcher Bronstein Vs. Perú, Sentencia de
+6 de febrero de 2001.
+
+Documentos e doutrina:
+ACNUR, Inter Parliamentary Union, Nationality & Statelessness A Handbook for Parliamentarians, 2005.
+Anexos
+ANEXO A
+Programa de Conteúdos Temáticos
+
+Unidade 1: Introdução: Os deslocamentos de população
+
+1.1 Conceitos jurídicos preliminares: emigrantes, imigrantes, deslocados internos, solicitantes de asilo, refugiados, retornados, reassentados, apátridas. A noção de proteção internacional.
+
+1.2 Origens e desenvolvimento do sistema internacional de proteção e dinâmicas atuais dos movimentos populacionais.
+
+1.3 Explicações contemporâneas sobre as causas do fenômeno do deslocamento forçado.
+
+1.4 Refugiados no mundo contemporâneo: genealogia e vigência da categoria de refugiado.
+
+
+
+Unidade 2: Elementos do Direito Internacional Público e marco jurídico da proteção internacional dos refugiados
+
+2.1 Relações entre o Direito internacional e o Direito interno: integração e hierarquia de instrumentos internacionais.*
+
+2.2 A proteção internacional da pessoa humana. O princípio pro homine.
+
+2.3 Direito Internacional de Refugiados (DIR): instrumentos internacionais e regionais, normas consuetudinárias, decisões judiciais, doutrina e soft law.
+
+2.4 Direito Internacional dos Direitos Humanos (DIDH): instrumentos universais e regionais, mecanismos de promoção e supervisão.
+
+2.5 Direito Internacional Humanitário (DIH): aplicação de normas de proteção no marco de conflitos armados.
+
+2.6 Complementaridade e convergências dos sistemas de proteção da pessoa humana.
+
+
+2.7 Os distintos papéis no cenário da proteção: os Estados, o ACNUR, a sociedade civil, as Nações Unidas e outras organizações internacionais e regionais. O papel da Cooperação Internacional. A Agenda para a Proteção e o Plano de Ação de México.
+
+2.8 O ACNUR: Antecedentes e história. Estatuto. Mandato. Organização interna e funcionamento.
+
+Unidade 3: O direito humano ao asilo. Introdução aos princípios fundamentais da proteção internacional de refugiados.
+
+3.1 Regulação e conteúdo do direito humano ao asilo e sua relação com o princípio de não devolução, a não discriminação e a busca de soluções duradouras.
+
+3.2 A dualidade asilo refugio na América Latina: o sistema latino-americano sobre asilo diplomático e territorial e o sistema universal de proteção dos refugiados.
+
+3.3 Introdução aos princípios fundamentais da proteção internacional de refugiados: não devolução, não sanção por entrada irregular, não discriminação, não expulsão, documentação e auxilio administrativo.
+
+Unidade 4: Definições de refugiado: quem pode ser considerado refugiado?
+
+4.1 Antecedentes de definições. O Estatuto do ACNUR.
+
+4.2 A definição de refugiado da Convenção de 1951 e o Protocolo de 1967*
+
+4.2.a Análise geral. Âmbito de aplicação geográfica e temporal.
+
+4.2.b Cláusulas de inclusão:
+
+4.2.b.1 Encontrar-se fora do país de nacionalidade ou residência habitual
+
+4.2.b.2 Temor fundado: Elemento subjetivo e objetivo
+
+4.2.b.3 Perseguição: Definição. Agentes de perseguição. Perseguição vs. legítimo processo judicial. Refugiados sur place.
+
+4.2.b.4 Motivos convencionais: raça, religião, nacionalidade, pertencer a determinado grupo social, opiniões políticas. A perseguição baseada em gênero
+
+4.2.b.5 Disponibilidade de proteção estatal. Alternativa de fuga interna. Múltiplas nacionalidades
+
+4.2.c Cláusulas de exclusão:
+
+4.2.c.1 Quando é necessário fazer uma análise de exclusão
+
+4.2.c.2 Delitos contra a paz, de guerra ou contra a humanidade
+
+4.2.c.3 Atos contrários às finalidades e aos princípios de Nações Unidas
+
+4.2.c.4 Grave delito comum
+
+4.2.c.5 A relevância do Direito Internacional Penal
+
+4.2.c.6 Responsabilidade individual do solicitante e proporcionalidade
+
+4.2.d Pessoas que não necessitam de proteção internacional e pessoas que recebem proteção ou assistência de um órgão distinto ao ACNUR.
+
+4.3 A definição de refugiados da Declaração de Cartagena de 1984**
+
+4.3.a História e conteúdo da Declaração. A definição da Organização da Unidade Africana
+
+4.3.b Recepção da definição na America Latina
+
+4.3.c Elementos da definição
+
+4.3.d Aplicação de cláusulas de exclusão***
+
+
+
+Unidade 5: O ciclo do deslocamento forçado
+
+5.1 Fuga e acesso à proteção internacional
+
+5.1.a O direito humano de permanecer e de sair do próprio país
+
+5.1.b Barreiras físicas e jurídicas para aceder ao território e à jurisdição de um país distinto ao próprio. Os fluxos migratórios mistos. A interceptação em alto mar.
+
+5.1.c Os procedimentos de reconhecimento da condição de refugiado:
+
+5.1.c.1 Admissão ao procedimento. Confidencialidade
+
+5.1.c.2 O ônus e o mérito da prova e a determinação dos fatos
+
+5.1.c.3 Padrões de um procedimento justo e eficiente
+
+5.1.c.4 Procedimento de reconhecimento da condição de refugiado sob o mandato do ACNUR*
+
+5.1.d Movimentos secundários de refugiados e solicitantes de asilo
+
+5.1.e Princípio de não devolução
+
+5.1.e.1 Modos de devolução: devolução, expulsão, recondução e extradição de refugiados e solicitantes de asilo
+
+5.1.e.2 Padrões internacionais aplicáveis
+
+5.1.e.3 Relação entre os processos de extradição e os procedimentos de reconhecimento da condição de refugiado.
+
+5.1.e.4 Políticas de retorno e acordos de readmissão
+
+5.1.e.5 Formas complementares de proteção contra a devolução: Convenção contra a Tortura, Pacto de Direitos Civis e Políticos, Convenção sobre os direitos da criança e outras práticas dos Estados
+
+5.1.f O princípio de não sanção por entrada ilegal
+
+5.2 Marco para a busca de soluções duradouras.**
+
+5.2.a O vínculo entre o asilo, a proteção internacional e a busca de soluções duradouras
+
+5.2.b Evolução da busca de soluções duradouras na América Latina
+
+5.2.c A repatriação voluntária
+
+5.2.d O reassentamento
+
+5.2.e A integração local
+
+5.2.e.1 A naturalização de refugiados na Convenção de 1951 e o protocolo de 1967.
+
+* Ver procedimento em nível nacional
+* Ver processo de busca de soluções duradouras em nível nacional
+
+Unidade 6: Culminação do ciclo de deslocamento: Quando se deixa de ser refugiado?
+
+6.1 As cláusulas de cessação
+
+6.2 Cancelamento, revogação e renúncia ao estatuto de refugiado.*
+
+6.3 Proteção das pessoas que retornaram: reintegração, reparação e reconstrução Comunitária
+
+
+Unidade 7: Direitos dos refugiados e questões relacionadas
+
+7.1 As categorias de titularidade e exercício de direitos no âmbito da Convenção de 1951 e seu Protocolo de 1967. Desenvolvimentos posteriores no âmbito do DIDH.7.2O estatuto pessoal de refugiados e solicitantes de asilo no âmbito da Convenção de 1951 e seu Protocolo de 1967.7.3A documentação e o exercício de direitos.7.3.aDocumentos de identidade7.3.bDocumentos de Viagem7.3.cObrigação de ajuda administrativa.7.4O princípio de unidade familiar na proteção de refugiados e solicitantes de asilo.7.4.aDireito à reunificação familiar7.4.bDefinição de família7.4.cPadrões aplicáveis.7.5Detenção de solicitantes de asilo e refugiados.7.5.aCondições de detenção: padrões internacionais.7.5.b Não sanção por entrada ilegal.
+
+7.5.c Detenção em zonas de trânsito, portos e aeroportos.
+
+7.6 Princípios de igualdade e não discriminação e exercício de direitos econômicos, sociais e culturais. Padrões internacionais.
+
+7.7 Mecanismos internacionais e nacionais para a garantia dos direitos dos refugiados.
+
+Unidade 8: Desafios contemporâneos da proteção internacional
+
+8.1 Idade, gênero e diversidade na proteção internacional
+
+8.1.a O gênero e a proteção internacional:
+
+8.1.a.1 Práticas tradicionais e proteção de mulheres refugiadas e solicitantes de asilo. a perseguição baseada em gênero
+
+8.1.a.2 Mecanismos especiais de proteção e Padrões internacionais aplicáveis.
+
+8.1.b A proteção de crianças refugiadas e solicitantes de asilo.
+
+8.1.b.1	Crianças em situações de conflitos armados. Recrutamento forçado.	
+	
+8.1.b.2 Crianças separadas e não acompanhadas.
+
+8.1.b.3 Determinação do superior interesse da criança.
+
+8.1.b.4 Mecanismos especiais de proteção e padrões internacionais aplicáveis.
+8.1.cIdosos8.1.dIndígenas8.1.ePessoas com incapacidades8.2O Tráfico de migrantes e a exploração de pessoas e seus vínculos com a proteção internacional8.2.aDefinições de tráfico e exploração e seus vínculos com a proteção internacional8.2.cMecanismos de identificação e proteção de vítimas necessitadas de proteção internacional.8.3Pessoas vivendo com HIV/AIDS e proteção internacional8.3.aImpacto da epidemia na população refugiada e situação de vulnerabilidade das e dos refugiados frente ao HIV/AIDS8.4A segurança, a justiça e a proteção internacional de refugiados8.5Intolerância, racismo, xenofobia e discriminação e a proteção internacional de refugiados.8.6Alguns desafios atuais da proteção internacional na América Latina8.6.aA situação na Colômbia8.6.bO fenômeno das gangues na América Central8.6.cAs fumigações e o deslocamento.
+
+Unidade 9: A proteção dos deslocados internos
+
+9.1 O deslocamento interno: conceito, dinâmicas atuais e marco normativo. Vínculos do deslocamento interno com o DIR e com outros sistemas internacionais de proteção.
+9.2 Obrigações de prevenção, proteção e assistência: O papel dos Estados, das Nações unidas e do ACNUR, e da Cooperação internacional.
+9.3 Princípios relativos à prevenção do deslocamento forçado.
+
+9.3.a Proibição de deslocamento forçado
+
+9.3.b Busca de alternativas ao deslocamento
+
+9.3.c Participação da população na tomada de decisões referidas ao deslocamento
+
+9.4 Proteção durante o deslocamento.
+
+9.4.a Proteção do direito à vida, dignidade e integridade, liberdade e segurança das pessoas afetadas
+
+9.4.b Proibição de retorno e recrutamento forçados.
+
+9.4.c Proteção da unidade familiar e comunitária e acesso ao exercício de direitos civis, políticos, econômicos, sociais e culturais da população deslocada.
+
+9.5 Princípios relativos à assistência humanitária: papéis e responsabilidades institucionais
+
+9.6 Princípios relativos ao retorno e reassentamento.
+
+9.6.a Direito ao retorno voluntário.
+
+9.6.b Direitos de restituição ou compensação.
+
+9.6.c Responsabilidade no retorno, reassentamento e reintegração dos deslocados internos.
+
+
+Unidade 10: A proteção dos apátridas
+
+10.1 Definições, causas e efeitos da apatrídia. Direito a ter uma nacionalidade e capacidades inerentes ao exercício do direito à nacionalidade.
+10.2 Proteção internacional das pessoas apátridas: antecedentes históricos e institucionais. Refugiados apátridas.
+10.3 Princípios relativos à prevenção do deslocamento forçado.
+10.3.a Convenção sobre o Estatuto dos Apátridas de 1954 e Convenção para reduzir os casos de Apatrídia de 1961.
+10.3.b Instrumentos regionais, normas consuetudinárias, decisões judiciais e doutrina. Legislações nacionais.
+10.3.c Complementaridade com outros instrumentos internacionais e regionais de direitos humanos.
+10.4 Prevenção e redução de situações de apatrídia e proteção das pessoas apátridas.
+10.5 A responsabilidade de proporcionar proteção internacional em matéria de apatrídia. As obrigações dos Estados, das Nações Unidas e o mandato do ACNUR.*
+
+Anexo B
+Referências Bibliográficas: Instrumentos Internacionais: Organização das Nações Unidas: Carta das Nações Unidas (1948)
+
+Direitos Humanos: sistema universal:
+
+Convenção contra a Tortura e outros tratos ou penas cruéis, inumanas ou degradantes, A/ RES/39/46 (1984).
+
+Convenção internacional sobre a eliminação de todas as formas de discriminação racial, Assembléia Geral na sua resolução 2106 A (XX), de 21 de dezembro de 1965 (1965). Convenção sobre eliminação de todas as formas de discriminação contra a mulher, Assembléia Geral na sua resolução 34/180, de 18 de dezembro de 1979 (1979).
+
+Convenção sobre os Direitos da Criança, A/RES/44/25 (1989).
+
+Declaração Universal dos Direitos Humanos, Assembléia Geral na sua resolução 217 A (III), de 10 de dezembro de 1948 (1948).
+
+Pacto Internacional de Direitos Civis e Políticos, Assembléia Geral na sua resolução 2200 A (XXI), de 16 de dezembro de 1966 (1966).
+
+Pacto Internacional de Direitos Econômicos, Sociais e culturais, Assembléia Geral na sua resolução 2200 A (XXI), de 16 de dezembro de 1966 (1966).
+
+Protocolo contra o tráfico ilícito de migrantes por terra, mar e ar, que complementa a Convenção das Nações Unidas contra o crime organizado transnacional, A/RES/55/25 (2004)
+Protocolo para prevenir, reprimir e sancionar a trata de pessoas, especialmente mulheres e crianças, que complementa a Convenção das Nações Unidas contra o crime organizado transnacional (2003).
+
+Direitos Humanos: sistema interamericano:
+
+Convenção Americana sobre Direitos Humanos, Assinada em San José de Costa Rica o 22 de novembro de 1969, na Conferencia Especializada Interamericana sobre Direitos Humanos; B-32 (1969).
+
+Convenção Interamericana para prevenir, punir e erradicar a violência contra a mulher, Assinada no XXIV Período Ordinário de Sessões da Assembléia Geral da OEA, Belém do Pará, Brasil, Junho 6-10 1994; A-61 (1994).
+
+Declaração Americana dos Direitos e Deveres do Homem, AG/RES. 1591 (XXVIII-O/98)
+(1948)
+
+Protocolo Adicional à Convenção Americana sobre Direitos Humanos em matéria de Direitos Econômicos, Sociais e Culturais “Protocolo de San Salvador” (1988).
+
+Refugiados e deslocados internos:
+
+Estatuto do Alto Comissariado das Nações Unidas para os Refugiados, Assembléia Geral em sua resolução 428 (V), de 14 de dezembro de 1950 (1950).
+
+Convenção sobre o Estatuto dos refugiados, Conferência de Plenipotenciários sobre o estatuto dos refugiados e dos apátridas (Nações Unidas), convocada pela Assembléia Geral na sua resolução 429 (V), de 14 de dezembro de 1950 (1951).
+
+Convenção da OUA de 1969 pela qual se regulam os aspectos específicos de problemas dos refugiados na África, Assembléia de Chefes de Estado e de Governo em seu sexto período ordinário de sessões (Addis Abeba, 10 de setembro de 1969).
+
+Declaração de Cartagena sobre Refugiados (1984).
+
+Declaração dos Estados Partes e Programa de Ação (Agenda para a Proteção) (2001). Declaração e Plano de ação do México (2004).
+Protocolo sobre o estatuto dos refugiados, Assembléia Geral na sua resolução 2198 (XXI), de 16 de dezembro de 1966 (1967).
+
+Princípios reitores dos deslocamentos internos, Comissão de Direitos Humanos das Nações Unidas, E/CN.4/1998/53/Add.2, 11 de fevereiro de 1998.
+
+Asilo
+
+Convenção sobre Asilo Diplomático, A-46;serie sobre Tratados, OEA, N°.18 (Caracas,1954). Convenção sobre Asilo Territorial, A-47; serie sobre Tratados, OEA, N°.19 (Caracas, 1954) Convenção sobre asilo e refugio político (Montevideo, 1939).
+Declaração de asilo territorial da Assembléia Geral de Nações Unidas de 1967, Assembléia Geral na sua resolução 2312 (XXII), de 14 de dezembro de 1967.
+
+Direito Internacional Humanitário
+
+Convenções de Genebra para a proteção das vítimas da guerra (1949).
+
+Protocolo adicional às Convenções de Genebra relativo à proteção das vítimas dos conflitos armados internacionais, (1977).
+
+Protocolo adicional às Convenções de Genebra relativo à proteção das vítimas dos conflitos armados sem caráter internacional (1977).
+
+Direito Internacional Penal
+
+Convenção para a prevenção e a repressão do crime de genocídio, Assembléia Geral na sua resolução 260 A (III), de 9 de dezembro de 1948 (1948).
+
+Estatuto de Roma da Corte Penal Internacional, A/CONF.183/9, de 17 de julho de 1998 (1998)
+
+Tratado sobre Direito Penal Internacional (Montevideo, 1889).
+
+Povos Indígenas
+
+Convênio sobre povos indígenas e tribais em países independentes (Nº 169, Organização Internacional do Trabalho, OIT, 1989).
+
+Declaração das Nações Unidas sobre os direitos dos povos indígenas, A/RES/61/295 (2007).
+Outros grupos especialmente protegidos
+
+Convenção Internacional sobre a Proteção dos Direitos de Todos os Trabalhadores Migrantes e seus familiares, A/RES/45/158 (1990).
+Convenção sobre os direitos das pessoas com incapacidade, A/ RES/61/106(2006). Declaração de compromisso na luta contra o HIV/AIDS (Assembléia geral, 2001), A/RES/S-26/2.
+
+Princípios das Nações Unidas em favor das pessoas idosas, A/RES/46/91 (1991).
+
+Apátridas
+
+Convenção sobre o estatuto dos apátridas, Conferência de Plenipotenciários convocada pelo Conselho Econômico e Social na sua resolução 526 A (XVII), de 26 de abril de 1954 (1954)
+
+Convenção para reduzir os casos de Apatrídia, Conferência de Plenipotenciários que se reuniu em 1959 e novamente em 1961, em cumprimento da resolução 896 (IX) da Assembléia Geral, de 4 de dezembro de 1954 (1961)
+
+Bibliografia Principal :
+
+Jurisprudência:
+Comissão Interamericana de Direitos Humanos, Comité Haitiano de Derechos Humanos y otros contra Estados Unidos de América, Informe N° 51/96, Decisión de la Comisión en cuanto al mérito del caso 10.675, 13 de marzo de 1997, párr. 149 a 163.
+
+Comissão Interamericana de Direitos Humanos, 120 ciudadanos cubanos y 8 haitianos detenidos en Las Bahamas, Informe de admisibilidad Nº 6/02, caso 12.071, del 3 de abril de 2002.
+
+Corte Interamericana de Direitos Humanos, Condición Jurídica y Derechos de los Migrantes Indocumentados, Opinión Consultiva N° 18 del 17 de septiembre de 2003, Glosario, párrafo 69 (para sección 1.3) y Voto concurrente del juez Cançado Trindade, A. A., pp. 1 a 11 (para sección 1.1)
+
+Corte Interamericana de Direitos Humanos, Caso de la “Masacre de Mapiripán” vs. Colombia, Sentencia de 15 de septiembre de 2005, párr. 167 a 189 y 313.
+
+Comitê de Direitos Humanos, Comentario General N° 31: Naturaleza de la obligación jurídica general impuesta a los Estados Partes en el Pacto, aprobada el 29 de mayo de 2004, párrafo 12.
+
+Corte Internacional de Justiça, Nottebohm Case (Liechtenstein v. Guatemala), Second Phase, 6 April 1955
+
+Corte Constitucional da Colômbia, Sentencia T-025/2004. Expediente T-653010 y acumulados.
+
+Documentos e doutrina:
+ACNUR, Introducción a la protección internacional, Módulo autoformativo 1, 2005, cap. 1 e cap. 5, apartado 5.1.
+
+ACNUR, La situación de los refugiados en el mundo, 2006.
+
+ACNUR, Introducción a la protección internacional, Módulo autoformativo 1, 2005, pp. 25 a 47 (para sección 2.2.) e pp. 5 a 9 y 13 a 19 (para secciones 2.7 y 2.8).
+
+ACNUR, Conclusión N° 106 (LVII): Conclusión sobre la identificación, prevención y reducción de la apatridia y la protección de los apátridas, 2006.
+
+ACNUR, Unión Interparlamentaria, Protección de los Refugiados: Guía sobre el Derecho Internacional de los Refugiados, 2003, capítulo 2.
+
+ACNUR, Agenda para la Protección, 2002. A/AC.96/965/Add.1
+
+ACNUR, Plan de acción de México: el impacto de la solidaridad regional, 2007. ACNUR, Manual de procedimientos y criterios para determinar la condición de refugiado, 1992.
+ACNUR, Agentes de persecución, Posición del ACNUR, 1995.
+
+ACNUR, Pertenencia a un determinado grupo social en el contexto del artículo 1A(2) de la Convención de 1951 sobre el Estatuto de los Refugiados y/o su Protocolo de 1967. Directrices sobre la Protección Internacional, 2002. HCR/GIP/02/02, 7 de mayo de 2002
+
+ACNUR, El derecho de asilo y el mandato del ACNUR, 2006.
+
+ACNUR, República de Colombia, Directriz para la prevención y atención integral de La población indígena en situación de desplazamiento y riesgo, con enfoque diferencial, 2006.
+
+ACNUR, Solicitudes de asilo por motivos religiosos bajo el artículo 1A (2) de la Convención de 1951 y/o el Protocolo de 1967 sobre el Estatuto de los Refugiados, Directrices sobre Protección Internacional, 2004. HCR/GIP/04/06, 28 de abril de 2004.
+
+ACNUR, La persecución por motivos de género en el contexto del artículo 1A (2) de la Convención de 1951 sobre el Estatuto de los Refugiados, y/o su Protocolo de 1967, Directrices sobre Protección Internacional, 2002. HCR/GIP/02/01, 7 de mayo de 2002
+
+ACNUR, Interpretación del artículo 1 de la Convención de 1951 sobre el Estatuto de los Refugiados, 2001.
+
+ACNUR, La alternativa de huida interna o reubicación en el contexto del artículo 1A (2) de la Convención de 1951o el Protocolo de 1967 sobre el Estatuto de los Refugiados. Directrices sobre Protección Internacional, 2003. HCR/GIP/03/04, 23 de julio de 2003
+
+ACNUR, La aplicación de las cláusulas de exclusión: El artículo 1F de la Convención de 1951 sobre el Estatuto de los Refugiados. Directrices sobre protección internacional, 2003.
+
+ACNUR, Determinación de la condición de refugiado, Módulo Autoformativo 3, 2005, (versión español 2008 en imprenta), Capítulos 2 y 3.
+
+ACNUR, Protección de refugiados y soluciones duraderas en el contexto de las migraciones internacionales, 2007. ACNUR/DPC/2007/Doc. 02. 19 de noviembre de 2007.
+ACNUR, Documento de Información y Módulo de Adhesión: Convención sobre el Estatuto de los Apátridas de 1954 y Convención para Reducir los Casos de Apatridia de 1961, 1996.
+
+ACNUR, La interceptación de solicitantes de asilo y refugiados: el marco internacional y recomendaciones para un enfoque integral, 2000. EC/EC/50/SC/CRP.17. 9 de junio de 2000
+
+ACNUR, Procesos de asilo (procedimientos de asilo justos y eficientes), 2001. EC/
+GC/01/12, 31 de mayo de 2001
+
+ACNUR, Nota sobre la Carga y el Mérito de la Prueba en las Solicitudes de Asilo, 1998. ACNUR, Protección Internacional mediante formas complementarias de protección, 2005. EC/55/SC/CRP.16, 2 de junio 2005.
+
+ACNUR, El retorno de las personas no necesitadas de protección internacional, 1997.
+EC/47/SC/CRP.28, 30 de mayo de 1997.
+
+ACNUR, Tema Anual: La búsqueda y aplicación de soluciones duraderas, Comité Ejecutivo, 47º período de sesiones, 1996. A/AC.96/872, 30 de agosto de 1996.
+
+ACNUR, Tema Anual: Problemas de la repatriación, Comité Ejecutivo, 48º período de sesiones, 1997. EC/47/SC/CRP.28, 30 de mayo de 1997.
+
+ACNUR, “La Repatriación Voluntaria”, en Manual para situaciones de emergencia,Segunda Edición.
+
+ACNUR, Manual de reasentamiento, 1999, capítulos 1 e 2.
+
+ACNUR, Cesación de la condición de refugiado 1C (5) y (6) de la Convención de 1951 sobre el Estatuto de los refugiados, Directrices sobre protección internacional, 2003. HCR/ GIP/03/03, 10 de febrero de 2003
+
+ACNUR, Las cláusulas de cesación: directrices para su aplicación, 1999.
+
+ACNUR, Manual de procedimientos y criterios para determinar la condición de refugiado,1992, cap. III.
+ACNUR, Directrices sobre protección internacional. La aplicación de las cláusulas de exclusión: El artículo 1F de la Convención de 1951 sobre el Estatuto de los Refugiados,2003, pp. 1 a 4. HCR/GIP/03/05, 4 de septiembre de 2003.
+
+ACNUR, Violencia Sexual y por motivos de género en contra de personas refugiadas, retornadas y desplazadas internas. Guía para la prevención y respuesta, 2003, pp. 1-32.
+
+ACNUR, Nota resumen: Estrategia y actividades del ACNUR respecto a los niños y las niñas refugiadas, 2005.
+
+ACNUR, Nota sobre VIH/sida y la protección de los refugiados, los desplazados internos y otras personas de la competencia del ACNUR, 2006.
+
+ACNUR, La aplicación del artículo 1A(2) de la Convención de 1951 o del Protocolo de 1967 sobre el Estatuto de los Refugiados en relación con las víctimas de la trata de personas y las personas que están en riesgo de ser víctimas de la trata, 2006. HCR/ GIP/06/07, 7 de abril de 2006.
+
+ACNUR, Directriz para la prevención y atención integral de la población indígena em situación de desplazamiento y riesgo, con enfoque diferencial, 2006.
+
+ACNUR, Cómo abordar el tema de la seguridad sin perjudicar la protección de los refugiados: La perspectiva del ACNUR, 2001. HCR/GIP/06/07, 7 de abril de 2006.
+
+ACNUR, Documento para discusión: El racismo, la discriminación racial, la xenofobia y la intolerancia conexa hacia los refugiados, 2000.
+
+ACNUR, Consideraciones sobre la protección internacional de los solicitantes de asilo y los refugiados colombianos, 2002.
+
+ACNUR, Nota sobre asuntos relacionados con la elegibilidad para la protección internacional en el contexto de fumigaciones, 2007.
+
+ACNUR, La integración de los refugiados guatemaltecos en Chiapas, 2001 Agamben, G., Medios sin fin. Notas sobre la política, Pre-Textos, Valencia, 2001, pp. 21 a 30.
+
+Arendt, H., “La decadencia de la Nación-Estado y el final de los derechos del hombre”, em Los orígenes del totalitarismo, Alianza, Madrid, 1987, pp. 392 a 448.
+
+Cançado Trindade, A. A., “Derecho Internacional de los derechos humanos, derecho internacional de los refugiados y derecho internacional humanitario: aproximaciones y convergencias”, en 10 años de la Declaración de Cartagena sobre Refugiados, Memoria Coloquio Internacional, ACNUR, IIDH, Costa Rica, 1995, pp. 76 a 183.
+
+Cançado Trindade, A. A., “Reflexiones sobre el desarraigo como problema de Derechos Humanos frente a la Conciencia jurídica Universal”, en Cançado Trindade, A.A., Ruiz de Santiago, J., La nueva dimensión de las necesidades de protección del ser humano en el siglo XXI, 3° ed., ACNUR, Corte Interamericana de Derechos Humanos,Costa Rica, 2004, pp. 56 a 62.
+
+Cohen R., Sánchez-Garzoli, G., El desplazamiento interno en las Américas: algunas características distintivas, ACNUR, 2001.
+
+Conferencia Internacional sobre Refugiados Centroamericanos (CIREFCA), Principios y criterios para la protección y asistencia a los refugiados, repatriados y desplazados centroamericanos en América latina, ACNUR (ed.), 1989, pp. 8 a 14. CIREFCA 89/9, Abril 1989
+
+Corcuera Cabezut, S., “Reflexiones sobre la aplicación de la definición ampliada de refugiados de la Declaración de Cartagena en los procedimientos para la determinación individual de la condición de refugiado”, en Memoria del vigésimo aniversario de la Declaración de Cartagena sobre los Refugiados, ACNUR, 2005, pp. 193-224.
+
+Esponda Fernández, J., “La tradición latinoamericana de asilo y la protección internacional de los refugiados”, en Franco, L., El asilo y la protección internacional de losrefugiados en América latina, Siglo XXI, ACNUR, Universidad Nacional de Lanús, Buenos Aires, 2003. pp. 75 a 122.
+
+Forbes Martin, S., Guía para la aplicación de los principios rectores de los desplazamientos internos, Instituto Brookings, Oficina de Coordinación de Asuntos Humanitarios de las Naciones Unidas (OCHA), 2002.
+
+Galindo Velez, F., “Consideraciones sobre la determinación de la condición de refugiado”, en Namihas, S. (comp.), Derecho Internacional de los Refugiados, Fondo Editorial de la Pontificia Universidad Católica del Perú, Lima, 2001, pp. 45 a 57.
+
+Garretón, R., “Principio de No-Devolución: fuerza normativa, alcances, aplicación en los países no partes en la Convención”, en 10 años de la Declaración de Cartagena sobre Refugiados, Memoria Coloquio Internacional, ACNUR, IIDH, Costa Rica, 1995, pp. 211-232.
+
+Global Rights, Guía anotada del Protocolo Completo de la ONU Contra la Trata de Personas, 2005.
+
+Manly, M., “La consagración del asilo como un derecho humano: Análisis comparativo de la Declaración Universal, la Declaración Americana y la Convención Americana sobre Derechos Humanos ”, en Franco, L., El asilo y la protección internacional de los refugiados en América latina, Siglo XXI, ACNUR, Universidad Nacional de Lanús, Buenos Aires, 2003, pp. 122 a 156.
+
+Massey, D., Las teorías de la migración: una síntesis. Conferencia Seminario Migración, ciudades y desigualdad, IDES, Buenos Aires, 2004.
+
+Mondelli, J. I., El asilo como derecho humano en el derecho argentino, ACNUR, Buenos Aires, 2008, pp. 1 a 12.
+
+Murillo, J. C., Justicia y seguridad, y su relevancia para la Protección Internacional de los refugiados, Cátedra Nansen, XXI Curso Interdisciplinario, IIDH, Costa Rica, 2003.
+
+Murillo, J. C., La protección internacional de los refugiados en las Américas, Presentación del ACNUR en el XXII Curso de Derecho Internacional, ACNUR, 2006.
+
+OIM, ACNUR, La protección de refugiados y el control migratorio: Perspectivas del ACNUR y de la OIM”, 2001. EC/GC/01/11, 31 de mayo de 2001.
+
+Passer, H. P., El derecho internacional humanitario y la protección de las víctimas de la guerra, Comité Internacional de la Cruz Roja, 1998. Ref. LG 1998-079-SPA Pinto, M., Temas de Derechos Humanos, Editores del Puerto, Buenos Aires, 1997, capítulos I, VII y VIII.
+
+San Juan, C., Manly, M., “Informe general de la investigación. El asilo y la protección internacional de los refugiados en América latina”, en Franco, L., El asilo y la protección internacional de los refugiados en América latina, Siglo XXI, ACNUR, Universidad Nacional de Lanús, Buenos Aires, 2003, pp. 17 a 71.
+
+Valencia Villa, A., “Los sistemas internacionales de Protección de los Derechos Humanos”, en Martin, C., Rodríguez Pinzón D., Guevara, J. A., (comp.) Derecho Internacional de los Derechos Humanos, Doctrina Jurídica Contemporánea, Ciudad de México, 2004.
+
+Vallés, Jorge R., “Procedimiento para la determinación de la condición de refugiado”,en Irigoin, J. (comp.), Derecho Internacional de los Refugiados, Instituto de Estudios Internacionales de la Universidad de Chile, 1993, pp. 126 a 145.
+
+VVAA, La responsabilidad de supervisión: Resumen de las conclusiones de la Mesa redonda de expertos en Cambridge, ACNUR (comp.) 2001.
+
+VVAA, La cesación de la condición de refugiado: Resumen de conclusiones de La Mesa Redonda de Expertos en Lisboa, ACNUR, 2001.
+
+VVAA, El principio de no devolución: Resumen de las conclusiones de la Mesa redonda de expertos en Cambridge, ACNUR, 2001.
+
+VVAA, Pertenencia a un determinado grupo social: Resumen de las conclusiones de la Mesa Redonda de Expertos en San Remo, ACNUR, 2001.
+
+VVAA, La persecución relacionada con género: Resumen de las conclusiones de la Mesa Redonda de Expertos en San Remo, ACNUR, 2001.
+
+VVAA, El concepto de “Protección Efectiva” en el contexto de los movimientos secundários de Refugiados y solicitantes de asilo: Resumen de las conclusiones de la Mesa Redonda de Expertos en Lisboa, ACNUR, 2001.
+
+VVAA, Alternativa de protección, reubicación o huida interna: Resumen de las conclusiones de la Mesa Redonda de Expertos en San Remo, ACNUR (comp.), 2001.
+VVAA, La exclusión de la condición de refugiado: Resumen de las conclusiones de la Mesa Redonda de Expertos en Lisboa, ACNUR, 2001. EC/GC/01/Ambito 2/1, 30 de mayo de 2001
+
+VVAA, El concepto de “Protección Efectiva” en el contexto de los movimientos secundários de Refugiados y solicitantes de asilo: Resumen de las conclusiones de la Mesa Redonda de Expertos en Lisboa, ACNUR, 2002.
+
+VVAA, El artículo 31 de la Convención de 1951 sobre el Estatuto de los Refugiados: Resumen de las Conclusiones de la Mesa Redonda de Expertos en Ginebra, ACNUR, 2001.
+
+Bibliografia complementar:
+
+Jurisprudência:
+Corte Constitucional de Colômbia, Auto N° 092 de 2008 sobre Protección de los derechos fundamentales de las mujeres víctimas del desplazamiento forzado por causa del conflicto armado, en el marco de la superación del estado de cosas inconstitucional declarado en la sentencia T-025 de 2004, 2008.
+
+Corte Interamericana de Direitos Humanos, Caso de las masacres de Ituango c. Colombia,
+Sentencia de 1 de julio 2006, párr 204 a 235, 401 y 404.
+
+Corte Interamericana de Direitos Humanos, Opinión Consultiva N° 4 del 9 de diciembre de 1994, Responsabilidad internacional por expedición y aplicación de leyes violatorias de la Convención, pp. 7-11.
+
+Corte Interamericana de Direitos Humanos, Caso de las Niñas Yean y Bosico vs. República
+Dominicana, 8 September 2005.
+
+Documentos e doutrina:
+ACNUR, Documento del ACNUR sobre la aplicación de las cláusulas de exclusión: El artículo 1F de la Convención de 1951 sobre el Estatuto de los Refugiados, 2003.
+
+ACNUR, El uso estratégico del reasentamiento, Documento de discusión elaborado por el Grupo de Trabajo sobre Reasentamiento, WGR/03/04.Rev3, 2003.
+ACNUR, Formas complementarias de protección: su naturaleza y la relación con el régimen de protección internacional, EC/50/SC/crp.18, 9 de junio del 2000.
+
+ACNUR, Handbook for the Protection of Women and Girls, 2008. ACNUR, Handbook for Repatriation and Reintegration Activities, 2004.
+ACNUR, Inter Parliamentary Union, Nationality & Statelessness A Handbook for Parliamentarians, 2005.
+
+ACNUR, Los Derechos Humanos y la Protección de los Refugiados, Módulo Autoformativo 5, Volúmenes 1 e 2 , 2006.
+
+ACNUR, Normas Procedimentales para determinar la condición de refugiado bajo el mandato del ACNUR.
+
+ACNUR, Refugee Status Determination. Identifying who is a refugee, Self-studymodule 2, 2005.
+
+ACNUR, Extracts relating to nationality and statelessness from selected universal and regional human rights instruments.
+
+ACNUR, Handbook for the Protection of Women and Girls, 2008, pp. 5 a 19.
+
+Relatora Especial sobre las ejecuciones extrajudiciales, sumarias o arbitrarias de la Comisión e Derechos Humanos de las Naciones Unidas, Adición al Informe de la Visita a Honduras, 2002, E/CN.4/2003/3/Add.2.
+
+Aleinikoff, T. A., “Protected characteristics and social perceptions: an analysis of the meaning of ‘membership of a particular social group”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, section 4.1.
+
+Arboleda, E., “La Declaración de Cartagena de 1984 y sus semejanzas con la Convención de la Organización de la Unidad Africana de 1969: una perspectiva comparativa”,en Namihas S. (comp.) Derecho Internacional de los Refugiados, Fondo Editorial de la Pontificia Universidad Católica del Perú, Lima, 2001.
+
+Benhabib, S., El derecho de los otros: extranjeros, residentes y ciudadanos, Gedisa, Buenos Aires, 2005.
+
+Cançado Trindade, A., “Aproximaciones y convergencias revisitadas: Diez años de interacción entre el DIDH, el DIR y el DIH”, en 20 Memoria del Vigésimo aniversario de la declaración de Cartagena, ACNUR, 2004, págs 139 a 191.
+
+De Lucas, J., “Fundamentos filosóficos del derecho de asilo”, en Derechos y Libertades: revista del Instituto Bartolomé de las casas, Año 2, Número 4, I Instituto de Derechos Humanos Bartolomé de las Casas, Universidad Carlos III de Madrid, pp. 23 a 56.
+
+De Sousa Santos, B., La globalización del derecho. Los nuevos caminos de la regulación y la emancipación, Instituto Latinoamericano de Servicios Legales Alternativos (ILSA) de la Facultad de Derecho, Ciencias Políticas y Sociales de la Universidad Nacional de Colombia, 1998, pp. 115 a 149.
+
+Defensoría del Pueblo de Colombia, Compendio normativo y jurisprudencial de Atención al Desplazamiento Forzado, Tomo I: Normas, Tomo II: Jurisprudencia, 2007.
+
+Edwards, A., “Human Rights, and the Right ‘to enjoy’ asylum”, en International Journal of Refugee Law, Volume 17, Number 2, 2005, Oxford Journals y Human Rights Centre University of Essex, pp. 293-330.
+
+Fitzpatrick, J., and Bonoan, R., “Cessation of refugee protection”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, Section 8.1.
+
+Franco, L., Santistevan de Noriega, J., “La contribución del proceso de Cartagena al Desarrollo del Derecho Internacional de los Refugiados en América Latina”, en Memoria del Vigésimo aniversario de la declaración de Cartagena sobre los Refugiados,ACNUR, 2004, pp. 79 a 138.
+
+Geoff, G., “Current issues in the application of the exclusion clauses”, in Feller,E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, section 7.1.
+
+Goodwin-Gill, G. S. and McAdam, J., The refugee in international law, Thirdedition, Oxford University Press, Oxford, 2007.
+
+Goodwin-Gill, G. S., “Article 31 of the 1951 Convention Relating to the Status of Refugees: non-penalization, detention, and protection”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, Section 3.1.
+
+Hathaway, J. C., The law of refugee status, Butterworths, Canada, 1990.
+
+Kälin, W., Guiding Principles on Internal Displacement, Annotations, American Society of International Law, Brookings Institution, 2000.
+
+Kälin W., “Supervising the 1951 Convention Relating to the Status of Refugees:Article 35 and beyond”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, section 10.1.
+
+Lauterpacht, E., Bethlehem, D., “The scope and content of the principle of nonrefoulement: Opinion”, in Feller, E., Türk, V., Nicholson, F. (ed.), Refugee Protection in International Law: UNHCR’s global consultations on international protection, Cambridge University Press, UNHCR, 2003, Section 2.1.
+
+López Garrido, D., El derecho de asilo, Editorial Trotta, España, 1991, pp. 13-46.
+
+Manz, B., Central America (Guatemala, El Salvador, Honduras, Nicaragua): Patterns of Human Rights Violations, Writenet, 2008.
+
+Mármora, L., Las políticas de migraciones internacionales, Paidós, Buenos Aires,2002. OIM, Glosario sobre migración, 2006.
+Pulido, M. C., Blanchard, M., La Comisión Interamericana de Derechos Humanos y sus mecanismos de protección aplicados a la situación de los refugiados, apátridas y solicitantes de asilo, ACNUR, s/f.
+Segal, A., An Atlas of International Migration, Hans Zell Publishers, Londres, 1993. Sepúlveda, M., “El tratamiento de los solicitantes de asilo y refugiados a la luz de la Declaración de Cartagena sobre refugiados y las normas del Derecho Internacional de los Derechos
+Humanos”, en Memoria del Vigésimo aniversario de la declaración de Cartagena sobre los Refugiados, Sepúlveda, M., Los derechos económicos, sociales y culturales de refugiados y solicitantes de asilo, Cátedra Nansen. XXII Curso Interdisciplinario, IIDH, Costa Rica, 2004.
+
+UN, Draft Articles on Nationality of Natural Persons in Relation to the Succession of States (With Commentaries), 1999, Supplement No. 10 (A/54/10).
+
+VVAA, Unidad de la Familia: Resumen de las Conclusiones de la Mesa Redonda de Expertos en Ginebra, ACNUR, 2001.
+
+ACNUR, Directrices del ACNUR sobre los criterios y estándares aplicables con respecto a la detención de solicitantes de asilo, 1999.
+
+Anexo C: Carga Horária
+Esta carga horária se baseia em um curso padrão semestral ou quadrimestral (segundo a denominação de cada país) de uma Faculdade de Direito da América Latina.
+
+Estes cursos têm uma duraçao média de 48 horas.
+
+Se for necessário adaptar os conteúdos para cursos de curta duração, segundo o critério do docente poderia priorizar-se o conteúdo de certas unidades sobre os outros, ou reduzir o tempo dedicado a cada Unidade com exposições mais pontuais sobre cada conteúdo temático.
+
+Unidade Título Carga horária (curso 48 hs.)
+1 Introdução: Populações Deslocadas 3 hs. 
+2 Elementos do Direito Internacional Público e marco jurídico	da	proteção	internacional	dos	refugiados 8 hs. 
+3 O	direito	humano	ao	asilo.	Introdução	aos	princípios	fundamentais	da	proteção	internacional	de	refugiados. 3 hs 
+4 Definições	de	refugiado:	quem	pode	ser	considerado	refugiado? 10 hs.
+5 O	ciclo	do	deslocamento	forçado 8 hs. 
+6 Culminação do ciclo de deslocamento: Quando se deixa	de	ser	refugiado? 3 hs.
+7 Direitos	dos	refugiados	e	questões	relacionadas 5 hs.
+8 Desafios	contemporâneos	da	proteção	internacional 4 hs.
+9 A proteção dos deslocados internos 2 hs.
+10 A proteção dos apátridas 2 hs.
+
+Anexo D: Links de interesse
+
+www.acnur.org.br www.unhcr.org
+As páginas web do ACNUR em espanhol e inglês reúnem os principais documentos do ACNUR e outras organizações sobre DIR e, em geral, sobre questões relativas à proteção internacional.
+
+www.refworld.org
+Refworld é uma base de dados online que reflete o estado da arte do sistema de informação sobre proteção do ACNUR. A informação publicada tem sido selecionada cuidadosamente e coletada com a ajuda da rede global de escritórios de campo do ACNUR, dos governos, de organizações internacionais e não governamentais, de instituições acadêmicas, de órgãos judiciais e de outras entidades.
+
+http://www.icva.ch/doc00001528.html
+O Projeto de Formação sobre a Proteção do Refugiado Reach Out foi iniciado em 2001 por diversas ONGs e o Movimento Internacional da Cruz Vermelha e do Crescente Vermelho em colaboração com o ACNUR, para formar trabalhadores do sector humanitário nas questões básicas de proteção do refugiado. O Pacote de Formação é gratuito através das páginas Web do Conselho Internacional de Organizações Voluntárias (ICVA, por suas siglas em inglês): www. icva.ch e do ACNUR: www.acnur.org.br em quatro idiomas: árabe, inglês, francês e espanhol. Este projeto conta com uma seleção de Casos Modelo que podem ser utilizados para o ensino de alguns dos componentes do Módulo de DIR.
+
+http://www.refugeelawreader.org
+O Refugee Law Reader é uma iniciativa do Comitê Húngaro de Helsinki para oferecer um currículo em inglês para o ensino do DIR. Por ter essa ferramenta em espanhol poderia servir como um complemento a este módulo.

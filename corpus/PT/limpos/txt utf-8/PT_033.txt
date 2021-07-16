@@ -1,0 +1,153 @@
+﻿
+<Header>
+	<title>
+		<tit> Revista Forced Migration edição 35 Julho de 2010 </tit>
+		<fileName> PT_033 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Revista </textType>
+		<subcorpus> PT-BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.acnur.org/fileadmin/Documentos/portugues/Publicacoes/2010/fmr_35_minifeature_brasil_2010.pdf ou https://www.fmreview.org/sites/fmr/files/disability/FMR35brasil.pdf </source> 
+		<publisher> Forced Migration Review </publisher>
+		<pubDate> jul 2010 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 12 mar 2021 </accessDate>
+		<researcher> Joyce Santos </researcher> 
+		<comments> Mini-feature: Brasil. Forced Migration Review/Refugee Studies Centre e ACNUR </comments>
+	</sourceText>
+	<author>
+		<institution> Forced Migration Review/Refugee Studies Centre e ACNUR </institution>
+	</author>
+</Header>
+
+
+MINI-FEATURE: BRASIL
+PUBLICADO PELA REVISTA FORCED MIGRATION, EDIÇÃO 35, JULHO DE 2010
+
+O Brasil e o espírito da Declaração de Cartagena
+Luiz Paulo Teles Ferreira Barreto e Renato Zerbini Ribeiro Leão
+
+
+
+A Declaração de Cartagena é importante visto que inclui elementos que ligam as três correntes de proteção internacional - direito humanitário, direitos humanos e direitos dos refugiados - na legislação, interpretação e operação.
+A Declaração de Cartagena sobre Refugiados (1984) foi resultado dos encontros de representantes governamentais e especialistas de dez países latino-americanos em Cartagena de Indias,
+Colômbia, para considerar a situação dos refugiados na América Latina. Ela estabeleceu os conceitos básicos dessa questão no campo dos direitos humanos e lançou o termo “violação maciça de direitos humanos” como elemento da definição mais ampla de refugiado. Na ocasião do décimo aniversário da Declaração de Cartagena, a Declaração de San José sobre Refugiados e
+Pessoas Deslocadas (1994) forneceu mais uma compreensão inovadora acerca da proteção específica de deslocados internos ao afirmar que o deslocamento é causado principalmente pela violação de direitos humanos, reconhecendo claramente convergências entre os sistemas internacionais de proteção da pessoa humana e enfatizando sua natureza complementar.
+O Plano de Ação de México, o qual marcou o vigésimo aniversário da Declaração de Cartagena, propõe ações para fortalecer a proteção internacional de refugiados na América Latina. Como anfitrião do encontro preparatório do Cone Sul para o vigésimo aniversário, o Brasil contribuiu com a consolidação histórica de princípios e regulações de proteção da pessoa humana. A proteção dos direitos humanos e o fortalecimento do sistema democrático são as melhores medidas que podem ser tomadas para a busca de soluções duradouras e para a prevenção de conflitos, êxodos de refugiados e graves crises humanitárias.
+
+Figura 1, legenda: Refugiados reassentados em aula de português, Brasil.
+
+O espírito de Cartagena
+O Estado brasileiro tem se esforçado em seguir o “espírito de Cartagena”. Ele não apenas incorporou os conceitos da Convenção de 1951 e do Protocolo de 1967, mas, em 1997, criou uma lei definindo refugiado como qualquer um que “devido a grave e generalizada violação de direitos humanos, é obrigado a deixar seu país de nacionalidade para buscar refúgio em outro país”.
+Na prática, o espírito de Cartagena tem sido gradualmente incorporado na legislação brasileira desde que a Constituição foi promulgada em 1998. O primeiro artigo da Constituição do Brasil enumera seus elementos fundamentais, incluindo “a dignidade da pessoa humana”, e o artigo terceiro descreve o objetivo fundamental do Brasil em “promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação”. Ademais, o artigo quarto - referindo- se aos princípios que regem as relações internacionais - cita, entre os outros critérios, “a prevalência dos direitos humanos; autodeterminação dos povos; a cooperação entre os povos para o progresso da humanidade; e a concessão de asilo político”.
+Além disso, a Constituição enfatiza que “todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade...”. Ela ressalta que “os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte”.
+Desde os anos 1990, o Brasil ratificou ou está em processo de ratificação da maioria dos tratados internacionais de direitos humanos, de forma que eles já fazem parte da Constituição. O país também participa incondicionalmente dos regimes de direitos humanos tanto da ONU quanto da Organização de Estados Americanos. Como resultado, a nação está sob a obrigação de observar os princípios e regulações desses regimes. Dessa forma, em 1997 o Brasil não encontrou obstáculos em incorporar os princípios de Cartagena em sua legislação nacional.
+Reassentamento
+A aplicação completa das regulações para a proteção internacional da pessoa humana e as ações tomadas para consolidar essa política de estado são preocupações genuínas da sociedade brasileira, seja por meio de ações do governo, da sociedade civil ou de ambas juntas. Por exemplo, o Brasil tem mantido um programa de reassentamento de refugiados em estreita colaboração com a sociedade civil e o ACNUR. O Brasil e o ACNUR assinaram o Acordo Macro para o Reassentamento de Refugiados no Brasil, em 1999. Entretanto, foi apenas em 2002 que o Brasil recebeu o primeiro grupo de refugiados reassentados. O grupo consistia em 23 afegãos que foram assentados no Rio de Grande do Sul. No entanto, devido à falta de experiência do Brasil no reassentamento de refugiados, às diferenças entre a cultura afegã e a brasileira e à própria falta de experiência do ACNUR com as características sociais, políticas, econômicas e culturais do Brasil, apenas nove dessas vinte e três pessoas permaneceram no Brasil no longo prazo.
+Posteriormente, melhorias foram feitas ao programa - por meio do treinamento de especialistas em reassentamento e da troca de experiências internacionais nessa área. Como resultado, o Brasil é atualmente líder de recepção e reassentamento de refugiados e o CONARE, o Comitê Nacional para Refugiados, tem recebido atenção pela implementação das melhores práticas na recepção de refugiados reassentados. Funcionários do CONARE buscam representar a real situação econômica, social e cultural do país aos entrevistados da maneira mais explícita possível, fornecendo uma representação fiel do potencial para integração e ajudando a evitar frustrações futuras entre assentados.
+O Brasil também possui um reassentamento “fast-track” como resposta aos pedidos de reassentamento emergencial apresentados pelo ACNUR.
+
+Numa visão geral da questão do refúgio na América Latina, um documento do ACNUR de 2004 afirmou que há três situações paralelas na região: 1) países que continuam a receber um número reduzido de solicitantes de refúgio e de refugiados como parte de fluxos mistos regionais e hemisféricos de migração; 2) países que acolhem um número significativo de solicitantes de refúgio e de refugiados latino-americanos; e 3) países emergentes no reassentamento. O Brasil encontra-se na terceira categoria.
+
+Portanto, não surpreende o fato de o Brasil ter desempenhado um papel de liderança em termos de reassentamento dentro da celebração do vigésimo aniversário da Declaração de Cartagena, a qual pede por um “reassentamento solidário de refugiados latino-americanos” em países da região que recebem um grande influxo de refugiados resultado de conflitos e tragédias humanitárias na América Latina. Representantes de todos os países da região aprovaram a iniciativa. Dessa forma, como resultado dessa iniciativa regional, o Brasil viu sua população de indivíduos reassentados crescer de 25 em 2003, para 208 em 2006, e 397 em 2009, dos quais três - quartos são colombianos.
+O Brasil tem se esforçado para demonstrar o espírito de fraternidade e solidariedade humana com a sociedade internacional por meio de uma abordagem multilateral dentro da estrutura atual de normas regulatórias de proteção internacional.
+
+Luiz Paulo Teles Ferreira Barreto é Ministro da Justiça do
+Brasil e Renato Zerbini Ribeiro Leão é Coordenador Geral do Comitê Nacional para Refugiados (CONARE). Ambos os
+autores podem ser contatados pelo email conare@mj.gov.br.
+
+
+Melhorando a integração dos refugiados: novas iniciativas no Brasil
+Liliana Lyra Jubilut
+
+
+Iniciativas recentes no Brasil têm fortalecido a proteção e melhorado as oportunidades de integração dos refugiados
+O compromisso do Brasil com o direito e a proteção dos refugiados desde meados de década de 1950 resultou na aprovação do projeto de lei sobre refugiados em 1997 (lei 9474). Tal projeto não apenas estendeu a proteção, ao incluir violações maciças de direitos humanos como critério para o status de refugiado, mas também criou um procedimento administrativo para a determinação do status de refugiado (DSR) e estabeleceu o fundamento para a proteção e integração de refugiados no Brasil.
+Essa terceira tarefa é realizada conjuntamente pelo governo brasileiro, ACNUR e sociedade civil. A participação de atores da sociedade, além do governo, é vista como um aspecto positivo da proteção e integração dos refugiados no Brasil, pois proporciona um compromisso mais holístico com a causa dos refugiados. O governo, entretanto, é o ator mais relevante da proteção, dado que o Comitê Nacional para Refugiados (CONARE), o qual é responsável pela DSR, vota por maioria simples e é formado por seis representantes do governo e apenas um da sociedade civil.
+A sociedade civil, por outro lado, tem assumido a liderança no apoio à integração de refugiados no Brasil, fornecendo, por meio de trabalho direto ou de parcerias, mais de 60% do orçamento total para a integração dos refugiados no país.
+Isso destaca o fato de, nos primeiros 10 anos da proteção moderna aos refugiados no país, o foco do governo ter se dado mais sobre a elegibilidade dos requerentes do que sobre a integração dos refugiados. Essa tendência, entretanto, começou a mudar desde o décimo aniversário da lei de 1997.
+Desde 2007, o governo brasileiro tem dado atenção tanto à proteção de refugiados (por meio da manutenção de procedimentos da DSR que seguem padrões internacionais) quanto à integração de refugiados, e começou a estabelecer políticas públicas voltadas aos refugiados. O governo federal busca a inserção dos refugiados nas políticas públicas já existentes no Brasil; quando isso não é possível, ele considera a criação de políticas específicas aos refugiados.
+A preocupação com os direitos econômicos e sociais dos refugiados atualmente se estendeu ao nível dos governos, onde foram desenvolvidas novas iniciativas para melhorar a proteção dos refugiados por meio da integração.
+Comitês Estaduais para Refugiados
+Uma dessas iniciativas foi a criação de Comitês Estaduais para Refugiados, nos estados de São Paulo e Rio de Janeiro. Esses dois estados possuem os dois centros de proteção de refugiados mais importantes do país, já que os dois parceiros do ACNUR para a implementação da integração local estão localizados nessas cidades e assistem mais de 90% dos refugiados no Brasil.1
+O primeiro Comitê Estadual para Refugiados foi estabelecido em São Paulo em abril de 2008, sob a presidência do Secretário de Justiça e da Defesa da Cidadania. Ele congrega representantes de outros órgãos governamentais - Economia e Planejamento, Moradia, Assistência e Desenvolvimento Social, Trabalho e Emprego, Educação, Saúde, Relações Institucionais, Cultura e Segurança Pública - bem como ACNUR, parceiros do ACNUR e defensores públicos. Ao final de 2009, o Rio de Janeiro estabeleceu seu comitê estadual como representação similarmente ampla.2
+
+Até o momento, o Comitê Estadual de São Paulo tem atuado em três situações diferentes: questões de segurança pública envolvendo refugiados reassentados no interior; questões de saúde envolvendo hospitais e refugiados reassentados; e inclusão de 102 refugiados e solicitantes de refúgio no programa de trabalho do estado. Fica claro com as ações do Comitê - as quais envolvem grupos de refugiados, mas não sua população inteira - que o mesmo não possui a intenção de gerenciar casos específicos, mas que ainda precisa adotar políticas públicas que beneficiem toda a população de refugiados do estado. É importante que o Comitê tenha começado a agir em casos específicos trazidos à sua atenção, mas faz-se essencial que políticas públicas de caráter mais amplo sejam sua principal preocupação em ações futuras.
+No nível municipal, um Comitê foi criado na cidade de São Paulo, envolvendo órgãos da prefeitura, sob a coordenação da Comissão Municipal de Direitos Humanos, e a sociedade civil, para o debate de políticas públicas para refugiados e imigrantes. Esse é um importante exemplo de um governo local atuando pela proteção de refugiados.
+
+Essas iniciativas de integração de refugiados e de políticas públicas para refugiados no Brasil aparentam estar baseadas em três fatores. Primeiramente, nos últimos anos o Brasil começou a se preocupar com o desenvolvimento e os direitos econômicos e sociais da sua população e esse foco parece ter se estendido aos refugiados.
+Em segundo lugar, à luz da crescente urbanização da população mundial de refugiados, o ACNUR começou a trabalhar com a proteção dos direitos dos refugiados em contextos urbanos e, portanto, passou a destacar a necessidade de integração e proteção de refugiados mais compreensiva em contextos urbanos como o brasileiro.
+Por fim, o foco na integração de refugiados tem sido um dos eixos do Plano de Ação do México sob o Programa Integral “Fronteiras Solidárias”.3 O principal objetivo dessa iniciativa é promover o acesso a serviços básicos de saúde, educação, emprego e moradia - os quais são atingidos de melhor maneira por meio de políticas públicas.
+É importante destacar, no entanto, que os Comitês Estaduais para Refugiados não devem ser vistos como um fim em si mesmos. Pelo contrário, eles funcionam como um catalisador para a criação de políticas públicas que ajudem a assegurar a proteção completa dos refugiados no Brasil, garantindo tanto seus direitos civis e políticos quanto econômicos e sociais.
+Liliana Lyra Jubilut (lljubilut@gmail.com) tem
+trabalhado como advogada, consultora e pesquisadora dos refugiados no Brasil por 11 anos.
+1. O ACNUR também possui parceiros de implementação para reassentamentos e proteção.
+2. Para maiores informações sobre a representação do Comitê do Rio de Janeiro, ver Decreto 42182 de dezembro de 2009.
+3. http://www.acnur.org/biblioteca/pdf/3453.pdf
+
+
+Anistia para refugiados clandestinos no Brasil
+Alex André Vargem
+
+
+Além dos mais de 3.800 refugiados reconhecidos pelo governo brasileiro, há aqueles que chegam nos armazéns de navios e não são registrados no Brasil. “Após o ataque à minha aldeia, eu corri pela floresta e cheguei ao porto onde encontrei um navio... eu não tinha idéia de onde estava, mas acabei finalmente chegando aqui no Brasil”.
+
+Entre 1998 e 2005, aproximadamente metade dos que tiveram o status de refugiado negado eram africanos. Se o pedido de refúgio é indeferido, o refugiado possui 15 dias para entrar com recurso no Ministério da Justiça. Entre 1998 e o final de 2006, houve 1040 recursos, dos quais apenas 10 foram bem-sucedidos. O governo alega que muitos daqueles que entram com recurso não se enquadram no direito dos refugiados, pois são migrantes econômicos. Sem perspectivas de obterem status de refugiado em outro lugar, essas pessoas permanecem ilegalmente no Brasil.
+
+Em meados de 2009, o governo brasileiro ofereceu anistia. Estrangeiros “irregulares” que chegaram antes de fevereiro do mesmo ano tiveram 180 dias para fazer o pedido. Muitas pessoas vivem ilegalmente porque tiveram seu status indeferido, entretanto a condição de ilegalidade as deixa relutantes em se expor ao governo. Elas temem ser expulsas, visto que é a polícia federal que possui a autoridade para conceder anistias.
+Entre os obstáculos para se conseguir uma anistia está o preço: R$64,00 (US$32). Uma vez que muitas pessoas possivelmente elegíveis para o recebimento da anistia estão desempregadas ou trabalham ilegalmente, elas não possuem condições de pagar a taxa. A defensoria pública começou um processo para abolir essa cobrança.
+Algumas organizações de refugiados africanos e o movimento negro no Brasil estão tentando coletar dados sobre os refugiados africanos a serem fornecidos ao governo. Alguns refugiados africanos vêem a anistia como uma chance de serem regularizados e reconhecidos pelo governo brasileiro - um caminho para um futuro melhor.
+
+Alex André Vargem (ale_csp@yahoo.com.br) é sociólogo e pesquisador independente.
+
+
+
+A integração local de refugiados
+no Brasil
+Julia Bertino Moreira e Rosana Baeninger
+
+
+Integração Local é um processo econômico, político, social e cultural complexo
+Em outubro de 2009, havia 4.131 refugiados de 72 nacionalidades vivendo no Brasil. 3.822 deles chegaram “espontaneamente”, dos quais quase a metade veio por meio de contatos próprios, e 418 foram reassentados por meio do programa brasileiro de reassentamento, coordenado pelo Comitê Nacional para Refugiados (CONARE) com o apoio do ACNUR. O maior grupo é proveniente de Angola (1.688) e o segundo maior, da Colômbia (598).
+Reassentamento
+Com seus programas para o reassentamento de refugiados ativos, o Brasil é considerado um país “emergente” em reassentamento. O primeiro programa foi o Programa de Reassentamento Solidário, estabelecido, em 1999 em acordo com o ACNUR, para assentar refugiados que ainda eram perseguidos ou estavam sob o risco de perseguição, ou que não conseguiam se adaptar no primeiro país de asilo. O segundo programa é o Programa Regional de Reassentamento, proposto pelo governo brasileiro em 2004 com o objetivo de proteger refugiados que fugiam de perseguição e conflitos na América Latina e também de ajudar países que recebiam um grande número de colombianos, tais como Costa Rica e Equador.
+
+O país não estabelece quotas anuais para refugiados reassentados, nem mesmo por nacionalidade. O CONARE tem priorizado dois grupos vulneráveis: refugiados sem proteção jurídica ou física e mulheres em risco. Em 2005, o programa de reassentamento brasileiro criou um procedimento emergencial inovador para refugiados sob risco imediato, por meio do qual os mesmos podem ter seus pedidos examinados dentro de 72 horas e, caso recebam refúgio, podem ser reassentados no Brasil dentro de sete dias.
+
+O CONARE também é responsável pela análise das demandas de refúgio e pela formulação de políticas públicas para refugiados vivendo no país. O comitê organiza reuniões entre agências governamentais, organizações da sociedade civil e ACNUR, o qual está apto a contribuir com os encontros, mas não possui direito de voto.
+ O CONARE estima que a taxa de reconhecimento de refugiados seja de 30%, a qual é comparável aos níveis internacionais. As decisões de elegibilidade têm incluído perseguição com base em gênero e têm dado especial atenção a crianças e outros grupos vulneráveis em risco.
+Integração Local
+Um recente projeto de pesquisa 1 entrevistou, durante o ano de 2007, famílias de refugiados que chegaram “espontaneamente” e que viviam no Rio de Janeiro e São Paulo. A maioria dos refugiados chegou ao país por meio de redes sociais, dado que 25.1% tinham um parente e 23.3% tinham um amigo vivendo no Brasil. Em termos de integração no mercado de trabalho, 56.4% estavam trabalhando, apesar de mais da metade dos empregos serem informais. Apenas 2.8% estavam incluídos no programa de assistência governamental (Bolsa Família) e 11% estavam recebendo apoio financeiro do ACNUR.
+
+Para serem integrados com sucesso, refugiados precisam de emprego, habilidades lingüísticas e acesso a serviços públicos, tais como direitos de cidadania, obrigações e relações de participação política e social com a comunidade. Atividades para facilitar a integração local são realizadas principalmente por organizações da sociedade civil, embora o ACNUR e o governo também participem. As Cáritas Arquidiocesanas de São Paulo e Rio de Janeiro ajudam solicitantes de refúgio recém chegados ao país, bem como refugiados que vivem no Brasil há bastante tempo. Solicitações de refúgio podem receber apoio financeiro do ACNUR por até seis meses. As instituições religiosas lhes oferecem assistência jurídica e prática - trabalham com parceiros (inclusive do setor privado) para oferecer o apoio jurídico com o processo de determinação do status de refugiado - aulas de português, treinamento profissional, alimentos e cuidados dentários. O Brasil possui a maior de rede de suporte a refugiados da América Latina, com quase 100 organizações locais envolvidas.
+Em geral, os refugiados se beneficiam dos serviços sociais - tais como educação e cuidados médicos - oferecidos pelo governo brasileiro nos níveis federal, estadual e municipal. Há alguns serviços especificamente criados para atender às necessidades particulares dos refugiados: o programa especial de cuidado mental, que conta com o apoio financeiro do CONARE, moradias públicas para refugiados que moram em São Paulo, bolsas de estudo oferecidas pela Universidade Federal de Minas Gerais e pela Universidade Federal de Juiz de Fora.
+Em 2007, o governo federal começou a contribuir com o apoio financeiro dado pelo ACNUR aos refugiados que vivem no Brasil, alocando quase US$350.000,00 ao CONARE, que transferiu esse fundo para a Cáritas. A Cáritas e seus parceiros ofereceram não apenas apoio financeiro aos refugiados reassentados, mas também assistência para encontrar empregos e moradias. Entretanto, mesmo após dez anos de programas de reassentamento, desafios persistem, especialmente com relação à auto-suficiência dos refugiados.
+Desafios
+Os obstáculos mais críticos à integração social e econômica dos refugiados no Brasil são a falta de emprego e moradia, e a discriminação. Nossa pesquisa demonstrou que os refugiados consideram as condições de trabalho e o salário insatisfatórios. Eles encontram dificuldades em ter acesso a serviços públicos básicos, particularmente cuidados médicos e moradias. Finalmente, eles se sentem discriminados pela população local. A sociedade brasileira não sabe ao certo o que é um refugiado e com freqüência os reconhece como fugitivos da justiça, tornando a integração na sociedade e no mercado de trabalho ainda mais difícil.
+Para facilitar a integração local e atender às necessidades particulares dos refugiados, são necessários mais recursos financeiros para apoiar a implementação de políticas específicas para eles. O estabelecimento de novas instituições, como o Comitê de São Paulo para Refugiados, o Comitê do Rio de Janeiro para Refugiados e o Comitê Municipal de São Paulo para Imigrantes e Refugiados oferece alguma esperança. Todas elas incluem a participação da sociedade civil e procuram formular e implementar políticas públicas para refugiados e outros imigrantes que vivem no Brasil.
+Apesar disso, a decisão de colocar em prática políticas específicas para refugiados é controversa, dado o potencial de conflito com a comunidade local. A inclusão de refugiados em programas de assistência do governo (como o Bolsa Família), assim como a implementação de políticas específicas para os mesmos, pode causar reações hostis na comunidade local. Programas que beneficiem tanto refugiados quanto a comunidade receptora são essenciais.
+
+A fim de superar atitudes discriminatórias contra os refugiados, são necessários programas de educação e informação para conscientizar a população sobre o status dos refugiados e a situação dos mesmos no Brasil. Um bom exemplo de programa é a campanha de saúde desenvolvida pelo ACNUR em parceria com a ONG Ação Comunitária que aconteceu no Complexo da Maré, no Rio de Janeiro. A conscientização foi realizada por meio de um drama em que atuaram refugiados angolanos e jovens brasileiros. Esse tipo de esforço é essencial porque fortalece as relações sociais dos refugiados com a população local, relações estas que são um componente essencial para a integração local.
+Julia Bertino Moreira (juliabertinobr@yahoo.com.br) é estudante de doutorado na Universidade de Campinas, assistente de pesquisa no projeto “Refugee population living conditions in Brazil” e visiting fellow no Refugees Studies Centre, em 2010. Rosana Baeninger (baeninger@nepo.unicamp.br) é professora do Departamento
+de Demografia da Universidade de Campinas e coordenadora
+do projeto ‘Refugee population living conditions in Brazil'
+
+1 ‘Refugee population living conditions in Brazil', Núcleo de Estudos de População
+da Universidade de Campinas (NEPO/UNICAMP) em parceria com o ACNUR, Cáritas São Paulo e Rio de Janeiro, com o apoio financeiro da Secretaria Especial de Direitos Humanos do Governo Federal do Brasil.
+
+Figura 2, legenda: Luis Eduardo Garzón, refugiado colombiano reassentado, com seus artesanatos na anual feira nacional de pequenos produtores agrícolas em Brasília, Brasil, 2007.
+
+
+
+
+Nós gostaríamos de agradecer o ACNUR Brasil por possibilitar a produção desses artigos em Português.
+As opiniões expressas não refletem necessariamente as visões da Forced Migration Review/Refugee
+Studies Centre ou do ACNUR.
+http://www.fmreview.org http://www.migracionesforzadas.org
+
+
+
+

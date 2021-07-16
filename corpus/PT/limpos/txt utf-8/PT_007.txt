@@ -1,0 +1,566 @@
+﻿<Header>
+	<title>
+		<tit> Construindo Comunidades de Prática para Refugiados Urbanos </tit>
+		<fileName> PT_007 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Relatório </textType>
+		<subcorpus> PT-BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.acnur.org/portugues/wp-content/uploads/2018/02/Construindo-Comunidades-de-Pr%C3%A1tica-para-Refugiados-Urbanos_ACNUR-2015.pdf </source> 
+		<publisher> UNHCR </publisher>
+		<pubDate> 2015 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 07 mar 2021 </accessDate>
+		<researcher> Ester Saraiva </researcher> 
+		<comments> Esse arquivo pode ser uma tradução do texto Building Communities of Practice for Urban Refugees – Brazil Roundtable Report publicado em 06 out 2015 </comments>
+	</sourceText>
+	<author>
+		<institution> UNHCR The UN Refugee Agency, Claudia Cruz Leo e MaryBeth Morand, PDES & Vinicius Feitosa, ACNUR Brasil </institution>
+	</author>
+</Header>
+
+
+UNHCR The UN Refugee Agency
+
+Construindo Comunidades de Prática para Refugiados Urbanos
+Relatório da Mesa Redonda do Brasil
+Claudia Cruz Leo e MaryBeth Morand, PDES & Vinicius Feitosa, ACNUR Brasil
+
+
+
+
+Sumário
+Introdução 	 2
+Contexto 	 4
+Formato da Mesa Redonda 	 7
+Resultados 	 10
+1. Documentação - A necessidade de documentos brasileiros de fácil obtenção e reconhecimento	10
+2. Saúde - Aumentar a conscientização entre prestadores e superar a barreira do idioma
+	11
+3. Educação - Conscientização, idioma e regularização do acesso 	11
+4. Moradia - A importância de uma solução digna	 desde o início	11
+5. Trabalho - Redes do setor privado e direitos trabalhistas em primeiro lugar 	11
+6. Cultura - Trocas e a importância do idioma	12
+Recomendações 	13
+Conclusão 	14
+Anexos	105
+Anexo 1: Um Estudo de Caso 	125
+Anexo 2: Nota sobre o conceito de mesa redonda 	129
+Anexo 3: Agenda da mesa redonda 	20
+Anexo 4: Painel de Perguntas ao Governo	21
+Anexo 5: Recomendações dos Grupos de Trabalho	23
+
+
+Mesa Redonda sobre Solidariedade, Convivência e Integração de Refugiados na Cidade de São Paulo
+Organizada pelo ACNUR
+3 de junho de 2015 São Paulo, São Paulo - SP, Brasil
+
+Introdução
+Como parte de um projeto global para refugiados urbanos, o Escritório do Alto Comissariado das Nações Unidas para Refugiados (ACNUR) no Brasil organizou uma mesa redonda sobre a integração de refugiados na cidade de São Paulo no dia 3 de junho de 2015. Essa mesa redonda foi a segunda de uma série de eventos que ocorreram em cidades selecionadas em cada uma das cinco regiões geográficas. O primeiro evento de mesa redonda focou na coexistência na Província de Gauteng, África do Sul. As mesas redondas são parte do projeto “Construindo Comunidades de Prática para Refugiados Urbanos”, uma iniciativa com o objetivo de reforçar a implementação da Política de proteção de refugiados e soluções em áreas urbanas do ACNUR.
+O ACNUR reconhece que mais da metade dos refugiados e solicitantes de refúgio mundiais vivem em áreas urbanas e periferias, e que a habilidade dos mesmos para conviverem pacificamente nessas cidades é fundamental para seu bem-estar. O ACNUR entende que refugiados e solicitantes de refúgio não podem se sustentar ou contribuir para a vida social, econômica e cultural de uma cidade sem o suporte de seus vizinhos e das mais variadas agências e escritórios governamentais do país de acolhida. As mesas redondas são uma oportunidade para convocar muitas partes interessadas de vários setores municipais e da sociedade civil para discutir as formas mais positivas para integrar refugiados na cidade.
+A mesa redonda de São Paulo foi co-facilitada pelo Representante do ACNUR, Andrés Ramirez, e uma personalidade conhecida da TV e ativista social erradicado em São Paulo, Cazé Pecini. A boa vontade e o interesse de uma pessoa de grande visibilidade como Cazé Pecini para a mesa redonda de São Paulo veio em um momento oportuno no Brasil.
+Há apenas dois anos, o Governo do Brasil, com o apoio do ACNUR e de diversas outras organizações da socidade civil, organizou a primeira Conferência Nacional sobre Imigração e Refúgio (COMIGRAR). O objetivo era reunir vários atores, incluindo migrantes, refugiados, solicitantes de refúgio, apátridas, oficiais do governo, ativistas da sociedade civil e demais organizações para um processo consultivo para discutir tópicos sobre migração e desafios para integração local.
+Cerca de 8.500 refugiados reconhecidos de mais de 80 nacionalidades diferentes vivem no Brasil. 30% deles são mulheres.
+- CONARE, 2015
+Como resultado dessas consultas, o Comitê Nacional para os Refugiados (CONARE) renovou o seu compromisso de promover iniciativas de integração local, além de manter o seu mandato como o corpo de elegibilidade responsável pelos procedimentos de determinação de status de refugiado dentro do país. Além do compromisso do CONARE com a integração no nível federal, órgãos em nível estadual também estão envolvidos na integração de refugiados.
+Comitês Estaduais para Refugiados foram criados nos estados de São Paulo, Rio de Janeiro, Paraná, Rio Grande do Sul e Minas Gerais a fim de estabelecer Planos de Integração Local para Refugiados e Migrantes. A mesa redonda de São Paulo foi uma oportunidade para o ACNUR reunir atores federais, estaduais e municipais, bem como refugiados, para desenvolver a integração de refugiados na sociedade e economia local.
+
+Contexto
+Apesar de ser uma “nação de migrantes”, o Brasil se tornou uma fonte de emigrantes a partir dos anos 1970. Naquela época, o país estava preocupado com a crise econômica, principalmente após a queda de uma ditadura militar em meados da década de 1980, e imigração era praticamente inexistente. Nos últimos anos, o Brasil se tornou a maior economia da América Latina e a sétima do mundo. Ao mesmo tempo em que o Brasil passou por uma ascensão econômica, muitos outros países no resto do mundo têm confrontado-se com conflitos internos e regionais, catástrofes e instabilidade política e econômica, o que tem gerado refugiados e imigrantes.
+Em 2014, o Brasil recebeu mais pedidos de refúgio que a Austrália e quase o mesmo número que o Canadá. O Brasil também recebeu mais pedidos do que qualquer outro país na América Latina.
+- ACNUR Brasil, 2015
+O Brasil tem presenciado um aumento dramático no total de pedidos de refúgio nos últimos anos e, ainda assim, estrangeiros figuram apenas como 0,8% da população total, que é de mais de 200 milhões de pessoas. O país tem se tornado o principal destinatário de pedidos de refúgio extracontinentais na região das Américas. Mais de 29.000 pessoas solicitaram refúgio em 2014, incluindo haitianos, enquanto que, em 2010, o número total de solicitates foi de 550. Esse rápido aumento nos pedidos de refúgio e estrangeiros no Brasil pode ser explicado por uma série de razões.
+A primeira razão diz respeito à emissão de “vistos humanitários” pelas embaixadas brasileiras. Em 2013, o CONARE emitiu a Resolução Normativa #17, permitindo que embaixadas brasileiras emitam vistos de viagem para fins humanitários através de procedimentos facilitados para indivíduos afetados pelo conflito sírio. Desde então, o Brasil tem aceitado mais refugiados sírios do que qualquer outro país da região. Até agora, quase 2.077 sírios foram registrados no país e outros 6.000 receberam vistos1.
+Ao mesmo tempo, a aceitação facilitada de colombianos para residência temporária é uma das razões para o aumento nos pedidos de residência. A adesão da Colômbia ao Acordo de Residência do Mercosul2 também teve um impacto no contexto regional. Conforme esse acordo, cidadãos colombianos podem solicitar residência temporária no Brasil e, após dois anos, solicitar residência permanente. Desde a adesão da Colômbia ao Acordo de Residência do Mercosul, a grande maioria dos colombianos têm preferido solicitar residência no Brasil, ao invés de refúgio. Com efeito, houve uma diminuição de 60% no número de pedidos de refúgio por parte de colombianos entre 2012 e 2014. Essa diminuição contrasta com o aumento geral no número de pedidos de refúgio no Brasil: o número total aumentou 363% no mesmo período.
+A migração pós-terremoto dos haitianos é outra razão para o aumento de estrangeiros no Brasil. O país recebeu um fluxo sem precedents de haitianos após o terremoto de 2010. A catástrofe monumental devastou Porto Príncipe, capital do Haiti, fazendo com que milhões de haitianos deixassem suas casas e com que milhares deixassem o país. Muitos destes escolheram ir por mar, pagando até 4 mil dólares para contrabandistas (conhecidos como “coiotes”) para transportá-los em uma viagem traiçoeira da República Dominicana para o Panamá, de lá para o Equador e então pela Bolívia, Peru ou Colômbia até chegar em cidades brasileiras como Brasileia e Tabatinga, nos estados do Acre e do Amazonas, respectivamente.
+Como uma solução temporária para a sua situação migratória, os haitianos têm solicitado refúgio quando entram no país. Apesar do governo brasileiro não reconhecer oficialmente migrantes haitianos como refugiados por não se enquadrarem na definição da Lei no 9.474/1997, o governo reconhece a necessidade de garantir apoio humanitário a esta população. Como resultado, mais de 10.000 vistos humanitários foram concedidos a haitianos. De acordo com dados da Polícia Federal, 24.515 haitianos entraram no território brasileiro em 2014, enquanto 16.982 solicitaram refúgio no mesmo período. Até agosto de 2015, o número total de hatianos que submeteram solicitações de refúgio em território brasileiro é 45,607, segundo dados do CONARE.
+Até a metade de 2015, o número total de refugiados reconhecidos no Brasil era de 8.400 (dos quais 25% eram mulheres). Estes vêm de 81 países diferentes, majoritariamente da Síria, Colômbia, Angola e República Democrática do Congo (RDC). Há 1.093 colombianos; 1.430 angolanos e 844 congoleses. Pela primeira vez em muitos anos, a maior população de refugiados é da Síria, e não da Angola ou da Colômbia.
+Com a expansão da economia brasileira e sua abordagem compassiva para estender vistos e autorizações de residência para populações vulneráveis, não é de supreender que muitas pessoas estejam buscando essa proteção do Estado. Além disso, o Brasil tem um histórico de liderança regional em proteção. Em 1997, o Governo do Brasil promulgou a primeira lei abrangente de refúgio na América do Sul.
+Esse ambiente de proteção favorável a refugiados no Brasil continua até hoje e é evidenciado pela recente organização da COMIGRAR, por parte do Ministério da Justiça. A conferência foi uma marco histórico, já que, pela primeira vez, um mecanismo institucional foi posto em prática para que o governo brasileiro consulte a população de migrantes e refugiados em nível nacional. O texto final da COMIGRAR fornece um guia útil para a elaboração do Plano Nacional para Integração Local de Migrantes e Refugiados, um processo esperado para começar em 2016.
+Em 2014, o Brasil sediou o evento final que honrou o 30o aniversário da Declaração de Cartagena3. O evento ministerial aconteceu em Brasília nos dias 2 e 3 de dezembro. Aproximadamente 300 participantes, de vários países, refletiram sobre as conquistas alcançadas, os desafios enfrentados pela região e as lacunas que ainda existem no sistema de proteção internacional de refugiados e apátridas. O evento resultou na adoção da Declaração do Brasil e Plano de Ação, que estabelece acordos e ações concretas para a próxima década.
+O Governo do Brasil tem reforçado o compromisso de discutir desafios e oportunidades de integrar tantos recém-chegados nas suas cidades. As novas chegadas têm impulsionado a necessidade do governo brasileiro de fortalecer suas políticas de migração e refúgio e analisar e aperfeiçoar as redes de proteção e acolhimento existentes, bem como as estruturas governamentais que estão em vigor nas cidades. A maioria dos refugiados no Brasil mora na cidade de São Paulo, uma megalópole multicultural.
+Atualmente, o Estado de São Paulo é o destino de mais solicitantes de refúgio do que qualquer outro estado no Brasil. Por sua vez, a cidade de São Paulo é a cidade com o maior número de solicitantes, seguida, de longe, pelas cidades de Campinas e Guarulhos.
+- CONARE, 2015
+
+Formato da Mesa Redonda
+O ACNUR reuniu atores chave do governo brasileiro com figuras respeitadas da comunidade e refugiados para dialogarem sobre vários aspectos da integração local no Brasil e, especificamente, na cidade de São Paulo. Outros atores importantes de organizações religiosas e comunitárias, ONGs internacionais e acadêmicos também foram convidados a participar e contribuir com suas perspectivas para a mesa redonda.
+O evento foi estruturado em uma série de paineis durante a manhã e início da tarde. Cada painel permitia perguntas e comentários da plenária. Após o término de todas as apresentações dos paines, a plenária dividiu-se em grupos separados para discutir soluções referents à documentação, saúde, educação, moradia e desafios culturais enfrentados pelos refugiados.
+O evento aconteceu no Centro Cultural de São Paulo, um espaço comunitário no coração da cidade. O espaço foi oferecido ao ACNUR pela Prefeitura de São Paulo, um acordo que demonstrou o compromisso da cidade com a discussão sobre a temática.
+Depois dos co-facilitadores Cazé Pecini e Andrés Ramirez darem as boas-vindas aos participantes e apresentarem os objetivos da discussão, o evento começou com um painel de oficiais de três diferentes níveis governamentais. Paulo Guerra, Diretor Adjunto do Departamento de Estrangeiros e Representante do CONARE, representou o Governo Federal; Floriano Pesaro, Secretário de Desenvolvimento Social do Estado de São Paulo, apresentou a perspectiva do estado; e Paulo Illes, Coordenador de Políticas para Migrantes na Secretaria Municipal de Direitos Humanos de São Paulo, compartilhou o ponto de vista do município de São Paulo. Cada um discutiu sua perspectiva sobre integração e os esforços que sua instituição está fazendo para tratar as demandas crescentes que eles têm recebido a partir dos recém-chegados. Esse painel de funcionários do governo estimulou uma série de perguntas e comentários por parte da plenária. Não houve tempo suficiente para discutir todas as questões, então pediu-se que os participantes as escrevessem em um papel. Todas as questões podem ser encontradas no Anexo 4 desse relatório. Elas servem como um indicador das preocupações de diversas partes interessadas.
+O painel seguinte consistiu de dois refugiados, Miracel Panzu, da República Democrática do Congo, e Majd “Miguel” Soufan, da Síria, que compartilharam suas experiências individuais sobre chegar e morar em São Paulo. Majd expressou sua gratidão para com o Brasil, por ser um dos poucos países a conceder vistos a refugiados sírios para que estes possam viajar em segurança com um visto válido. Majd também expôs a frustração que ele sentiu quando tentou encontrar uma casa para alugar utilizando o documento de identidade emitido pelo governo, o Protocolo Provisório4. Ele também estava frustrado pela incapacidade de validar seus créditos acadêmicos da Síria e matricular-se em uma universidade brasileira, continuando seus estudos. Majd chegou sozinho e não conhecia ninguém no Brasil. Ele foi logo auxiliado por associações árabes e pela Cáritas, que mais tarde o ajudou com sua documentação.
+Miracle também falou sobre suas dificuldades quanto ao reconhecimento do Protocolo Provisório que lhe foi emitido. A precariedade do documento foi um empecílio em seu primeiro emprego, assim como para a matrícula de sua filha menor na escola pública local, ainda que nenhum tipo de documentação seja requisito para a matrícula na rede. Ambos os casos ilustram as dificuldades que os refugiados enfrentam logo que chegam ao Brasil, apesar de sua gratidão para com o país.
+Seguindo as histórias pessoais de Miracle e Majd, o próximo painel falou sobre a situação de proteção de refugiados no Brasil e para além dele, a fim de enriquecer a compreensão dos participantes da mesa redonda sobre o atual contexto para os refugiados. Andrés Ramirez ilustrou a gravidade da questão dos refugiados comparando a situação no Brasil com padrões de deslocamentos globais mais amplos. O padre Marcelo Monge, Diretor da Cáritas de São Paulo, falou sobre os programas da Cáritas para refugiados na cidade e como a organização ajuda a orientá-los a políticas públicas e direitos dos quais eles usufruem no Brasil.
+Após o intervalo para almoço, um painel de cinco representantes de vários setores, tanto de refugiados quanto da comunidade de acolhida, tiveram dez minutos cada para apresentar os desafios que os refugiados enfrentam para sua integração em São Paulo. Sheikh Mohamad Al Bukai, da organização local OASIS Solidário, contou sua necessidade de, repentinamente, atender às necessidades de centenas de refugiados sírios que chegaram às mesquitas, os únicos lugares no Brasil onde muitos deles podiam ser acolhidos. O padre Paulo Parise, da organização católica Missão Paz, falou dos esforços da organização - em conjunto com os da Cáritas - para auxiliar recém-chegados, especialmente a população haitiana. Ele também defendeu a criação de mais espaços de acolhimento e opções de moradia para os solicitantes de refúgio.
+Érico Lima de Oliveira, da Defensoria Pública da União, enfatizou a necessidade de fortalecer a capacidade em todos os níveis do poder judiciário que atendem a população refugiada. Ele também defendeu a criação de mais recursos legais de auxílio para migrantes e refugiados que precisam de assistência com documentação, naturalização e a regularização de seu status. Ele enfatizou a importância de coordenar esses esforços com o CONARE para uma emissão eficiente da documentação para migrantes e refugiados assim que eles chegam no Brasil, especialmente para aqueles que chegam por aeroportos.
+Mirta Castellón, uma ex-refugiada colombiana e representante do Centro de Apoio ao Trabalho e Empreendedorismo (CATe), contou sobre o trabalho do Centro de recepcionar
+os recém-chegados e sensibilizar funcionários para eliminar o que ela chama de “atitude barreira”, além de ajudar refugiados alcançar um nível de português satisfatório para sua alocação no mercado de trabalho.
+O último a falar no painel foi Olenga Nkoyi, agente social e ex-funcionário da Secretaria Municipal de Saúde. Ele compartilhou suas preocupações quanto ao fato de refugiados recém-chegados serem alojados em abrigos com os moradores de rua e usuários de drogas, sob condições precárias. Ele enfatizou que saúde começa com moradia segura e digna e levando-se em consideração o bem-estar mental dos refugiados desde sua chegada.
+Imediatamente após as cinco apresentações, pediu-se que todos os participantes se dividissem em cinco grupos de trabalho para um brainstorming e que fizessem recomendações para melhorar a integração de refugiados através desses seis eixos principais: documentação, saúde, educação, moradia, trabalho e cultura. Para dar o pontapé inicial à discussão, deu-se a cada grupo uma lista de citações, que referiam-se ao seu tópico específico, tomando como base três documentos-chave: a Declaração do Brasil e Plano de Ação (2014); o Relatório Final das consultas da COMIGRAR 2014; e a Política sobre proteção a refugiados e soluções em áreas urbanas de 2009 do ACNUR.
+A Escola de Desenvolvimento Social do Estado de São Paulo (EDESP) ajudou a compilar os pontos discutidos pelos grupos de trabalho. Depois de uma hora de discussão, cada grupo documentou suas recomendações e apresentou-as à plenária.
+
+Resultados
+Os resultados a seguir foram sintetizados a partir da plenária e das discussões dos grupos de trabalho ao longo do dia. Eles estão listados por temas que foram identificados como os mais caros para refugiados e solicitantes de refúgio em São Paulo. Os resultados descrevem os problemas com os quais refugiados e solicitantes de refúgio lidam e a complexidade dos sistemas que eles enfrentam. Em seguimento a esta seção, figuram as recomendações que que os grupos de trabalho fizeram para solucionar alguns dos problemas confrontados pelos refugiados e solicitantes de refúgio.
+
+1. Documentação – A necessidade de documentos brasileiros de fácil obtenção e reconhecimento
+Obter, por parte do governo brasileiro, documentos de identidade amplamente reconhecidos continua sendo o maior obstáculo para a integração. Os participantes reconheceram que o Protocolo Provisório não é reconhecido por empregadores nem por instituições de ensino. O Protocolo, por si só, não é suficiente para permitir que refugiados matriculem-se em universidades e continuem seus estudos. De acordo com a Cáritas de São Paulo, menos de 1% dos refugiados que eles atendem são analfabetos e a maioria deles têm diploma do Ensino Médio. Por isso, conseguir acessar o ensino superior é importante para os mesmos.
+Sobre a renovação de documentos: “Eu posso pedir um documento novo, mas tenho que manter o meu. Aqui, agora, os refugiados têm que dar os documentos deles e esperar pelo documento novo. Deveria haver um aumento no período de validade para dois, três ou mesmo cinco anos”.
+- Participante do grupo
+O grupo de trabalho produziu muitas sugestões específicas para melhorar a qualidade dos documentos emitidos para os refugiados. As sugestões incluíram desenvolver a transparência e a previsibilidade do processo de emissão e orientar instituições locais a aceitarem os documentos. O grupo de trabalho defendeu mais suporte da camada superior do governo para agilizar o processo de documentação e criar conscientização sobre a validade dos documentos.
+“Vontade política e administração pública - precisamos melhorar, por exemplo, o acesso à informação disponível à Polícia Federal sobre a legislação espeífica sobre refugiados e imigrantes”.
+- Participante do grupo
+O grupo de trabalho foi crítico em relação à qualidade dos serviços de processamento de documentos nos aeroportos feitos por terceiros, à ambiguidade do texto no Protocolo e à vulnerabilidade das pessoas, especialmente mulheres e crianças, que por vezes não tem o Protocolo emitido individualmente. O grupo enfatizou a importância da sensibilização para os refugiados e que isso beneficiaria o reconhecimento de documentos, como o Protocolo, na sociedade. Eles sugeriram uma campanha informativa patrocinada pelo governo durante o horário nobre da TV.
+“O Protocolo deveria servir para tudo”. - Participante do grupo
+
+2. Saúde – Aumentar a conscientização entre prestadores e superar a barreira do idioma
+O grupo de trabalho que tratou sobre acesso à saúde também enfatizou a importância de aumentar a conscientização e treinar agentes do serviço de saúde, bem como orientar refugiados sobre esses serviços. Não saber falar português foi colocado, pelo grupo, como uma grande barreira para o acesso a serviços. Conhecimentos sobre o idioma e discriminação foram considerados barreiras em muitas intervenções durante o dia da mesa redonda. Este grupo de trabalho sugeriu contratar refugiados que falam português para trabalharem como intérpretes em hospitais.
+
+3. Educação – Conscientização, idioma e regularização do acesso
+
+Mais uma vez, a barreira do idioma e a necessidade de orientar servidores públicos emergiram como questões principais que precisam ser superadas para permitir o acesso à educação. Este grupo de trabalho sugeriu produzir um vídeo de orientação para escolas e também pediu para que o CONARE aprove uma resolução que regularize o acesso à educação para refugiados.
+“Educação Básica - Deveria haver um documento de orientação para todos os servidores públicos, gestores, professores e comunidade que dissesse quem receber e acolher. Ele deveria dar a orientação necessária, tendo em mente a educação básica”.
+- Participante do grupo
+
+4. Moradia – A importância de uma solução digna desde o início
+Este grupo de trabalho relatou que os refugiados devem ser abrigados de maneira digna desde sua chegada, não apenas para seu bem-estar, mas também para promover interação social e integração dentro dos bairros de São Paulo. Por falta de melhores opções, os refugiados são forçados, frequentemente, a ir para abrigos e, quando este é o caso, esse grupo de trabalho gostaria de ver que os funcionários do abrigo estão sendo treinados para receberem os refugiados. Ao mesmo tempo, eles gostariam que aulas de português fossem disponibilizadas aos refugiados nos abrigos. Alguns sugeriram mandar os refugiados para repúblicas ao invés de abrigos. Outros apontaram que o número de pessoas sem teto está se tornando crescente no Brasil e “exclusividade” para refugiados precisa ser considerada cuidadosamente.
+Transferir refugiados de um abrigo para uma situação/arranjo de vida independente também é uma preocupação, por causa dos altos custos de aluguel da cidade. O salário mínimo brasileiro não é suficiente para cobrir as necessidades fundamentais, como aluguel e alimentação em cidades grandes como São Paulo, onde o custo de vida é alto. Este grupo de trabalho sugeriu que refugiados sejam treinados sobre como se preparar para essa realidade.
+
+5. Trabalho – Redes do setor privado e direitos trabalhistas em primeiro lugar
+O grupo de trabalho que tratou sobre trabalho apontou não apenas a necessidade de incluir atores do setor privado em discussões desse tipo, mas também a necessidade de informar empresas sobre as habilidades e talentos que refugiados aportam, enfatizando que isso pode, mais tarde, ser traduzido em ganhos econômicos para essas empresas. Da mesma maneira, os refugiados também deveriam ser informados sobre seus direitos trabalhistas. Por fim, em relação às barreiras que impedem refugiados de entrar no setor formal, o grupo recomendou que o Protocolo seja feito para parecer menos improvisado e que seja mais padronizado, de acordo com documentos oficiais.
+
+6. Cultura – Trocas e a importância do idioma
+Este grupo de trabalho definiu o termo “cultura” como sendo “multifacetada” e “multiconceitual”. Na visão deles, tanto religião quanto língua, ética e educação deveriam ser levadas em consideração na discussão sobre cultura. Este grupo de trabalho destacou a necessidade de ampliar a conscientização dos brasileiros sobre o conceito de refugiado, e como eles são diferentes de migrantes. Eles também pediram mais iniciativas para promover o aprendizado do idioma português e para incorporar elementos da cultura brasileira nas aulas. Além disso, eles defenderam um intercâmbio rico e simbólico de culturas e recomendaram mais eventos nos quais práticas artísticas, culturais e gastronômicas possam ser compartilhadas.
+
+
+Recomendações
+Segue um resumo das recomendações feitas pelos grupos de trabalho durante as apresentações na plenária:
+1. Documentação
+a. Agilizar a emissão de documentos. 
+b. Descentralizar serviços.
+2. Saúde
+a. Contratar mais profissionais de saúde bilíngues, capazes de atender às necessidades dos refugiados.
+b. Criar um programa de saúde mental para refugiados.
+3. Educação
+a. Oferecer aulas de português para estrangeiros.
+b. Apoiar o Conselho Nacional de Educação e o Ministério da Educação para facilitar o acesso à educação e a validação de diplomas advindos de países estrangeiros.
+4. Moradia
+a. Criar mais vagas em abrigos para refugiados.
+b. Capacitar os servidores públicos sobre as necessidades dos refugiados.
+5. Trabalho
+a. Fornecer orientações sobre refugiados para empresas privadas e buscar mais vagas de trabalho para refugiados.
+b. Oferecer formação profissional e cursos técnicos para os refugiados.
+6. Cultura
+a. Incluir informações sobre a diversidade cultural de refugiados nos currículos das escolas brasileiras.
+b. Desenvolver campanhas de sensibilização transcultural sobre a riqueza cultural trazida pelos refugiados no Brasil.
+As considerações dos grupos de trabalho, não-editadas, transcritas e traduzidas podem ser encontradas no Anexo 5, como elas foram originalmente escritas. Elas são acompanhadas por um resumo dos relatos de cada grupo.
+
+Conclusão
+Refugiados no Brasil usufruem hoje de um clima político receptivo. Embora exista boa vontade, esforços dedicados de coordenação entre níveis federais, estaduais e municipais que precisam ser reforçados para concretizar essa vontade em um país tão vasto e diverso como o Brasil. Agências estatais e municipais são fatores críticos para disseminar a visão e o compromisso do CONARE em receber refugiados no Brasil.
+Descentralizar a emissão de documentos de refugiados melhoraria suas vidas e disseminaria a conscientização sobre a definição e os critérios para o status de refugiado. Treinar servidores públicos, como funcionários em aeroportos, polícia, abrigos, assistentes sociais, professores e funcionários de hospitais, que são o contato inicial dos refugiados, sobre o conceito de refugiado e pontos positivos que eles trazem para o Brasil também facilitaria a integração dos mesmos. Para um indivíduo, proteção e assistência são mais significativas nessas comunidades ou nesse nível de integração.
+Apesar da vibração e da liderança econômica do Brasil, muitos dos seus cidadãos vivem abaixo da linha de pobreza e viver como um sem-teto é uma condição de muitos moradores de megacidades como São Paulo. Por isso, o ônus recai sobre os refugiados para que contribuam visível e pro-ativamente para a economia e a sociedade civil, a fim de que se integrem. Assim sendo, uma das prioridades é aprender o idioma português, para poderem participar ativamente em suas comunidades. O apreço pela generosidade e riqueza cultural do Brasil também ajudará na integração.
+Felizmente, a comunidade de refugiados em São Paulo encontrou um caminho para cantar os louvores do Brasill em alto e bom tom. A mesa redonda de São Paulo foi concluída com o lançamento do vídeo musical do grupo Refugiados no Brasil, criada pela comunidade de refugiados da cidade, com o apoio do ACNUR e da Cáritas. A música “Somos Um” foi feita com a finalidade de conscientizar o público sobre quem são os refugiados. As mensagens, a música e as imagens no vídeo foram uma maneira positiva e inspiradora de finalizar a mesa redonda.
+
+Anexo 1: Um Estudo de Caso
+Proteção de refugiados pelo Sistema de Assistência Social no Brasil:
+Um estudo de caso do Abrigo Terra Nova
+Escola de Desenvolvimento Social do Estado de São Paulo
+Traçando um breve panorama do Sistema Único de Assistência Social brasileiro (SUAS), é importante salientar os seguintes fundamentos:
+• Rede territorializada de oferta de serviços, programas, projetos e benefícios que respeitem as demandas locais;
+• Foco no protagonismo comunitário e no contexto familiar e social;
+• Foco na atenção prioritária e integral à família, fortalecendo os vínculos entre seus membros;
+• Construção do novo paradigma da Assistência Social, colocado desde a Constituição Federal de 1988 como garantia de direitos, superando o antigo paradigma assistencialista.
+As ações do SUAS estão organizadas em dois eixos principais de complexidade. A Proteção Social Básica visa prevenir situações de risco através do desenvolvimento e fortalecimento de laços familiares e comunitários. Ela destina-se às famílias e indivíduos que vivem em condições sociais vulneráveis, como pobreza, privação e fracos laços familiares ou comunitários. As ações dentro desses eixos são implementadas nos Centros de Referência de Assistência Social (CRAS), uma unidade estatal pública, localizada em áreas com altos níveis de vulnerabilidade social e risco. Há, atualmente, 1.049 CRAS distribuídos em quase todos os municípios de São Paulo. O eixo da Proteção Social Especial visa proteger famílias e indivíduos em um cenário de vulnerabilidade em dois níveis de complexidade: médio, quando direitos são violados, mas laços familiares e comunitários permanecem intactos; e alto, para indivíduos que se encontram sem nenhuma referência familiar/comunitária ou são ameaçados de serem retirados de seu núcleo familiar/comunitário. A instituição responsável por proteger esse grupo de pessoas é o Centro Especializado de Assistência Social (CREAS), unidade pública estatal e oferta atendimento especializado e individualizado de orientação e apoio sociofamiliar. Há, atualmente, 254 unidades do CREAS no estado de São Paulo e outras 39 estão previstas.
+Através desses dois eixos principais, a rede de assistência social fornece diversos projetos de assistência social que visam melhorar a qualidade de vida da população, com ações focadas em atender suas necessidades básicas.
+No contexto de uma crise global humanitária, o número crescente de solicitantes de refúgio e de refugiados no Brasil tem tido um forte impacto no fluxo migratório do estado de São Paulo. Durante os últimos cinco anos, o número de pedidos de refúgio registrados em São Paulo aumentou mais de 1000%. De acordo com o CONARE, 310 pedidos foram feitos em 2010 e 3.612 em 2014. São Paulo é o estado que mais abriga refugiados no Brasil (3.809) e a cidade de São Paulo se tornou a principal porta de entrada de refugiados na América Latina.
+O estado de São Paulo está engajado em atender essa demanda. Embora refugiados não tenham sido originalmente incluídos sob a proteção do SUAS, a Secretaria de Desenvolvimento Social de São Paulo concedeu o status de alta vulnerabilidade e risco social a essa população. Com uma interpretação positiva da legislação, o estado de São Paulo criou a primeira Casa de Passagem estatal focada nas necessidades específicas dos solicitantes de refúgio e vítimas de tráfico humano.
+Implantada no dia 02/10/2014, a Casa de Passagem "Terra Nova", é o primeiro equipamento do Estado de São Paulo concebido para solicitantes de refúgio e vítimas de tráfico de pessoas. O local dispõe de 50 vagas, garantindo espaços para usuários individuais e com famílias. O perfil de usuários deste serviço é composto por famílias com filhos até 18 anos, mulheres grávidas e pessoas que tenham sido alvo do tráfico de pessoas nacional ou internacional, particularmente a população LGBT.
+O tempo de acolhimento é definido pelo processo de acompanhamento. Apresentado pelos técnicos e orientadores socioeducativos e pactuadas com os usuários, um conjunto de regras de conduta e convivência garantem o convívio comunitário, conciliando os diferentes hábitos e costumes nos aspectos necessários à manutenção do espaço coletivo e ao respeito às individualidades.
+A Casa de Passagem "Terra Nova” tem como objetivo proporcionar aos usuários atendidos acolhimento seguro e digno durante o processo de desenvolvimento de novos vínculos sócios comunitários e de construção de condições de autonomia. Portanto, o equipamento realiza e acompanha os encaminhamentos a toda rede de políticas públicas necessárias ao empoderamento e fortalecimento dos usuários e a garantia de seus direitos.
+Durante o primeiro ano de funcionamento, diversos desafios foram enfrentados. Além das situações de vulnerabilidade social próprias do público alvo dos serviços socioassistenciais, a população recebida, composta em sua grande maioria por famílias solicitantes de refúgio de extrema vulnerabilidade, precisa ainda ser protegida das diversas formas de exploração e preconceito, como o aliciamento para trabalho precário e a xenofobia.
+Com fins de desenvolver um trabalho holístico, a equipe garante atendimento multiprofissional em coordenação com técnicos da Secretaria Estadual de Desenvolvimento Social e da Coordenação Regional das Obras de Promoção Humana e com os próprios moradores. Diversos setores para a proteção e integração do usuário são cobertos: pedagógico, psicológico, jurídico, socioassistencial.
+O atendimento pedagógico visa promover orientação e acompanhamento do acesso à educação, e o desenvolvimento de habilidades formativo-educativas que estimulem os usuários a adquirir novos conhecimentos, trocar experiências em grupo e socializar em comunidade. Dessa forma, tem-se observado a consciência da cidadania e o desenvolvimento do sentimento de pertencimento e de identidade.
+O atendimento psicológico se desenvolve em nível individual e, sempre que necessário, há encaminhamento para atendimento psicoterapêutico em instituições parceiras. A equipe também atua no desenvolvimento conjunto do Projeto de Vida com o usuário e no acompanhamento de sua realização. Nesse sentido, são desenvolvidas e realizadas atividades em grupos, em diversas temáticas, com o objetivo de estimular a criação de vínculos, afetos, trocas de experiências, bem como, a expressão da subjetividade dos sujeitos envolvidos.
+O atendimento jurídico consiste na orientação do solicitante de refúgio quanto à legislação brasileira e seus direitos no país, encaminhamento jurídico para obtenção e regularização de documentos e acompanhamento da situação migratória do usuário no país (solicitação de refúgios, solicitação de visto de permanência, etc.).
+O atendimento social fomenta a proteção social e o a acesso a serviços públicos e ações sociais da iniciativa privada. A partir da análise individual do usuário, a equipe busca promover o acesso a serviços que supram suas necessidades e contribuam com o reestabelecimento de sua condição autônoma, como, por exemplo, a Rede Pública de Saúde, Educação Profissionalizante, estudos de idioma, e acesso ao mundo do trabalho. Para promover a integração, são realizadas Rodas de Conversa e Assembleias sobre os referidos temas.
+Até junho de 2014, 114 usuários já foram atendidos pela Casa de Passagem "Terra Nova". Destes, 67 foram beneficiados com desligamento qualificado, com tempo médio de permanência de 55 dias, alcançando sua autonomia, com conhecimento básico da língua portuguesa, inseridos no mercado de trabalho, formal e informal, e, apenas 19 usuários foram encaminhados para organizações com prestação de serviço específico para o perfil familiar.
+Em seu primeiro ano de funcionamento, a Casa de Passagem é uma iniciativa pioneira do Governo do Estado de São Paulo para proteger e acolher uma parcela vulnerável da população que encontrou em São Paulo as possibilidades de uma nova terra.
+
+História de sucesso
+*Por questões de sigilo, foram criados nomes fictícios no relato a seguir.
+Recém-chegados ao Brasil, o casal, Omar e Sayde, acompanhados de seus filhos, Adel e Jamile, buscavam refúgio da guerra na Síria. A família chegou na Casa de Passagem “Terra Nova” enviada pela Cáritas. Ausentes de empatia, a família conversava com a equipe da casa apenas sobre o que dizia respeito aos atendimentos psicossociais. Jamile interagia apenas com os membros da família. Adel apresentava certo comportamento agressivo, sempre reclamando e chorando muito.
+Uma semana após sua chegada à Casa de Passagem, Omar, em meio a uma discussão com seu filho, o agride. A equipe trabalhou junto ao usuário, explicando o fato de ser esse um crime frente a legislação brasileira, usando o ECA como forma de expor-lhe isso. Tratava-se ali de uma diferença cultural: na Síria são corriqueiras as agressões, segundo o pai. Ao entender o que havia sido dito, Omar diz que não bateria mais em Adel. O pai confessou que estava muito estressado pelo mau comportamento apresentado por seu filho desde que deixaram seu país de origem, que não sabia mais como conduzir a situação. A orientação foi o diálogo e a criação de vínculos.
+Passada a situação, a família passa a comparecer a todos os passeios organizados pela Casa. Essas atividades proporcionaram o estreitamento de laços e o entendimento da história da família, que sentia muita saudade de sua vida em seu país de origem. Em pouco tempo, as crianças começam a esboçar mais traços da infância, brincando e interagindo com outras crianças na Casa, em oficinas lúdicas infantis, e na escola. Já com toda a documentação em dia, o pai começa a trabalhar, no início confeccionando máquinas para a produção de comida árabe e, posteriormente, fazendo a própria comida para vendê-la em restaurantes. É desenvolvido um trabalho individualizado com o usuário, pois ele precisa frequentemente se ausentar da casa ou retornar a ela em horários fora do regulamento. Foi estabelecida uma grande relação de confiança, orientando-o em como poupar seu dinheiro para uma saída qualificada do equipamento. Aos poucos, o sentimento de tristeza e nostalgia foi substituído por falas de grande apreço pelo novo lar. “Eu amo São Paulo” e “Síria no coração de São Paulo” são frases que passam a surgir no decorrer das atividades psicopedagógicas. O irmão de Omar vem ao Brasil e também acolhido pela Casa, começa a trabalhar com ele na cozinha. Passados 7 meses de sua chegada na Casa de Passagem Terra Nova, Omar consegue então juntar dinheiro e alugar uma casa, para onde muda com sua família.
+
+Anexo 2: Nota sobre o conceito de mesa redonda
+A icônica imagem de refugiados remete a longas filas em acampamentos de emergência montados em inóspitas regiões fronteiriças. Atualmente, no entanto, mais da metade dos refugiados vivem em regiões urbanas, acompanhando uma tendência migratória de grandes proporções. Diante da maior crise humanitária do século, o número de pessoas solicitando refúgio ao redor do mundo tem aumentado exponencialmente.
+Estima-se que 866.0005 pessoas solicitaram refúgio ao longo do ano de 2014. No mesmo ano o Brasil recebeu mais de 11 mil novas solicitações de refúgio. O ACNUR calcula que hoje exista mais de 16 milhões de pessoas refugiados no mundo. O Brasil abriga pouco mais de 7600 destes refugiados. Importante observar que o incremento das populações imigrantes no Brasil ainda é muito reduzido em comparação com o total da população nacional, o total de estrangeiros não atinge 0,8% da população total. São Paulo, uma das maiores cidades do mundo, congloba milhões de pessoas de diversas origens, e a maioria dos refugiados que vivem no Brasil reside na cidade de São Paulo. Cerca de 40% da população refugiada no Brasil vive na capital.
+Diante do crescimento da demanda de refugiados em núcleos urbanos, é necessário fortalecer a rede de proteção e acolhida, congregando estruturas nacionais, estaduais e municipais, bem como a vasta gama de organizações da sociedade civil, que tem contribuído com o desenvolvimento do tema. A partir deste contexto, o ACNUR está realizando uma mesa redonda para criar um espaço de diálogo entre a comunidade local e a comunidade de refugiados. Assim sendo, o objetivo do evento é discutir as melhores formas para que refugiados e solicitantes de refúgio, integrarem-se a infraestrutura urbana local, contribuindo assim para seu desenvolvimento social, econômico e cultural.
+Ao longo da história, o Brasil tem se demonstrado um país solidário com a questão da migração, que dialoga, por sua vez, com a própria identidade social brasileira. Algumas questões são levantadas:
+• Como você define a convivência de refugiados na sociedade brasileira, a partir da perspectiva de São Paulo? Em linhas gerais, o que tem sido feito para promover a conviência e integração de refugiados em São Paulo?
+• O que refugiados tem feito e podem fazer para contribuir para sua convivência e integração?
+• O que a comunidade receptora tem feito e pode fazer para contribuir para promover a conviência e integração de refugiados?
+• Qual é o papel do governo estadual e municipal para apoiar a convivência e integração de refugiados?
+• Qual é o papel das ONGs, associações comunitárias, organizações religiosas e outros membros da sociedade civil no aperfeiçoamento da convivência e integração?
+Para responder a essas perguntas, o ACNUR vai convidar palestrantes do governo, sociedade civil, e representantes de grupos de refugiados para painéis que discutirão as diversas dimensões da conviência e integração em São Paulo.
+
+Anexo 3: Agenda da mesa redonda
+03 de Junho de 2015
+09:00 – 9:30
+Registro dos participantes e café de boas vindas
+09:30 - 09:45
+Apresentação do evento
+09:45 - 10:15
+Mesa de abertura
+Andrés Ramirez, Representante do ACNUR no Brasil
+Paulo Guerra, Diretor Adjunto do Departamento de Estrangeiros, Representante do Comitê Nacional para Refugiados
+Floriano Pesaro, Secretário Estadual de Desenvolvimento Social de São Paulo Paulo Illes, Coordenador de Políticas para Migrantes, Secretaria Municipal de Direitos Humanos de São Paulo
+10:15 - 10:30
+Perguntas e respostas
+10:30 - 11:00
+Debate: Relatos individuais de refugiados
+Miracle Panzu (República Democrática do Congo)
+Majd ‘Miguel' Soufan (Síria)
+11:00 - 11:20
+Perguntas e respostas
+11:00 - 12:00
+Debate: Panorama do refúgio
+Andrés Ramirez, Representante do ACNUR no Brasil
+Pe. Marcelo Monge, Diretor da Caritas Arquidiocesana de São Paulo
+12:00 - 13:00
+Almoço (Restaurante Citron - 1° piso)
+13:00 - 13:50
+Painel: Desafios de integração
+1. Sheik Mohamed, OASIS
+2. Pe. Paolo Parisi, Missão Paz
+3. Érico Lima de Oliveira, Defensoria Pública da União
+4. Mirta Castellón, Centro de Apoio ao Trabalho e Empreendedorismo (CATe)
+5. Olenga Nkoyi, Agente Social
+13:50 - 14:50
+Grupos de Trabalho
+14:50 - 15:10
+Coffee-break
+15:10 - 16:10
+Apresentação dos grupos de trabalho
+16:10 - 16:40
+Palavras de Encerramento
+Andrés Ramirez, Representante do ACNUR no Brasil
+16:40 - 17:00
+Exibição do vídeo “Refugiados no Brasil”
+Conversa com os participantes do projeto
+
+Facilitadores: Cazé Pecini (Apresentador) e Andrés Ramirez (Representante do ACNUR no Brasil)
+
+
+Anexo 4: Painel de Perguntas ao Governo
+As seguintes questões foram transcritas e traduzidas sem edição. Palavras ilegíveis foram substituídas pelo símbolo [...].
+Questões gerais para o Painel
+• O governo municipal sabe que a maioria dos migrantes ou refugiados vivem em São Paulo. Quais são as medidas preparatórias tomadas para facilitar a [...] nos estabelecimentos de ensino superior, tanto públicos quanto privados...? Além disso, quais são as medidas preparatórias em relação à falta de conhecimento sobre as qualificações dos migrantes (refugiados), para facilitar a integração?
+• Como você acha que [...] para melhorar a convivência e a integração para refugiados?
+• Como foi a cobertura da imprensa? Positiva ou negativa? (no que diz respeito à questão dos refugiados e migrantes)
+• Como você acha que [...] para melhorar a convivência e a integração para refugiados?
+• Como foi a cobertura da imprensa? Positiva ou negativa? (no que diz respeito à questão dos refugiados e migrantes)
+• Uma grande parte dos solicitantes de refúgio são trabalhadores qualificados, e o Brasil perdeu a oportunidade de absorvê-los no mercado de trabalho, devido às dificuldades relacionadas à validação de diplomas, a impossibilidade de obtenção da CNH sem o RNE, entre outros. Gostaria de saber o que os membros do painel acham que poderia ser feito para encontrar uma solução, nas três esferas do governo.
+• Algum representante da Polícia Federal foi convidado? Já que representa o portão de entrada para refugiados □ limbo legal.
+• Assunto sob as leis de refugiados no Brasil. Eu sou uma vítima de racismo no Brasil. Não temos nossos direitos. Como seres humanos, problemas do trabalho 2) a universidade 3)
+• É necessário implementar um programa de políticas públicas nacional, visando o fluxo migratório antes da nova proposição legal, há alguma perspectiva de regularização de todos os imigrantes que residem no território brasileiro?
+• Minha pergunta é sobre moradia para refugiados, e o tempo que levam para integracão. Falta de advogados nas Cáritas.
+• A rede de proteção social ainda não está preparada para receber imigrantes. As ferramentas que temos hoje recebem imigrantes e solicitantes de refúgio, dão moradia aos desabrigados que estão obrigados a ficar na rua o dia todo, sem fazer nada. Isso seria uma alternativa, dado este problema.
+• Minha pergunta: a partir da solicitação para a integração, o tempo é longo para o processamento de arquivos. Há, entre os requerentes de asilo, embora os que têm diplomas, os que pedem para continuar os seus estudos ou encontrar um emprego decente, o que em outra parte, se torna muito difícil [...] Por que solicitar somente o têm direito a [...] de uma universidade são aqueles que têm uma permissão e uma RNE? Por que esperar uma integração que leva tempo para reconhecer o [...] de escolas ou olhar para beneficiar os refugiados [...]? Pois o que é trabalho, não seria [...] reconhecer ou ter em conta o nível ou a experiência da pessoa e se desenvolver para o seu justo valor, para evitar a este último a ser forçado a recomendar um menor [...]?
+
+Questão para o Ministério da Justiça
+• Você falou sobre o diálogo com a sociedade civil, algo que ocorre há anos, mas qual é a proposta efetiva de diálogo com estados e municípios, tendo como objetivo [...] e de integração e coordenação das ações conduzir a inclusão social, econômica, cultural e política, tanto para imigrantes, quanto para refugiados?
+
+Questões para Paulo Guerra
+• Como funciona a documentação para mulheres imigrantes e refugiadas, já que elas são esquecidas por serem uma minoria.
+• As melhorias referentes à documentação dos refugiados são feitas apenas para o recém-chegado ou também para [...] aqui no Brasil. E como os mais velhos estão caindo no esquecimento, os novos que chegam estão sendo regularizados antes?
+• Que medidas estão previstas a fim de reduzir termos e descentralizar o trabalho do CONARE e o procedimento de refúgio? A instalação de escritórios do CONARE em São Paulo e outras capitais ocorrerá? A ampliação da participação social na composição do CONARE ocorrerá?
+• Você mencionou que o CONARE planeja aumentar o número de oficiais de elegibilidade, que atualmente somam um total de 5. Eu gostaria de saber quando esse aumento ocorrerá e quantas pessoas serão somadas ao time.
+• Você pode repetir o aumento nos pedidos de estatuto de refugiado entre 2010 e 2014?
+• Uma vez que o processo de regularização de documentos [...] pelas razões conhecidas pelo CONARE. Por quê? Por que não descentralizar os trabalhos de estudo ou do procedimento de elegibilidade [...] de [...] refúgio que cada estado cuida do procedimento dos arquivos em sua jurisdição.
+
+Questão para Floriano Pesaro
+• Levando em consideração o poder de compra e a situação social do Brasil, com 79 reais que o Governo dá para imigrantes ou refugiados, de acordo com a política social do Brasil, essa soma de dinheiro pode ajudar a fazer o quê? Pagar o aluguel, a [...], comprar roupas, etc?
+
+Anexo 5: Recomendações dos Grupos de Trabalho
+
+1. Documentação
+Resumo do Relator
+O grupo era composto por 14 pessoas, das quais oito eram refugiados. O grupo começou a discussão de um texto que sistematizou dados e trouxe o resumo de três importantes documentos: a Declaração do Plano de Ação do Brasil, COMIGRAR 2014 e a política do ACNUR sobre refugiados urbanos.
+Questões levantadas pelo grupo:
+• O grupo ratificou tudo o que foi discutido na COMIGRAR 2014 e levantou a demora em avançar com relação às metas pactuadas durante as conferências.
+• Como questões gerais, o grupo questionou como fazer o documento ser mais rapidamente expedido e como tornar os serviços mais amplos e acessíveis. O processo de obter a documentação é muito lento. As propostas do grupo foram de caráter administrativo: mudar os processos, inserir processos eletrônicos mais ágeis. Todas as sugestões relativas ao documento não dependem de alteração na legislação, mas sim dos processos.
+• Segundo os estrangeiros do grupo, problemas com a documentação tornam a integração muito difícil no dia-a-dia. A experiência com o agendamento eletrônico para obter documentos é complicada para muitos. Foi sugerida a descentralização do serviço, criando um serviço com a qualidade do Poupatempo (organismo que oferece, num mesmo local, diversos serviços de natureza pública ao cidadão).
+• Diálogo com a Polícia Federal: fundamental para avançar as questões pertinentes aos documentos.
+ Falta de unicidade da informação: os passos para a obtenção da documentação são amplamente divulgados em sites oficiais, mas na prática a Polícia Federal solicita documentos diferentes.
+ Distância do serviço: Agrava-se o fato do atendimento ser prestado unicamente na Superintendência Regional da Polícia Federal em São Paulo, que fica no bairro da Lapa, longe do centro urbano e de acesso limitado com transporte público.
+ Terceirização do atendimento: O grupo alertou para o fato da Polícia Federal terceirizar o serviço de atendimento, de forma a não ter distinção nenhuma entre estrangeiros e refugiados. Um refugiado colombiano é tratado como um estrangeiro do Mercosul. A representante da Secretaria da Justiça do Estado de São Paulo explanou que isso é feito na tentativa de facilitar a permanência do indivíduo no país.
+ Atendimento qualificado e humano: Segundo o grupo, a Polícia Federal não se preocupa em tornar o atendimento mais qualificado e humano. Outro problema levantado pelo grupo foi a o idioma no atendimento e o preconceito com os traços raciais. O atendimento com os estrangeiros necessitaria de funcionários bilíngues. A dificuldade de comunicação agrava ainda mais a situação, já que as orientações na Polícia Federal são todas em português.
+
+• Protocolo Provisório: a questão do protocolo foi amplamente discutida. Muitos membros do grupo trouxeram o relato de que refugiados perdem vagas de emprego quando apresentam o documento. O protocolo não é aceito nas instituições de ensino superior. Além disso, o problema da precariedade do documento é reincidente, pois quando se renova o RNE, novamente é gerado um protocolo enquanto a nova cédula não fica pronta. O grupo deliberou em torno das seguintes sugestões:
+ Sensibilização de funcionários e da população: é preciso disseminar a validade do documento, já que a maioria dos brasileiros não conhece o documento.
+ Melhorar a aparência do documento: também é preciso pensar em formas de tornar o documento com uma aparência que dê mais credibilidade. Propôs-se que ele tivesse um formato mais próximo a um documento convencional. Uma das integrantes do grupo trouxe o exemplo da Argentina, onde o documento chama-se: “Residência Precária” e tem aparência de uma cédula de identidade. O grupo sugeriu que fosse criado um RNE provisório. O protocolo é um documento utilizado pelo solicitante por muito tempo, pois da solicitação de refúgio até o julgamento final tem se demorado muito, até três anos em alguns casos.
+ Diminuir o número de cadastro, que é atualmente muito extenso.
+• A CTPS foi reconhecida como um documento de extrema relevância. Ele é a garantia para a inserção social.
+Síntese da Proposta:
+• Resumir o texto da COMIGRAR, sintetizar as metas, sem perder a essência.
+• Tornar o acesso a documentação mais fácil e descentralizado, com trâmite eletrônico.
+• Melhorar a aparência do protocolo provisório. Como ele é um documento que garante a identificação do indivíduo no território nacional, ele deve ser um documento mais crível que transmita credibilidade, mais parecido a um RG, por exemplo.
+• Disseminar a validade da documentação para empregadores, servidores públicos, e para a sociedade em geral.
+• Diminuição dos números e alteração no nome, ao invés de protocolo provisório, RNE/ Provisório, por exemplo.
+• Tornar mais acessíveis as informações sobre documentação, incluindo em línguas estrangeiras.
+• Qualificar o serviço prestado pela Polícia Federal, com agentes conhecedores da temática que falem línguas estrangeiras.
+• Aumentar a rapidez do CONARE.
+
+   2. Saúde
+Transcrição das considerações dos participantes
+1. Expandir o acesso a documentos oficias, tais como [...]
+   • Conhecer o que está posto na Declaração do Brasil e no Plano de Ação Jorge apresenta 	 [...]
+Palestrante: Mari, CRAI
+Gerente de saúde de pronto atendimento 	 [...] e de imigração, cidadão [...] Ela será atendida mesmo sem documentação.
+Olenga é uma agente de saúde 	 [...] refugiado e apoio é importante. Suponha que um [...] do SUS.
+
+Exemplos de [...] que veio ao Brasil para tratamento. Reclamação quanto [...] mas [...] que o problema também é para os brasileiros.
+Trabalho na Sé [...] perto do UBS. O [...] vai até você. [...] saúde vai até você e deveria ser como [...] UBS. Prejudica ele, porque os colegas pensam que [...] trabalhou para a Polícia Federal.
+	A maior dificuldade é a questão da língua.
+Não há muitos prestadores de serviço bilíngues.
+	Dificuldade para pessoas que precisam levar [...]
+	Dificuldade para [...] saber explicar o que está sentindo.
+[...] SUS [...] sem endereço fixo.
+UBS da Sé
+Eles já têm um agente de [...] no andar da Recepção >> Missão (Casa de Imigrantes)
+Nome, sobrenome, nome da mão e do pai (por... e... SUS)
+Há uma unidade de saúde que disponibiliza agentes de saúde que não vão à casa para verificar o endereço.
+	Falta de unidade da [...] para refinado de [...] SUS. Não foi apoiado na questão do [...] do [...], não é possível que [...] de referência [...] todos [...].
+	De maneira em que os trabalhos na Sé deveriam ser replicados por outros UBS.
+	[...] O [...] o cuidado ginecológico na Sé é realizado [...].
+	Amigo tradutor cobra $ por [...] tradução dentro do centro de saúde.
+	Olenga, [...] de saúde e apenas do idioma. 
+	O Estado deveria fornecer tradutores/agentes bilíngues pelo menos nos centros de saúde que atendem a maioria dos estrangeiros.
+
+	Deveria haver [...] uma lei que estabelecesse uma quantidade X de agentes que [...] outra língua.
+	Fazer um mapeamento das línguas para os refugiados, na Sé, por [...], se [...] sírios.
+MORADIA + SAÚDE
+	Mistura nas casa de acolhimento I refugiado com pouco nas situações de um.
+[...] não sabe como fazer [...]. Especialização do centro. Refugiado foi para 8 hospitais.
+	Falta cuidado/atendimento [...] grátis.
+• Há um dentista, mas pediu [...] ou endereço.
+(Barra Funda, Hospital do UPS)
+SAÚDE MENTAL + MORADIA PRECÁRIA
+• Refugiado [...].
+• Conceito de migrante - Conversa na sexta-feira com psicólogo e [...] chegou.
+• Comunidade congolesa [...] duas pessoas [...]/[...].
+• Comunidade congolesa conduz visita [...] domingos.
+	Problema = exigência de [...] residência
+Agente de saúde marca consultas através de [...].
+	Sensibilização dos agentes de saúde sobre imigrantes e refugiados.
+	Desenvolver materiais em vários idiomas sobre orientação de utilização do [...] de saúde.
+
+Resumo do relator
+O objetivo principal do Grupo de Trabalho foi discutir o que tem sido feito quanto à saúde de refugiados(as) e propor diretrizes para melhorar as ações realizadas nesse sentido.
+A reunião foi iniciada com uma discussão sobre alguns documentos oficiais. Foram analisados o Plano de Ação do Brasil, as recomendações da COMIGRAR 2014 e a Política de Refugiados Urbanos do ACNUR. Constatou-se a necessidade da ampla disseminação das informações contidas nestes documentos para refugiados(as) e também para profissionais que prestam assistência à população refugiada.
+Comentários
+• Uma Gerente de Serviço de Saúde da Região da Sé comentou que o Sistema Único de Saúde do Brasil segue o princípio da equidade. Por isso, não importa se a pessoa é migrante ou brasileira, ela será atendida mesmo que não possua documentos.
+• Quando questionados(as) sobre como refugiados(as) tem obtido acesso à saúde, um refugiado afirmou que, ao pisar na terra, o(a) refugiado(a) já necessita da proteção do governo. Ainda assim, relatou demora na fila de atendimento dos hospitais, um problema com o qual todos sofrem no país. De forma especial, o refugiado afirmou que percebeu a diferença do atendimento no Brasil. Em seu país de origem, a pessoa deve se dirigir ao médico. No Brasil, existem agentes de saúde que vão até os pacientes.
+• Outro refugiado relatou que muitos imigrantes têm receio das visitas dos agentes de Saúde da Família, por medo de serem denunciados(as) por estarem de forma não documentada no Brasil. Em resposta, uma profissional da saúde explicou que não importa a situação da pessoa no país, o objetivo é promover a saúde e não fiscalizar a situação documental do(a) paciente.
+• Os refugiados ainda relataram a dificuldade no agendamento de consultas e a falta de atendimento odontológico. Destacaram também que, devido à vivência de guerras e violência, eles carecem de um acompanhamento psicológico.
+O grupo ainda discutiu a dificuldade da utilização de medicamentos corretamente devido ao limite da linguagem. Ademais, uma profissional do AMA Sé (Atendimento Médico Ambulatorial) mencionou a dificuldade de vinculação de refugiados(as) a uma Unidade Básica de Saúde (UBS) para o acompanhamento corpo-a-corpo devido à ausência de moradia fixa. Ainda assim, ela explicou que a região da Sé possui uma característica diferente das outras regiões do município, já que ela atende a População em Situação de Rua. Por isso, nesse caso, a emissão do cartão SUS pode ser autodeclaratório, o que facilita também o trato com refugiados.
+Ao longo da discussão, a ausência de profissionais bilíngues nos serviços de saúde foi um dos principais pontos levantados. Uma profissional da saúde relatou que percebe a facilidade do estrangeiro em aprender a língua portuguesa. Em contrapartida, um refugiado argumentou que eles não sabem nada do idioma ao chegar ao país.
+Houve relatos de estrangeiros que cobram para traduzir consultas médicas de refugiados/migrantes. Uma profissional apontou o risco de sobrecarregar os poucos profissionais que falam outros idiomas. Outro profissional da saúde apontou a necessidade do respeito à cultura. Mulheres árabes que não falam inglês, por exemplo, precisam bastante de tradutoras nos atendimentos ginecológicos.
+Por fim, uma profissional do AMA propôs que fosse realizado um mapeamento dos idiomas mais falados por região da cidade. Como exemplo, ela citou que a região da Sé possui um histórico de receber africanos.
+Recomendações:
+• Disponibilizar profissionais de saúde bilíngues para o atendimento a refugiados(as) e migrantes.
+• Disponibilização da cartilha sobre o SUS em vários idiomas.
+• Aumentar o número de treinamentos para profissionais da saúde com objetivo tanto de disseminar informações sobre o refúgio e treiná-los(as) em como lidar com a diversidade cultural e religiosa da população migrante e refugiada;
+• Ampliação do trabalho realizado na região Central (AMA Sé), que provê atendimento sem necessidade de documentação ou comprovante de residência para migrantes/refugiados(as);
+• Contratação de refugiados(as)/migrantes para trabalhar nos serviços de saúde, auxiliando na tradução dos atendimentos. Estabelecimento de uma cota para a contratação de refugiados(as), da mesma forma como acontece com as pessoas com deficiência;
+• Dispensa de agendamento de consultas e exames no atendimento dos refugiados(as)/migrantes;
+• Respeito à cultura no acompanhamento de saúde;
+• Garantia do oferecimento de serviços de saúde mental, como o acompanhamento psicológico, para refugiados(as)/migrantes;
+• Facilitação do acesso de refugiados(as) e profissionais da saúde: Plano de Ação do Brasil, as recomendações da COMIGRAR 2014 e a Política de Refugiados Urbanos do ACNUR
+
+3. Educação
+Transcrição das considerações dos participantes
+
+1. Recomendação para Ensio Superior: Cátedra Sérgio Vieira de Mello
+Nós já temos os instrumentos legais para facilitar, apesar de regulamentação ainda estar faltando.
+Regulamentação do Artigo 44 - Regular quem?
+Dois conselhos com poder normativo:
+• CONARE - representante do MEC dentro do CONARE; o CONARE deveria ter resolução para regular
+   • CNE - uma resolução do Conselho Nacional de Educação Regulamentação da Lei 9.474/97 - Artigo 44
+Permitir acesso facilitado de refugiados no ensino superior
+E mais: não apenas refugiados, mas também que o CONARE dê soluções para solicitantes de refúgio
+Refugiados: há poucas bolsas oferecidas a refugiados (apenas três em cada universidade e o processo de seleção não os favorece).
+2. Discurir processos seletivos e retenção de refugiados em universidades - correção de provas de maneira diferente; não levar estritamente em consideração o nível de português. Para isso, sensibilização é necessária; universidades já têm autonomia.
+Refugiados: advogado em seu país de origem, mas aqui não pode acessar o mercado de trabalho.
+3. Reconhecimento de diploma (também no âmbito do Artigo 44), o regulamento também deveria ser referido ao CONARE.
+Perfil do Grupo Temático:
+• Refugiados - Congo, Paquistão, Síria
+• Assistentes sociais
+• Jornalistas
+• Advogado
+• Assessor Parlamentar do Governador do Estado de São Paulo / Comitê Estadual para Refugiados
+• Professores / pesquisadores universitários (antropologia, sociologia)
+• Secretaria de Educação do Estado de São Paulo
+• CRAIs
+Problema identificado: Educação básica é fundamental
+Conta: filho ainda não recebeu diploma porque a escola não reconhece o Protocolo; falta de conhecimento por parte da escola em relação ao reconhecimento dos documentos dos refugiados e sua autenticidade
+4. Recomendação: Criar uma cartilha para refugiados sobre seus direitos em relação ao acesso à educação e também aos funcionários públicos da área de educação sobre os direitos dos refugiados.
+Reforçar a diversidade do currículo das escolas e estimular os funcionários públicos a estarem melhor preparados para trabalharem com a população de interesse.
+Como tal, cooperação entre governos federal e estadual na instrução de português e a criação de cartilhas em diferentes línguas.
+
+Resumo do relator
+Demandas e dificuldades levantadas pelos participantes:
+• A língua e a falta de conhecimento sobre a história do Brasil são barreiras para o ingresso no sistema educacional brasileiro;
+• Urgência de inclusão nas pautas das três esferas de governo das demandas oriundas dos refugiados;
+• A dificuldade de equivalência e reconhecimento no Brasil do diploma de nível superior do refugiado;
+• Morosidade das instâncias de governo para regulamentar o acesso de refugiados às universidades;
+• Dificuldade na obtenção de certificado de conclusão do curso no Brasil, pelo fato de estarem somente em posse do protocolo;
+• Comunicar os refugiados com antecedência mínima de um mês da realização de um encontro como este, para que eles tenham tempo de sistematizar suas demandas e apresentá-las no encontro.
+Propostas surgidas no grupo:
+• Proposta de encaminhamento de uma solicitação ao Comitê Nacional para os Refugiados (CONARE), pedindo a regulamentação do Artigo 44 da Lei 9.474 de 22 de julho de 1997, que trata do reconhecimento de certificados, diplomas e requisitos para a obtenção da condição de residente e o ingresso em instituições acadêmicas de todos os níveis, objetivando a colocação na pauta do CONARE da elaboração de uma resolução que regulamente o acesso às universidades dos estrangeiros refugiados (que já é garantido pelo Artigo 44, mas carece de regulamentação) e buscar esta regulamentação também junto ao CNE (Conselho Nacional de Educação); já que ambos - CNE e CONARE têm poder normativo;
+• Ampliar o número de vagas para refugiados nas Universidades brasileiras;
+• Promoção de uma articulação maior entre Governos federal e estadual para promoção do ensino de português para refugiados nas redes públicas de ensino, além de reforçar a diversidade do currículo nas escolas;
+• Proposta de elaboração de cartilhas em diferentes idiomas para os refugiados abordando seus direitos em relação ao acesso à educação e para os servidores públicos da área de educação sobre os direitos dos refugiados; a fim de que os servidores públicos estejam mais preparados para trabalhar com o público de interesse e refugiados estejam mais cientes de seus direitos.
+
+4. Moradia
+
+Transcrição das considerações dos participantes
+
+*Debate sobre se o tratamento deveria ser separado e específico em relação aos sem-teto. Alguns atores, incluindo refugiados, pensam que as condições nos abrigos deveriam ser direcionadas a todos, incluindo brasileiros, para facilitar a integração local.
+Propostas:
+• Mais vagas nos abrigos;
+• Moradia em duas fases: 1) Recepção imediata (para mais de 4 meses); 2) Recepção permanente (facilitação de alugueis / flexibilidade com documentos / facilitação na aquisição de propriedade);
+• Chamar a atenção de autoridades públicas para a necessidade de distribuir terras abandonadas e incluir refugiados nessa distribuição;
+• Capacitação de autoridades que trabalham nos abrigos públicos para que eles entendam os problemas de proteção específicos dos refugiados;
+• Mapear casas / hoteis públicos de migrantes;
+• Sensiblização com abordagem / foco em gênero, idade e diversidade: prestar atenção nas vulnerabilidades específicas de crianças e mulheres deslocadas;
+• Elaboração do Programa Estadual Integrado que diz respeito à gestão, acolhimento e acompanhamento dos casos.
+• Adjunto da Alesp diz que vai levantar a questão para discussão e presisonar o governador.
+
+Resumo do Relator
+Recomendações:
+• Alterar as condições de acolhimento, criando mais equipamentos para solicitantes de refúgio e refugiados, evitando que pessoas em situação de extrema vulnerabilidade pelo refúgio sejam acolhidas nos mesmos espaços destinados à população em situação de rua.
+• Formar e qualificar as equipes dos equipamentos destinados ao atendimento de pessoas solicitantes de refúgio e refugiados para garantir atendimento que compreenda e respeite as especificidades do público atendido.
+• Dificuldades de encontrar moradia agravadas pelo desafio do idioma português, pela documentação solicitada para aluguel, e pela falta de conhecimento geo-social de solicitantes de refúgio e refugiados.
+• Nos equipamentos de acolhida, o tempo máximo de acolhimento é insuficiente para possibilitar a consolidação de condições de autonomia dos usuários em situação de refúgio.
+• Que os antigos terrenos da ferrovia federal sejam utilizados para fim social, direcionado para a construção e adequação de espaços de atendimento e moradia para refugiados e solicitantes de refúgio.
+• Que os imóveis desocupados no centro de São Paulo sejam utilizados para fim social, direcionado para a adequação de espaços de atendimento e moradia para refugiados e solicitantes de refúgio.
+• Utilizar Cotas da Companhia de Desenvolvimento Habitacional e Urbano (CDHU) para refugiados.
+• Diferenciar serviços direcionados para imigrantes e refugiados.
+• Incluir nas atribuições e tipos de atendimentos do “Poupatempo do Imigrante e Refugiado” intervenções relacionadas à moradia.
+• Intensificar a responsabilização do poder público na solução de problemas relacionados a estes públicos e não deixar tudo sob a responsabilidade das ONGs.
+• Criar programa de Moradia Provisória para imigrantes e refugiados.
+• Ampliar o número de serviços direcionados ao atendimento deste público, principalmente repúblicas e locais de acolhimento para famílias. Ampliar também o número de vagas nos serviços existentes.
+• Garantir endereço de referência para informação nos locais de trabalho de refugiados e imigrantes.
+• Elaborar documento a ser encaminhado para o Governo Federal sobre a concessão de terrenos para moradia de imigrantes e refugiados (ênfase na antiga ferrovia federal).
+
+5. Trabalho
+
+Transcrição das considerações dos participantes
+
+Problema
+1. Combater o trabalho escravo.
+
+2. [...] em regime semi-aberto
+
+3. Protocolo - validade
+Falta de conhecimento geral sobre o documento
+
+4. Falta de conscientização sobre xenofobia
+5. Atraso do Protocolo
+6. Atraso CPS
+7. Negócios não contratam
+
+8. Acesso restrito à educação; conhecimento da língua portuguesa
+9. Trabalhar na área
+
+10. Falta de conhecimento sobre o mercado de trabalho
+
+11. Qualificado no Brasil, mas não tem acesso ao mercado; o Protocolo não é aceito.
+12. Falta de conhecimento sobre os direitos trabalhistas dos refugiados e as empresas se aproveitam.
+13. Falta de conhecimento sobre informações
+14. Incluir empresas nas discussões
+15. Comunicação com empresas
+
+Solução
+1. –
+
+2. Como eles estão presos no abrigo que os acolhe; alternativas de trabalho.
+3. Melhorar a aparência do documento; produzir documentos com aparência similar; Campanhas informativas sobre a validade e a aceitação de seu valor como direito
+4. Campanha	de sensibilização governamental e da sociedade civil
+5. Aceleração do processo
+6. Descentralização: foi uma vitória e agora deveria ser implementada; de maneira eletrônica, muitos desafios
+7. Sensiblização de empresas, pelo público [...]; credibilidade.
+8. Orientação profissional
+9. Oportunidades iniciais com empresas, mesmo que não seja na área exata, é mais como um primeiro passo. Ação da sociedade civil e do governo.
+10. Palestras interculturais públicas e da sociedade civil; adicionar o refugiado ao selo da diversidade.
+11. Melhorar a aparência do Protocolo.
+12. Treinamentos e apoio para refugiados; informações para empresas.
+
+13. Importância do trabalho voluntário
+
+14. Convite
+
+15. Disseminação de projetos e casos de negócios pela ONU e pelo governo.
+
+
+Resumo do relator
+
+Vários pontos foram levantados e alguns se referem ao assunto de forma direta e outros de forma indireta.
+• Eixo sensibilização grande público: realização de campanhas para a grande mídia, esclarecendo para a população brasileira a questão do refúgio, em todos os seus aspectos, principalmente seu direito ao trabalho e a sua relação com a proteção dos direitos humanos preconizada na Declaração Universal dos Direitos Humanos, da qual o Brasil é um dos signatários. Com isso busca-se quebrar preconceitos, evitar a xenofobia.
+• Eixo sensibilização e gestão conjunta com empresas: deve haver uma relação mais direta entre as empresas que fazem processos de seleção e órgãos públicos, pois a presença de um órgão público como a SDTE da PMSP ou a SERT do Estado geram credibilidade e dão segurança para que a empresa contrate refugiados. Com isso, evita-se a oferta de vagas de trabalho precário, que muitas vezes pode apresentar as características de trabalho análogo ao de escravo.
+• Eixo responsabilidade social: criar de um selo a ser entregue para empresas que contratam refugiados ou integrar o refugiado em selos já existentes como Selo da Diversidade.
+• Eixo Relação trabalho-documentação:
+   • O Protocolo, embora seja um ponto mais pertinente ao grupo de discussão “documentos”, a precariedade do protocolo como um documento de identificação do refugiado atrapalha na busca do emprego.
+• Ainda na relação trabalho-documentação, o refugiado de determinadas nacionalidades encontra muitas dificuldades para obter a CTPS e por isso fica impedido de participar de processos de seleção em empresas.
+• Eixo direito ao trabalho:
+ Encontrar uma solução para pessoa egressa ou em cumprimento de pena, pois não pode deixar o centro de acolhida para trabalhar;
+ Fomentar formas alternativas de geração de renda - modelo cooperativas; 
+ Proporcionar aulas de línguas para garantir a comunicação na busca do emprego - podem ser gratuitas ou no regime de permuta, de troca de conhecimentos linguísticos entre o refugiado e o nacional.
+• Eixo geração de emprego e empoderamento do refugiado: criar programas de intercâmbio cultural que possam ser geradores de renda para os refugiados como aulas de língua, de cultura, de formação para o trabalho na área que o refugiado já tem uma expertise para aproveitar seu conhecimento técnico e melhorar sua autoestima.
+
+6. Cultura
+
+
+Transcrição das considerações dos participantes
+• Campanhas de conscientização
+• Fóruns e eventos para divulgar e debater questões sobre refugiados
+• Incluir questões sobre diversidade cultural nos currículos escolares
+
+Resumo do relator
+O grupo argumentou que mesmo em uma cidade cosmopolita como São Paulo, ainda há muitas barreiras para a convivência cultural com a população refugiada. “A cultura brasileira não conhece a cultura de fora. Um amigo brasileiro disse que o Haiti é na África”, reclamou um refugiado congolês durante a discussão do grupo de trabalho sobre cultura. Dada essa situação, um professor universitário de relações internacionais enfatizou que é urgente promover uma integração cultural entre as culturas dos refugiados e a brasileira, e vice- versa, considerando as muitas dimensões de educação, saúde e identidade dessa população. “É preciso haver uma interface com a riqueza cultural trazida pelos refugiados”.
+Sem acesso a vagas de trabalho e projetos culturais financiados pelo governo, muitos refugiados encontram dificuldade em ingressar na cultura brasileira. Esse é o caso de um refugiado de Camarões, formado em Ciências de Gestão e Economia no seu país de origem, e que tem procurado emprego por oito meses no Brasil.
+Preconceito, esterótipos e estigma são barreiras que parecem inquebráveis. “Os brasileiros não sabem quem é um refugiado. Eles acham que você está no Brasil só porque você quis deixar o seu país de origem”, disse um refugiado da Costa do Marfim. Para um refugiado congolês, “o Brasil é um país xenofóbico e racista”. Por essa razão, é necessário abordar o tema da diversidade cultural no currículo de escolas de ensino fundamental e médio.
+
+Para que os refugiados desenvolvam habilidades locais, é essencial introduzir outras questões culturais nas áreas de história e geografia. De acordo com a ADUS, uma ONG que trabalha com a integração de refugiados, há uma alta demanda por cursos de língua portuguesa. Atualmente, estes são ministrados por voluntários. Cerca de 750 pessoas foram treinadas nos cursos que a organização oferece entre 2012 e 2014, mas ainda há uma demanda reprimida com mais de 5.000 pedidos.
+A promoção de atividades culturais pode desconstruir preconceitos e estigmas sobre refugiados e refúgio. “Convivência cultural de identidades é um processo de mão dupla. Você não pode segregar através dele”, disse um professor.
+Iniciativas como o chamada “Abraço Cultural” (também liderado pela ADUS) ajudam na disseminação e promoção das culturas dos refugiados entre os brasileiros. “Precisamos mobilizar a sociedade civil, profissionais de saúde e educação, e outras partes interessadas para ajudarem essa população”, sugeriu um estudante de doutorado no tema “parcerias para refugiados”.
+Apesar dos obstáculos e desafios para a integração cultural de refugiados, encontros, recentemente organizados por essa população em São Paulo, têm contribuído para a discussão. Na mesa redonda, foi sugerida a criação de uma lista de e-mails com contatos de refugiados e organizações parceiras para articular áreas urbanas onde refugiados possam disseminar sua cultura. “Precisamos dar mais voz aos refugiados”. Como exemplo de uma campanha internacional de sucesso, participantes trouxeram um cartaz que dizia: “Einstein é um refugiado”.
+A questão cultural permeia todas as dimensões da vida. Por isso, é importante que se pense sobre cultura de forma multidimensional, englobando questões étnicas e educacionais em suas dimensões histórica, linguística, racial, religiosa e artística. 
+
+Recomendações
+As recomendações abaixo foram sugeridas pelo Grupo de Trabalho do Painel “Desafios de Integração” da temática Cultura, com foco na divulgação das culturas dos refugiados:
+• Promover a integração cultural na perspectiva multidimensional, abarcando as dimensões étnicas, religiosa e educacionais, com foco no compartilhamento das culturas brasileira e dos refugiados;
+• Promover campanhas informativas de sensibilização a respeito dos refugiados, respondendo à seguinte indagação: “Quem é o refugiado?”, a fim de reverter os estereótipos, preconceitos e estigmas;
+• Incentivar a oferta de cursos de aprendizado de língua portuguesa, incorporando elementos da cultura brasileira e das culturas da população de refugiados;
+• Incentivar e divulgar fóruns nas redes sociais;
+• Promover iniciativas para fomentar as diversas culturas de origem dos refugiados, tais como apresentações artísticas e espaços para gastronomia;
+• Incluir nos currículos escolares o tema da diversidade e riqueza cultural dos refugiados no Brasil.
+
+1	Números do CONARE, Agosto de 2015.
+2	Mercosul (Mercado Comum do Sul) é uma união aduaneira de quarto países do cone sul (Argentina, Brasil, Paraguai e Uruguai) criada no âmbito do Tratado de Assunção de 1991. Formado conforme o padrão do Tratado da Comunidade Europeia de Roma, ele permite o livre comércio inter-Mercosul e cobra uma tarifa externa comum (de 0 a 2%) de países não-membros. Seus países associados são Chile, Bolívia, Peru, Colômbia e Equador.
+3	A Declaração de Cartagena sobre Refugiados foi adotada pelo Colóquio sobre a Proteção Internacional de Refugiados na América Central, México e Panamá em 22 de novembro de 1984. A declaração é um acordo não- obrigatório, mas foi incorporado em leis de refúgio de vários países.
+4	Quando uma pessoa solicita refúgio na Polícia Federal, o Protocolo Provisório é o primeiro documento emitido. Isso garante acesso ao CPF e à Carteira de Trabalho. Dado a dificuldade de processar o enorme fluxo de novas solicitações em tempo hábil, o CONARE estendeu a data de validade do Protocolo de seis meses para um ano.
+Solicitantes de refúgio enfrentam diversos desafios - apesar do Protocolo ser um documento válido, seu formato em papel não aparenta ser um documento oficial, o que dificulta o acesso a diversos serviços, como conta bancária, oportunidades de emprego e sistema de saúde.
+5 Número de solicitações de refúgio registradas nos 44 países industrializados. UNHCR Asulum Trends 2014
+(Disponível em: http://www.unhcr.org/551128679.html)
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+

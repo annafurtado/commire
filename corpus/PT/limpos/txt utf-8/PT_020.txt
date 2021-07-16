@@ -1,0 +1,785 @@
+﻿<Header>
+	<title>
+		<tit> METODOLOGIA E TÉCNICAS PARA ENTREVISTAR SOLICITANTES DE REFÚGIO </tit>
+		<fileName> PT_020 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Módulo de capacitação </textType>
+		<subcorpus> PT-BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.ACNUR.org/portugues/wp-content/uploads/2018/02/Módulo_capacitação_Metodologia_e_técnicas_para_entrevistar_solicitantes_de_refúgio.pdf </source> 
+		<publisher> ACNUR </publisher>
+		<pubDate> 2013 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 16 mar 2021 </accessDate>
+		<researcher> Vitor </researcher> 
+		<comments> comentários relevantes para o leitor </comments>
+	</sourceText>
+	<author>
+		<institution> ACNUR e Defensoria Pública da União [Se for um autor só, pode apagar as tags institutions] </institution>
+	</author>
+</Header>
+
+
+
+
+
+
+
+Defensoria Pública da União
+
+
+UNHCR ACNUR
+
+Agência da ONU para Refugiados
+METODOLOGIA E TÉCNICAS PARA ENTREVISTAR SOLICITANTES DE REFÚGIO
+MÓDULO DE CAPACITAÇÃO
+Brasília, DF
+2013
+Defensoria Pública da União
+
+
+
+
+
+UNHCR ACNUR
+
+
+
+
+Agência da ONU para Refugiados
+
+
+
+
+
+
+
+
+
+METODOLOGIA E TÉCNICAS PARA ENTREVISTAR SOLICITANTES DE REFÚGIO
+MÓDULO DE CAPACITAÇÃO
+Brasília, DF
+2013
+Governo Federal
+Presidente da República: Dilma Rousseff
+Vice-Presidente da República:
+Michel Temer
+Ministro da Justiça: José Eduardo Cardozo
+Secretário-Geral do Ministério da Justiça: Márcia Pelegrini
+Defensoria Pública Da União 
+Defensor Público-Geral Federal:
+Haman Tabosa de Moraes e Córdova
+Subdefensor Público-Geral Federal: Afonso Carlos Roberto do Prado
+Coordenação, distribuição e informações:
+Defensoria Pública da União 
+Setor Bancário Sul, Quadra 1, Lotes 26 e 27
+70070-110, Brasília, DF 
+Acesse o portal da DPU: www.dpu.gov.br 
+E-mail: dpgu@dpu.gov.br
+Alto Comissariado das Nações Unidas para Refugiados 
+Acesse o portal do ACNUR: www.ACNUR.org.br e-mail: brabr@unhcr.org
+Revisão e editoração:
+Raul Colvara Rosinha – tradução 
+ACNUR Brasil - Revisão 
+Impresso no Brasil/Printed in Brazil 
+Dados internacionais de Catalogação na Publicação
+© 2013 Defensoria Pública da União.
+A reprodução do todo ou parte deste documento é permitida somente com a autorização prévia e oficial da DPU e do ACNUR. este documento foi traduzido de original em espanhol, com autorização do ACNUR/Brasil.
+SUMÁRIO
+INTRODUÇÃO
+1) A razão deste módulo 	7
+2) O conteúdo deste módulo 	7
+3) Os usuários deste módulo 	7
+4) Outras fontes e ferramentas de treinamento 	8
+CAPÍTULO 1 - PREPARANDO-SE PARA A ENTREVISTA
+1) Documentação básica 	9
+2) Conteúdo da solicitação 	12
+3) Preparação do intérprete 	13
+4) Ambiente físico e atitudes 	14
+5) Planejamento do tempo 	15
+6) Esclarecimento dos objetivos 	16
+CAPÍTULO 2 - REALIZAÇÃO DA ENTREVISTA
+1) Como iniciar a entrevista 	17
+2) Como ganhar e manter a confiança do solicitante 	21
+3) Como formular as perguntas 	22
+4) Identificação dos fatos 	27
+5) Como encerrar a entrevista 	30
+CAPÍTULO 3 - BARREIRAS DA COMUNICAÇÃO
+1) Os efeitos do trauma 	31
+2) Sua atitude como entrevistador 	34
+3) O que acontece se o solicitante estiver relutante
+ou incapaz de participar da entrevista? 	35
+CAPÍTULO 4 - ENTREVISTAS COM MULHERES SOLICITANTES DE REFÚGIO
+1) Fontes de informação 	37
+2) Critérios de elegibilidade 	38
+3) Entrevistas com mulheres solicitantes de refúgio 	40
+CAPÍTULO 5 - ENTREVISTAS COM CRIANÇAS
+1) Fontes de informação e procedimentos para entrevistar crianças refugiadas 	43
+2) Diretrizes gerais para a realização de entrevistas 	46 CAPÍTULO 6 - O RESULTADO DA ENTREVISTA
+1) Tarefas e objetivos básicos 	49
+2) Relatório da entrevista 	50
+3) Avaliação da credibilidade 	52
+4) Avaliação e conclusões 	57
+CAPÍTULO 7 - ASPECTOS DE SEGURANÇA
+1) A importância da confidencialidade 	60
+2) A segurança dos documentos 	60
+3) Entrevistas realizadas em centros de detenção 	61
+4) 
+Recomendações de segurança para a realização de entrevistas 	62
+5) Trauma e exaustão das pessoas que trabalham com refugiados 	63
+INTRODUÇÃO
+1) A RAZÃO DESTE MÓDULO
+Entrevistar é uma tarefa que é parte integrante de muitas das funções desempenhadas pelo pessoal encarregado da proteção e assistência aos refugiados. estas funções podem incluir assessoria, busca de soluções duradouras e documentação de violações de direitos humanos.
+Entrevistar é especialmente importante no contexto da determinação da condição de refugiado. para fazê-lo bem, se requerem certas habilidades que você pode desenvolver e melhorar. o objetivo essencial deste módulo é ajudá-lo a desenvolver suas habilidades nesta área.
+Nunca devemos esquecer que ser reconhecido - ou não - como refugiado, terá implicações diretas na vida e no bem-estar do solicitante e de sua família. isto coloca uma grande carga de responsabilidade sobre a pessoa que conduz a entrevista, seja esta pessoa a que toma ou não a decisão final.
+2) O CONTEÚDO DESTE MÓDULO
+Há sete capítulos projetados para ajudá-lo a preparar-separa a realização de entrevistas, para superar uma série de problemas específicos que possa encontrar e chegar a uma conclusão justa. A fim de ajudá-lo através dos vários passos, o guia fornece orientação através de listas de verificação. Este módulo fornece informações básicas, especificamente destinadas à realização de entrevistas, no âmbito da determinação da condição de refugiado. as informações deste módulo não são, de nenhuma maneira, exaustivas, mas representam uma compilação de instruções gerais, regras e sugestões práticas.
+3) OS USUÁRIOS DESTE MÓDULO
+Em primeiro lugar, o módulo se destina aos funcionários do ACNUR e funcionários do governo diretamente envolvidos no processo de determinação da condição de refugiado. pessoas que trabalham com casos de reassentamento e aconselhamento também podem considerá-lo útil. além disso, este módulo é interessante para ONGs e parceiros implementadores do ACNUR, que estão relacionados com a proteção dos refugiados e os procedimentos de elegibilidade.
+4) OUTRAS FONTES E FERRAMENTAS DE TREINAMENTO
+Para referência futura, o ACNUR tem outros materiais de treinamento, orientações e observações de importância para orientar a prática de entrevistas. Cópias destes materiais podem ser obtidas na sede do ACNUR, em seus escritórios locais/regionais, ou através de seus parceiros implementadores.
+• Introdução à Proteção Internacional dos Refugiados (RLD 1), 1992
+• Determinação do estatuto de refugiado (RLD 2) 1989
+• O papel do intérprete no trabalho com os refugiados (RLD 3) 1993 e vídeo de treinamento sobre “o papel do intérprete no trabalho com os refugiados”, 1995
+• Manual de Procedimentos e Critérios para Determinação da Condição de refugiado, 1991
+• Diretrizes de Ação para Prevenção e Combate à Violência Sexual Contra Refugiados, 1995
+• Observações sobre Alguns Aspectos da Violência Sexual contra Mulheres Refugiadas, a/aC.96/822 1993
+• Diretrizes de Ação para a Proteção das Mulheres Refugiadas, EC/SCP/67, 1991
+• Notas sobre Mulheres Refugiadas e Proteção Internacional, EC/SCP/59, 1990
+       • Crianças Refugiadas: Orientações sobre a sua Proteção e Cuidados, 1994
+       • O Trabalho na Comunidade com Crianças Separadas, 1994
+• Diretrizes de Ação para a Avaliação e Tratamento de Vítimas de Trauma e Violência, 1995
+• Planejamento Orientado a Pessoas (POP) no Trabalho: Usando o POP para melhorar a programação do ACNUR, 1994
+• Serviços Comunitários para Refugiados Urbanos, 1994
+CAPÍTULO 1
+PREPARANDO-SE PARA A ENTREVISTA
+Neste capítulo você vai aprender:
+       • Que informação de base deve estudar;
+       • Como preparar o intérprete;
+       • Como garantir que o ambiente seja adequado;
+       • Como planejar o seu tempo.
+A preparação para a entrevista é parte crucial do processo. um entrevistador experiente e bem preparado está numa posição para estabelecer uma relação com o solicitante que proporcione uma atmosfera de confiança e segurança.
+Preparação e informações adequadas permitirão ao entrevistador fazer as perguntas certas, lidar com quaisquer dificuldades que possam surgir no decorrer da entrevista e, finalmente, fazer uma avaliação justa de credibilidade do solicitante.
+1) DOCUMENTAÇÃO BÁSICA
+A preparação adequada requer a identificação da definição aplicável que, na maioria dos casos, será ou estará baseada na Convenção sobre o estatuto dos Refugiados, de 1951. De acordo com o artigo 1A (2) desta ferramenta essencial, o termo “refugiado” se aplica a qualquer pessoa que:
+“... devido afundados temores de perseguição por motivos de raça, religião, nacionalidade, pertencimento a um grupo social específico ou opiniões políticas, se encontra fora do país de sua nacionalidade e não possa ou, em virtude desse temor, não queira gozar da proteção desse país, ou que, não tendo nacionalidade e estando, como resultado de tais eventos fora do país de sua residência habitual, não possa ou, em virtude desse temor, não queira a ele regressar.”
+Compreender, exaustivamente, esta definição, os critérios que ela contém, e como se aplicam, é um requisito prévio essencial para a realização de entrevistas de elegibilidade. os Módulos de Formação: Introdução à Proteção Internacional dos Refugiados (RLD 1) e Determinação da Condição de Refugiado (RLD 2), bem como o Manual de Procedimentos e Critérios para a determinação da Condição de Refugiado, são ferramentas que podem ajudar.
+CONVENÇÃO DA ORGANIZAÇÃO DE UNIDADE AFRICANA (OUA)
+Além de incorporar a definição de refugiado, como encontrada na Convenção de 1951, o artigo 1(2) da Convenção da OUA de 1969 define um “refugiado” como:
+“... toda pessoa que, devido a uma agressão externa, uma ocupação ou uma dominação estrangeira, ou de eventos que perturbem gravemente a ordem pública numa parte ou na totalidade do seu país de origem ou do país de sua nacionalidade, é obrigada a deixar a sua residência habitual para solicitar refúgio noutro lugar, fora do seu país de origem ou do país de sua nacionalidade”.
+A DECLARAÇÃO DE CARTAGENA SOBRE OS REFUGIADOS DE 1984
+Ela fornece uma outra definição de “refugiado”, na sua conclusão No. 3semelhante à definição da Convenção da OUA, que serve de complemento para a definição de refugiado, encontrada na Convenção de 1951, para os países latino-americanos que a incorporaram a sua legislação.
+“Assim, a definição ou conceito de refugiado, recomendável para sua utilização na região, é aquela que, além de conter os elementos da Convenção de 1951 e o Protocolo de 1967, considere também como refugiados, as pessoas que fugiram de seus países porque sua vida, segurança ou liberdade, foram ameaçadas pela violência generalizada, a agressão estrangeira, os conflitos internos, a violação maciça dos direitos humanos ou outras circunstâncias que tenham perturbado gravemente a ordem pública”.
+Conhecer a definição aplicável de refugiado, embora essencial, não é suficiente. Devem ser consultadas outras fontes de informação. estas variam, evidentemente, de acordo com o local e as circunstâncias em que a entrevista é conduzida. aqui estão algumas dicas que você pode usar como uma lista de verificação:
+• Que outros instrumentos jurídicos internacionais podem ser aplicados (Direito internacional dos direitos Humanos e do direito internacional Humanitário)?
+• O que você sabe sobre o país de origem do solicitante?
+• Qual a legislação nacional aplicável (leis de migração, de estrangeiros, leis sobre a nacionalidade, as leis relativas à extradição, ou lei nacional de direitos humanos)? • Qual jurisprudência é relevante?
+FONTES DE INFORMAÇÃO
+O conhecimento sobre o país de origem do solicitante é fundamental para a preparação da entrevista. Familiarize-se com as informações básicas do país de origem do solicitante de refúgio. as informações coletadas devem incluir o seguinte:
+• A organização básica política e administrativa do país de origem: por exemplo, o país tem um governo eleito, partidos políticos, um judiciário independente, uma força policial civil, os governos locais ou regionais autônomos ou semi-autônomos, restrições à liberdade de movimento, etc.?
+• Respeito e cumprimento dos direitos humanos fundamentais no país de origem e qualquer relatório de assédio ou perseguição a qualquer indivíduo ou grupo de indivíduos pelos motivos protegidos na definição de refugiado;
+• A geografia básica (mapas) do país de origem, e as condições econômicas e sociais, incluindo: centros demográficos mais populosos, distâncias entre as cidades, grupos étnicos ou tribais, as principais fontes de emprego, sistema de distribuição de mercadorias, deslocamentos econômicos que afetam a população ou grupos ou áreas específicas, e assim por diante;
+• A cultura do país em questão, como a definição de família e da natureza das relações familiares, o papel e o status das mulheres, as atitudes diante de relações homossexuais, e
+       • Atitudes em relação às influências “estrangeiras”, etc.;
+Além disso, talvez possa ser necessário solicitar ou obter informações mais detalhadas a respeito de temas como métodos operacionais da polícia, os militares ou os serviços de segurança, sistemas de justiça criminal e militar, e sanções por delitos penais militares ou políticos.
+Como previamente indicado, o tipo de informação a ser coletada não deve ser limitado ao material jurídico. os relatórios de direitos humanos, a visão geral do país, relatórios especiais sobre temas étnicos, religiosos, de gênero ou grupos políticos, e artigos de jornal sobre eventos atuais, são apenas algumas das fontes que podem ser usadas como referência. a busca desta informação requer pesquisa e imaginação. aqui estão outras sugestões que incluem suporte da sede do ACNUR e fontes de informação que você deve reunir no local.
+BANCOS DE DADOS DE PROTEÇÃO E INFORMAÇÕES SOBRE O PAÍS DE ORIGEM
+A Base de dados de informação sobre o país de origem é a ferramenta mais importante que o ACNUR tem desenvolvido sobre este assunto. a informação, que está disponível, é essencial para os procedimentos de determinação da condição de refugiado e, com frequência, é a única fonte - ou a mais completa - que existe, em questões relacionadas a refugiados. Também é muito útil para fins de realização de pesquisa acadêmica. a maioria dos documentos está relacionada com a situação dos direitos humanos em diferentes países.
+As fontes foram cuidadosamente escolhidas e procuram oferecer uma perspectiva objetiva. Há documentos do ACNUR e relatos de fontes governamentais e não governamentais. essa base de dados incorpora também uma Base de dados legal, concebida com a finalidade de divulgação e promoção do direito internacional dos refugiados. atualmente, a base de dados contém os seguintes elementos:
+RefPol - Coleção de documentos sobre políticas e diretrizes relativas aos refugiados, principalmente do ACNUR. alguns materiais de fontes externas também foram incluídos, embora não necessariamente reflitam a posição do ACNUR.
+RefLeg - Legislação Nacional, incluindo os textos completos da legislação mais recente que implementam a Convenção de 1951 e o protocolo de 1967. ela também contém leis e decretos questões sobre vários assuntos: refugiados, cidadania, direitos humanos, entre outros.
+RefInt - Coleção dos principais instrumentos internacionais, bem como informações sobre o estado das ratificações.
+Todo o conteúdo está disponível na Plataforma Refworld (www.refworld.org).
+2) CONTEÚDO DA SOLICITAÇÃO
+Mesmo quando trabalhe sob restrições de tempo, não se esqueça de ler os formulários de inscrição e outras informações relevantes e de traduzir e revisar as cópias de todos os documentos recebidos do solicitante antes da entrevista. isso permite a você:
+• fazer as perguntas certas e identificar as informações em falta, incompletas, contraditórias ou confusas;
+• inspirar confiança no solicitante: um entrevistador que, desajeitadamente, manipula os papéis, aparentando incerteza do nome e da história do solicitante, despertará receio. isto pode ser um obstáculo para a obtenção de uma declaração confiável do solicitante, da qual depende o resultado da determinação da elegibilidade.
+3) PREPARAÇÃO DO INTÉRPRETE
+Em muitos casos, a entrevista será feita com a ajuda de um intérprete, o que constitui um obstáculo adicional para a comunicação. É importante instruir o intérprete, antes da entrevista para certificar-se de que ele entende o que deve fazer. Deve explicar-lhe como pretende realizar a entrevista e o tipo de perguntas que fará ao solicitante.
+Algumas explicações sobre o processo de determinação de elegibilidade e da terminologia básica utilizada são importantes nesse sentido. em todos os casos, você deve informar o intérprete do código de ética a seguir. É muito importante ressaltar a confidencial idade de todas as informações relacionadas ao solicitante. Você também deve garantir que o intérprete entenda que deve ser neutro e objetivo durante o processo de entrevista.
+Os intérpretes devem entender que tudo o que o entrevistador e o solicitante digam deve ser traduzido. Não é suficiente resumir ou embelezar o que é dito, fornecendo informações que faltam. o intérprete não deve tentar melhorar as palavras ou frases do solicitante para torná-lo mais consistente, confiável e educado. O intérprete deve ser treinado para tomar notas durante a entrevista para garantir a precisão do que é traduzido e registrar todos os dados de forma clara. Qualquer nome de pessoa ou lugar deve ser escrito para que fique claro. O intérprete também deve entender que o entrevistador ou o solicitante podem fazer perguntas de esclarecimento, quando necessário.
+Se você está insatisfeito com a qualidade da tradução, encerre a entrevista. por exemplo, pode acontecer que o solicitante não entenda bem o intérprete, devido a diferenças no dialeto. da mesma forma, em uma situação em que os intérpretes contratados são refugiados, você não deve contratar um intérprete que está intimamente ligado ao solicitante por laços familiares ou outros laços, como filiação partidária. É importante lembrar que a relação entre o solicitante e o intérprete terá um impacto sobre a sua capacidade e vontade de comunicar. portanto, você deve assegurar que o solicitante e o intérprete estejam à vontade uns com os outros. isto é importante não apenas para preservar a objetividade do processo de entrevista, mas para evitar colocar o intérprete em uma posição em que o solicitante possa pressioná-lo.
+Você pode obter mais dicas e recomendações sobre estes pontos no Training Module RLD 3 do ACNUR e no vídeo de treinamento intitulado “o papel do intérprete no trabalho com os refugiados”. Você pode obter este material na plataforma Refworld.
+4) AMBIENTE FÍSICO E ATITUDE
+Ao se preparar para uma entrevista adote uma atitude de interesse no caso e forneça um quadro que incentive o solicitante a se comunicar. tente oferecer um ambiente físico confortável para a entrevista e dê uma boa impressão, cumprimentando o solicitante e se dirigindo a ele com respeito e atenção durante a entrevista. esteja consciente de sua postura e linguagem corporal.
+Tome cuidado também com a sua maneira de se vestir. Se sua roupa é formal, você pode intimidar o solicitante e fazer com que ele se sinta desconfortável e pouco comunicativo. Você deve se vestir de forma adequada e de acordo com a sensibilidade cultural, já que isto mostra respeito pelo solicitante e refletirá sua atitude positivamente.
+Nunca use um tom ameaçador ou áspero com o solicitante, mantendo-o sempre reconfortante e estimulante, a fim de conseguir respostas completas e verdadeiras. Talvez não possa escolher o local da entrevista, mas preste atenção aos seguintes detalhes já que eles vão influenciar a atmosfera geral do processo.
+MANTENHA A PRIVACIDADE
+A confidencialidade é uma condição essencial. As declarações podem conter informações que o solicitante ainda não revelou ao seu cônjuge ou familiar. a comunicação pode não ser estabelecida, se houver temor de que os outros possam ouvir. É fundamental, portanto, assegurar que a área da entrevista seja totalmente privada.
+Estabelecer um ambiente particular, na prática, nem sempre é possível. locais difíceis, como lugares quentes, barulhentos, lotados ou estressantes, são muito mais exigentes para os intérpretes, os refugiados e os entrevistadores. Se um lugar assim não pode ser evitado, a situação deve ser explicada ao intérprete e ao solicitante. Você deve tentar remediar as circunstâncias mais básicas, por exemplo, trazendo água potável ou outro refresco e certificando-se de que todos tenham um lugar para se sentar.
+EVITE INTERRUPÇÕES
+Certifique-se de que não haja distrações durante a realização da entrevista. Evite telefonemas e interrupções de outras pessoas. Você deve colocar um aviso na entrada da sala da entrevista indicando que não deve ser importunado.
+EVITE QUALQUER RUÍDO
+Qualquer ruído perturbador interferirá na concentração do solicitante, do intérprete e do entrevistador.
+ DISPOSIÇÃO DOS ASSENTOS E DA SALA PARA A ENTREVISTA
+Arrume a mesa e cadeiras no mesmo nível e, se possível, em uma área bem iluminada. Evite símbolos de autoridade na sala de entrevista e área adjacente. (Por exemplo,am- biente tipo tribunal, grades nas janelas, portas trancadas, presença de pessoal uniformizado, etc.). evite também colocar o solicitante em frente a um feixe de luz, já que o reflexo pode “cegá-lo.”
+ONDE VOCÊ DEVE SENTAR-SE?
+A posição ocupada pelo entrevistador e intérprete, para o solicitante, é um detalhe importante.
+Você deve tentar colocar os assentos de modo que o intérprete fique ao lado do entrevistador e um pouco afastado. isso permitirá que o entrevistador e o solicitante se comuniquem face a face.
+A posição preferida é a ilustrada abaixo:
+
+
+
+
+
+
+
+
+Se for entrevistar uma criança, o intérprete deve sentar-se mais perto da criança que do entrevistador para evitar ser percebido como autoridade e fazer com que o solicitante se sinta confortável.
+5) PLANEJAMENTO DO TEMPO
+É possível que o tempo disponível para cada entrevista seja limitado. esta é outra razão importante para uma preparação cuidadosa. Comece por avaliar os principais aspectos do caso, em seguida, planeje sua entrevista para que você possa se concentrar em áreas onde há omissões ou contradições. tente antecipar onde se deve usar tato e habilidade de interrogação para ajudar a vencer as barreiras de comunicação.
+Se a entrevista vai ser longa, crie um cronograma que permita tempo para pausas. Não se esqueça de que a entrevista é um exercício emocionalmente intenso que esgota todos os participantes do processo. É muito importante permitir pausas tanto ao intérprete como ao solicitante. Como entrevistador, você também deve fazer pausas regulares para atuar de forma mais eficaz. Você deve planejar o seu tempo de tal forma que leve em consideração o possível envolvimento de outras pessoas a serem entrevistadas, por exemplo, os membros da família do solicitante (cônjuge, filho) ou outras testemunhas, como profissionais de saúde (no caso das vítimas de tortura ou deficientes). Antes da entrevista é necessário lembrar ao solicitante os procedimentos e o cronograma a ser seguido. Se a entrevista vai levar um tempo considerável, lembre-se que, geralmente, deve-se alocar um intervalo de 5-10 minutos a cada 1 a 1,5 horas de entrevista.
+6) ESCLARECIMENTO DOS OBJETIVOS
+Como um passo final na sua preparação, é fundamental ter claro o seu foco e lembrar a importância do processo de entrevista para o futuro do solicitante e sua família.
+A este respeito, é importante lembrar que a entrevista não é um julgamento.
+É uma oportunidade para discutir e apresentar todos os fatos e acontecimentos relevantes que formam a base de uma solicitação de refúgio.
+Em suma, os objetivos do processo de entrevista são:
+• Você deve documentar a narrativa do solicitante com o máximo de detalhes possíveis, incluindo ambos os elementos: objetivos e subjetivos. Você deve possibilitar ao solicitante narrar sua história completa e deve direcionar as perguntas da entrevista cuidadosamente planejadas para cobrir todos os aspectos da solicitação.
+• Como parte essencial do processo de tomada de decisão, deve-se avaliar a história do solicitante e sua credibilidade em relação aos princípios e critérios para a determinação da condição de refugiado. isso requer que a história do solicitante seja cuidadosamente documentada e verificada.
+As seções a seguir fornecem uma orientação sobre a forma de atingir esses objetivos.
+CAPÍTULO 2
+REALIZAÇÃO DA ENTREVISTA
+Neste capítulo você vai aprender:
+       • Como iniciar a entrevista;
+       • Como criar e manter a confiança;
+       • Como fazer as perguntas;
+       • Os métodos que podem ser úteis para identificar os fatos;
+       • Como concluir a entrevista.
+Como discutido no capítulo anterior, o propósito da entrevista é identificar os fatos e fazer uma imagem dos eventos que seja a mais completa e objetiva possível. Como entrevistador, há dois perigos a serem evitados:
+       • Mostrar-se crítico ou indiferente;
+       • Ser muito compassivo ou paternalista.
+Para aqueles com pouca experiência em entrevistas com os solicitantes de refúgio não será um trabalho fácil. Realizar entrevistas no contexto dos refugiados é uma tarefa difícil que absorve muito tempo. este capítulo se destina a fornecer uma estrutura para a realização de entrevistas.
+1) COMO INICIAR A ENTREVISTA
+A maneira de iniciar a entrevista irá definir o tom do resto do procedimento. A mensagem que deve ser transmitida ao solicitante desde o início é de que:
+       • Você está ali para ouvir a sua história de uma forma completamente neutra;
+• Como representante da sua organização você está preocupado e respeita seu infortúnio;
+• Mas você trabalha dentro de um marco legal que impõe condições específicas relacionadas à elegibilidade para a condição de refugiado.
+Passo 1. para fazer com que o solicitante se sinta confortável.
+demonstre cortesia e respeito:
+• Sorria e aperte as mãos (ou utilize qualquer outra saudação apropriada, segundo a cultura, do solicitante);
+• Use o nome do solicitante (certifique-se de pronunciá-lo corretamente);
+       • Apresente-se;
+       • Se a entrevista não começar na hora certa, peça desculpas pelo atraso;
+       • Pergunte ao solicitante se ele está pronto para ser entrevistado.
+Passo 2. Apresentação do intérprete
+Depois de ter apresentado o intérprete e ter explicado o seu papel, é necessário verificar se o solicitante e o intérprete se entendem. para isso, sugira que o solicitante se envolva em uma breve conversa com o intérprete e, em seguida, verifique se você se sente confiante de que ambos se entendem de forma satisfatória.
+Para os solicitantes do sexo feminino, você deve tentar obter intérpretes e entrevistadores do sexo feminino. isto é particularmente importante nos casos que envolvem questões de violência sexual.
+Também deve ser tomado cuidado se os entrevistados são crianças. Neste caso, você deve fazer acertos para que um adulto de confiança acompanhe a criança durante a entrevista (ver Capítulos 4 e 5).
+Passo 3. Revisão das informações pessoais básicas
+Você deve ter lido com antecedência os dados básicos ou o formulário de registro do solicitante. No entanto, você pode achar que é necessário rever alguns pontos para garantir que as informações prestadas sejam precisas e completas.
+Passo 4. Declarações básicas
+Antes de iniciar a entrevista, você deve fornecer algumas informações, com antecedência, ao solicitante.
+isto pode ser feito dando informações por escrito durante um contato prévio em o seu escritório ou verbalmente, antes de iniciar a entrevista. em qualquer caso, você deve explicar ao solicitante as seguintes informações:
+       • A definição de refugiado aplicável;
+• Os procedimentos a serem seguidos em relação à determinação da condição de refugiado.
+É fundamental que o solicitante entenda que os seguintes elementos de sua solicitação devem ser claramente esclarecidos:
+       • O solicitante tem um temor de perseguição?
+       • É fundado este temor?
+• A perseguição é por motivo de raça, religião, nacionalidade, pertencimento a um grupo social específico ou opinião política, ou pelas razões expostas na Convenção da OUA ou Declaração de Cartagena sobre a definição de “refugiado”, quando aplicáveis?
+isto porque muitas das perguntas feitas durante a entrevista referem-se a:
+• Condições que existem no país de origem e, mais especificamente, na região de procedência do solicitante;
+• Os tipos de dificuldades que os solicitantes, membros da família ou pessoas com condição semelhante sofreram no passado;
+• As dificuldades que poderiam surgir se o refugiado tivesse que retornar a esse país;
+• A razão pela qual essas dificuldades potenciais existiriam.
+Antes de prosseguir, certifique-se de que o solicitante tenha entendido o propósito da entrevista e as perguntas que o entrevistador formulará.
+Passo 5. Direitos e obrigações dos solicitantes
+Depois de ter explicado o seu papel como entrevistador, é importante ressaltar os direitos e obrigações inerentes à condição do solicitante. estas incluem principalmente:
+• O direito à confidencialidade. tranquilizar o solicitante que nenhuma das informações que ele revelar a você será compartilhada com as autoridades do país de origem ou com terceiros, sem o consentimento expresso do solicitante. devese assegurar ao solicitante que tanto você quanto o intérprete respeitarão a confidencialidade da entrevista e que estão sob juramento de fazê-lo. Esta afirmação é fundamental para que o solicitante sinta que é seguro falar abertamente sobre suas experiências e eventos passados.
+• O direito a um advogado. em entrevistas de elegibilidade, realizadas exclusivamente por funcionários do ACNUR, no campo, normalmente não é permitida a presença de assessores legais, ou de outro tipo. entretanto, o ACNUR recebe frequentemente observações escritas ou outras intervenções de um representante do solicitante ou de qualquer outra entidade, como grupos de apoio a refugiados. este tipo de informação muitas vezes pode ser útil para o entrevistador.
+Nos casos em que a legislação nacional permita a participação de um assessor legal, ou de outro tipo, para ajudar o solicitante a apresentar uma solicitação, é essencial permitir aos assessores participar da entrevista. A presença de um advogado ou outro profissional que esteja familiarizado com os critérios para a determinação da condição de refugiado, jurisprudência local e antecedentes da solicitação é útil não só para o solicitante, mas também para o entrevistador.
+• O direito e a obrigação de fornecer provas. o reconhecimento da condição de refugiado depende dos fatos fornecidos pelo solicitante. Só ele ou ela podem fornecer estes fatos. Como entrevistador, você desempenha um papel vital em ajudar e incentivar o solicitante a expor os detalhes relevantes de sua experiência passada e do presente, de forma convincente. para fundamentar o pedido, e, assim, ajudar o solicitante, o entrevistador pode solicitar documentação de apoio, tais como artigos de jornal, declarações de testemunhas ou relatórios de direitos humanos. o entrevistador tem o dever de ajudar o solicitante fazendo-o compreender a importância de fornecer todas as evidências disponíveis para apoiar sua solicitação de refúgio. No entanto, a entrevista existe em prol do solicitante. Mesmo que a pessoa que conduz a entrevista deva ter o controle, você deve se lembrar que o processo de entrevista é uma oportunidade para o solicitante apresentar claramente o seu pedido. uma maneira de ajudar o entrevistador e o solicitante a identificar os principais aspectos da solicitação é pedir que ele apresente uma breve declaração escrita. esta declaração pode ser usada como uma ferramenta de preparação, antes que a entrevista propriamente dita comece.
+• A obrigação de ser verdadeiro. explique ao solicitante que fazer um testemunho honesto e confiável irá beneficiá-lo. Outras pessoas podem ter dito ao solicitante que as oportunidades de reconhecimento são maiores se a história é contada de uma certa maneira. Como entrevistador, você deve estar ciente destas realidades. É sua tarefa cientificar o solicitante que o caso deve ser baseado em experiências reais e não em informações falsas.
+Passo 6. Explicando o processo
+diga ao solicitante quanto tempo deve levar a entrevista, se existem intervalos programados e quais perguntas serão feitas. depois de ter explicado o procedimento nas etapas de 1 a 5 , deve ser perguntado ao solicitante se alguma coisa não ficou clara e se ele precisa de mais explicações. Quando tudo for bem compreendido, pode prosseguir com a entrevista.
+Checklist
+• Apresentar-se e explicar o processo a ser seguido para fazer o solicitante se sentir confortável;
+• Apresentar o intérprete e assegurar que o solicitante e o intérprete entendem um ao outro antes de prosseguir com a entrevista;
+• Analisar as informações fornecidas no formulário de dados / cadastro básico com o solicitante para garantir que sejam precisas e completas;
+• Explicar ao solicitante a definição de refugiado e o tipo de perguntas que você vai fazer;
+• Relembrar ao solicitante o seu direito à confidencialidade, a obrigação de fornecer provas e sua obrigação de dizer a verdade.
+2) COMO GANHAR E MANTER A CONFIANÇA DO SOLICITANTE
+O propósito dos vários passos sugeridos acima é de estabelecer um grau de confiança no solicitante. Sua tarefa durante a entrevista será apoiar-se nessa confiança, permanecendo atento a quaisquer sinais de mal-entendido ou tensão que possam surgir, para corrigi-los o mais rápido possível.
+Aqui estão duas estratégias que podem ajudá-lo a conseguir tudo isso:
+Contato visual
+Com a exceção de algumas culturas, onde o contato visual pode ter um significado diferente, manter uma expressão visual forte e contato amigável com o solicitante sugere que você está realmente prestando atenção ao que está sendo dito. evite ler documentos enquanto o solicitante estiver falando. Se você precisar verificar um documento, espere até que haja uma pausa.
+O contato visual deve ser com o solicitante, não com o intérprete.
+Por exemplo:
+NÃO! (Dirigindo-se ao intérprete) “Pergunte o que aconteceu depois que a bomba explodiu”
+SIM! (Diretamente para o solicitante) “O que aconteceu depois que a bomba explodiu?”
+Postura corporal
+Assim como o contato visual, a postura corporal que você adotar transmite o seu interesse no que o solicitante está dizendo. Seja natural, esteja atento e relaxado. Mantenha seus movimentos e expressões faciais tão naturais quanto possível. isso irá incentivar o solicitante a se comunicar.
+NÃO!
+       • se sente de forma descuidada, nem se balance na cadeira;
+       • coloque os pés na mesa da entrevista;
+       • olhe para fora da janela;
+• faça quaisquer gestos (como mover a cabeça ou olhar para o teto) que sugiram que você está em desacordo ou não acredita na história que o solicitante lhe conta.
+3) COMO FORMULAR AS PERGUNTAS
+Faça as suas perguntas em um tom amistoso e não muito rápido. Dê tempo suficiente para o solicitante de refúgio expor sua história da melhor maneira possível. Mesmo se você tiver um grande número de casos para verificar, evite instar o solicitante a se apressar para chegar ao ponto nuclear do testemunho que está colhendo, uma vez que ele pode estar prestes a revelar um detalhe de importância e relevância para o caso.
+As perguntas devem fluir naturalmente, ao invés de serem lidas a partir de uma lista previamente preparada. Caso opte por utilizar um questionário de entrevista ou uma lista de perguntas, essa deverá trazer os elementos essenciais a serem abordados durante a entrevista. No entanto, não se limite a um formato prescrito ou uma lista de perguntas pois isto restringirá o fluxo e o alcance da entrevista.
+Todos tem um modo de falar que varia de acordo com fatores como velocidade, tom e ritmo.para fazer com que o solicitante se sinta mais confortável e, portanto, incentivá-lo a se comunicar, você deve tentar modular sua voz e modelar suas perguntas de forma a se adequarem às características do solicitante.
+À medida que a entrevista avança, você deve estar preparado para fazer perguntas para acompanhar cada questão relevante que se apresente. Nenhuma resposta ou pergunta deve ficar ambígua no momento da conclusão da entrevista. Isso requer que você fique alerta e intelectualmente ativo durante o processo de entrevista.
+Exemplo:
+Um solicitante testemunhou que foi detido enquanto tentava distribuir folhetos e ficou preso por três meses. A fim de esclarecer esta declaração você pode seguir com perguntas como:
+       • “Por que você foi preso?”
+• “Como você foi tratado enquanto estava preso?” “Lhe fizeram algum tipo de acusação?”
+• “Você teve algum contato com seus familiares enquanto estava na prisão?”
+• “Você pode descrever o lugar onde você esteve preso?”
+Ao formular estas questões você terá a oportunidade de obter informações adicionais relevantes do solicitante. perguntas deste tipo também vão mostrar que você se importa e está interessado em saber o que aconteceu.
+COMO REAGIR AO SILÊNCIO
+Dê tempo para o solicitante pensar, especialmente depois de uma pergunta geral ou aberta (veja abaixo). Evite a tentação de interromper o silêncio acrescentando uma pergunta constrangedora que pode gerar uma resposta rápida, mas, ao mesmo tempo, também pode impedir que o solicitante revele, em sua totalidade, a importância que um ato específico teve para ele.
+Exemplo:
+Entrevistador: “o que aconteceu depois que os militares tomaram o poder?”
+Silêncio
+Entrevistador: “alguma vez o interrogaram ou o detiveram?”
+A melhor estratégia, se o silêncio for muito longo, seria reformular a pergunta geral. Voltando ao mesmo exemplo:
+Entrevistador: “Você mencionou anteriormente que seus problemas começaram quando os militares depuseram o governo.Poderia me dizer algo sobre as dificuldades que enfrentou?”
+O silêncio do entrevistador (sempre sugerindo que você está interessado em aguardar o resto da história) pode incentivar o solicitante a falar. ele dá ao solicitante tempo para refletir cuidadosamente sobre a questão e pode ajudá-lo a se lembrar de eventos passados. tais pausas também servem para transmitir conteúdos não-verbais, para os quais também se deve estar atento.
+TIPOS DE PERGUNTAS
+O entrevistador deve saber que tipo de pergunta é mais eficaz em cada uma das etapas da entrevista, bem como quais devem ser evitadas, pois podem criar uma barreira potencial na comunicação. este conhecimento também o ajudará a superar problemas de hesitação ou relutância. Seguem-se dois tipos de perguntas: perguntas abertas e fechadas.
+• Perguntas abertas
+Uma questão em aberto é aquela que pede informação geral e não pode ser respondida com um “sim” ou “não”. ela é usada para coletar informações sobre opiniões pessoais e reações e, portanto, são apropriadas para começar a entrevista. ao usar perguntas abertas, o entrevistador dá ao solicitante a oportunidade de contar os fatos à sua maneira.
+Exemplo:
+       • O que fez você decidir deixar seu país?
+       • Como a sua vida mudou depois da guerra?
+       • Por favor, descreva as dificuldades que teve com as autoridades do seu país.
+       • O que aconteceu quando o governo mudou?
+• Que razões você tem para pensar que você pode ter dificuldades caso fosse obrigado a regressar ao seu país?
+Perguntas abertas podem ajudar o entrevistador a obter uma melhor compreensão do contexto dos problemas do solicitante e sua relutância em regressar ao seu país de origem. as perguntas abertas são também utilizadas para incentivar o solicitante a falar mais livremente sobre um tema importante:
+Exemplo:
+Solicitante: Não queria ter problemas com as autoridades, então eu parei de ir às reuniões. Mas isso não muda as coisas. eu sabia que mesmo assim iam me prender.
+Entrevistador: Você poderia me ajudar a entender por que se sentiu assim?
+É mais provável que este tipo de questão obtenha informações importantes.
+QUANDO EVITAR PERGUNTAS ABERTAS.
+Perguntas abertas podem ser demoradas. Se o solicitante está nervoso, emocionalmente perturbado ou não entendeu o tipo de informação que você está procurando, ele pode ficar confuso e falar longamente sobre detalhes sem importância. Se isso acontecer, o entrevistador deve assumir o controle da entrevista, falando suavemente e mudando a linha de questionamento. Quando você fizer perguntas abertas, deve também levar em consideração os níveis culturais e educacionais para avaliar se o solicitante é capaz de fornecer informações claras e relevantes para responder às suas perguntas.
+Perguntas fechadas
+A pergunta fechada requer uma resposta curta, geralmente “sim”, “não” ou uma simples declaração de fato.
+Exemplos:
+       • Quando você deixou o seu país e quando você chegou aqui?
+       • Quem pagou sua viagem?
+       • Você tinha um visto para entrar neste país?
+       • Que caminho você tomou para chegar até aqui?
+       • Já solicitou refúgio em outro país?
+As perguntas fechadas são usadas para complementar as informações que não ficaram claras com a narrativa do solicitante, especialmente quando há detalhes conflitantes.
+Exemplos
+       • Enquanto estava preso, foi interrogado? Por quem? Quantas vezes?
+       • Quanto tempo duraram os interrogatórios? Que perguntas fizeram?
+• Onde esteve preso? Como você foi tratado na prisão? O que usavam as autoridades prisionais? Qual o tamanho de sua cela? Você estava sozinho na cela?
+       • Você disse que ele estava escondido com seu irmão, mas em seu formulário básico de dados indica que seu único irmão vive no exterior. Quantos irmãos você tem? 
+Aqui você vai encontrar algumas sugestões gerais para a formulação de perguntas. eles são referidos como “o que fazer” e “o que não fazer”.
+O QUE FAZER
+Mantenha as perguntas curtas e simples.
+alterne entre perguntas abertas e fechadas. isso vai ajudar a reduzir a tensão, porque o solicitante estará em posição de se expressar mais livremente durante a entrevista. isto também irá ajudar a evitar que o solicitante sinta que você insiste deliberadamente em pontos confusos ou contraditórios.
+O QUE NÃO FAZER
+Formular uma sequência de questões que façam o solicitante se sentir confuso. Interrogarcom estilo rigoroso, ou usando um tom de voz severo ao questionar algo.
+A seguir, um exemplo do que você deve evitar fazer:
+Quando você pediu seu visto, você disse que tinha um bom emprego e só poderia tirar umas férias de duas semanas. No aeroporto você disse que não tinha parentes no país, mas que seu irmão também solicitou refúgio, certo? agora você me diz que o perseguiriam se for devolvido para seu país. Você mentiu para obter um visto e mentiu no aeroporto. por que eu deveria acreditar em você agora?
+4) IDENTIFICAÇÃO DOS FATOS
+Existem dois métodos que podem ajudar a alcançar este objetivo essencial.
+       • Certifique-se de que o solicitante fala fluentemente.
+Já mencionamos a importância de estabelecer e manter a confiança do solicitante. Se isto for conseguido, será relativamente fácil que ele continue a conversar livremente.
+Não o interrompa bruscamente: evite uma nova pergunta antes de o solicitante ter terminado de responder à pergunta anterior.
+Incentive e estimule, mesmo quando haja hesitação ou silêncio. acenar com a cabeça estimulando suavemente com frases como “... e então?” “entendo ...” ou repetir determinadas palavras-chave na resposta anterior.
+Exemplo:
+Solicitante: Quando soube que eu estava sendo procurado não soube o que fazer. eu estava com medo de ir para casa ou para meu trabalho ... (Pausa)
+Entrevistador: estava assustado ...
+Solicitante. todos os dias as pessoas desaparecem ... Às vezes, encontram os corpos e outras simplesmente desaparecem ... (Pausa)
+Entrevistador: entendo ...
+Solicitante: eu fui para casa do meu amigo. Quando eu disse a ele o que tinha acontecido, ele disse que era perigoso ficar na cidade. Foi quando eu decidi sair.
+Entrevistador: e o que você fez, então?
+Usando este método, o solicitante vai se sentir confiante de que o entrevistador está ouvindo com atenção. o entrevistador será percebido como encorajador, mas permanecendo neutro, sem ser a favor ou contra a história do solicitante. assim, é mais provável que o solicitante queira comunicar uma informação adicional.
+IDENTIFICAR DISCREPÂNCIAS
+As discrepâncias podem ser de dois tipos:
+       1. discrepâncias nos testemunhos escritos e orais, ou outros documentos fornecidos.
+Exemplos:
+• O solicitante afirma que foi preso durante os últimos seis meses de 1992, mas seu passaporte foi emitido em outubro daquele ano.
+A discrepância pode ser devido a uma confusão de datas ou ao fato de que o passaporte foi obtido por um parente ou amigo (talvez usando um suborno).
+• O solicitante declarou que seu irmão foi preso por participar de uma greve estudantil e ainda está detido. Seu formulário de dados básicos indica que o único irmão do solicitante vive nos estados unidos.
+Aqui, o uso da palavra “irmão” pode ter significados culturais específicos. Por outro lado, o intérprete pode simplesmente ter se esquecido de adicionar o nome do segundo irmão no formulário.
+2. discrepâncias aparentes em conduta contraditória
+Exemplos:
+• O solicitante alega ter se escondido na casa de um amigo por medo de ser preso. No entanto, ele também afirma que continuou a ir para o trabalho todos os dias.
+Como entrevistador, é sua a responsabilidade de esclarecer esta discrepância. Faça uma pergunta neutra, tal como:
+“Você não tinha medo de ser preso no trabalho ou de que o seguissem até o seu esconderijo?”. isso irá incentivar o solicitante a fornecer explicações adicionais. pode ser que, conscientemente, ele tenha se arriscado a ir ao seu local de trabalho, já que não podia deixar o país naquela época, e sua principal preocupação era permanecer lá o máximo possível, para a segurança de sua família.
+• O solicitante afirma que recebeu a primeira ameaça de morte em março e, em seguida, continuou a recebê-las a cada duas ou três semanas. em maio, alguém tentou atropelá-lo com um caminhão, mas, no entanto, não deixou o país até fevereiro do ano seguinte.
+Como no exemplo anterior, isto requer mais explicações.
+“Você devia estar muito assustado. Quando você decidiu que era hora de deixar o país?” uma questão como esta irá estimulá-lo a fornecer informações adicionais. por outro lado, uma pergunta direta, como “por que você demorou tanto tempo para decidir ir embora?” pode causar uma reação de reserva, de defesa, que prive você das explicações que está procurando.
+CONFRONTAR
+Isso não implica necessariamente uma atitude crítica por parte do entrevistador. É um meio de esclarecer as declarações que parecem confusas ou contraditórias. portanto, é uma oportunidade para que o solicitante forneça todos os detalhes importantes.
+O confronto é uma prática complexa, que exige tato, paciência e capacidade para convencer o solicitante que deve balancear, objetivamente, seu testemunho e esclarecer qualquer ponto confuso ou contraditório. evite a todo custo adotar uma postura crítica ou de julgamento, pois isso irá destruir a confiança que você tem tentado estabelecer tão pacientemente.
+Como indicado, se confrontado com declarações contraditórias ou confusas, dê ao solicitante a oportunidade de se explicar. uma técnica que você pode utilizar é assumir a sua culpa e dizer, por exemplo: “desculpe, pode ser que eu não tenha entendido bem. Poderíamos verificar, juntos, esta parte de sua história, pois eu não quero cometer erros?” desta forma, você evitará que o solicitante se sinta desconfortável ou nervoso.
+Outro método é tentar reformular suas perguntas. Você deve se lembrar que, devido às diferenças culturais, à tradução feita,por problemas de saúde, ou falta de atenção, o solicitante pode não ter entendido o que estava sendo perguntado. Nestes casos, o solicitante pode compreender suas perguntas mais facilmente se forem reformuladas ou feitas de outra forma.
+Se as contradições persistirem, depois de analisar parte da história, não pressione o solicitante a se explicar. Se você não pode confirmar ou obter explicações satisfatórias nesta fase da entrevista, deixe-a, pois você pode sempre voltar a esse ponto mais tarde. esteja alerta, pois pode haver algo que o solicitante não queira ou não possa contar.
+PONTOS A RECORDAR
+• O confronto é um meio necessário para se obter uma história verdadeira. No entanto, ele não deve destruir o clima de confiança que se procurou estabelecer e que é vital para uma boa comunicação.
+• Certifique-se de documentar quaisquer discrepâncias pendentes e as respostas e esclarecimentos prestados pelo solicitante. isso será útil na elaboração da sua avaliação sobre a solicitação e fornecerá um importante registro dos procedimentos que podem ser usados em entrevistas posteriores.
+       • Preste muita atenção a cada detalhe.
+Evite formular suas perguntas de modo crítico. isto intimida os solicitantes e bloqueia ou distorce a comunicação.
+Seja positivo em sua estratégia. use frases como “Você poderia explicar isso ...?” ou “Você quer dizer que ...?”.
+5) COMO ENCERRAR A ENTREVISTA
+Ao concluir a entrevista, esta pequena lista pode ajudar a unir tópicos soltos:
+       • Você já perguntou ao solicitante se ele tem mais alguma coisa a acrescentar?
+       • Você já informou ao solicitante o que vai acontecer depois da entrevista?
+É importante ser o mais explícito possível sobre:
+- Para quando podemos esperar uma decisão;
+- O que acontece se a solicitação for bem sucedida (em relação à documentação, à reunião familiar, visto de trabalho, etc.)
+- O que acontece se a solicitação for indeferida (explicar a lei e os procedimentos de recurso)
+• Você tranquilizou o solicitante no sentido de que, independentemente das circunstâncias do caso, você incluirá toda a informação relevante no relatório da entrevista que acompanhará a solicitação de reconhecimento da condição de refugiado?
+• Você já agradeceu ao intérprete e permitiu que o solicitante fizesse o mesmo?
+CAPÍTULO 3
+BARREIRAS DE COMUNICAÇÃO
+Neste capítulo você vai aprender:
+       • Quais são as barreiras comuns para a comunicação;
+       • Como superá-las;
+       • O que fazer em caso de comportamento hostil ou ameaçador.
+Como sabemos, entrevistar solicitantes de refúgio tem uma dimensão diferente de uma entrevista realizada em outros contextos, porque há muita coisa em jogo. um resultado positivo pode significar um novo começo e esperanças renovadas para o solicitante e sua família, enquanto que um resultado negativo pode significar desespero e perigo. esta responsabilidade coloca um grande peso para o entrevistador.
+Os dois primeiros capítulos deste módulo procuraram fornecer um marco para a preparação e realização da entrevista. Neste capítulo, vamos olhar mais de perto as barreiras de comunicação, sua origem e como o entrevistador pode tentar superá-las. Veremos também a questão do comportamento ameaçador do solicitante e como reagir como entrevistador.
+1) OS EFEITOS DO TRAUMA
+Não é estranho que os solicitantes de refúgio tenham dificuldade em contar suas histórias. podem hesitar, retrair-se em longos silêncios, ou dar explicações que não são coerentes e parecem contraditórias. por outro lado, podem contar uma história que você suspeita que tenha sido ensaiada para a ocasião. É sua tarefa desvendar pacientemente a história e esclarecer os verdadeiros fatos.
+Uma pessoa que tenha sofrido um choque físico ou mental pode estar muito relutante em reviver as emoções relacionadas aos eventos que ele sofreu. a relutância em falar pode ou não ser consciente. em casos extremos, as experiências anteriores podem ter sido suprimidas da mente consciente. Não é incomum que um solicitante entre em colapso e seja incapaz de falar coerentemente, ou seja capaz de se lembrar apenas de certos acontecimentos de seu passado.
+O entrevistador também deve estar ciente de que o solicitante pode estar mental ou emocionalmente perturbado e que isso impedirá um exame normal do seu caso. Se você suspeitar que um solicitante possa estar nessa condição, você deve procurar aconselhamento médico sobre a saúde do solicitante. Você deve prestar especial atenção aos solicitantes de refúgio que podem ter sido vítimas de tortura ou violência sexual ou que, por causa da idade ou deficiência, necessitam de cuidados especiais durante a entrevista. (Para mais informações consultar o Manual do ACNUR sobre “Procedimentos e Critérios para a determinação da Condição de Refugiado”, parágrafos 206-212).
+OMISSÃO E CONFUSÃO
+O esquecimento afeta a todos nós e é um dos maiores obstáculos para recordar acontecimentos. para os solicitantes de refúgio, as datas, os locais, as distâncias, eventos e experiências pessoais significativas podem ser esquecidas ou ficar confusas devido a um choque mental ou transcurso do tempo.
+Omissões ou declarações incorretas do solicitante não significam, necessariamente, desonestidade. o entrevistador deve estar ciente de que não se pode esperar que o solicitante lembre de todos os detalhes de sua história pessoal.
+A ordem cronológica dos acontecimentos pode ser especialmente difícil de reconstruir. Muitas vezes, o solicitante recorda os acontecimentos que mais o afetaram emocionalmente ou fisicamente, sem manter a sequência de tempo.
+Exemplo:
+“... Os membros de um esquadrão da morte vieram à minha casa várias vezes procurando por mim ... Dois dos meus amigos desapareceram e outro foi encontrado morto ... Eu corri para a fazenda do meu tio e me escondi durante cinco meses, até que senti que era seguro voltar. Recebi várias ameaças anônimas ... Um estranho fez perguntas sobre mim no meu trabalho ... Eu decidi que eu deveria deixar o país”.
+Você pode descobrir durante a entrevista que esta cronologia está incorreta. o corpo do amigo foi descoberto depois que o solicitante passou a viver com seu tio. ele pediu um visto antes de seu empregador ser questionado pelo estranho. tais confusões não significam, necessariamente, que houve uma invenção deliberada.
+TEMOR DE COMPARTILHAMENTO DE INFORMAÇÕES
+Um solicitante de refúgio que tenha deixado seu país por medo de perseguição, possivelmente levará este sofrimento consigo por algum tempo. o temor pode assumir muitas formas, incluindo:
+       • Medo de pessoas com autoridade (especialmente aqueles em uniforme);
+       • Medo de pôr em perigo parentes ou amigos;
+       • Medo do processo de entrevista;
+       • Medo das consequências se a solicitação for rejeitada.
+Por exemplo, pessoas que se envolveram em movimentos políticos que eram ilegais em seus países provavelmente suspeitarão de estranhos. eles formaram uma rede social, basicamente fundamentada em um conjunto de valores e práticas que foram cruciais para o sucesso da organização e a sobrevivência de seus membros. tais pessoas podem ter dificuldade em comunicar-se abertamente e expressar seus sentimentos, crenças e experiências com alguém que não seja membro do grupo. A desconfiança com o intérprete também pode causar uma história aparentemente fragmentada e confusa.
+PERDA DE AUTO-ESTIMA
+O solicitante pode querer não revelar informações que ele considere que possam levar outras pessoas a desprezá-lo. Neste contexto, o gênero e as expectativas culturais e sociais são fatores a se considerar. por exemplo, para um homem pode ser difícil admitir que teve medo ou foi forçado a deixar sua esposa e filhos desamparados. Uma mulher que foi abusada sexualmente pode estar tão envergonhada que nem sequer haja mencionado seu sofrimento a sua família.
+“CHOQUE CULTURAL”
+Pessoas que se deslocam de uma cultura para outra - especialmente se isso implica uma mudança de um ambiente menos desenvolvido para um mais desenvolvido - podem sentir assombro e ansiedade. por sua vez, isto pode afetar sua capacidade de se expressar de forma clara e coerente. o solicitante de refúgio pode falar de modo muito confuso e pouco convincente, não porque mentiu, mas por causa da insegurança e ansiedade gerada pelas dificuldades de viver em um novo ambiente social e cultural. A falta de familiaridade com a entrevista estilo “pergunta e resposta” pode ser outro fator que inibe a comunicação.
+DISPARIDADES DE NOÇÕES E CONCEITOS
+Palavras comuns podem ter significados diferentes de uma cultura para outra e ser uma fonte de mal-entendidos. este problema pode ter sérias implicações para o solicitante de refúgio.
+Exemplo:
+Um solicitante de refúgio turco, buscando a condição de refugiado na Suíça, disse que havia se salvado da prisão escondendo-se nas montanhas perto de sua cidade natal. a solicitação foi rejeitada. entre as razões expostas estava o fato de que a cidade estava localizada entre colinas. para o entrevistador suíço, não havia montanhas na região e, portanto, não acreditou no solicitante. No entanto, em turco, o termo “montanha” também se aplica a regiões com morros.
+Outras palavras comuns que podem causar mal-entendidos incluem irmão e primo.para muitos africanos, por exemplo, estas palavras não se limitam a parentes próximos, mas incluem todos os membros da tribo.
+As noções de tempo, a verdade e a mentira também podem variar de cultura para cultura, e levar a mal-entendidos que lançam dúvidas sobre a credibilidade do solicitante.
+2) SUA ATITUDE COMO ENTREVISTADOR
+As orientações a seguir se referem à conduta geral a ser adotada durante a entrevista. Você verá que muitas delas são semelhantes às contidas nos capítulos anteriores deste módulo.
+• Esteja ciente de suas responsabilidades em todos os momentos. Nunca se esqueça que uma decisão injusta pode ter consequências graves para o solicitante.
+• Se você detectar sintomas de trauma, evite aumenta-los tomando as seguintes medidas:
+- Certifique-se de que a sala não se assemelha a um tribunal;
+- Evite ter pessoal uniformizado no local;
+- Se o solicitante estiver agitado ou nervoso faça as perguntas de maneira relaxada, tranquilize-o, garantindo-lhe que você quer ajudá-lo e pode fazê-lo da melhor maneira se ele responder as perguntas de maneira direta e sincera;
+- Use todas as provas documentais disponíveis para apoiar as informações recebidas durante a entrevista, (documentos recebidos do solicitante, reportagens de jornais e relatórios de direitos humanos, relatórios médicos, etc.);
+- Garanta ao solicitante que qualquer informação fornecida será mantida estritamente confidencial. Esclareça o papel do intérprete e informe ao solicitante que o intérprete está sob juramento para manter a confidencialidade dos procedimentos da entrevista;
+• Permaneça sempre neutro. Abstenha-se de fazer perguntas que pareçam um julgamento, como por exemplo:
+       “Como você pôde deixar o país sem a sua família?”
+       “Como você pôde deixar seus filhos com um estranho?”
+• Leve em conta o contexto cultural do candidato para evitar mal-entendidos durante a entrevista. Fique atento a quaisquer discrepâncias de noções ou conceitos que possam surgir;
+• Outros fatores adicionais que podem afetar a relação candidato-entrevistador e candidato-intérprete são: compatibilidade de idade, gênero, classe social, escolaridade, raça, convicções políticas ou valores sociais. ao longo da entrevista, esteja ciente desses fatores e como eles podem afetar ou complicar a comunicação com o candidato. Você também deverá instruir o intérprete sobre estes aspectos.
+3) O QUE ACONTECE SE O CANDIDATO ESTIVER RELUTANTE OU INCAPAZ DE PARTICIPAR DA ENTREVISTA?
+Deve ser lembrado que os refugiados podem ter sido vítimas de tortura, violência ou estar sob grande estresse emocional. o próprio processo de entrevista pode desencadear reações de ansiedade, que podem ser percebidas como um comportamento agressivo. Sinais e sintomas de distúrbios emocionais devem ser compreendidos. a necessidade de intervenção médica também deve ser percebida para auxiliar o solicitante no seu estado mental antes de continuar qualquer tipo de entrevista.
+Apesar de levar em conta as considerações acima, o entrevistador poderia se deparar com um refugiado ou solicitante de refúgio que não coopera ou cujo comportamento é hostil ou agressivo. Nesta situação, uma das principais considerações é a segurança. em todas as situações de entrevista você deve tomar precauções para garantir que o entrevistador, o intérprete e todos os funcionários estejam protegidos contra ataques físicos.
+Nos escritórios locais, é comum que se tomem medidas como a presença da polícia local, guardas ou outras medidas de segurança (tais como janelas nas salas para entrevistas). No entanto, em áreas isoladas pode não haver uma segurança organizada, de modo que devem ser tomadas medidas alternativas, como alertar as autoridades locais ou outros membros da equipe para ajudar em caso de problemas. (Para mais detalhes sobre este tópico, consulte o Capítulo 7, “questões de segurança”).
+INTERRUPÇÃO DA ENTREVISTA
+O comportamento não cooperativo ou hostil pode assumir muitas formas. em qualquer caso, pode levar à interrupção da entrevista. Você pode perceber que o solicitante se recusa ou parece incapaz de responder a perguntas ou demonstra uma atitude intransigente, dificultando e estendendo o desenvolvimento da entrevista. Neste ponto, há várias sugestões:
+• Mantenha a calma em todos os momentos e tente descobrir por que o solicitante demonstra comportamento hostil ou teimoso; talvez, devido a problemas pessoais, o candidato não deseje participar da entrevista;
+• Explique para o solicitante que a entrevista não poderá continuar, a menos que ele esteja disposto e capaz de responder as perguntas e cooperar plenamente;
+• Se possível, peça a ajuda de um assessor treinado ou de um assistente social;is- to demonstrará ao solicitante que você está tentando ajudá-lo, e pode facilitar a tarefa de recuperar a sua confiança para que a entrevista continue.
+Se suas tentativas para acalmar o solicitante e obter sua confiança não forem bem sucedidas e o comportamento do solicitante tornar impossível a continuidade da entrevista, então, como um último recurso, você deve encerrar a entrevista e adiá-la por mais um dia, deixando claro que o adiamento não é uma punição, mas simplesmente reflete a necessidade de cooperação que você espera obter em uma data posterior. isto dará ao solicitante algum tempo para refletir sobre o seu comportamento, a fim de voltar mais tarde, com uma atitude mais positiva. Se necessário, um entrevistador diferente deve atender o candidato na entrevista posterior.
+O entrevistador deve estar ciente de que o comportamento hostil ou não cooperativo pode ser sintoma de outros problemas ou uma indicação de que a pessoa está tendo sérias dificuldades para lidar com as tensões e dificuldades do processo de entrevista. Se o solicitante tiver um problema específico que pode ser tratado através de aconselhamento ou assistência médica ou social fornecido pelo seu escritório, então deve ser marcada uma consulta com alguém o mais rápido possível. esta abordagem não apenas mostra que você se importa com a pessoa e está disposto a lhe oferecer ajuda, mas também que ambos podem fornecer a oportunidade de obter informações importantes relacionadas à saúde ou outros problemas que o solicitante está passando.
+CAPÍTULO 4 
+ENTREVISTAS COM MULHERES SOLICITANTES DE REFÚGIO
+Neste capítulo você vai aprender:
+       • As fontes de informação;
+       • Os critérios de elegibilidade;
+       • Como entrevistar mulheres que solicitam refúgio.
+Neste capítulo vamos ver questões específicas relacionadas com as entrevistas de mulheres solicitantes de refúgio. Começamos por rever algumas das fontes de informação e os critérios de elegibilidade.
+1) FONTES DE INFORMAÇÃO
+Existem várias publicações que fornecem orientações e informações úteis para a realização de entrevistas de elegibilidade com mulheres. as Diretrizes sobre a Proteção das Mulheres Refugiadas, do ACNUR (EC/SCP/67, 22 de julho de 1991) contém uma seção sobre procedimentos e critérios legais para a determinação da condição de refugiado, e informações sobre a realização das entrevistas (parágrafos 53-67).
+Outros materiais de referência relevantes incluem: Conclusões do Comitê Executivo do ACNUR números 39, 54, 60, 64 e 73; Observações sobre Determinados Aspectos da Violência Sexual contra Mulheres Refugiadas (A/AC.96/822, 12 de outubro, 1993); Guias de Prevenção e Combate à Violência Sexual contra os Refugiados (ACNUR, 1995), as diretrizes do Immigration and Refugee Board of Canada sobre Mulheres Solicitantes de Refúgio que temem perseguição por seu gênero (ver IJRL (1993), Vol. 5, N ° 2), e Guias do Serviço de Imigração e Naturalização dos estados unidos sobre Considerações para os Funcionários de Refúgio na Decisão de Solicitações de Refúgio Apresentados por Mulheres (26 de maio, 1995).
+A exposição a seguir é baseada, em grande parte, nestas fontes.
+INFORMAÇÃO DO PAÍS DE ORIGEM
+Além das normas e princípios contidos nas orientações e nas Conclusões do Comitê Executivo do ACNUR relativas à violência sexual no contexto da definição de refugiado da Convenção de 1951, o entrevistador deve estar familiarizado com as informações relevantes ao país de origem. em geral, tais informações devem incluir:
+• A posição das mulheres perante a lei, incluindo sua capacidade legal em juízo, o direito de processar e apresentar provas, a abrangência da lei do divórcio e custódia, o direito à propriedade, o direito de fazer ou recusar um aborto;
+• Os direitos políticos das mulheres, incluindo o direito de voto, a desempenhar cargos públicos e a filiar-se a partidos políticos;
+• Os direitos sociais e econômicos das mulheres, incluindo o direito de casar com a pessoa de sua escolha, o direito à educação, o direito ao trabalho, a posição da viúva ou divorciada, e a liberdade de vestimenta e expressão;
+• Relatos de incidência de violência contra as mulheres e de que forma ela ocorre, a proteção disponível para as mulheres e as penas e punições para aqueles que cometem violência.
+Em particular, o entrevistador deve estar ciente das consequências que podem recair sobre uma mulher que retorne ao seu país de origem, com base nas circunstâncias descritas na sua solicitação.
+2) CRITÉRIOS DE ELEGIBILIDADE
+Mulheres como um “grupo social específico”
+A definição de refugiado da Convenção de 1951 não especifica o gênero como motivo de perseguição. No entanto, como área do direito em desenvolvimento, é cada vez mais reconhecido que a perseguição com base no gênero é uma forma clara de perseguição que pode se enquadrar na definição de refugiado da Convenção. Assim, pode-se interpretar que a Convenção oferece proteção às mulheres que demonstram um fundado temor de perseguição relacionado ao gênero, por um ou mais dos motivos enumerados em raça, religião, nacionalidade, opinião política ou pertencimento a um grupo social específico. Há também um crescente apoio internacional para considerar que algumas mulheres que temem a perseguição apenas em razão do gênero são um “grupo social”. a este respeito, o Comitê executivo do ACNUR reconheceu que os governos são “livres para adotar a interpretação de que as mulheres solicitantes de refúgio que enfrentam tratamento cruel e desumano, por ter transgredido os costumes sociais da comunidade em que vivem, possam ser consideradas como parte de um ‘grupo social', conforme referido no artigo 1A (2) da Convenção das Nações Unidas sobre Refugiados” (veja a Conclusão do Excom,. No.39 (XXXVI)).
+Perseguição baseada na transgressão de normas ou padrões sociais
+As orientações do ACNUR sobre a proteção de Mulheres Refugiadas sugerem que as mulheres que temem perseguição ou grave discriminação em função do gênero são consideradas membros de um grupo social específico para fins de determinação da condição de refugiado. estas orientações também sugerem que o ACNUR defende que pode haver uma base para o reconhecimento da condição de refugiado quando um governo não pode, ou não quer, proteger as mulheres vítimas de abuso por transgredir os padrões ou as normas sociais de sua comunidade.
+O entrevistador deve reconhecer os elementos pertinentes às solicitações de refúgio provenientes de mulheres que temem tratamentos cruéis ou desumanos por violar as leis ou costumes de sua sociedade. as diretrizes do Immigration and Refugee Board of Canada sobre Mulheres Solicitantes da Condição de Refugiado, que temem perseguição por seu gênero, descreveu essa categoria de solicitantes de refúgio como sendo: “Mulheres que temem perseguição, por não concordar ou por transgredir certas regras e práticas religiosas ou costumeiras que as discriminam sexualmente em seu país de origem. essas leis e práticas, por colocar as mulheres em uma posição mais vulnerável do que os homens, pode servir de fundamento para a definição de um grupo social em razão do gênero. preceitos religiosos, tradições sociais e normas culturais cuja violação pode ser atribuída às mulheres vão desde a escolha de seus próprios cônjuges (em vez de aceitar um casamento arranjado), a questões como o uso de maquiagem, a visibilidade e o comprimento do cabelo, ou o tipo de roupa que uma mulher escolhe usar.”
+VIOLÊNCIA SEXUAL
+Eventos passados mostraram que as mulheres refugiadas são particularmente vulneráveis à violência sexual. Em muitos conflitos, ataques contra as mulheres são uma estratégia planejada em uma campanha de terror.
+No contexto dos solicitantes de refúgio, as mulheres vítimas de violência sexual podem se mostrar relutantes ou incapazes de falar sobre esses eventos. além disso, uma mulher vítima de violência sexual pode ser rejeitada por sua família e malquista pelos membros da comunidade.
+O entrevistador deve, portanto, usar uma variedade de técnicas sensíveis ao gênero para obter informação das mulheres durante o processo de entrevista.
+A VIOLÊNCIA SEXUAL COMO UMA FORMA DE PERSEGUIÇÃO
+No que diz respeito à consideração da violência sexual como perseguição com base na definição de refugiado, a nota relativa a certos aspectos da violência sexual contra mulheres refugiadas, que foi publicada a pedido do Comitê Executivo do ACNUR, afirma:
+“Não pode haver nenhuma dúvida de que quando se cometem estupros ou outras formas de violência sexual por motivos de raça, religião, nacionalidade, opinião política ou pertencimento a um grupo social, e estas formas de violência são toleradas pelas autoridades, estes atos podem ser considerados como perseguição com base na definição de “refugiado” da Convenção de 1951 (Artigo A (2)). O fundado temor de estupro em tais circunstâncias pode, portanto, servir de base para uma solicitação de refúgio”.
+3) A ENTREVISTA COM MULHERES SOLICITANTES DE REFÚGIO O ACESSO A UMA ENTREVISTA
+Quando uma mulher faz parte de uma unidade familiar e não é considerada como o principal solicitante da condição de refugiado, pode acontecer que ela não seja entrevistada ou o seja apenas superficialmente, embora, possivelmente, seja ela, e não seu parceiro masculino, o principal alvo da perseguição. Com isto em mente, o entrevistador deve se esforçar para assegurar que as todas mulheres de uma unidade familiar, incluindo cônjuges e dependentes, como filhas adultas, tenham a oportunidade de serem entrevistadas separadamente. Somente dessa forma o entrevistador pode determinar se as mulheres de uma família têm uma solicitação de refúgio independente.
+PROBLEMAS DE CREDIBILIDADE
+Um problema comum associado com a credibilidade pode surgir quando as mulheres são entrevistadas em relação às solicitações apresentadas por seus familiares homens. por exemplo, se uma mulher está sendo interrogada para fundamentar a solicitação de seu marido, pode não estar ciente de alguns detalhes das experiências de seu marido. À primeira vista, o entrevistador pode pensar que essa falta de conhecimento por parte da mulher mina a credibilidade da alegação do marido. No entanto, em algumas culturas, os homens não compartilham detalhes de seu negócio, laços políticos, militares e sociais com as mulheres em suas famílias.
+Como resultado, esposas ou mães podem ser incapazes de dar uma resposta quando questionadas sobre as experiências de seus familiares do sexo masculino. o entrevistador deve estar ciente de que a falta de conhecimento, ou mesmo respostas contraditórias por parte das mulheres, não quer dizer que todo o seu testemunho deva ser dispensado por falta de credibilidade.
+SEU PAPEL COMO ENTREVISTADOR
+As seguintes práticas são sugeridas para entrevistar as mulheres refugiadas. Você pode obter informações adicionais sobre a realização de entrevistas nas diretrizes do ACNUR sobre Prevenção e Combate à Violência Sexual Contra Refugiados nas páginas 33-34 e 38-41.
+• Como foi visto nos capítulos anteriores deste módulo, você deve ganhar a confiança do solicitante e estabelecer uma afinidade básica com a pessoa que você entrevista. isto é especialmente importante no caso de vítimas de violência sexual. É essencial que o entrevistador mantenha-se neutro, compassivo, sensível e objetivo durante a entrevista;
+• Se possível, mulheres solicitantes de refúgio devem ser entrevistadas por oficiais e intérpretes do sexo feminino. dessa forma, a solicitante pode se sentir mais confortável para contar sua história. para as solicitantes que se dizem vítimas de agressão sexual, a entrevista deve ser realizada por pessoal treinado, do mesmo sexo, salvo se o solicitante exigir diferente. este mesmo entrevistador deve permanecer vinculado ao caso para evitar que o caso da solicitante mude de um funcionário para outro. isto inclui tomar medidas para garantir que a solicitante receba tratamento ou assistência médica e jurídica;
+• Permaneça atento a diferenças de gênero na comunicação, especialmente em termos de comunicação não verbal. isto é particularmente importante no contexto da comunicação intercultural (por exemplo, uma mulher pode evitar o contato visual com o entrevistador por causa de sua cultura);
+• Forneça às mulheres a oportunidade de serem entrevistadas separadamente, sem quaisquer membros da família presentes ou a uma distância em que possam escutar; se você suspeitar que a solicitante tenha sido vítima de violência sexual, ou se a solicitante não puder ou não quiser falar sobre certos eventos relacionados a um incidente deste tipo, você deve fazer perguntas discretas e indiretas. dê tempo à solicitante para contar sua história à sua maneira e em suas próprias palavras. Nunca force a solicitante a se comunicar, busque tranquiliza-la de que você está disposto a ajudar, uma vez que ela esteja pronta para falar sobre o problema. Não há necessidade de estender-se sobre detalhes do abuso sexual;
+• Reconheça o padrão de sintomas que as mulheres solicitantes de refúgio que tenham sido vítimas de violência sexual podem apresentar como resultado do trauma relacionado com a violação. Os sintomas podem incluir perda de confiança e auto-estima, dificuldade de concentração, sensação de perda de controle, medo e perda de memória ou distorção dos fatos. as mulheres que foram vítimas de violência doméstica podem estar relutantes em falar sobre tais incidentes. em alguns casos, pode ser apropriado considerar uma permissão para apresentar seu testemunho por escrito,a fim de evitar relatar eventos traumáticos na frente de estranhos.
+• Se você estiver entrevistando o marido e a esposa ou outros membros da família, é preciso ter cuidado ao tentar esclarecer declarações contraditórias. em geral, o entrevistador deve ser cauteloso ao confrontar um solicitante sobre declarações feitas por outro membro da família, para evitar o agravamento da situação tensa e difícil que possa estar se passando na família;
+• Finalmente, o entrevistador deve estar familiarizado com as medidas de segurança de prevenção e reação frente à violência sexual. a este respeito, consulte as Orientações sobre Prevenção e Combate à Violência Sexual contra Refugiados, que podem ser consultadas na plataforma Refworld.
+PONTOS A RECORDAR
+• Familiarize-se com as fontes de informação relevantes no que diz respeito às mulheres refugiadas, incluindo os Guias de Proteção e informações do país de origem;
+• Utilize os critérios de elegibilidade relativos à perseguição relacionada ao gênero;
+• Certifique-se de que as mulheres que solicitam refúgio tenham acesso a uma entrevista e que, na medida do possível, a entrevista seja conduzida por um entrevistador e intérprete do sexo feminino;
+• Fique ciente das diferenças culturais e de gênero na comunicação;
+• Certifique-se de que as mulheres que solicitam refúgio tenham a oportunidade de ser entrevistadas sozinhas, e tenha em mente os problemas de credibilidade que podem surgir quando as mulheres são as entrevistadas sobre as solicitações de seus parentes do sexo masculino;
+• Tome cuidado para que as vítimas de violência sexual sejam entrevistadas por pessoal treinado do mesmo sexo;
+• Familiarize-se com o padrão de sintomas que podem aparecer em vítimas de violência sexual e assegure-se que seja fornecida terapia e assistência médica e jurídica.
+CAPÍTULO 5
+ENTREVISTASCOM CRIANÇAS
+Neste capítulo você vai aprender:
+       • Fontes de informação e procedimentos para entrevistar crianças refugiadas;
+       • As diretrizes gerais para a realização de entrevistas.
+Neste capítulo vamos ver questões e preocupações específicas relacionadas às entrevistas com crianças. Começaremos por rever um pouco das fontes de informações e procedimentos relevantes para a determinação da condição de refugiado.
+1) FONTES DE INFORMAÇÃO E PROCEDIMENTOS
+PARA ENTREVISTAR CRIANÇAS REFUGIADAS
+Várias publicações do ACNUR fornecem informações úteis e guias sobre entrevistas com crianças refugiadas. Crianças Refugiadas: Orientações sobre Proteção e Cuidados do ACNUR (1994) apresenta uma compilação abrangente de questões relacionadas a crianças desacompanhadas ou separadas de seus pais. o documento Trabalhando com Crianças Separadas de seus Pais na Comunidade (1994) fornece informações úteis para entrevistar crianças refugiadas. além disso, o entrevistador deve consultar a diretriz do ACNUR sobre crianças refugiadas (ES/SCP/82, 6 de agosto, 1993), as conclusões do Comitê executivo do ACNUR de números 47 e 59, e o Manual sobre Procedimentos e Critérios para a Determinação da Condição de Refugiado.
+Os tópicos a seguir são baseados principalmente em tais fontes.
+A CONVENÇÃO SOBRE OS DIREITOS DA CRIANÇA
+E O PRINCÍPIO DO “SUPERIOR INTERESSE”
+A entrada em vigor da Convenção sobre os direitos da Criança, em setembro de 1990 foi uma grande conquista na área dos direitos das crianças. ela não apenas é uma Convenção de crescente importância para todas as crianças em razão da sua ratificação quase universal (atualmente 193Estados membros), mas também estabelece uma série de direitos e princípios aplicáveis às necessidades de proteção das crianças refugiadas, incluindo os relativas à não discriminação (artigo 2), à preservação da identidade (artigo 8), à separação de seus pais (artigo 9), à reunificação familiar (artigo 10), à proteção da privacidade (artigo 16) , à proteção da criança sem família (artigo 20), à proteção e assistência humanitária às crianças refugiadas (artigo 22), à educação (artigo 28) e ao recrutamento militar (artigo 38).
+A Convenção define “criança” como qualquer pessoa “com idade inferior a 18 anos, a menos que sob a lei aplicável à criança, a maioridade seja alcançada antes” (artigo l). O ACNUR defende a observaçãoda Convenção sobre os direitos da Criança por todos os estados, agências internacionais e organizações não governamentais.
+No contexto das entrevistas com crianças refugiadas, uma série de questões e situações podem surgir, exigindo que o princípio do “superior interesse” seja levado em consideração. estas questões incluem fatores relevantes para o processo de determinação da condição de refugiado (critérios aplicáveis, ambiente físico, intervenção de pessoal treinado); a aplicação do princípio da “unidade familiar” (quando? para quem?); e a disponibilidade de soluções duradouras (reassentamento, integração local e repatriação voluntária). portanto, é importante que os entrevistadores e outros envolvidos no processo de determinação da condição de refugiado conheçam os direitos e as normas contidas na Convenção sobre os direitos da Criança.
+CRITÉRIOS E PROCEDIMENTOS PARA A DETERMINAÇÃO DA CONDIÇÃO DE REFUGIADO DE CRIANÇAS ACOMPANHADAS
+Quando o chefe da família preenche os critérios da definição de refugiado também deverá ser concedida a condição de refugiado a seus dependentes, com base no princípio da “unidade familiar” (ver Manual de Procedimentos e Critérios para a Determinação da Condição de Refugiado do ACNUR, parágrafos 181-188). em uma situação em que um estado insista em uma determinação da condição de refugiado em separado para cada membro da família, incluindo as crianças, a “família” pode ser considerada como um “grupo social”, com base na definição de refugiado da Convenção. Consequentemente, a criança (ou outro membro da família) pode basear sua solicitação de refúgio nos termos da Convenção como membro de uma família que, devido às atividades de um ou mais dos seus membros,possui um fundado temor de perseguição.
+Também pode haver casos em que a criança é separada de seus pais, mas é acompanhada por um adulto que atua como seu guardião, seja ou não parente da criança. em tal situação, o entrevistador deve avaliar a qualidade e a durabilidade da relação entre a criança e o guardião e decidir se a presunção de “status de desacompanhado” deve ser ignorada. Se, depois de avaliar a relação,for determinado que a criança está acompanhada, o procedimento deve seguir o trâmite normal, com o adulto responsável, dando atenção para o princípio da “unidade familiar”. deve ser lembrado que uma solicitação de “unidade familiar” pode ser feita por uma criança aos cuidados de alguém que não é um parente, quando a relação é equivalente a uma relação familiar.
+Se uma criança que está a cargo de um dos pais, tutor ou outro membro adulto da família faz uma solicitação individual de refúgio, o adulto pode ser útil para apresentar a informação factual para documentar a solicitação, falando em nome da criança, ajudando a criança a entender o processo, oferecendo apoio emocional e aconselhamento, ou tomando decisões em nome da criança.
+CRITÉRIOS E PROCEDIMENTOS PARA A DETERMINAÇÃO DA CONDIÇÃO DE REFUGIADO DE CRIANÇAS DESACOMPANHADAS DE SEUS PAIS
+Os instrumentos de Direito Internacional dos Refugiados definem um refugiado independentemente da idade e não fazem disposições especiais para a situação das crianças refugiadas. embora isso geralmente não seja um problema quando a criança é acompanhada por um ou ambos os pais, a determinação da condição de refugiado para crianças desacompanhadas é mais difícil e requer considerações especiais. além disso, considerando-se os efeitos nocivos que uma estada prolongada em uma situação de acampamento, ou algo semelhante, pode ter sobre o desenvolvimento físico e psicológico da criança, é do superior interesse da criança que a sua condição de refugiado seja determinada o mais rápido possível.
+A questão de saber se uma criança desacompanhada pode qualificar-se para a condição de refugiado dependerá do seu grau de desenvolvimento mental e maturidade. para ajudar neste processo, deve-se contar com um especialista com experiência suficiente e conhecimento do comportamento e desenvolvimento psicológico, físico e emocional das crianças, para fazer a avaliação necessária, tendo em conta que as crianças podem manifestar seus medos de forma diferente dos adultos.
+Quando for determinado que a criança tem idade suficiente para entender e falar durante a entrevista de elegibilidade, o caso pode ser tratado de forma semelhante à de um adulto. No entanto, quando a criança não adquiriu um nível de maturidade suficiente, a fim de estabelecer o fundamento da solicitação da mesma forma que um adulto, é necessário dar maior peso aos fatores objetivos, tais como as características do grupo com o qual a criança veio de seu país, a situação prevalecente no país de origem, as circunstâncias que cercam os parentes, dentro ou fora do país.
+Uma vez que as crianças não são juridicamente independentes, devem ser representadas por um guardião legal, cuja tarefa é tomar as decisões que considerem o superior interesse da criança. em algumas situações, adultos cuidadosamente selecionados dentro da comunidade de refugiados ou de organizações não governamentais podem desempenhar esse papel. o tutor ou responsável adulto pode ser uma grande ajuda ao longo do processo de determinação da condição de refugiado e pode tomar cuidado para que os interesses da criança sejam totalmente salvaguardados.
+Entrevistar crianças desacompanhadas levanta uma série de questões e preocupações. um grande obstáculo é que pode ser difícil obter informações precisas sobre a família da criança. devido ao trauma causado pela separação dos membros da família, a criança pode inventar uma versão dos eventos que para ela é mais fácil de encarar do que a verdade. o problema da “prova” é grande em todos os procedimentos de determinação da condição de refugiado, mas se torna ainda mais complexo no caso de crianças. por esta razão, a decisão da condição de refugiado requer uma aplicação liberal do princípio do benefício da dúvida.
+As seguintes diretrizes foram desenvolvidas para ter em conta as necessidades especiais dos menores não acompanhados envolvidos nos procedimentos de determinação da condição de refugiado.
+2) DIRETRIZES GERAIS PARA A REALIZAÇÃO DE ENTREVISTAS
+a) Assegure-sede que a criança desacompanhada tenha acesso ao procedimento de determinação da condição de refugiado.
+b) As crianças que têm idade suficiente para entender o que significa ser reconhecida como refugiado devem ser informadas sobre o processo. isso inclui mantê-las atualizadas sobre o desenvolvimento do processo e sobre as decisões que foram tomadas. uma vez que a incerteza pode levar à ansiedade e preocupação desnecessária, manter a criança refugiada devidamente informada é importante não só para ajudar a dissipar os rumores, mas também para ajudar a criança a entender as consequências do procedimento e ter expectativas realistas.
+c) Se um menor não acompanhado chega como parte de um fluxo em massa para o qual foi realizada uma determinação coletiva da condição de refugiado prima facie, cada criança no grupo deve receber automaticamente a condição de refugiado.
+d) A importância de fornecer informações verdadeiras e ser tão preciso quanto possível, deve ser enfatizada à criança solicitante, como também deve ser salientado que não há respostas “certas” nem “erradas” para as perguntas.
+e) Em entrevistas individuais para determinar a condição de refugiado, é recomendável que o entrevistador e o intérprete compartilhem a cultura e a língua da criança refugiada. os intérpretes devem ser especialmente treinados para trabalhar com crianças (por exemplo, um assistente social ou um professor).
+f) As técnicas de entrevista devem ser adaptadas de acordo com a maturidade e compreensão da criança. use uma linguagem simples e invista mais tempo em estabelecer afinidade com a criança e desenvolver uma relação de confiança. Use um tempo para explicar o processo da entrevista e por que lhe fará certos tipos de perguntas. deve-se incentivar a criança a fazer perguntas durante a entrevista.
+g) Se a criança é incapaz ou não tem vontade de falar sobre um evento específico durante a entrevista, pode ser necessário deixar o fato de fora. explique à criança que você entende sua dificuldade e que ele poderá falar sobre isso mais tarde, durante o curso da mesma entrevista, ou em outro momento.
+h) O entrevistador deve estar preparado para reconhecer quando uma criança atingiu o seu limite. Faça uma pausa ou adie a entrevista se você notar sinais persistentes de aflição.
+i) Tenha em mente que você pode precisar usar métodos alternativos para reunir provas, como: solicitar informações dos membros adultos da família ou responsáveis, ao invés de solicitar à criança; reunir informações sobre a situação das crianças no país de origem; obter prova pericial de um médico, um psicólogo infantil ou assistente social.
+j) A entrevista deve ser concluída com uma conversa da vida cotidiana normal, para restaurar uma sensação de segurança. a criança vai precisar de tempo após a entrevista para recuperar a sua capacidade de se ajustar (por exemplo, as entrevistas não devem ser conduzidas quando a criança está prestes a ir para a cama e de preferência não deve ser feita durante o horário escolar).
+PONTOS A RECORDAR
+• Familiarize-se com as fontes de informação relevantes relacionadas a crianças refugiadas, incluindo guias de proteção e informações sobre o país de origem;
+• Utilize os critérios de elegibilidade relacionados com a ‘unidade familiar';
+• Certifique-se de que crianças solicitantes de refúgio tenham acesso a uma entrevista e, sempre que possível, o entrevistador e intérprete compartilhem sua cultura e linguagem;
+• Quando necessário, procure o conselho de um especialista com experiência e conhecimento sobre o desenvolvimento psicológico, emocional e físico e o comportamento das crianças, e garanta que crianças desacompanhadas estejam representadas por um tutor legal;
+• Antes de iniciar a entrevista, explique o procedimento para a criança refugiada. Tire um tempo suficiente durante a entrevista e adote as técnicas apropriadas;
+• Familiarize-se com os métodos alternativos para obter informações, incluindo investigação sobre o país de origem, conselhos de especialistas, solicitação de informações de membros da família ou responsáveis, etc.
+CAPÍTULO 6
+O RESULTADO DA ENTREVISTA
+Neste capítulo você vai aprender:
+       • Tarefas e objetivos básicos;
+       • A documentar a entrevista;
+       • A avaliar a credibilidade;
+       • A preparar a avaliação e as suas conclusões.
+Ao longo deste módulo de formação temos discutido como se preparar para realizar uma entrevista e analisamos uma série de problemas que o entrevistador pode enfrentar, sugerindo maneiras de resolvê-los. A fim de realizar uma entrevista completa e bem preparada, você deve executar uma série de tarefas. estas incluem documentar a entrevista, avaliar a credibilidade e apresentar uma conclusão fundamentada. Não existe um único método ou técnica para executar estas tarefas. Realizar entrevistas para determinar a condição de refugiado de forma eficiente e com cuidado requer prática, uma boa supervisão e cumprir as suas responsabilidades.
+Depois de fazer algumas entrevistas com os solicitantes de refúgio, o entrevistador irá desenvolver suas próprias técnicas e estilo de formular perguntas. entrevistas bem sucedidas são aquelas em que todos os assuntos importantes foram discutidos e documentados. o entrevistador deve se esforçar para fazer a entrevista de forma a garantir o mais alto nível de validade e confiabilidade das informações obtidas. Estas são tarefas que podem ser aprendidas através da prática e experiência.
+1) TAREFAS E OBJETIVOS BÁSICOS
+o relatório da entrevista é um registro documentado do procedimento de entrevista. A forma e o estilo do relatório da entrevista irá variar de pessoa para pessoa. No entanto, há uma série de “tarefas e objetivos” que devem ser cumpridos.
+Vamos rever estas tarefas em mais detalhe abaixo.
+• As ações para determinar os aspectos relevantes incluem:
+• Entender claramente o propósito da entrevista;
+• Comunicar claramente as questões específicas segundo o seu objetivo;
+• Detectar e corrigir mal-entendidos que o solicitante possa perceber com relação às perguntas;
+• Distinguir aspectos claramente irrelevantes, potencialmente pertinentes e claramente importantes para a solicitação.
+• As tarefas para garantir a validade das declarações incluem:
+• Manter um bom relacionamento com o solicitante;
+• Detectar fatores inibitórios que tornam o solicitante relutante ou incapaz de fornecer informações válidas.
+• As tarefas para garantir a confiabilidade incluem:
+• Identificar e resolver contradições, discrepâncias ou omissões na história do solicitante;
+• Identificar e resolver contradições percebidas entre as informações pessoais fornecidas pelo solicitante e a informação geral que está disponível sobre a situação de seu país de origem.
+       • Avaliar a credibilidade do solicitante.
+2) RELATÓRIO DA ENTREVISTA
+Um processo essencial na realização de entrevistas de elegibilidade é preparar anotações precisas e detalhadas dos procedimentos. embora tomar notas seja uma parte essencial do processo de entrevista, isto não deve interferir no desenvolvimento da entrevista. além disso, em algumas culturas pode ser inadequado tomar notas durante a comunicação com alguém. por outro lado, você vai descobrir que, em alguns lugares para entrevistas, tais como centros de detenção e delegacias de polícia, não se pode tomar notas durante a entrevista. Nestes casos, você deve dedicar um tempo, logo após a entrevista, para preparar o seu relatório escrito.
+Também se deve levar em consideração que fazer anotações enquanto se entrevista alguém pode ser uma distração, uma vez que o contato visual é perdido momentaneamente e podem se perder os sinais de comunicação não verbais, como expressões faciais e linguagem corporal. para evitar estes problemas, uma técnica útil é anotar os pontos principais da solicitação durante a entrevista e, em seguida, preparar notas detalhadas no final da entrevista. Ao final da entrevista, você deve buscar revisar com o solicitante o que ele declarou. Ao fazer isso você pode confirmar que a história foi bem documentada e que o solicitante está satisfeito. também demonstrará ao solicitante que você procurou documentar sua solicitação com extremo cuidado.
+• PONTOS A RECORDAR
+Tente ser preciso
+Tente preparar suas notas durante a entrevista ou imediatamente após a conclusão. Se você for escrever todas as suas notas depois da entrevista, dedique tempo no final da entrevista para garantir a fidelidade de suas memórias.
+Registre todos os fatos com clareza
+Lembre-se que as notas da entrevista representam uma declaração documentada da solicitação de refúgio. Concentre-se em registrar fatos claros e objetivos. use uma linguagem concisa, simples e fácil de entender. isso vai ajudar outras pessoas que têm de ler suas notas para tomar uma decisão ou realizar entrevistas adicionais. evite usar abreviaturas, palavras-chave, jargão ou frases ambíguas. Se as notas forem manuscritas, verifique se elas são legíveis.
+Faça anotações detalhadas
+Como regra geral, tente fazer anotações detalhadas da solicitação, especialmente dos fatores decisivos como eventos importantes, descrições de prisões e detenções, principais razões para deixar o país, e assim por diante.
+Seja flexível
+Quando você está entrevistando com um formulário ou perfil de questões, não é necessário fazer as perguntas na ordem exata em que elas aparecem. Mantenha-se flexível e aberto para seguir várias linhas de questionamento que possam surgir. Muitas vezes, as respostas para muitas perguntas que você planejou aparecem naturalmente durante a entrevista. perguntas que não foi possível fazer durante o desenvolvimento normal da entrevista, você pode fazer no final.
+Confira as declarações dúbias ou enganosas
+Se houver qualquer dúvida ou confusão sobre qualquer parte da declaração do solicitante, uma técnica útil é lê-la novamente ou voltar às partes da entrevista que não ficaram claras. Em seguida, peça ao solicitante para confirmar ou explicar a discrepância ou mal-entendido. Certifique-se de que o solicitante concorda que os fatos foram registrados corretamente. esta estratégia irá ajudar a assegurar a exatidão de suas notas e, mais uma vez, vai mostrar ao solicitante que você está seriamente se esforçando para ser cuidadoso. Este método também pode ser eficaz para avaliar a credibilidade da solicitação, uma vez que todas as discrepâncias e contradições pendentes deverão ser documentadas como parte do relatório da entrevista.
+O solicitante tem algo a acrescentar?
+No final da entrevista, pergunte ao solicitante se ele tem algo a acrescentar, incluindo quaisquer questões ou preocupações relacionadas com a entrevista em si ou qualquer aspecto do procedimento de refúgio. Convide o solicitante a apresentar, posteriormente, quaisquer documentos adicionais ou outras informações que considere relevantes para a solicitação. deixe registrado em suas anotações que estes pontos foram comunicados ao solicitante, juntamente com qualquer resposta que você tenha dado.
+3) AVALIAÇÃO DA CREDIBILIDADE
+Avaliar a credibilidade de um solicitante é um dos mais importantes e mais difíceis aspectos de seu trabalho como um entrevistador. Não existem regras que podem ser aplicadas cegamente. No entanto, as orientações fornecidas nos capítulos anteriores devem proporcionar uma base sólida para avaliar a credibilidade do solicitante e chegar às suas próprias conclusões.
+• PONTOS A RECORDAR
+Recorde particularmente a importância de:
+• Preparar-se minuciosamente (ver Capítulo 1, com especial atenção às informações do país de origem);
+• Fazer as perguntas certas (ver Capítulo 2, especialmente no que diz respeito às técnicas de entrevista);
+• Esteja ciente de possíveis barreiras na comunicação (ver capítulos 3 Barreiras de comunicação, 4 Mulheres Solicitantes de Refúgio e 5 entrevistas com crianças).
+CRITERIOS LEGAIS PERTINENTES
+Avaliar a credibilidade do solicitante é determinar a veracidade de sua declaração.Isso não deve ser confundido com a avaliação da suficiência da prova. a avaliação da credibilidade da solicitação de refúgio refere-se aos critérios legais do ônus e suficiência das provas. No Manual de Procedimentos e Critérios para a Determinação da Condição de Refugiado do ACNUR, a aplicabilidade do ônus e a suficiência das provas são brevemente discutidos nos parágrafos 195-205. No entanto, as orientações gerais apresentadas no Manual também deve ser consideradas em relação à legislação nacional aplicável.
+No contexto deste módulo de treinamento não é possível fazer uma análise aprofundada dos padrões legais para determinar quando uma solicitação é considerada “provada”. os diferentes sistemas jurídicos e os procedimentos nacionais de refúgio também podem utilizar padrões, normas e práticas divergentes que dificultam a obtenção de critérios universalmente aplicáveis. No entanto, considerando que é fundamental entender os critérios legais pertinentes para avaliar a credibilidade da solicitação, isto será discutido brevemente a seguir.
+ÔNUS DA PROVA
+A solicitação de refúgio é, na verdade, uma declaração de que o solicitante tem um fundado temor de perseguição com base em um ou mais dos motivos enumerados no artigo (1) da Convenção de 1951. Como discutido acima, alguns países aplicam outros critérios regionais. Apesar do ônus da prova (que significa quem deve provar a solicitação), em princípio, pertencer ao solicitante, o solicitante e o entrevistador compartem o dever de apurar e avaliar todos os fatos relevantes. além disso, o solicitante não é obrigado a “provar” todos os fatos alegados na solicitação de refúgio. uma vez que as consequências de uma decisão negativa errônea podem ser extremamente graves para os refugiados e devido à falta de disponibilidade ou acesso a provas objetivas, em muitas situações de refúgio o ônus da prova deve ser considerado com flexibilidade, particularmente quando:
+• O temor que justificar uma solicitação de refúgio se baseia em alguma possibilidade futura e que não pode ser demostrada no presente;
+• As circunstâncias que motivaram sua fuga do país de origem dificultaram ou impossibilitaram que o solicitante trouxesse consigo sua prova documental;
+• O temor ou trauma resultante da perseguição e fuga produziram lacunas e inconsistências no depoimento, e
+• A obtenção de provas documentais do país de origem possa ser extremamente difícil ou arriscada, porque os refugiados não podem regressar ao seu país de origem. assim, o ônus da prova pode ser satisfeito mesmo que o solicitante seja incapaz de fornecer provas concretas, desde que possa fornecer uma história coerente e plausível sobre o tipo de perseguição que teme e as causas deste temor.
+O MERITO DA PROVA
+O mérito da prova é o limite que o solicitante deve alcançar para convencer o examinador sobre a verdade dos fatos. em geral, a prova que o solicitante deve fornecer deve demonstrar a verossimilhança ou probabilidade razoável de perseguição. De acordo com o espírito humanitário da Convenção não seria razoável exigir provas conclusivas para uma solicitação de refúgio. Esta interpretação da prova admissível e suficiente é respaldada pela prática e pelos precedentes legais em diferentes jurisdições nacionais.
+O BENEFÍCIO DA DÚVIDA
+Outro aspecto importante da determinação da condição de refugiado é gerenciar dúvidas sobre a solidez ou veracidade de uma solicitação de refúgio. algumas solicitações de refúgio podem descumprir a admissibilidade e suficiência de provas. As discrepâncias e inconsistências do próprio testemunho, entre o depoimento e as provas documentais ou entre o testemunho e as próprias ações do solicitante, também podem gerar dúvidas e resultar em uma avaliação negativa de credibilidade.
+Como indicado acima, não é possível, nem necessário, que um refugiado “prove” todos os aspectos de sua solicitação. além disso, muitas vezes é necessário dar ao solicitante o benefício da dúvida. No entanto, o benefício da dúvida só deve ser aplicado quando a evidência disponível foi obtida e verificada e quem toma a decisão está satisfeito com a credibilidade do solicitante. em seguida, são tratadas uma série de regras e diretrizes gerais para a avaliação da credibilidade.
+REGRAS GERAIS PARA AVALIAR A CREDIBILIDADE:
+Estratégia Básica
+Faça a avaliação da credibilidade somente depois de ter obtido toda a informação (por exemplo, depois de esclarecer a história). Tente definir os aspectos fundamentais para avaliar a credibilidade da solicitação. Defina e ajuste o grau de precisão e detalhe que pode ser exigido do solicitante. utilize perguntas claras e diretas. Não faça juízos de valor precipitados e não hesite em repetir perguntas ou aprofundar fatos relevantes para a solicitação. lembre-se de conectar uma pergunta à outra.
+Fatores relevantes para a avaliação da credibilidade
+Um aspecto da avaliação da credibilidade da pessoa que você está entrevistando é examinar as evidências sobre sua consistência interna (coerência da declaração) e sua consistência externa (concordância com os fatos conhecidos). Você também deve considerar a fluidez do testemunho (ou seja, a incidência de hesitação) assim como a sua clareza e rigor. Se forem apresentadas duas declarações, escrita e oral, deve haver uma coerência global entre as duas. Isto significa não apenas que a sequência de eventos e as declarações de suporte devem ser lógicas e consistentes, mas também que deve haver algum tipo de ligação entre lugares, horários, eventos e outros fatores que formam a base da solicitação.
+Para que o entrevistador esteja em posição de avaliar completamente a solicitação, esta deve ser bem documentada. isto inclui observar as evidências circunstanciais em torno dos eventos-chave, tais como prisões, períodos de detenção e razões para fugir do país. por exemplo, você deve fazer ao solicitante uma série de perguntas precisas e indagações sobre o que estava fazendo antes de ser preso, incluindo detalhes de onde ele estava, com quem, quais foram as circunstâncias da prisão, se houve testemunhas, e assim por diante. Você também deve buscar estabelecer certos elementos ou fatos “datados”. a lembrança de datas exatas não deve ser enfatizada demais, uma vez que é mais importante fixar indicadores gerais de “tempo” que podem ajudar você e o solicitante a localizar certos acontecimentos dentro da sequência geral da solicitação.
+Prova documental
+Outros indicadores de credibilidade dizem respeito ao exame da prova documental. Se o solicitante ofereceu tal evidência deve-se avaliar sua relevância, sua origem e como ela foi obtida, e se o uso de documentos falsos tem impacto sobre a credibilidade do solicitante. Você também deve comparar as provas documentais em termos de sua coerência interna e externa. em alguns casos, você pode obter relatórios médicos. estes também devem ser avaliados com base nas declarações do solicitante e na compatibilidade dos relatórios com a solicitação.
+Os documentos recebidos em um idioma que o entrevistador não entende devem ser traduzidos. É preferível obter documentos originais a fotocópias. Se não forem apresentados documentos originais, você pode perguntar ao solicitante se os originais estão disponíveis.Se não estiverem, o solicitante deve dar uma explicação do motivos. Verificar a autenticidade dos documentos é muitas vezes problemática. No caso de documentos oficiais emitidos pelas autoridades do país de origem, como pela polícia ou pelos tribunais, não está autorizado proceder com uma verificação ou compartilhar qualquer informação sobre casos individuais com as autoridades do país de origem. isto é importante não só para salvaguardar a confidencialidade do procedimento, mas para evitar pôr em perigo a segurança dos membros da família que ainda vivem no país de origem. Consequentemente, os documentos devem ser verificados na medida do possível através das fontes disponíveis através dos escritórios do ACNUR.
+O uso de desenhos e mapas
+Outra ferramenta eficaz para avaliar a credibilidade e facilitar a comunicação com o solicitante é o uso de desenhos e mapas. por exemplo, se o solicitante atravessou ilegalmente a fronteira de seu país de origem, pode ser capaz de mostrar em um mapa as vilas ou cidades que passou ao longo de sua jornada. além disso, se uma pessoa foi detida há algum tempo, pode ser capaz de desenhar uma imagem da cela. o uso de desenhos pode ser muito útil com crianças, pessoas com deficiência, ou que estão hesitantes ou incapazes de produzir um testemunho verbal claro. a utilização destes métodos pode também ajudar o solicitante a lembrar lugares, eventos e outros aspectos da solicitação.
+O perfil geral do solicitante
+A avaliação das declarações do solicitante em relação ao seu perfil global também é importante. por exemplo, se o solicitante disse que tem fortes convicções políticas ou é profundamente religioso, então é razoável supor que seja capaz de falar sobre essas crenças ou opiniões. No entanto, não deve ser exigido do solicitante um grau extremo de detalhe e precisão em suas declarações.
+O comportamento de um solicitante
+O comportamento do solicitante significa a sua conduta, incluindo a linguagem corporal, expressões faciais, gestos e fala. deve notar-se que o comportamento de um solicitante tem valor limitado na avaliação da credibilidade. além disso, a cultura e o gênero podem ter grande influência sobre o comportamento do solicitante. Por exemplo, um solicitante poderia sorrir em momentos inadequados, devido ao nervosismo ou porque na sua cultura é uma forma normal de expressão. além disso, as respostas emocionais variam de um indivíduo para outro e são afetadas de formas imprevisíveis pelas experiências traumáticas. Isto não significa que o comportamento não é relevante, longe disso. No entanto, não deve ser considerado como um fator determinante no momento de decidir sobre a credibilidade de um solicitante, já que esse fator tem confiabilidade limitada e é de natureza subjetiva. outro aspecto importante ao prestar atenção no comportamento do solicitante é buscar evidências de trauma.
+DIRETRIZES GERAIS PARA A AVALIAÇÃO DA CREDIBILIDADE
+Pode ser útil fazer referência ao conjunto de sínteses a seguir:
+• As pequenas inconsistências, imprecisões ou omissões em uma solicitação não devem conduzir a uma falta de credibilidade, quando estas inconsistências, imprecisões ou omissões não sejam essenciais ou vitais para a solicitação. Se uma declaração não parece confiável, mas a solicitação tem bases sólidas, deixe a declaração de lado e reconheça a condição de refugiado.
+• Omitir partes da história não necessariamente mina a credibilidade do solicitante. um refugiado genuíno pode não querer contar sua história, com medo de pôr em risco os parentes ou amigos, ou por medo de compartilhar estas informações com pessoas em posições de autoridade. o solicitante pode também temer as consequências do indeferimento da sua solicitação. além disso, outras pessoas podem ter orientado o solicitante a não dizer toda a verdade durante a entrevista.
+• Uma solicitação pode ser crível, ainda que o solicitante forneça informações em uma entrevista posterior que não tinha fornecido em um interrogatório preliminar. esta discrepância pode ocorrer devido à relutância do solicitante em falar livremente durante a primeira entrevista, podendo decidir fazer uma declaração completa e precisa em momento posterior.
+• A solicitação de refúgio pode ser fundada ainda que o solicitante não tenha sido efetivamente perseguido. O fato de nunca ter sido preso ou identificado pelas autoridades não deve levar à suposição de que a história é falsa ou deficiente em relação ao enquadramento na definição de refugiado.
+• Não presuma que um solicitante tenha inventado a sua história simplesmente porque o padrão da solicitação é semelhante ao padrão apresentado por outros solicitantes. por outro lado, uma solicitação pode ser verdadeira, mesmo que seja diferente das declarações feitas por outros solicitantes de refúgio provenientes do mesmo país.
+4) AVALIAÇÃO E CONCLUSÕES
+Determinar a condição de refugiado requer a aplicação de normas jurídicas aos fatos específicos da solicitação. Este módulo tratou das técnicas para garantir que o solicitante de refúgio relate todos os fatos relevantes durante a entrevista. Mencionamos que a questão de se comprovar esses fatos pode ser sanada a partir da pesquisa de país de origem e dos critérios de elegibilidade. a análise sobre se os fatos devem levar ao reconhecimento da condição de refugiado é assunto de um outro módulo de treinamento do ACNUR:Determinação da Condição de Refugiado (RLD2). Estar familiarizado com o material deste módulo é um requisito mínimo para fazer entrevistas de elegibilidade em procedimentos de refúgio.
+Na preparação da decisão ou recomendação sobre um caso específico, o entrevistador deve incluir as seguintes informações:
+       • A descrição básica do solicitante,incluindo todos os dados biográficos relevantes;
+       • Os fundamentos da Convenção nos quais se baseia a solicitação;
+       • Um resumo das provas e argumentos apresentados como apoio à solicitação;
+       • A definição dos aspectos a partir dos quais o caso deve ser avaliado;
+• Uma breve análise de cada aspecto, com referência à prova apresentada e às questões legais pertinentes;
+• As conclusões a respeito de cada aspecto (tanto factual quanto legal), incluindo a sua fundamentação detalhada;
+• A declaração concisa da decisão recomendada.
+Sem dúvida, há elementos subjetivos inevitáveis que entram em jogo quando se decide sobre uma solicitação de refúgio. No entanto, a determinação real não pode ser feita arbitrariamente com base em sentimentos intuitivos ou “viscerais” do entrevistador sobre o caso.
+Na elaboração da sua avaliação e conclusões pode ser útil destacar os principais aspectos da solicitação e resumir aqueles a favor e contra o reconhecimento da condição de refugiado. isto facilitará o caminho para outras pessoas que terão que ler o relatório numa fase posterior e tomar decisões ou fazer entrevistas adicionais. determinar a condição de refugiado é uma tarefa onerosa e um trabalho que exige empenho profissional além de requerer considerável conhecimento, habilidade e capacidade de julgamento. Se a avaliação e as conclusões refletem estes atributos, todas as partes no processo podem ter certeza de que o procedimento de determinação foi completo e justo e que se tomou uma decisão arrazoada.
+CAPÍTULO 7
+ASPECTOS DE SEGURANÇA
+Neste capítulo você vai aprender:
+       • A importância da confidencialidade;
+       • Como proteger documentos;
+       • O que fazer se você está entrevistando as pessoas em locais de detenção;
+       • As recomendações básicas de segurança quando da realização de entrevistas.
+Com o aumento da extensão geográfica e magnitude do problema dos refugiados, o ACNUR, os governos e as organizações não-governamentais estão sendo chamados para trabalhar em condições de crescentes dificuldades e perigos. Levando isso em conta, é extremamente importante abordar a questão da segurança.
+Ao longo deste módulo de formação, tem sido repetidamente enfatizada a importância de estar bem preparado antes de uma entrevista e de realizar a entrevista com cuidado e profundidade. Realizar entrevistas com os solicitantes de refúgio pode ser estressante, difícil e desgastante. Às vezes, também é necessário realizar entrevistas em lugares difíceis ou escritórios improvisados, seja em campos de refugiados, centros de detenção ou aeroportos. Como indicado no capítulo l, você deve garantir que o ambiente físico atenda aos requisitos mínimos de conforto, proporcionando privacidade e evitando ruídos e interrupções. No Capítulo 3, também mencionamos algumas das barreiras de comunicação que se podem enfrentar, incluindo como lidar com um solicitante relutante ou que se recusa a participar do processo de entrevista.
+aqui estão algumas diretrizes gerais e as práticas sugeridas. Comece com a importante questão da “confidencialidade”.
+1) A IMPORTÂNCIA DA CONFIDENCIALIDADE
+Uma das principais preocupações de um processo de entrevista é garantir a confidencialidade. Isto é crucial, não só para ajudar a criar uma relação de confiança entre o solicitante e o entrevistador, mas também para proporcionar proteção e segurança ao solicitante.
+A realização de entrevistas para determinar a condição de refugiado é um processo singular no qual o solicitante alega ter um fundado temor de perseguição. Na verdade, isso significa que os solicitantes temem por sua própria segurança e bem-estar, bem como de seus familiares acompanhantes ou aqueles que ainda residem no país de origem. Devido à necessidade de proteção e a importância de preservar a confidencialidade das informações recebidas de um solicitante, o ACNUR não pode compartilhar qualquer informação sobre casos individuais com os países de origem. Consequentemente, o entrevistador tem de tomar precauções para assegurar que a confidencialidade do processo de entrevista é mantida antes, durante e depois da entrevista. a este respeito, deve seguir os seguintes critérios:
+• Antes de iniciar uma entrevista, explique ao solicitante que tanto você quanto o intérprete (e qualquer outra pessoa envolvida no processo de entrevista, como assistentes sociais), são obrigados a manter estritamente confidenciais todas as informações que recebem;
+• Certifique-se de que todo o pessoal envolvido no processo de entrevista está bem informado e treinado sobre a importância e os métodos de manutenção da confidencialidade;
+• Não compartilhe qualquer informação com terceiros, tais como médicos, agentes comunitários e outros indivíduos que estão ajudando o solicitante, a menos que você tenha o consentimento aprovado, explícito e por escrito do solicitante.
+2) A SEGURANÇA DOS DOCUMENTOS
+Fundamental para manter a confidencialidade do processo de entrevista é proteger os documentos. para garantir que todos os documentos escritos são mantidos em sigilo e não são acessíveis a pessoas não autorizadas, devem ser tomadas as seguintes precauções:
+• Assegure-se de que todos os arquivos são mantidos em armários trancados com cadeado; certifique-se que o arquivo está seguro mesmo quando não há ninguém no escritório;
+       • Verifique se o sistema de computador é confiável e protegido;
+       • Destrua qualquer documento que não seja mais necessário para um arquivo;
+• Se for necessário enviar cópias da documentação relativa a uma solicitação de refúgio para outro escritório, tome as medidas necessárias para garantir um transporte seguro.
+3) ENTREVISTAS REALIZADAS EM CENTROS DE DETENÇÃO
+Em algumas circunstâncias, pode ser necessária a realização de entrevistas em um local de detenção, o que pode significar simplesmente que o solicitante não é livre para deixar um local que está sob vigilância oficial. Isto se aplica a centros de detenção do aeroporto, prisões ou delegacias de polícia. Você deve evitar conduzir entrevistas em lugares assim. No entanto, é possível que não haja outra oportunidade de fazê-lo.
+Você deve se lembrar que o Comitê executivo do ACNUR recomendou que os refugiados e solicitantes de refúgio que estão detidos devem ter a oportunidade de contato com o ACNUR, ou, na falta de tal escritório, com uma das agências nacionais de assistência aos refugiados. as seguintes precauções devem ser tomadas na realização de entrevistas nos locais de detenção:
+• Sempre se certifique de que você e toda a equipe que o acompanha têm documentos de identificação adequados antes de ir para o centro de detenção. também é importante pedir permissão para acessar o centro de detenção. Verifique se a pessoa que será entrevistada foi notificada da sua chegada;
+• Leve seu próprio intérprete e instrua-o sobre as circunstâncias da entrevista, inclusive sobre o possível ambiente de entrevista;
+• Peça uma sala privada para realizar a entrevista. Se não for possível, certifique- se de que ninguém (guardas, outros presos, etc.) estará presente ou poderá ouvir o procedimento de entrevista;
+• Antes de iniciar a entrevista, tenha um rápido bate-papo com o solicitante. Procure agir com calma e tranquilidade já que ele, certamente, estará sob muita pressão;
+• Se você costuma tomar notas durante a entrevista, avalie a possibilidade de que as mesmas sejam confiscadas ou fotocopiados pelas autoridades quando você deixar o centro de detenção. Se esta for uma possibilidade real, procure fazer apenas notas breves, usando palavras-chave durante a entrevista, e somente redija suas anotações completas depois de abandonar as instalações.
+4) RECOMENDAÇÕES DE SEGURANÇA PARA
+A REALIZAÇÃO DE ENTREVISTAS
+Infelizmente, atos hostis contra as pessoas que realizam entrevistas às vezes acontecem. portanto, é fundamental que todas as pessoas compreendam a importância de medidas de segurança antes de realizar reuniões ou entrevistas com indivíduos ou grupos.
+As seguintes recomendações são destinadas a aumentar a segurança dos funcionários do ACNUR e outros agentes envolvidos no processo de entrevista. Quanto aos cuidados e práticas a serem seguidas em locais específicos, sugere-se pedir orientações do pessoal local especializado.
+       • Todas as entrevistas devem ser marcadas, se possível, com antecedência;
+• Instalar um sistema de identificação na entrada principal da área da entrevista, colocando guardas para controlar o acesso ao escritório. Se necessário, os guardas devem revistar os indivíduos que procuram entrar no prédio ou instalar um detector de metal;
+• Certifique-se de que a área de entrevista não é exposta visualmente para a área de espera;
+• Somente permita o acesso de um número mínimo de pessoas à área de espera de uma só vez;
+• As portas dos sanitários e de reservatórios de água não podem ser capazes de serem trancadas por dentro;
+• As lâmpadas de parede e cabos elétricos não devem ser expostos, pois poderiam ser usados como armas ou em tentativas de suicídio;
+• Se um indivíduo tem um histórico conhecido de comportamento violento, isso deve ser anotado na pasta individual. Com isso, o entrevistador poderá tomar as medidas de precaução que entender necessárias;
+• Organize os móveis da sala da entrevista de modo que o entrevistador esteja protegido. a cadeira do entrevistador deve estar situada de modo a dar-lhe um acesso fácil à porta. as portas das salas de entrevistas só devem poder ser trancadas pelo lado de fora;
+• Certifique-se de que não há objetos na sala de entrevista que possam ser usados como armas (por exemplo, pesos de papel pesados, abre-cartas, etc.)
+• Estabeleça procedimentos de evacuação das salas e verifique se não há um mecanismo ou procedimento instalado para pedir ajuda;
+• Se você estiver realizando entrevistas em locais remotos, certifique-se de ter sempre com você equipamento de comunicação adequado, tais como rádios. Você também deve sempre viajar com outros colegas e acionar as autoridades locais no caso de você precisar de ajuda;
+• No caso de um incidente de segurança, você deve considerar seriamente a possibilidade de levar à justiça um indivíduo que ataca um entrevistador.
+5) TRAUMA E EXAUSTÃO DAS PESSOAS QUE TRABALHAM EM CONTATO COM REFUGIADOS
+As pessoas que desempenham trabalho humanitário muitas vezes devem manter uma postura calma, eficiente e metódica no trabalho para reagir de forma eficaz em caso de crises. Realizar entrevistas em procedimentos de refúgio pode ser muito desgastante. a natureza do trabalho é tal que os entrevistadores e intérpretes podem experimentar o chamado de “trauma relacional e esgotamento”. todos os envolvidos no processo de entrevista devem estar ciente dos sintomas, fatores de risco,prevenção e tratamentos que podem ser oferecidos às pessoas nestas situações.
+Estar informado e ciente do que fazer em tais circunstâncias é uma consideração importante para a saúde e o bem-estar de todos os funcionários que trabalham com refugiados. Isso também assegura que o seu trabalho será realizado de forma eficaz, eficiente e segura. Sentir-se cansado e deprimido terá um impacto negativo não apenas na sua capacidade de realizar o trabalho, como também pode torná-lo mais vulnerável a um incidente de segurança por estar mais desatento e, portanto, menos capaz de reagir rapidamente a uma problema.
+Uma maneira de ajudar a si mesmo e a outros colegas é organizar sessões regulares de informação. isso irá proporcionar a oportunidade de conversar informalmente sobre as dificuldades e estresse experimentado nas entrevistas
+
+
+
+Todas as publicações do ACNUR são distribuídas gratuitamente
+e podem ser livremente circuladas. para conhecer outras publicações do
+ACNUR em português, acesse www.ACNUR.org.br
+e consulte a seção “Recursos - publicações
+
+Defensoria Pública da União
+UNHCR
+ACNUR
+Agência da ONU para Refugiados
+Defensoria Pública da União
+UNHCR
+ACNUR
+Agência da ONU para Refugiados
+
+
+
+NUR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

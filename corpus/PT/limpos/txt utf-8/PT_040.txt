@@ -1,0 +1,524 @@
+﻿<Header>
+	<title>
+		<tit> Direitos e deveres dos solicitantes de refúgio no Brasil - ACNUR 2010  </tit>
+		<fileName> PT_040 </fileName>
+		<generalDomain> Migration </generalDomain>
+		<specificDomain> Refugees </specificDomain>
+		<textType> Cartilha </textType>
+		<subcorpus> PT BR </subcorpus>
+	</title>
+	<sourceText>
+		<language> Português Brasileiro </language>
+		<source> https://www.acnur.org/portugues/wp-content/uploads/2018/02/Direitos-e-deveres-dos-solicitantes-de-ref%C3%BAgio-no-Brasil_ACNUR-2010.pdf </source> 
+		<publisher> ACNUR </publisher>
+		<pubDate> 2010 </pubDate>
+		<pubPlace> Internet </pubPlace>
+		<accessDate> 24 abr 2021 </accessDate>
+		<researcher> Joyce Santos  </researcher> 
+		<comments> Documento multilíngue para corpus paralelo. Possui o mesmo conteúdo em PT, IN, FR e ES.</comments>
+	</sourceText>
+	<author>
+		<institution> ACNUR </institution>
+	</author>
+</Header>
+
+Direitos e deveres dos solicitantes de refúgio no Brasil
+Rights and duties of asylum seekers in Brazil
+Droits et devoirs des demandeurs d'asile au Brésil
+Derechos y deberes de los solicitantes de asilo en Brasil
+
+Agência da ONU para Refugiados
+
+Edição final: Gabriel Gualano de Godoy
+Fotos: @ACNUR
+Projeto gráfico e diagramação: Compasso Comunicação - www.artecompasso.com.br
+Para mais informações entrar em contato com o Escritório do ACNUR no Brasil.
+Caixa Postal 8560, CEP: 70312-970, Brasília / DF, Brasil
+Telefone: (61) 3044 5744
+Correio Eletrônico: brabr@unhcr.org
+Website: www.acnur.org.br
+Twitter: @ACNURBrasil
+
+
+Direitos e deveres dos solicitantes de refúgio no Brasil
+Rights and duties of asylum seekers in Brazil
+Droits et obligations des demandeurs d'asile au Brésil
+Derechos y obligaciones de los solicitantes de asilo en Brasil
+		Brasil, 2010
+
+Português
+
+As Nações Unidas atribuíram ao ACNUR o mandato de conduzir e coordenar ações internacionais para proteção dos refugiados e a busca por soluções duradouras para seus problemas.
+
+
+
+
+
+Quem são os refugiados?
+São todos os homens e mulheres (incluindo idosos, jovens e crianças) que foram obrigados a deixar seus países de origem por causa de um fundado temor de perseguição por motivos de raça, religião, nacionalidade, por pertencer a um determinado grupo social ou por suas opiniões políticas.
+A legislação brasileira sobre refúgio (Lei 9.474 de 22 de julho de 1997) também reconhece como refugiadas as pessoas que foram obrigadas a sair de seus países devido a conflitos armados, violência e violação generalizada de direitos humanos.
+As pessoas que cometeram crimes contra a humanidade, de guerra, contra a paz e crimes hediondos ou que participaram de atos terroristas ou de tráfico de drogas não poderão se beneficiar da condição de refugiado.
+Quem são os migrantes?
+São todas as pessoas que deixam seus países de origem com o objetivo de se estabelecer em outro, de forma temporal ou permanente. Os migrantes têm, em geral, motivações sociais e econômicas, pois fogem da pobreza ou do desemprego e buscam melhores condições de vida, como melhor acesso a trabalho, saúde e educação.
+
+É missão do ACNUR assegurar os direitos e o bem-estar dos refugiados. O ACNUR empenha-se em garantir que qualquer pessoa possa exercer o direito de buscar e gozar de refúgio seguro em outro país.
+Por que solicitar refúgio?
+O Brasil assumiu o compromisso internacional de fornecer proteção a refugiados que, como qualquer cidadão brasileiro, buscam integração e sustento. A solicitação formal de refúgio regulariza, temporariamente, a permanência do solicitante no Brasil, garantindo o direito ao trabalho e o acesso aos serviços públicos de saúde e educação.
+Se o pedido for negado, o estrangeiro deverá regularizar sua permanência no país, solicitando um visto. Caso o visto seja negado, deve-se abandonar o território nacional. Depois de quatro anos de residência regularizada no país, os refugiados podem solicitar um visto de permanência no Brasil.
+A solicitação de refúgio é extremamente importante porque caso um estrangeiro, em necessidade de proteção internacional não solicite refúgio, ele estará automaticamente em situação irregular no país. Contudo, mesmo sob essa condição, sua integridade e dignidade deverão ser respeitadas de acordo com a legislação brasileira e os princípios dos direitos humanos. No tocante aos refugiados e solicitantes de refúgio, a lei brasileira não permite sua devolução ao país de origem.
+
+
+Como solicitar refúgio no Brasil?
+Ao entrar no Brasil, o estrangeiro que se considera vítima de perseguição em seu país de origem deve procurar qualquer delegacia da Polícia Federal ou autoridade migratória na fronteira e solicitar formalmente a proteção do governo brasileiro. Deve-se buscar a Polícia Federal preferencialmente assim que cruzar a fronteira.
+No entanto, a solicitação de refúgio pode ser feita a qualquer momento, ainda que o estrangeiro já esteja no Brasil há algum tempo. Seu pedido será encaminhado, para avaliação, ao Comitê Nacional para Refugiados (CONARE) - órgão vinculado ao Ministério da Justiça do Brasil.
+
+Passo a passo para a solicitação de refúgio
+
+1. Pedido de refúgio na Polícia Federal: o solicitante preencherá um formulário e será entrevistado. Caso o solicitante não fale português, a entrevista será traduzida. Feito isso, a Polícia Federal efetuará o Termo de Declaração, que será encaminhado ao CONARE.
+2. Protocolo provisório de solicitação de refúgio: após receber o Termo de Declaração, o CONARE expedirá declaração que autoriza a emissão do protocolo provisório de solicitação de refúgio. O Protocolo é extremamente importante, já que é o documento de identidade do solicitante até a análise de seu caso. Com o Protocolo, o solicitante poderá tirar o Cadastro de Pessoa Física (CPF) e a Carteira de Trabalho. O documento tem validade de três meses e deverá ser renovado na Polícia Federal até o solicitante ter sua resposta final.
+3. Entrevista com representante do CONARE: tendo feito o pedido de refúgio, a Polícia Federal entrará em contato para que seja realizada a entrevista com representante do CONARE. Essa entrevista servirá para os membros do CONARE analisarem o pedido de refúgio. Por isso, se o solicitante mudar de cidade, ele deve informar à Polícia Federal seu novo endereço.
+
+
+Ao prestar assistência aos refugiados no regresso ao seu país de origem ou na sua instalação em um outro país, o
+ACNUR também trabalha na busca por soluções duradouras para os problemas dessas pessoas.
+4. Decisões referentes ao pedido de refúgio
+4.1 Decisão positiva do CONARE: o solicitante deve buscar na Polícia Federal a decisão sobre seu pedido. Caso a decisão seja positiva, a Polícia Federal começará os trâmites para a emissão do Registro Nacional de Estrangeiros (RNE), documento de identidade dos estrangeiros no Brasil.
+4.2 Decisão negativa do CONARE: caso o solicitante não seja reconhecido como refugiado, ele será notificado da decisão pela Polícia Federal. O solicitante terá um prazo de 15 dias para apresentar recurso ao Ministério da Justiça que o analisará.
+4.3 Decisão negativa do Ministro da Justiça: esta decisão também será comunicada pela Polícia Federal. Se o Ministro da Justiça negar o recurso apresentado, o solicitante ficará sujeito à legislação de estrangeiros em vigor no país.
+
+
+Direitos e deveres dos solicitantes de refúgio
+Direitos:
+■ Ter acesso ao procedimento legal de solicitação de refúgio, gratuitamente e sem necessidade de advogado;
+■ Não ser devolvido para seu país de origem ou para onde possa ser vítima de violações de direitos humanos;
+■ Não ser discriminado pelas autoridades governamentais e pela sociedade;
+■ Não ser punido por entrada irregular no país;
+■ Solicitar, por meio da reunião familiar, a extensão da condição de refugiado para parentes (cônjuges, ascendentes e descendentes) e demais componentes do grupo familiar que se encontrem no território nacional, conforme estabelece a Lei 9.474 e a Resolução Normativa no4 do CONARE;
+■ Receber toda a documentação assegurada pela legislação: Protocolo Provisório, Registro Nacional de Estrangeiros (RNE), Cadastro de Pessoa Física (CPF), Carteira de Trabalho e passaporte para estrangeiro - no caso de viagens previamente autorizadas pelo CONARE;
+■ Ter os mesmos direitos e a mesma assistência básica de qualquer outro estrangeiro que resida legalmente no país, entre eles direitos civis básicos (como liberdade de pensamento e de deslocamento e não-sujeição à tortura e a tratamentos cruéis e degradantes) e direitos econômicos, sociais e culturais (como acesso aos serviços de saúde pública e educação, direito ao trabalho e à liberdade de culto);
+■ Escolher livremente o lugar de residência no território nacional;
+■ Requerer a permanência após ter vivido quatro anos no país, ou um ano, caso seja nacional de um país de língua portuguesa;
+■ Solicitar a permanência no Brasil em razão de ter cônjuge ou filho brasileiro;
+■ Reivindicar o acesso a procedimentos facilitados para o reconhecimento de certificados e diplomas.
+
+
+Deveres:
+■ Não praticar atos contrários à segurança nacional ou à ordem pública, sob pena de perder a condição de refugiado;
+■ Respeitar a Constituição Federal e as leis brasileiras, como todos os brasileiros e estrangeiros residentes no país. Qualquer crime ou infração cometidos terá o mesmo tratamento legal dado aos cidadãos brasileiros;
+■ Observar especialmente as leis específicas de proteção às crianças e aos adolescentes e à mulher.
+■ Informar a Polícia Federal e o CONARE, no prazo de 30 dias, qualquer mudança de endereço;
+■ Manter sua documentação atualizada;
+■ Não sair do território nacional sem autorização prévia e expressa do CONARE, sob pena de perder a condição de refugiado.
+O ACNUR oferece proteção e assistência às pessoas sob o seu mandato de forma imparcial, com base nas suas necessidades e sem distinção de raça, sexo, religião ou opinião política.
+
+
+Contatos úteis
+Comitê Nacional para os Refugiados - CONARE
+Telefone: (61) 2025 9225
+website: www.mj.gov.br/conare | Correio Eletrônico: conare@mj.gov.br
+Alto Comissariado das Naçoes Unidas para Refugiados - ACNUR:
+Telefones:
+Escritório Brasília: (61) 3044 5744
+Escritório Manaus: (92) 3233 0288
+website: www.acnur.org.br | Correio Eletrônico: brabr@unhcr.org
+Ministério do Trabalho e Emprego - MTE
+Telefone: (61) 3317 6000
+website: www.mte.gov.br
+Conselho Nacional de Imigração - CNIg
+Telefone: (61) 3317 6470
+website: www.mte.gov.br/cni
+Ministério da Justiça - MJ:
+Telefone: (61) 2025 3587
+website: www.mj.gov.br
+Polícia Federal - PF:
+Telefones:
+Brasília: (61) 3364 9259
+São Paulo: (11) 3538 5000
+Rio de Janeiro: (21) 3398 3198
+Manaus: (92) 3655 1515
+website: www.dpf.gov.br
+Secretaria Especial de Direitos Humanos - SEDH:
+Telefone: (61) 2025 3536
+website: www.sedh.gov.br | Correio Eletrônico: direitoshumanos@sedh.org.br
+Ouvidoria Geral da Cidadania - telefone: (61) 2025 3116
+
+A participação dos refugiados nas decisões que refletem em suas vidas é um princípio essencial da ação do ACNUR.
+Sociedade Civil
+Cáritas Arquidiocesana do Rio de Janeiro
+Telefone: (21) 2567-4177 / 2567-4105
+Correio Eletrônico: carj.refugiados@caritas-rj.org.br
+Cáritas Arquidiocesana de São Paulo
+Telefone: (11) 3115-2674 / 3241-3239
+Correio Eletrônico: casp.refugiados@uol.com.br
+Caritas Arquidiocesana de Manaus
+Telefone: (92) 3212 9030
+Correio Eletrônico: caritas@arquimanaus.org.br
+Instituto Migrações e Direitos Humanos
+Telefone: (61) 3340-2689
+Correio Eletrônico: imdh@migrante.org.br | website: www.migrante.org.br
+Associação Antônio Vieira
+Telefone: (51) 3254-0140
+Correio Eletrônico: refugiados9474@yahoo.com.br | website: www.asav.org.br
+Centro de Defesa dos Direitos Humanos
+Telefone: (11) 2358-9606
+
+Correio Eletrônico: cddh.guarulhos@gmail.com
+
+
+English
+
+UNHCR is mandated by the United Nations to lead and coordinate international action for the worldwide protection of refugees and to search for durable solutions to their problems.
+
+Who are the refugees?
+Refugees are all men and women (including elderly, young persons and children) who were obliged to leave their countries due to a well founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or support of a political opinion.
+The Brazilian law on refugees (Law 9.474 of June 22nd 1997) also recognizes refugees as persons who were forced to leave their countries of origin because of armed conflicts, violence and massive human rights violations.
+People who committed crimes against humanity, war crimes, crimes against peace and heinous crimes or who took part in terrorist acts or drug trafficking are not eligible to receive refugee status.
+Who is considered a migrant?
+Migrants are persons who left their countries of origin aiming at living in another place, temporally or permanently. Migrants usually have social and economic motivations, once they flee from poverty or unemployment and look for better life conditions, such as better access to work, health or education.
+
+
+UNHCR's primary purpose is to safeguard the rights and well-being of refugees. The UNHCR strives to ensure that everyone can exercise the right to seek asylum and find safe refuge in another State.
+Why request asylum?
+Brazil has made an international commitment to grant protection to refugees who seek integration and support, like any Brazilian citizen. The formal asylum request temporarily regularizes the applicant's stay in Brazil, securing their right to work and access to public health and education services.
+If the request is denied, the applicant shall regularize his/her permanency in the country by applying for a visa. In case the visa is also refused, he/she must leave Brazilian national territory. According to the Brazilian legislation, refuge- es may apply for a permanent visa after living at least four years in the country.
+The asylum request is extremely important because a foreigner in need of international protection without proper documentation will automatically be in an irregular situation in the country. Nonetheless, even in this case, inte- grity and dignity must be respected according to human rights principles and the Brazilian legislation on the matter.
+Irregular immigration is not a crime, however, an irregular migrant may be compulsorily withdrawn, deported or expelled from Brazilian national territory. Regarding refugees and asylum seekers, Brazilian immigration laws do not allow a forced return (non-refoulement) to their country of origin.
+
+
+
+How to request refuge in Brazil?
+When entering the country, a foreigner who considers him/hers self a victim of persecution in their country of origin should go to any Federal Police station or immigration authority at the border and formally request protection from the Brazilian government. It is strongly recommended that one should seek the Federal Police as soon as crossing the border.
+The asylum request may be done, however, at any time even if the foreigner has already been in Brazil for some time. The request will be forwarded for evaluation to the National Committee for Refugees (CONARE) - entailed to the Minis- try of Justice of Brazil.
+
+Step-by-Step of the Asylum Request
+1. Asylum Request at the Federal Police: the applicant will fill in a form and be interviewed. If the applicant does not speak Portuguese, the interview will be translated. Having done that, the Federal Police will forward his Statement to CONARE.
+2. Temporary asylum seeker document: after receiving the applicants' Statement, CONARE will issue a declaration that autorizes the issuance of a temporary asylum seeker document which will be delivered to the asylum se- eker by the Federal Police. The temporary document is extremely important as it constitutes the applicant's identity document until the case is analyzed. Once with the temporary asylum seeker document, the applicant can obtain a Brazilian Tax Number (Cadastro de Pessoa Física - CPF) and a Work Permit (Carteira de Trabalho). The document is valid for three months and must be renewed at the Federal Police until the applicant has a final answer.
+Interview with a CONARE's representative: After officially requesting asylum, the applicant will be contacted by the Federal Police so that he/she can be interviewed by a representative of CONARE. Such interview will guide CONARE on the analysis of the asylum request. Therefore, if the applicant moves to another city, he/she must notify the Federal Police of the new address in advance.
+3. 
+
+
+By assisting refugees to return to their own country or to settle permanently in another country, UNHCR also seeks lasting solutions to their plight.
+4. Decisions regarding the asylum request
+4.1 Positive decision from CONARE: The applicant has to pick up the decision at the Federal Police. If the decision is positive, the Federal Police will begin the procedures for issuing the National Registration of Foreigners (Registro Nacional de Estrangeiro - RNE), an identity document valid for foreigners in Brazil.
+4.2 Negative decision from CONARE: If the applicant is not recognized as a refugee, he/she will be notified of the decision by the Federal Police. The applicant may make an appeal to the Ministry of Justice for analysis, within 15 days of the decision.
+4.3 Negative decision from the Ministry of Justice: The applicant will also be notified of this decision by the Federal Police. If the Ministry of Justice denies the appeal, the applicant will be subject to the national legislation concerning foreigners in the country.
+
+
+Rights and duties of asylum seekers
+Rights:
+■ To have access to the legal procedure of requesting asylum, free of charge and with no need of a lawyer;
+■ Not to be returned to their country of origin or to where they might suffer human rights violations;
+■ Not to be discriminated by governmental authorities or by society;
+■ Not to be punished for irregular entry in the country;
+■ Request, through family reunion, the extension of the refugees status to relatives (partner, ascendants and descendents) and also other components of the family group who are in national territory, according to the Law 9.474 and the Normative Resolution n°4 of CONARE.
+■ Receive all documentation provided by the legislation: Temporary asylum seeker document, National Registration of Foreigners (RNE), Tax Number (CPF), Work Permit (Carteira de Trabalho) and passport for foreigners - in the case of travels previously authorized by CONARE;
+■ To have the same rights and the same basic assistance of any other foreigners who live according to the law in the country, among them: basic civil rights (such as freedom of thought and movement and not to be subject to torture or cruel and degrading treatment) and the economic, social and cultural rights (such as access to health and educational public services, right to work and religious freedom);
+■ Choose freely where to live in the national territory;
+■ Request permanency after four years living in Brazil as a refugee, or a year if the refugee is a national of a Portuguese-speaking country;
+■ Request permanency in Brazil if the refugee has a Brazilian partner or children born in Brazilian territory;
+■ Claim access to facilitated procedures for the recognition of certificates and diplomas.
+
+
+Duties:
+■ Do not perform acts contrary to national security or public order, under penalty of losing the refugee status;
+■ Respect the Constitution and the laws of Brazil like all Brazilians and foreigners residing in the country. In case of committing any crime or offense, the refugee will have the same legal treatment given to Brazilian citizens;
+■ Particularly note the specific laws that protect children, adolescents and women.
+■ Inform the Federal Police and CONARE, within 30 days, in case of address changes;
+■ Keep your documentation up-to-date;
+■ Do not leave national territory without prior written permission of CONARE, under penalty of losing the refugee status.
+UNHCR offers protection and assistance to refugees and others under its mandate in the basis of their needs and irrespective of their race, religion, political opinion or gender.
+
+
+Useful contacts
+National Comittee for Refugees
+Telephone: (61) 2025 9225
+website: www.mj.gov.br/conare | e-mail: conare@mj.gov.br
+United Nations High Commissioner for Refugees - UNHCR
+Telephones:
+Brasília Office: (61) 3044 5744
+Manaus Office: (92) 3233 0288
+website: www.acnur.org.br | e-mail: brabr@unhcr.org
+Ministry of Labor and Employment
+Telephone: (61) 3317 6000
+website: www.mte.gov.br	
+National Immigration Council
+Telephone: (61) 3317 6470
+website: www.mte.gov.br/cni
+Ministry of Justice
+Telephone: (61) 2025 3587
+website: www.mj.gov.br
+Federal Police
+Telephones:
+Brasília: (61) 3364 9259
+São Paulo: (11) 3538 5000
+Rio de Janeiro: (21) 3398 3198
+Manaus: (92) 3655 1515
+website: www.dpf.gov.br
+Secretary for Human Rights
+Telephone: (61) 2025 3536 / 2025 3116
+website: www.sedh.gov.br | e-mail: direitoshumanos@sedh.org.br
+
+
+The participation of refugees on decisions that afect their lives is an essential principle of UNHCR's work.
+Civil Society
+RIO DE JANEIRO - Cáritas Arquidiocesana
+Telephone: (21) 2567-4177 / 2567-4105
+e-mail: carj.refugiados@caritas-rj.org.br
+SÃO PAULO - Cáritas Arquidiocesana de São Paulo
+Telephone: (11) 3115-2674 / 3241-3239
+e-mail: casp.refugiados@uol.com.br
+AMAZONAS - Cáritas Arquidiocesana de Manaus
+Telephone: (92) 3212 9030
+e-mail: caritas@arquimanaus.org.br
+DISTRITO FEDERAL - Instituto Migrações e Direitos Humanos
+(Brasília, Distrito Federal)
+Telephone: (61) 3340-2689
+e-mail: imdh@migrante.org.br | website: www.migrante.org.br
+RIO GRANDE DO SUL - Associação Antônio Vieira (Porto Alegre, Rio Grande do Sul)
+Telephone: (51) 3254-0140
+e-mail: refugiados9474@yahoo.com.br | website: www.asav.org.br
+Centro de Defesa dos Direitos Humanos (Guarulhos, São Paulo)
+Telephone: (11) 2358-9606
+e-mail: cddh.guarulhos@gmail.com
+
+
+Français
+
+
+Les Nations Unies ont attribué au ACNUR le mandat de conduire et coordonner les actions internationales pour la protection des réfugiés et la recherche de solutions durables à leurs problèmes
+
+
+
+Qui sont les réfugiés?
+Sont tous les hommes et les femmes (incluant les âges, les jeunes et les enfants) qui ont été obliges de laisser son pays d'origine à cause d'une crainte fondée de persécution à cause de sa race, de sa religion, de sa nationalité, de son appartenance à un certain groupe social ou de ses opinions politiques.
+La législation brésilienne sür le refuge (Loi 9.474 de 22 dejuin de 1997) reconnaître aussi comme réfugiés les personnes qui ont été obligées de sortir de ces pays en raison des conflits armés, violence ou violations généralisées des droits humains.
+Les personnes qui ont commis des crimes contre l'humanité, crimes de guerre, contre la paix et crimes odieux ou qui ont participées de actes terroristes ou de trafic de drogues n'ont peux pas se bénéficier de la condition de réfugié.
+Qui sont les migrantes?
+Sont toutes les personnes qui ont laissées sont pays d'origine avec l'objectif de s'établir dans une autre, d'une forme temporal ou permanente. Les migrantes ont, en général, de motivations sociaux et économiques, parce qu'ils fuient de la pauvreté ou du chômage et cherchent meilleures conditions de vie, comme meilleure accès au travail, santé et éducation.
+
+
+C'est la mission du ACNUR assurer les droits et le bien-être des réfugiés. L'ACNUR s'efforce en garantir que toute personne peut exercer le droit de chercher et de profiter le refuge dans un autr pays.
+Pourquoi demander le refuge?
+Le Brésil a assumé le compromis international de fournir protection aux réfugiés qui, comme quelconque citoyen brésilienne, cherchent intégration et une façon de se maintenir. La demande formelle de refuge règle, temporairement, la permanence du solliciteur au Brésil, en assurant le droit au travail et l'accès aux services publiques de santé et éducation.
+Si la demande était refusée, l'étranger devra régulariser sa permanence dans le pays, en sollicitant un visa. Dans le cas du visa être refuse, il faut abandonner le territoire national. Après de quatre ans de résidence régularisée au pays, les réfugiées peuvent demander un visa de permanence au Brésil.
+La demande de refuge est vachement importante, parce que cas l'étranger en besoin de protection internationale sans documentation ne demande pas le refuge, il sera automatiquement en situation irrégulier au pays. Cependant, même sur cette condition, son intégrité et dignité doivent être respecté en accord avec la législation brésilienne et les principes des droits humains. En relation aux réfugiés et demandent de refuge, la loi brésilienne ne permet pas son refoulement au pays d'origine.
+
+
+Comment demander le refuge au Brésil?
+En entrant au Brésil, l'étranger qui se considère victime de persécution dans son pays d'origine doit chercher n'importe quel poste de la Police Fédéral ou autorité migratoire dans la frontière et demander officiellement la protection du gouvernement brésilien. Il faut chercher la Police Fédéral préférentiellement ainsi que croiser la frontière.
+Néanmoins, la demande de refuge peut être fait quel que soit le moment, même que l'étranger soit au Brésil il y a un certain temps. Sa demande sera envoyée,
+pour l'appréciation, au Comité National pour les Réfugiés (CONARE) - organe lié au Ministère de la Justice du Brésil.
+Étape par étape pour demander le refuge
+
+1. Demande de refuge dans la Police Fédéral: le demandeur remplira un formulaire et sera interviewé. Cas le demandeur n'est parle pas le portugais, l'interview sera traduite. Après fait cela, la Police Fédéral accomplira le Terme de Déclarations, qui sera envoyé au CONARE.
+2. Protocole provisoire de sollicitation de refuge: après recevoir le Terme de Déclarations, le CONARE expedirá l'affirmation selon laquelle autorise la délivrance du protocole. Le protocole est vachement important, étant don- né qu'il est le document d'identité du demandeur jusqu'à l'analyse de son dossier. Avec le protocole, le demandeur peut avoir le Cadastre de Personne Physique (CPF) e le Document de Travail. Le document est valide pour trois mois et doit être remplacé dans la Police Fédéral jusqu'à le demandeur avoir sa réponse final.
+3. Interview avec le représentant du CONARE: Après avoir fait la demande de refuge, la Police Fédéral contactera le réfugié afin de réaliser la interview avec le représentant du CONARE. Cette interview servira afin que les membres du CONARE analysent la demande de refuge. Donc, si le demandeur changer de ville, il doit informer la Police Fédéral sur sa nouvelle adresse.
+
+
+En aidant les réfugiés a retourner à leur pays d'origine ou à son installation dans un autre pays, l'ACNUR travaille également à la recherche de solutions durables pour leurs problèmes.
+4. Décision sur la demande de refuge
+4.1 Décision positif du CONARE: le demandeur doit chercher dans la Police Fédéral la décision sur sa demande. Cas la décision soit positif, la Police Fédéral commencera les procédures pour l'émission du Registre National de l'Étranger (RNE), document d'identité des étrangères au Brésil.
+4.2 Décision négatif du CONARE: Cas le demandeur ne soit pas reconnue comme réfugié, il sera notifié de la décision à travers de la Police Fédéral. Le demandeur aura un terme de 15 jours pour présenter son recours au Ministère de la Justice qui le analysera.
+4.3 Décision négatif du Ministre de la Justice: cette décision sera aussi communique par la Police Fédéral. Si le Ministre de la Justice nier le recours présenté, le demandeur restera sujet à la législation d'étrangers en vigueur au pays.
+
+
+Droits et devoirs des demandeurs d'asile
+Droits:
+■ Avoir accès à la procédure légal de sollicitation de refuge, gratuitement et sans besoin d'un avocat;
+■ Ne être pas renvoyés dans leur pays d'origine ou le lieu ou il peut être victime de violations des droits de l'homme;
+■ Ne être pas discriminé par les autorités gouvernementales et la société;
+■ Ne être pas puni pour entrer irrégulièrement au pays.
+■ Demander, à travers de la réunion familier, l'extension de la condition de réfugié aux parents (épouse, ascendants et descendants) et des autres components du groupe familier qui se rejoignent dans le territoire national, selon établit la Loi 9.474 et la Résolution Normative n°4 du CONARE;
+■ Recevoir toute la documentation assuré pour la législation : le Protocole Provisoire, le Registre National d'Étrangers (RNE), le Cadastre de Personne Physique (CPF), le Document de Travail et le passeport pour l'étranger - en cas de voyages autorisés en avance pour le CONARE;
+■ Avoir les mêmes droits et la même assistance basique de tout autre étranger qui réside légalement dans le pays, parmi cela droits civiles basiques (comme la liberté de pensée et de déplacement et non assujettissement à la torture et des traitements cruels et dégradants) et droits économiques, sociaux et culturels (comme accès aux services de santé publique et éducation, droit au travail e à liberté de culte);
+■ Choisir librement le lieu de résidence dans le territoire national;
+■ Demander permanence au Brésil après quatre ans de résidence comme réfugié, ou un an en cas d'être national dans uns pays de langue portugaise;
+■ Demander la permanence au Brésil en raison d'avoir épouse ou enfant brésilien;
+■ Revendiquer l'accès a les procédures facilitées pour la reconnaissance des certificats et diplômes.
+
+
+Devoirs:
+■ Ne pratiquer pas actes contraíres à la sécurité national ou à l'ordre publique, sur peine de perdre la condition de réfugié;
+■ Respecter la Constitution Fédéral et les lois brésiliennes, comme tous les brésiliens et étrangers résidentes dans le pays. Quelconque crime ou infraction commis aura le même traitement juridique accordé aux citoyens brésiliens;
+■ Observer en particulier les lois spécifiques de protection aux enfants et aux adolescents et à la femme.
+■ Informer la Police Fédéral e le CONARE, à la limite de 30 jours, quelque changement d'adresse;
+■ Maintenir sa documentation actualisée;
+■ Ne sortir pas du territoire national sans autorisation préalable et express du CONARE, sur peine de perdre la condition de réfugié.
+L'ACNUR fournit protection et assistance aux personnes sur son mandat de manière impartiale, en fonction de leurs besoins et sans distinction de race, de sexe, de religion ou d'opinion politique.
+
+
+Contacts Utiles
+Comité National pour les Réfugiés - CONARE
+Téléphone: (61) 2025 9225
+Web site: www.mj.gov.br/conare | E-mail: conare@mj.gov.br
+Haut Commissariat des Nations Unies pour les Réfugiés - ACNUR
+Téléphones:
+Bureau Brasília: (61) 3044 5744
+Bureau Manaus: (92) 3233 0288
+Web site: www.acnur.org.br | E-mail: brabr@unhcr.org
+Ministère du Travail et du Emploi - MTE
+Téléphone: (61) 3317 6000
+Web site: www.mte.gov.br
+Conseil National D'imigration - CNIg
+Téléphone: (61) 3317 6470
+Web site: www.mte.gov.br/cni
+Ministère de la Justice - MJ:
+Téléphone: (61) 2025 3587
+Web site: www.mj.gov.br
+Police Fédéral - PF:
+Téléphones:
+Brasília: (61) 3364 9259
+São Paulo: (11) 3538 5000
+Rio de Janeiro: (21) 3398 3198
+Manaus: (92) 3655 1515
+Web site: www.dpf.gov.br
+Secrétariat Spécial des Droits Humains - SEDH:
+Téléphone: (61) 2025 3536 / 2025 3116
+Web site: www.sedh.gov.br
+E-mail: direitoshumanos@sedh.org.br
+
+La participation des réfugiés aux décisions qui reflètent dans leur vie est un principe essentiel à l'action du ACNUR
+Société Civile
+Cáritas Arquidiocesana do Rio de Janeiro
+Téléphone: (21) 2567-4177 / 2567-4105
+Courrier électronique: carj.refugiados@caritas-rj.org.br
+Cáritas Arquidiocesana de São Paulo
+Téléphone: (11) 3115-2674 / 3241-3239
+Courrier électronique: casp.refugiados@uol.com.br
+Cáritas Arquidiocesana de Manaus
+Téléphone : (92) 3212 9030
+Courrier électronique: caritas@arquimanaus.org.br
+Institut des Migrations et des Droits Humains
+Téléphone: (61) 3340-2689
+Courrier électronique: imdh@migrante.org.br | Website: www.migrante.org.br
+Association Antônio Vieira
+Téléphone: (51) 3254-0140
+Courrier électronique: refugiados9474@yahoo.com.br | website: www.asav.org.br
+Centre de Défense des Droits Humains
+Téléphone: (11) 2358-9606
+
+Courrier électronique: cddh.guarulhos@gmail.com
+
+
+Español
+
+Las Naciones Unidas atribuyerón al ACNUR el mandato de dirigir y coordinar la acción internacional para proteger a los refugiados y para buscar soluciones duraderas para sus problemas.
+
+
+
+¿Quienes son los refugiados?
+Son todos los hombres y mujeres (incluyendo adultos mayoresjóvenes, ninos y ninas) que fueron obligados a dejar sus países de origen debido a un fundado temor de persecución por motivos de raza, religión, nacionalidad, por pertene- cer a un determinado grupo social o por sus opiniones políticas.
+La legislación brasilena sobre refugio (Ley 9.474 de 22 de julio de 1997) también re- conoce como refugiadas a las personas que fueron obligadas a salir de sus países de- bido a confl ictos armados, violencia y violación generalizada de derechos humanos.
+Aquellas personas que hayan cometido crímenes contra la humanidad, de guerra, contra la paz y crímenes de lesa humanidad o que participaron de actos terroristas o de narcotráfico no podrán beneficiarse de la condición de refugiado.
+¿Quienes son los migrantes?
+Migrantes son personas que dejaron sus países de origen con el objetivo de esta- blecerse en otro lugar, de forma temporal o permanente. Los migrantes tienen, en general, motivaciones sociales y económicas, pues huyen de la pobreza o del desempleo y buscan mejores condiciones de vida, como mejor acceso al trabajo, a servicios de salud y educación.
+
+
+La misión del ACNUR es garantizar los derechos y el bienestar de los refugiados. El ACNUR trabaja para asegurar que todos puedan ejercer el derecho a buscar y disfrutar de un refugio seguro en otro país.
+
+¿Por que solicitar asilo?
+Brasil asumió el compromiso internacional de proteger refugiados que, como cualquier ciudadano brasileno, busca su integración y sustento. La solicitud formal de asilo regulariza, temporalmente, la permanencia del solicitante en Brasil, garantizando el derecho al trabajo y el acceso a los servicios públicos de salud y educación.
+
+En caso de que la solicitud sea rechazada, el extranjero deberá regularizar su permanencia en el país, solicitando una visa. Si tampoco consigue la visa el ex- tranjero debe dejar el territorio nacional.
+Después de cuatro anos de residencia regular en el país, los refugiados pueden solicitar la visa de permanencia en Brasil.
+La solicitud de asilo es muy importante, ya que un extranjero en necessidad
+de protección internacional, que esté sin documentación y no solicite asilo estará automáticamente en situación irregular en el país. Sin embargo, aún en estas condiciones, su integridad y dignidad deberán ser respetadas de acuerdo con la legislación brasilena y los principios de derechos humanos. La ley brasilena no permite la devolución de refugiados y solicitantes de asilo a su país de origen.
+
+
+¿Como solicitar asilo en Brasil?
+Al entrar a Brasil, el extranjero que se considera victima de persecución en su país de origen debe buscar una delegación de la Policía Federal o autoridad migratoria en la frontera y solicitar formalmente la protección del gobierno brasileno. Por tanto, es recomendado que busque a la Policía Federal tan pronto cruce la frontera.
+
+Sin embargo, la solicitud de asilo puede ser hecha a cualquier momento, aun que el extranjero esté en Brasil desde hace algún tiempo. Su solicitud será encaminada, para evaluación, al Comité Nacional para Refugiados (CONARE) - órgano vinculado al Ministerio de la Justicia de Brasil.
+
+Paso a pasolpara la solicitud de asilo
+
+   1. Solicitud de asilo en la Policía Federal: el solicitante llenará un formula- rio y será entrevistado. En el caso de que el solicitante no hable el portugués, la entrevista será traducida. Con esto hecho, la Policía Federal hará el Termo de Declarações (Declaración Jurada), que será encaminado al CONARE.
+2. Protocolo provisional de solicitud de asilo: después de recibir el Termo de Declarações, el CONARE expedirá la declaración que autoriza la emisión del protocolo, que será entregada al solicitante por la Policía Federal. El Protocolo es muy importante, ya que es el documento de identidad del solicitante hasta el análisis de su caso. Con el Protocolo, el solicitante podrá sacar el Registro de Persona Física (Cadastro de Pessoa Física - CPF) y el Permiso de Trabajo (Carteira de Trabalho - CTPS). El Protocolo tiene validez de 3 meses y deberá ser renovado en la Policía Federal hasta que el solicitante tenga su respuesta final.
+3. Entrevista con representante del CONARE: con todo lo anterior, la Policía Federal entrará en contacto para que sea realizada la entrevista con un representante del CONARE. Esta entrevista será utilizada por los miembros del CONARE para analizar la solicitud de asilo. Así, si el solicitante se traslada a otra ciudad, deberá informar a la Policía Federal su nueva dirección.
+
+
+Al ayudar a los refugiados a regresar a su país de origen o a integrarse en otro país, el ACNUR también trabaja en la búsqueda de soluciones duraderas a sus problemas.
+4. Decisiones sobre la solicitud de asilo
+4.1 Decisión positiva del CONARE: el solicitante debe buscar con la Policía Federal la decisión acerca de su solicitud. En caso de que esta sea positiva, la Policía Federal empezará los trámites para la emisión del Registro Nacional de Extranjeros (RNE), que es el documento de identidad de los extranjeros en Brasi.
+4.2 Decisión negativa del CONARE: si el solicitante no fuera reconocido como refugiado, él será notificado de la decisión por la Policía Federal. El solicitante tendrá un plazo de 15 días para presentar una apelación al Ministro de la Justicia, quien lo analizará.
+4.3 Decisión negativa del Ministro de la Justicia: esta decisión también será comunicada por la Policía Federal. Si el Ministro de la Justicia deniega la apelación presentada, el solicitante estará sujeto a la legislación de extranjeros vigente en el país.
+
+
+Derechos y deberes de los solicitantes de asilo
+Derechos:
+■ Tener acceso al procedimiento legal de solicitud de asilo de forma gratuita y sin necesidad de abogado;
+■ No ser retornado a su país de origen o para donde quiera que pueda ser víctima de violaciones de derechos humanos;
+■ No ser discriminado por las autoridades gubernamentales ni por la sociedad;
+■ No ser castigado por entrada irregular en el país;
+■ Solicitar, por medio de reunión familiar, la extensión de la condición de refugiado para familiares (cónyuge, ascendientes y descendientes) y demás componentes del grupo familiar que se encuentren en territorio nacional, en los términos de la Ley 9.474 y la Resolución Normativa n° 4 del CONARE;
+■ Recibir toda la documentación garantizada por la legislación: Protocolo Provisional, Registro Nacional de Extranjeros (RNE), Registro de Persona Física (CPF), Cartera de Trabajo y Pasaporte para extranjero - en el caso de viajes previamente autorizadas por el CONARE;
+■ Tener los mismos derechos y la misma asistencia básica que cualquier otro extranjero que resida legalmente en el país, entre ellos derechos civiles básicos (como libertad de pensamiento y de desplazamiento y la no sujeción a la tortura y a trato cruel o degradante) y derechos económicos, sociales y culturales (como acceso a los servicios públicos de salud y educación, derecho al trabajo y a la libertad de culto);
+■ Elegir libremente el lugar de residencia en el territorio nacional;
+■ Solicitar la permanencia después de vivir cuatro anos en el país, o un ano, en el caso de nacionales de un país de habla portuguesa;
+■ Solicitar la permanencia en Brasil por tener cónyuge o hijos brasilenos;
+■ Reivindicar el acceso a los procedimientos facilitados para el reconocimiento de certificados y diplomas.
+
+
+Deberes:
+■ No practicar actos contrários a la seguridad nacional o al orden público, bajo pena de perder la condición de refugiado;
+■ Respetar la Constitución Federal y las leyes brasilenas, como todos brasilenos y extranjeros residentes en el país. Cualquier crimen o infracción cometidos tendrán el mismo tratamiento legal dado a los ciudadanos brasilenos;
+■ Observar especialmente las leyes especificas de protección a los ninos, jóvenes y mujeres;
+■ Informar a la Policía Federal y al CONARE, en el plazo de 30 días, cualquier cambio de dirección;
+■ Mantener su documentación actualizada;
+■ No salir del territorio nacional sin autorización previa y expresa del CONARE, bajo el riesgo de perder la condición de refugiado.
+El ACNUR brinda protección y asistencia a las personas bajo su mandato de manera imparcial, sobre la base de sus necesidades y sin distinción de raza, sexo, religión u opinión política.
+
+
+Contactos Útiles
+Comité Nacional para los Refugiados - CONARE
+Teléfono: (61) 2025 9225
+website: www.mj.gov.br/conare | Correo Electrónico: conare@mj.gov.br
+Alto Comisionado de las Naciones Unidas para Refugiados - ACNUR
+Teléfonos:
+Oficina en Brasília: (61) 3044 5744
+Oficina en Manaus: (92) 3233 0288
+website: www.acnur.org.br | Correo Electrónico: brabr@unhcr.org
+Ministerio del Trabajo y Empleo - Mte
+Teléfono: (61) 3317 6000
+website: www.mte.gov.br
+Consejo Nacional de Inmigración - CNIg
+Teléfono: (61) 3317 6470
+website: www.mte.gov.br/cni
+Ministerio de la Justicia - MJ
+Teléfono: (61) 2025 3587
+website: www.mj.gov.br
+Policía Federal - PF
+Teléfonos:
+Brasília: (61) 3364 9259
+São Paulo: (11) 3538 5000
+Rio de Janeiro: (21) 3398 3198
+Manaus: (92) 3655 1515
+website: www.dpf.gov.br
+Secretaria Especial de Derechos Humanos - SEDH:
+Teléfono: (61) 2025 3536 / 2025 3116
+website: www.sedh.gov.br
+Correo Electrónico: direitoshumanos@sedh.org.br
+
+La participación de los refugiados en las decisiones que reflejan sus vidas es un principio esencial de la acción del ACNUR.
+
+Sociedad Civil	
+Cáritas Arquidiocesana do Rio de Janeiro
+Teléfono: (21) 2567 4177 / 2567 4105
+Correo Electrónico: carj.refugiados@caritas-rj.org.br
+Cáritas Arquidiocesana de São Paulo
+Teléfono: (11) 3115 2674 / 3241 3239
+Correo Electrónico: casp.refugiados@uol.com.br	
+Cáritas Arquidiocesana de Manaus
+Teléfono: (92) 3212 9030
+Correo Electrónico: caritas@arquimanaus.org.br
+Instituto Migrações e Direitos Humanos
+Teléfono: (61) 3340 2689
+Correo Electrónico: imdh@migrante.org.br | website: www.migrante.org.br
+Associação Antônio Vieira
+Teléfono: (51) 3254 0140
+Correo Electrónico: refugiados9474@yahoo.com.br | website: www.asav.org.br
+Centro de Defesa dos Direitos Humanos
+Teléfono: (11) 2358 9606
+
+Correo Electrónico: cddh.guarulhos@gmail.com
+
